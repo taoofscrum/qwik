@@ -1,0 +1,1628 @@
+* スタッフミーティング
+
+** 開催ログ
+- [[StaffMeetup20130925]]
+- [[StaffMeetup20130610]]
+- [[StaffMeetup20130510]]
+- [[StaffMeetup20130424]]
+- [[StaffMeetup20130408]]
+- [[StaffMeetup20130326]]
+- [[StaffMeetup20130313]]
+- [[StaffMeetup20130225]]
+- [[StaffMeetup20130212]]
+- [[StaffMeetup20121107]]
+- [[StaffMeetup20121010]]
+- [[StaffMeetup20120926]]
+- [[StaffMeetup20120912]]　未開催
+- [[StaffMeetup20120829]]
+- [[StaffMeetup20120815]]
+- [[StaffMeetup20120718]]
+- [[StaffMeetup20120704]]
+- [[StaffMeetup20120606]]
+- [[StaffMeetup20120523]]
+- [[StaffMeetup20120509]]
+- [[StaffMeetup20120418]]
+- [[StaffMeetup20120314]]
+- [[StaffMeetup20120229]]
+- [[StaffMeetup20120207]]
+- [[StaffMeetup20110711]]
+- [[StaffMeetup20110921]]
+- [[StaffMeetup20111128]]
+
+----
+以下、日程調整とかのやり取りのつもり
+{{mail(nishimura@nawo.to,1315810488)
+今月中に一回ぐらいスタッフミーティングしないとなぁ。
+みんな忙しそうだけど、どこら辺なら大丈夫そうですか?
+
+次回のアジェンダとしてはこんなもんかな。
+
+- スクラム道場08の準備
+- 新スタッフをいじる
+- [[Scrum Boot Camp関西ふりかえり]]
+- [[ScrumBootCamp201110]]
+
+こんなもんかな?
+いまのところ上から順にタイムボックス内でやっつけれるとこまでって予定です。
+}}
+{{mail(miholovesq@gmail.com,1315813155)
+2011年9月12日15:54 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 今月中に一回ぐらいスタッフミーティングしないとなぁ。
+> みんな忙しそうだけど、どこら辺なら大丈夫そうですか?
+
+私は来週再来週ずっとヒマです。
+忙しい人に合わせます。
+
+2011年9月12日15:54 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> - スクラム道場08の準備
+> - 新スタッフをいじる
+> - [[Scrum Boot Camp 関西について]]
+> - [[ScrumBootCamp201110]]
+>
+> こんなもんかな?
+
+いいね！
+あと、SGT2011で #scrumbc やるってことは共有しておいた方がいい気がします。
+スタッフの協力が必要ならなおさら。
+# なんかマッチポンプだけどw
+}}
+{{mail(ryuzee@gmail.com,1315813451)
+各週とも金曜日でなければ大丈夫です。
+ちなみに朝ならいつでも良いです。
+
+Scrum Boot Campのふりかえりと、次回の段取りについては
+是非話をしておきたいところです。
+
+Ryuzee
+
+(11/09/12 16:39), Miho Nagase wrote:
+> 2011年9月12日15:54 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>> 今月中に一回ぐらいスタッフミーティングしないとなぁ。
+>> みんな忙しそうだけど、どこら辺なら大丈夫そうですか?
+> 
+> 私は来週再来週ずっとヒマです。
+> 忙しい人に合わせます。
+> 
+> 2011年9月12日15:54 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>> - スクラム道場08の準備
+>> - 新スタッフをいじる
+>> - [[Scrum Boot Camp 関西について]]
+>> - [[ScrumBootCamp201110]]
+>>
+>> こんなもんかな?
+> 
+> いいね！
+> あと、SGT2011で #scrumbc やるってことは共有しておいた方がいい気がします。
+> スタッフの協力が必要ならなおさら。
+> # なんかマッチポンプだけどw
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1315813633)
+In <CAPG=6LYy0PE4gB7AZD-sHPnznyTGpAh+UaX7pORrAFDJbC9TfA@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> 私は来週再来週ずっとヒマです。
+> 忙しい人に合わせます。
+
+り。
+おらに調整さんとか立てる元気を分けてくれ!!
+
+>> - [[ScrumBootCamp201110]]
+>
+> あと、SGT2011で #scrumbc やるってことは共有しておいた方がいい気がします。
+> スタッフの協力が必要ならなおさら。
+> # なんかマッチポンプだけどw
+
+あ、説明が足りなくてごめん。
+そのスレが [[ScrumBootCamp201110]] でーす。
+}}
+{{mail(nishimura@nawo.to,1315814017)
+In <4E6DB844.10105@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> 各週とも金曜日でなければ大丈夫です。
+> ちなみに朝ならいつでも良いです。
+
+あ、朝だとww
+朝かどうかは分からんが、来週の水曜日(9/21)とかどうだろうか?
+}}
+{{mail(ryuzee@gmail.com,1315814113)
+朝だと確実なんだけどなｗ。みんな早起きしようよ！
+僕は21日は大丈夫そうです。
+
+Ryuzee
+
+(11/09/12 16:53), Nishimura Naoto wrote:
+> In<4E6DB844.10105@gmail.com>,
+> Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+> 
+>> 各週とも金曜日でなければ大丈夫です。
+>> ちなみに朝ならいつでも良いです。
+> 
+> あ、朝だとww
+> 朝かどうかは分からんが、来週の水曜日(9/21)とかどうだろうか?
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1315816823)
+高江洲です。
+
+今週来週は今日明日以外どの日も空いてるはず。
+
+> 朝だと確実なんだけどなｗ。みんな早起きしようよ！
+
+寝ずにそのまま参加できます。
+
+その後寝に帰るけどｗ
+
+> 僕は21日は大丈夫そうです。
+
+おけです。
+}}
+{{mail(nishimura@nawo.to,1315817160)
+In <CACMw1MDGAkCvssuUNahSRdZAUDLCzb692xsWi2DRKhJpRTusiQ@mail.gmail.com>,
+Makoto Takaesu <takaesu0@gmail.com> wrote:
+
+>> 僕は21日は大丈夫そうです。
+> 
+> おけです。
+
+了解。
+21日で4,5名あつまれそうなら開催するかのー。
+たぶん、その日は終日永和にいるので、夕方ぐらいから開催とかも可能かも。
+}}
+{{mail(miholovesq@gmail.com,1315817364)
+2011年9月12日16:53 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> あ、朝だとww
+> 朝かどうかは分からんが、来週の水曜日(9/21)とかどうだろうか?
+
+朝は知らないけどw
+時間もだいたい大丈夫ですよん。
+}}
+{{mail(chuchung@mac.com,1315839009)
+大和です。
+
+21日は夜なら行けます。
+}}
+{{mail(imagire@gmail.com,1315841545)
+Imagireです。
+
+朝は、7:30-8:30@E和なら、いつでも大丈夫です！
+21日はたぶん大丈夫ですが、新しい職場は19:00打ち合わせだと厳しい～
+}}
+{{mail(takubon@kanataku.com,1315861150)
+木村です。
+
+21日は夏期休暇なので、参加出来ない可能性が高いです。
+行けたら行くくらいで。。。
+
+}}
+{{mail(nishimura@nawo.to,1320253846)
+よーし、そろそろスタッフミーティングしちゃうぞ!! まずは日程の調整だ!!
+で、いきなり出鼻をくじくが、11/19 以降だと俺は嬉しいww
+# 完全に PO がボトルネックの典型になってるなーww
+
+今のところ僕が話したいテーマをざっと書いときます。
+
+- 年内に何かやりたい。できればスクラム道場。読み手カモン
+- 他のがやりたいという提案もお待ちしております
+- 前回の今給黎さんの時に期せずして実施した事前のレビューは継続してやりたい。できれば、道場とSBCの両方
+- 前回の Scrum Boot Camp のアンケートを展開
+- Scrum Boot Camp Premium 構想(まずは経緯を説明)
+- スクラム道ギャザリング構想 (まずは俺の妄想を展開)
+
+上の 3 つぐらいは話して決めちゃいたい
+}}
+{{mail(miholovesq@gmail.com,1320281930)
+> よーし、そろそろスタッフミーティングしちゃうぞ!! まずは日程の調整だ!!
+> で、いきなり出鼻をくじくが、11/19 以降だと俺は嬉しいww
+
+つ http://chouseisan.com/schedule/List?h=5d772d539b9c37ae28b5eaf20efa13ad
+}}
+{{mail(nishimura@nawo.to,1320379736)
+In <CAPG=6LYGd9VNypgETcwfWNFtF_J61mUqXBJNrbjC4eS+Wu=bZA@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> つ http://chouseisan.com/schedule/List?h=5d772d539b9c37ae28b5eaf20efa13ad
+
+ありがとー。
+今週中まで記入期間にして、来週の月曜日に日時を決定しまーす。
+}}
+{{mail(nishimura@nawo.to,1327633506)
+よーし、そろそろやるか?
+いつぐらいだと都合が良いのか、カモン
+}}
+{{mail(miholovesq@gmail.com,1327648193)
+ほい
+http://chouseisan.com/schedule/List?h=ef1df1dbf7a01959f8396c0a48938f55
+}}
+{{mail(nishimura@nawo.to,1327672624)
+In <CAPG=6LbOpv_c44sZG4TW+S-j26=JmWGdJynFY5mfZzJuGHnN1g@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> ほい
+> http://chouseisan.com/schedule/List?h=ef1df1dbf7a01959f8396c0a48938f55
+
+ありがとー!! 入力した!!
+ちなみに場所も募集中。永和でもいいけど
+}}
+{{mail(takubon@kanataku.com,1327727557)
+入力しました。
+
+場所は横浜なら調整出来ます。
+}}
+{{mail(harada.kiro@gmail.com,1327987292)
+入力しました。
+
+今週の木曜か金曜だといいなぁ。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2012年1月28日14:12 takubon@kanataku.sakura.ne.jp <takubon@kanataku.com>:
+> 入力しました。
+>
+> 場所は横浜なら調整出来ます。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(miholovesq@gmail.com,1327989437)
+場所はうちでもいいですよー
+笹塚で面倒じゃなければ
+}}
+{{mail(nishimura@nawo.to,1327992253)
+それでは直前の決定で申し訳ないけど、全員がOKっぽい 2/2 19:00 に決定します。
+
+> 場所はうちでもいいですよー
+> 笹塚で面倒じゃなければ
+
+場所は、永和だと僕がみんなが来るまでに戻れない可能性があるので、笹塚でお願いします > miholovesq
+# 品川周辺で会場提供できるとこあれば、そっちでww
+
+アジェンダについては後で流します。
+}}
+{{mail(ryuzee@gmail.com,1327992341)
+おもいっきり風邪を引いているので欠席します。
+うまくいけばSkype参加はできるかも。。
+ごめんなさい。
+
+(12/01/31 15:44), Nishimura Naoto wrote:
+> それでは直前の決定で申し訳ないけど、全員がOKっぽい 2/2 19:00 に決定します。
+> 
+>> 場所はうちでもいいですよー
+>> 笹塚で面倒じゃなければ
+> 
+> 場所は、永和だと僕がみんなが来るまでに戻れない可能性があるので、笹塚でお願いします>  miholovesq
+> # 品川周辺で会場提供できるとこあれば、そっちでww
+> 
+> アジェンダについては後で流します。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1327992638)
+と思ったら、2/2 が OK じゃなくなってたww
+すいません、2/6 - 8 で再調整します。もう少し考えさせて
+# 原田さん、ごみん
+}}
+{{mail(nishimura@nawo.to,1327992761)
+2/7 19:00 から笹塚でどうだろうか?
+# 理由: おれが夕方まで初台にいてるからw
+}}
+{{mail(nishimura@nawo.to,1327992921)
+In <4F278E0F.5000209@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> おもいっきり風邪を引いているので欠席します。
+
+体調には気をつけてー!!
+}}
+{{mail(miholovesq@gmail.com,1328001060)
+2012年1月31日15:52 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 2/7 19:00 から笹塚でどうだろうか?
+
+空いてたのでとりあえず抑えておきました～。
+}}
+{{mail(takubon@kanataku.com,1328006726)
+木村です。
+
+2/7 笹塚
+かしこまり
+
+iPhoneから送信
+
+On 2012/01/31, at 18:10, Miho Nagase <miholovesq@gmail.com> wrote:
+
+> 2012年1月31日15:52 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> 2/7 19:00 から笹塚でどうだろうか?
+> 
+> 空いてたのでとりあえず抑えておきました～。
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(nishimura@nawo.to,1328016884)
+じゃ、特に問題が無ければ 2/7 19:00 ディアイスクエアさんで
+スレ立てとアジェンダはいつかやる
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1328017130)
+2/7了解です。 # 風邪こじらせて休暇中
+}}
+{{mail(nishimura@nawo.to,1328018136)
+In <CACskh0dWmDWytm32qQ2v0saWuZDJS0gNMoMCOgeLRF2Y8sZ5vw@mail.gmail.com>,
+Kaz Takahashi <takahashi.kazuyoshi@gmail.com> wrote:
+
+> 2/7了解です。 # 風邪こじらせて休暇中
+
+だ、大丈夫かー
+}}
+{{mail(harada.kiro@gmail.com,1328019611)
+アジェンダアジェンダ。
+
+5/26(土曜日)に名古屋で Scrum Boot Camp やってもらえない、という依頼をいただいています。
+
+主催は、名古屋アジャイル勉強会です。
+
+東京から二人分の交通費と宿代は出してねというお願いはした上ですので、対応できるメンバーが
+いればとくに支障はないと思います。
+
+私は、名古屋拠点がまだあるはずなので、ローカルで参加します。
+
+よろしくお願いします。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2012年1月31日22:34 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> じゃ、特に問題が無ければ 2/7 19:00 ディアイスクエアさんで
+> スレ立てとアジェンダはいつかやる
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takaesu0@gmail.com,1328022434)
+高江洲です。
+
+> じゃ、特に問題が無ければ 2/7 19:00 ディアイスクエアさんで
+
+おけっす。
+}}
+{{mail(takaesu0@gmail.com,1328022514)
+連投です。
+
+> 5/26(土曜日)に名古屋で Scrum Boot Camp やってもらえない、という依頼をいただいています。
+>
+> 主催は、名古屋アジャイル勉強会です。
+
+おー。
+
+会社の方で出せるはずなので自腹で行きやす。
+}}
+{{mail(nishimura@nawo.to,1328022948)
+In <CAJeMxR-R_BUu=+0wzYx=e63kPw0by3MDqab=5VeTZ-KBPVxuvA@mail.gmail.com>,
+Kiro Harada <harada@isken.co.jp> wrote:
+
+> 5/26(土曜日)に名古屋で Scrum Boot Camp やってもらえない、という依頼をいただいています。
+
+ラジャラジャ。
+アジェンダに追加しときまーす。
+# そのうち Prenium での儲けの一部を地方開催にまわすとかできると面白いかもなー
+}}
+{{mail(harada.kiro@gmail.com,1328023213)
+ありがとうありがとう。
+
+じつは、福岡も画策しているので交通費はそっちにプールしておいたほうが助かるかな。
+東京からだと結構高いので。
+
+福岡も私はローカル参加。実家だし。
+--
+原田騎郎＠福岡
+株式会社　情報システム総研
+
+
+
+2012年2月1日0:15 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CAJeMxR-R_BUu=+0wzYx=e63kPw0by3MDqab=5VeTZ-KBPVxuvA@mail.gmail.com>,
+> Kiro Harada <harada@isken.co.jp> wrote:
+>
+>> 5/26(土曜日)に名古屋で Scrum Boot Camp やってもらえない、という依頼をいただいています。
+>
+> ラジャラジャ。
+> アジェンダに追加しときまーす。
+> # そのうち Prenium での儲けの一部を地方開催にまわすとかできると面白いかもなー
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(nishimura@nawo.to,1328024101)
+In <CAJeMxR_JZP3f7JLdXNwb3SFxej=E_7gz6=T34sC07igxV=Hrfw@mail.gmail.com>,
+Kiro Harada <harada@isken.co.jp> wrote:
+
+> じつは、福岡も画策しているので交通費はそっちにプールしておいたほうが助かるかな。
+> 東京からだと結構高いので。
+
+まだ、プールする仕組みも無かとですばいw
+}}
+{{mail(nishimura@nawo.to,1330503765)
+今日は蒲田でスタッフミーティングだよ!!
+来れそうな人はぜひ。
+一応、諸々僕が返事できていない事や先日の Scrum Boot Camp Premium の事を話そうと思ってまーす。
+
+誰か詳しい場所教えて。
+}}
+{{mail(chuchung@mac.com,1330504418)
+大和です。
+
+また、タイミングが合わなかった?…欠席します。
+次回こそは出たいです。
+
+}}
+{{mail(takaesu0@gmail.com,1330504703)
+高江洲です。
+
+場所告知してなかったｗ
+
+東京都大田区蒲田1-30-15
+
+202号室です。
+
+JR、京急、東急、どちらからでも。
+
+そろそろ事務所行くのでお好きな時間にどうぞ。
+
+＃19時スタートって感じ？
+
+
+2012年2月29日17:22 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 今日は蒲田でスタッフミーティングだよ!!
+> 来れそうな人はぜひ。
+> 一応、諸々僕が返事できていない事や先日の Scrum Boot Camp Premium の事を話そうと思ってまーす。
+>
+> 誰か詳しい場所教えて。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(miholovesq@gmail.com,1330505720)
+行きまーす。
+転ばなければ19時に間に合うと思うけど自信ない…
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1330509398)
+なんと今から出る!
+ごめんなさいごめんなさい
+}}
+{{mail(nishimura@nawo.to,1331517010)
+ふふふ、今週 3/14 のスタッフミーティングにあるんだぜ。
+でも、俺は仕事の都合で行けなくなったんだぜ。
+最近の情報交換だけでも集まればいいんでないって事にしたので、集まれる人がいそうなら開催しましょう。
+# ML 上で 3 人以上参加に挙手とかかな
+
+気になっているトピックとしては 4/9 開催の道場の準備だったり。
+会場手配とサイト解説のタスクについては話してもらえると助かります。
+}}
+{{mail(sarastier@gmail.com,1331529853)
+挙手ります。
+出張土産持ってくので、みんなで食べましょう。
+}}
+{{mail(miholovesq@gmail.com,1331614443)
+えーと、スタッフミーティング会場提供者のみーたんだお
+
+夕方まで外に出ているので19時に笹塚に戻れるか不安になってきました。
+他に挙手してるのだれだっけ？
+松元さんとことか会議室お借りできたりは気軽にできない感じなのでしょうかー
+}}
+{{mail(sarastier@gmail.com,1331649921)
+全然大丈夫ですよ～
+適当に予約しておきます。
+
+が、人数集まるのかな?
+}}
+{{mail(miholovesq@gmail.com,1331653499)
+集まるかわかんないけど、お土産いただきにあがりますw
+場所提供とってもありがたいです！
+
+で、誰くんの？
+}}
+{{mail(imagire@gmail.com,1331653851)
+Imagireです。
+
+おみやげはもらいたいけど、何時にいけるかわからないので、
+遅刻参加で～
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1331692539)
+たかはしです
+
+業務が立て込んでますので、本日出動できません。
+ごめんなさいー
+}}
+{{mail(ryuzee@gmail.com,1331694569)
+僕もいけません。あと2週間の辛抱だ...
+
+2012年3月14日11:35 高橋 一貴 <takahashi.kazuyoshi@gmail.com>:
+> たかはしです
+>
+> 業務が立て込んでますので、本日出動できません。
+> ごめんなさいー
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takubon@kanataku.com,1331696207)
+同じく
+すみません(>_<)
+
+
+iPhoneから送信
+
+On 2012/03/14, at 12:09, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> 僕もいけません。あと2週間の辛抱だ...
+> 
+> 2012年3月14日11:35 高橋 一貴 <takahashi.kazuyoshi@gmail.com>:
+>> たかはしです
+>> 
+>> 業務が立て込んでますので、本日出動できません。
+>> ごめんなさいー
+>> 
+>> --
+>> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+>> ML-> taoofscrum@qwik.jp
+> 
+> 
+> 
+> -- 
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takaesu0@gmail.com,1331697979)
+高江洲です。
+
+場所はバンナムさんすか？
+
+今日の予定がなくなったので早めにいけるかも。
+
+でも仕事で捕まってやっぱり遅刻するかも。
+
+2012年3月14日0:44 Miho Nagase <miholovesq@gmail.com>:
+> 集まるかわかんないけど、お土産いただきにあがりますw
+> 場所提供とってもありがたいです！
+>
+> で、誰くんの？
+}}
+{{mail(kawaguti@gmail.com,1331705788)
+かわぐちです。
+
+　私は Agile UX NYC redux イベントで夜は品川シーサイドにいます。
+　打ち合わせには行けませんけど、近くにおります。
+}}
+{{mail(miholovesq@gmail.com,1331707428)
+奇遇なことに私もシーサイドにいますw
+
+場所はバンナムさんです。
+ががが、遅刻しないのは私とマツケンさんだけというw
+}}
+{{mail(qooh0.info@gmail.com,1331714597)
+海江田です。
+
+んー、ごめんなさい。
+行けません。
+
+--
+kaieda
+}}
+{{mail(harada.kiro@gmail.com,1331716486)
+明後日に備えて、神戸に戻ってきています。
+＃東京行くと花粉症にやられる
+
+というわけで、参加できません。ごめんなさい。
+Skype で参加する人いる？
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2012年3月14日17:42 Kensuke Kaieda <qooh0.info@gmail.com>:
+> 海江田です。
+>
+> んー、ごめんなさい。
+> 行けません。
+>
+> --
+> kaieda
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(miholovesq@gmail.com,1331722341)
+スタッフミーティング始まりましたー。
+あとで議事録ざっくり送ります。
+
+* ゴール
+- 次回の道場
+-- 会場を決める
+-- 煽り文句を決める
+- FULLBOOST
+-- 日時を決める
+- 次回のミーティング場所と時間を決める
+
+参加したい人はSkypeで私を呼び出してちょ
+# 回線あんまかもw
+}}
+{{mail(takubon@kanataku.com,1331728951)
+お疲れ様です。
+木村です。
+
+スタッフミーティングお疲れ様です。
+いくつか質問(確認)させて下さい。
+
+> -- 煽り文句はPOに案をぶつけて下から選ぶか代案をもらう
+> --- 「すくすくでインセプションデッキだぁ!?」
+> --- 「本当のインセプションデッキをくれてやんよ」
+> --- 「これだろ? おまえらが欲しいインセプションデッキって」
+全部つなげてでいいんじゃない！
+面白い！
+
+> -- 急ぐとインセンティブがあること
+これはどう言う事？
+
+> --- 前回のバーストアンケートの見直し→3月中にできれば印刷が嬉しいことに!!
+業者に頼むって事ですか？
+
+> - トピックス
+> -- 松尾さんがスタッフになってくれる
+よろしくお願いします。
+}}
+{{mail(sarastier@gmail.com,1333424969)
+次は4/4でいいのかしらん？
+}}
+{{mail(miholovesq@gmail.com,1333425034)
+だと思ってますん
+}}
+{{mail(nishimura@nawo.to,1333425306)
+俺は参加できそう
+}}
+{{mail(sarastier@gmail.com,1333425442)
+4/9の運営スタッフも読んじゃっていいですかね
+5/11にも手伝ってもらうつもりですし
+}}
+{{mail(qooh0.info@gmail.com,1333425985)
+今回も出れません。
+ごめんなさい。
+ごめんなさい。
+
+--
+kaieda
+}}
+{{mail(takubon@kanataku.com,1333429904)
+時間と場所は？
+笹塚　19:00？
+}}
+{{mail(miholovesq@gmail.com,1333430174)
+バンナムさん19時です。
+http://qwik.jp/taoofscrum/StaffMeetup20120314.html
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1333431603)
+4日でしたか。この日だけ夜MTGがあるので今回も出られません。
+}}
+{{mail(uedayo@gmail.com,1333440963)
+うえだです。
+
+残念ですが、明日のミーティングも参加できないです。
+ごめんなさい。
+
+--
+archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+ML-> taoofscrum@qwik.jp
+}}
+{{mail(takaesu0@gmail.com,1333446505)
+高江洲です。
+
+いけるかなー。
+
+参加の方向で。
+}}
+{{mail(ryuzee@gmail.com,1333453480)
+僕は行けません（たぶん）
+ごめんなさい
+
+2012年4月3日18:48 Makoto Takaesu <takaesu0@gmail.com>:
+> 高江洲です。
+>
+> いけるかなー。
+>
+> 参加の方向で。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1333462284)
+2012/4/3 Ken Matsumoto <sarastier@gmail.com>:
+> 4/9の運営スタッフも読んじゃっていいですかね
+> 5/11にも手伝ってもらうつもりですし
+
+ぜひぜひ。
+メインのテーマはフルブーストになる予定なんで
+}}
+{{mail(masashi.arino@gmail.com,1333465974)
+スタッフ希望しておきながら初回のミーティングはSkypeで参加になりそうです。
+}}
+{{mail(yohhatu@gmail.com,1333477440)
+ひょっとしたらSkype参加できるかもしれません～
+}}
+{{mail(imagire@gmail.com,1333496085)
+Imagireです。
+打ち合わせが入ってしまったので、大きく遅刻しそうです…
+}}
+{{mail(chuchung@mac.com,1333527105)
+大和です。
+今日、参加の方向で。
+とりあえずバンナムさんへ向かえば良いですか?
+}}
+{{mail(nishimura@nawo.to,1333529062)
+2012/4/4 中 大和 <chuchung@mac.com>:
+> とりあえずバンナムさんへ向かえば良いですか?
+
+オケ!!
+}}
+{{mail(nishimura@nawo.to,1334586158)
+今週の水曜日(4/18)はスタッフミーティングだよ。
+場所は前回と同じくバンナムさん。
+
+あと、スタッフミーティングに参加できなくてゴメンっていうレスを見かけるけど、全然問題ないっす。
+もともと、みんな忙しくて集まりにくいので、隔週で開催して月一でも来れるチャンスが増えたらいいなーってのが狙いです。
+# ワールドカフェみたいな感じといえば伝わるか?
+
+そんな感じなので、行けないってレスより実は行けそうのレスの方が大事だったりするんで、みなさんよろしくっす。
+さすがに誰も来れないと開催できないのでw
+}}
+{{mail(miholovesq@gmail.com,1334586350)
+いけまーす
+}}
+{{mail(takaesu0@gmail.com,1334588752)
+いく予定です。
+}}
+{{mail(ryuzee@gmail.com,1334589743)
+毎度毎度ごめーん。
+あー、関西と同日に東京でScrum Boot Campやるって話はどうしよ？
+
+2012年4月16日23:22 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 今週の水曜日(4/18)はスタッフミーティングだよ。
+> 場所は前回と同じくバンナムさん。
+>
+> あと、スタッフミーティングに参加できなくてゴメンっていうレスを見かけるけど、全然問題ないっす。
+> もともと、みんな忙しくて集まりにくいので、隔週で開催して月一でも来れるチャンスが増えたらいいなーってのが狙いです。
+> # ワールドカフェみたいな感じといえば伝わるか?
+>
+> そんな感じなので、行けないってレスより実は行けそうのレスの方が大事だったりするんで、みなさんよろしくっす。
+> さすがに誰も来れないと開催できないのでw
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takubon@kanataku.com,1334612707)
+大阪、東京同時開催、やりましょう。
+
+自分は東京サポート入りたいです。
+}}
+{{mail(nishimura@nawo.to,1334632406)
+In <8A47E6A3-5728-4C35-A6F0-2647404DC21A@kanataku.com>,
+"takubon@kanataku.com" <takubon@kanataku.com> wrote:
+
+> 大阪、東京同時開催、やりましょう。
+> 
+> 自分は東京サポート入りたいです。
+
+スレ立てました!! -> [[ScrumBootCampTokyo201206]]
+同時開催実現のため、みなさんよろしくっす!!
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1334638858)
+退社が19:00をまわりそうですので、でられません。よろしくですー
+}}
+{{mail(masashi.arino@gmail.com,1334715030)
+本日もSkypeで参戦する予定です。
+}}
+{{mail(nishimura@nawo.to,1336462945)
+お、明日はスタッフミーティングじゃないか!!
+フルブースト直前対策がメインの話題かな?
+}}
+{{mail(miholovesq@gmail.com,1336465909)
+あーーーーーー！ 忘れてた！
+予約すっか予約！
+我らの江南広場（中華）を明日予約するってのはどうすか！
+}}
+{{mail(nishimura@nawo.to,1336466072)
+2012/5/8 Miho Nagase <miholovesq@gmail.com>:
+> あーーーーーー！ 忘れてた！
+> 予約すっか予約！
+> 我らの江南広場（中華）を明日予約するってのはどうすか！
+
+お前、天才だな!!
+フルブーストの打上げに行く人挙手!!
+
+@nawoto ノシ
+}}
+{{mail(masashi.arino@gmail.com,1336466127)
+@inda_re ノシ  
+（これるようなら @kyon_mm もつれていくます）
+
+--  
+Masashi Arino
+
+
+日付：2012年5月8日火曜日、時刻：17:34、差出人：Nishimura Naoto：
+
+> 2012/5/8 Miho Nagase <miholovesq@gmail.com (mailto:miholovesq@gmail.com)>:
+> > あーーーーーー！ 忘れてた！
+> > 予約すっか予約！
+> > 我らの江南広場（中華）を明日予約するってのはどうすか！
+> >  
+>  
+>  
+> お前、天才だな!!
+> フルブーストの打上げに行く人挙手!!
+>  
+> @nawoto ノシ  
+
+}}
+{{mail(nishimura@nawo.to,1336466268)
+2012/5/8 Masashi Arino <masashi.arino@gmail.com>:
+> @inda_re ノシ
+> （これるようなら @kyon_mm もつれていくます）
+
+しまったww 明日のスタッフミーティングに来れる人と混ざってまうww
+打上げ挙手は [[スクラム道FullBoost]] のスレの方でお願い!!
+
+こっちは明日来れる人の出欠で
+}}
+{{mail(yohhatu@gmail.com,1336466295)
+@yohhatu はい！
+後、東京の同僚(若手ホープ)と大阪でスクラム道場関西版(仮名)を盛り上げてくれている方の2人もできれば。
+}}
+{{mail(miholovesq@gmail.com,1336466508)
+カウントめんどくせえええええええええええwwwww
+}}
+{{mail(takubon@kanataku.com,1336471300)
+
+木村です。
+
+体調次第って事で、
+最悪Skypeで参加します。
+
+場所はバンナムさんでOK?
+}}
+{{mail(takaesu0@gmail.com,1336488077)
+いくよー
+}}
+{{mail(chuchung@mac.com,1336497368)
+めいどです。
+
+たぶん行けます。
+}}
+{{mail(imagire@gmail.com,1336521801)
+Imagireです。
+
+リハに行けなかったので、がんばって行きたい。
+}}
+{{mail(takubon@kanataku.com,1336529714)
+体調復活しないので、Skypeで参加します。
+}}
+{{mail(nishimura@nawo.to,1337053689)
+次回は来週の水曜日(5/23)だよーん。
+場所は仮決定で笹塚だったけど、大井町案が出てきたけどどうかな?
+# @uedayo が会議室確保できたら考えるでいいかな?
+
+あと、StaffMeetup に遊びに行きたいという人が何人かいてるみたいなんで、久しぶりに Partake か何かで来る人をしばらく募集しようと思うんだけど、いいよね?
+# スクラム道第二期メンバー募集じゃww(言いたいだけw)
+}}
+{{mail(miholovesq@gmail.com,1337055231)
+2012年5月15日 12:48 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 次回は来週の水曜日(5/23)だよーん。
+> 場所は仮決定で笹塚だったけど、大井町案が出てきたけどどうかな?
+> # @uedayo が会議室確保できたら考えるでいいかな?
+
+忘れてたけど仮押さえされてた。
+別にどこでもいいよー。
+}}
+{{mail(nishimura@nawo.to,1341198689)
+ぎゃ!! 今週はスタッフミーティングじゃないか。
+場所も何も決めてない...
+}}
+{{mail(miholovesq@gmail.com,1341205570)
+場所は例によってうちでもいいけど、ほかがあればほかでー。
+思いつくネタは
+
+- Premium状況
+- ワークショップ大戦
+- 次の道場どうするか
+- 夏サミ
+- CEDEC
+
+とかとか？
+}}
+{{mail(nishimura@nawo.to,1341207355)
+2012/7/2 Miho Nagase <miholovesq@gmail.com>:
+> 場所は例によってうちでもいいけど、ほかがあればほかでー。
+
+じゃ、申し訳ないが仮で確保しといてもらって良いですか?
+他に立候補があれば、そっちを優先したいです。
+
+> 思いつくネタは
+>
+> - Premium状況
+> - ワークショップ大戦
+> - 次の道場どうするか
+> - 夏サミ
+> - CEDEC
+
+道ギャザリング...w
+夏サミの話はちょっと急いだ方がいいんだっけ?
+}}
+{{mail(miholovesq@gmail.com,1341208659)
+2012年7月2日 14:35 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 2012/7/2 Miho Nagase <miholovesq@gmail.com>:
+>> 場所は例によってうちでもいいけど、ほかがあればほかでー。
+>
+> じゃ、申し訳ないが仮で確保しといてもらって良いですか?
+
+DONE.
+鍵のいらない部屋を抑えたのでエクスペリエンス向上のはず。
+}}
+{{mail(nishimura@nawo.to,1343755746)
+あー、今日やんけ
+
+申し訳ありませんが、8,9月がかなり多忙のためStaffMeeupの運営まで手が回りません....
+どなたか隔週の開催をしばらく巻取ってくれる人いませんか?
+いなければ、しばらく休止か月一開催に切りかえたいと思います。
+}}
+{{mail(miholovesq@gmail.com,1343773232)
+2012年8月1日 2:28 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> あー、今日やんけ
+
+今日はやらない方向でいいのかな？
+
+私も8月9月はやや厳しいのと、運営はこれ以上抱えると死ぬのでSGTだけにしときますー。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1343811479)
+僕も今日も別件です。
+最近の参加状況から考えても僕は運営のコミットできないっす
+
+2012/8/1 Miho Nagase <miholovesq@gmail.com>:
+> 2012年8月1日 2:28 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> あー、今日やんけ
+>
+> 今日はやらない方向でいいのかな？
+>
+> 私も8月9月はやや厳しいのと、運営はこれ以上抱えると死ぬのでSGTだけにしときますー。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(harada.kiro@gmail.com,1343813361)
+名古屋の原田です。
+
+- ScrumBootCamp Fukuoka は、ぼちぼち進んでおります。
+ - 今週中にアナウンスできるといいな。
+
+- 9/15 の XP 祭りは、ワークショップで講師参加できるのは誰でしょう？
+ - 私が当日海外にいる可能性は、ちょっと減りましたが、まだわかりません。ごめんなさい。
+
+ではでは。
+--
+原田騎郎
+
+
+
+2012年8月1日 17:57 Kaz Takahashi <takahashi.kazuyoshi@gmail.com>:
+> 僕も今日も別件です。
+> 最近の参加状況から考えても僕は運営のコミットできないっす
+>
+> 2012/8/1 Miho Nagase <miholovesq@gmail.com>:
+>> 2012年8月1日 2:28 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>>> あー、今日やんけ
+>>
+>> 今日はやらない方向でいいのかな？
+>>
+>> 私も8月9月はやや厳しいのと、運営はこれ以上抱えると死ぬのでSGTだけにしときますー。
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+>> ML-> taoofscrum@qwik.jp
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(kimura.kanataku@gmail.com,1343860260)
+木村です。
+
+西村さんは、運営は出来ないけど、参加は出来るのだよね？
+
+運営を巻き取りますよ。
+次回は8/15ですね。
+
+議題は、
+8/20 CEDECの状況確認 今給黎さん
+9/8 ScrumBootCamp Fukuoka 原田さん
+9/15 XP祭りでのワークショップ 吉羽さん
+9/25 ScrumBootCamp Premium 吉羽さん
+10/28 スクラム道EXPO 実行委員会
+
+他に議題があれば教えて下さい。
+
+http://qwik.jp/taoofscrum/StaffMeetup20120815.html
+
+場所はなければ、アットウェアでも大丈夫です。
+
+
+> - 9/15 の XP 祭りは、ワークショップで講師参加できるのは誰でしょう？
+>  - 私が当日海外にいる可能性は、ちょっと減りましたが、まだわかりません。ごめんなさい。
+自分は参加出来ます。
+}}
+{{mail(miholovesq@gmail.com,1343968000)
+> 次回は8/15ですね。
+
+8/15は絶賛夏休み中なので参加できませんです、ごめんなさい。
+CEDEC直前スペシャルがんばってください！
+}}
+{{mail(nishimura@nawo.to,1343975946)
+2012/8/2 Takao Kimura <kimura.kanataku@gmail.com>:
+> 運営を巻き取りますよ。
+
+おぉ、神よ!!
+ありがとうありがとう。
+
+やる事は、いつやるか告知、スレ立て、アジェンダ募集、ログ書くやつみつける、次回の日程と場所、リマインドぐらいっす。
+
+> 次回は8/15ですね。
+
+> 西村さんは、運営は出来ないけど、参加は出来るのだよね？
+>
+> 次回は8/15ですね。
+
+もちろん、参加できそうな日は参加するぜ!!
+けど、8/15 はジャパーンにいないけどww
+}}
+{{mail(kimura.kanataku@gmail.com,1344942635)
+明日はスタッフミーティングですね。
+
+議題は
+・CEDEC
+・XP祭り
+・スクラム道EXPO
+
+ですかね。
+
+場所は弊社大丈夫です。
+http://www.atware.co.jp/access/
+
+参加者が少ないようなら来週にずらしましょう。
+# CEDECの状況は知りたいけど
+}}
+{{mail(miholovesq@gmail.com,1344947462)
+明日は参加できませんけどごめんやで
+}}
+{{mail(takaesu0@gmail.com,1344948816)
+高江洲です。
+
+いまぎれさん来るのかなー。
+
+CEDECのネタ（ワークショップの題材）をそろそろ決めないと。
+
+2012年8月14日 20:10 Takao Kimura <kimura.kanataku@gmail.com>:
+> 明日はスタッフミーティングですね。
+>
+> 議題は
+> ・CEDEC
+> ・XP祭り
+> ・スクラム道EXPO
+>
+> ですかね。
+>
+> 場所は弊社大丈夫です。
+> http://www.atware.co.jp/access/
+>
+> 参加者が少ないようなら来週にずらしましょう。
+> # CEDECの状況は知りたいけど
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(imagire@gmail.com,1344989463)
+Imagireです。
+
+たぶん行けます。
+CEDECは資料作成中です…
+}}
+{{mail(kimura.kanataku@gmail.com,1345019638)
+木村です。
+
+今のところ、高江洲さん、imagireさんだけですかね。
+
+人数的に開催微妙ですが、どうしましょう？
+
+
+2012/8/15 imagire takashi <imagire@gmail.com>:
+> Imagireです。
+>
+> たぶん行けます。
+> CEDECは資料作成中です…
+}}
+{{mail(chuchung@mac.com,1345019755)
+メイドです。
+
+ごめんなさい。
+今日は行けそうにないです。
+}}
+{{mail(modalsoul0215@gmail.com,1345020556)
+今江です
+
+いけます。
+}}
+{{mail(takaesu0@gmail.com,1345021051)
+高江洲です。
+
+個人的にはいまぎれさんに会えればいいので、
+人数は気にしないっすw
+
+2012年8月15日 17:33 Takao Kimura <kimura.kanataku@gmail.com>:
+> 木村です。
+>
+> 今のところ、高江洲さん、imagireさんだけですかね。
+>
+> 人数的に開催微妙ですが、どうしましょう？
+>
+>
+> 2012/8/15 imagire takashi <imagire@gmail.com>:
+>> Imagireです。
+>>
+>> たぶん行けます。
+>> CEDECは資料作成中です…
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takaesu0@gmail.com,1345021091)
+4人なら開催ですかねー。
+
+2012/8/15 Imae Masatoshi <modalsoul0215@gmail.com>:
+> 今江です
+>
+> いけます。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(masashi.arino@gmail.com,1345021817)
+いんだれですー。
+明日ちょっと早いので今日は行けないです
+ごめんなさい
+}}
+{{mail(kimura.kanataku@gmail.com,1345023286)
+参加者が３名以上になりますので開催しましょう。
+
+１９時弊社でお待ちしてます。
+
+
+2012年8月14日 20:10 Takao Kimura <kimura.kanataku@gmail.com>:
+> 明日はスタッフミーティングですね。
+>
+> 議題は
+> ・CEDEC
+> ・XP祭り
+> ・スクラム道EXPO
+>
+> ですかね。
+>
+> 場所は弊社大丈夫です。
+> http://www.atware.co.jp/access/
+>
+> 参加者が少ないようなら来週にずらしましょう。
+> # CEDECの状況は知りたいけど
+}}
+{{mail(takaesu0@gmail.com,1351437190)
+高江洲です。
+
+今週水曜は道場共催イベントがあって、ミーティングにはあまり集まらないと思われます。
+
+ということで、来週の水曜11月7日にスライドするのはどうでしょう？
+}}
+{{mail(nishimura@nawo.to,1351480278)
+2012/10/29 Makoto Takaesu <takaesu0@gmail.com>:
+> 今週水曜は道場共催イベントがあって、ミーティングにはあまり集まらないと思われます。
+>
+> ということで、来週の水曜11月7日にスライドするのはどうでしょう？
+
+おー、助かりまーす
+}}
+{{mail(fullvirtue@gmail.com,1351526959)
+>> ということで、来週の水曜11月7日にスライドするのはどうでしょう？
+
+すみません、スライドするって思ってなくて、
+11/7に別件の予定入れてしまいました。
+}}
+{{mail(nishimura@nawo.to,1351529766)
+2012/10/30 Mitsunori Seki <fullvirtue@gmail.com>:
+> すみません、スライドするって思ってなくて、
+> 11/7に別件の予定入れてしまいました。
+
+わりとよくスライドします...こっちこそすんませんww
+}}
+{{mail(nishimura@nawo.to,1361892174)
+最近、新しい人が増えてきたので StaffMeetup について説明しまーす。
+
+StaffMeetup の目的はスタッフの交流という名の雑談ですww
+一応、スクラム道の運営だったり、イベント前では決めることは決めたりはします...w
+
+一番大事にしているのは、各方面で頑張っている人がスタッフとして集まっているので、情報交換とかふだんできない話をすることです。
+
+[重要]そのため、議事録は基本ありませんww[重要]
+
+その理由としては、Face To Face のやり取りをなるべく増やしたいからです。
+メールなどなどで良く分からない話を共有するのは、みなさんふだんのお仕事で散々やっていると思うので、コミュニティではそれはやりたくありませんww
+特にスクラム道も三年近くやっているのでコンテキストも厚くなっていたり、僕が Face To Face のやり取りにこだわりがあるのもその1つの理由です。
+
+じゃ、参加できない人は話についていけないという意見もあるので、以前MLでこういうふうに決めました。
+
+隔週の決まった曜日に集まるようにしよう。
+みんな忙しいので、月2回のチャンスをつくっておき、曜日が分かっていれば1回ぐらいは参加できるんじゃないか。
+で、他の勉強会や仕事などで顔を合わせる機会も多いので、トピックだけ流しておいで、その時にスタッフ同士が参加したスタッフに話しかける機会になればいいなー。
+
+こういう感じなので、StaffMeetup は不参加の連絡は特に必要ありません。
+参加できる人が連絡するで大丈夫です。
+
+新しい人も増えてきたので、運用をこうした方がいいとかあればどんどん言ってください。
+特に開催曜日に関しては、今は揺れているので都合の良い曜日があれば教えてねー。
+
+あと、質問もじゃんじゃん受けつけています。
+専用のスレとかあった方がいいかなー?
+}}
+{{mail(o2k.shine@gmail.com,1361941268)
+大槻です。
+距離の都合上、金曜日や休日前だと帰り時間に余裕ができるので参加しやすいです。
+}}
+{{mail(irohiroki@gmail.com,1362066368)
+新人なので、こういう情報はすごく助かります。
+ありがとうございます。
+
+参加しやすい曜日は、火、水、金ですが、それ以外でも
+できるだけ参加していくつもりです。
+}}
+{{mail(nishimura@nawo.to,1370413831)
+> あと、スクラム道の次回打ち合わせ日も決めないといかんね。
+
+決めねばー!!
+えっと、内容は Game Community Summit と Boot Camp in NII と The Talk
+の直前対策スペシャルか...ヤバイww
+
+できれば来週にやりたいけど、みんなの予定はどんな感じっすか?
+お、俺の夜は月曜しか空いてなかった...
+}}
+{{mail(imagire@gmail.com,1370416978)
+月曜なら、六本木周辺がいいですー
+}}
+{{mail(masashi.arino@gmail.com,1370418641)
+talkは手伝いたいんだけど、17日超える迄はなんもでけん…
+}}
+{{mail(nishimura@nawo.to,1370421168)
+2013/6/5 masashi arino <masashi.arino@gmail.com>
+
+> talkは手伝いたいんだけど、17日超える迄はなんもでけん…
+
+
+安心しろ。Talk は21日だww
+
+明日ぐらいに打合せの日程を決めたいので来週の希望日カモン。
+5人ぐらい集まれなかったら来週で!!
+}}
+{{mail(nishimura@nawo.to,1370421261)
+>
+> 明日ぐらいに打合せの日程を決めたいので来週の希望日カモン。
+> 5人ぐらい集まれなかったら来週で!!
+>
+
+ごめん、間違えた。
+俺が参加できないとダメだったww 来週の月曜日に来れる人挙手!!
+}}
+{{mail(morita@c.wsf.jp,1370421687)
+ハイ。 ノ
+
+---
+Kenji Morita
+
+
+2013/06/05 17:34、Nishimura Naoto <n-nishimura@esm.co.jp> のメッセージ:
+
+明日ぐらいに打合せの日程を決めたいので来週の希望日カモン。
+> 5人ぐらい集まれなかったら来週で!!
+>
+
+ごめん、間違えた。
+俺が参加できないとダメだったww 来週の月曜日に来れる人挙手!!
+}}
+{{mail(takaesu0@gmail.com,1370429047)
+> 俺が参加できないとダメだったww 来週の月曜日に来れる人挙手!!
+
+ノ
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1370429175)
+六本木なら顔出せるかもー
+}}
+{{mail(takuo.doi@gmail.com,1370431420)
+参加できます！
+}}
+{{mail(changesworlds@gmail.com,1370432287)
+ノ
+
+iPhoneから送信
+
+2013/06/05 17:33、Nishimura Naoto <n-nishimura@esm.co.jp> のメッセージ:
+
+>> 明日ぐらいに打合せの日程を決めたいので来週の希望日カモン。
+>> 5人ぐらい集まれなかったら来週で!! 
+> 
+> ごめん、間違えた。
+> 俺が参加できないとダメだったww 来週の月曜日に来れる人挙手!! 
+> 
+}}
+{{mail(nishimura@nawo.to,1370436275)
+場所は六本木しよー!! 誰か場所貸してくれー
+}}
+{{mail(miholovesq@gmail.com,1370437396)
+産技大は貸せるけど六本木がいいので六本木で月夜挙手 ノ
+>
+>
+
+--
+}}
+{{mail(chuchung@mac.com,1370444829)
+相変わらず、タイミングが合わない
+}}
+{{mail(kimura.kanataku@gmail.com,1370474448)
+むむむ。。。
+同じく。。。
+}}
+{{mail(mtag1225@gmail.com,1370492610)
+田口です。月曜日いけると思いますー。
+}}
+{{mail(imagire@gmail.com,1370496446)
+会議室は確保したけれど、ミッドタウン・タワーに行ってみたい
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1370503268)
+では調整してみますー
+
+2013/6/6 imagire takashi <imagire@gmail.com>:
+> 会議室は確保したけれど、ミッドタウン・タワーに行ってみたい
+>
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1370531165)
+会議室確保したよー。入館方法は明日送ります。
+}}
+{{mail(nishimura@nawo.to,1370532514)
+ありがとー!!
+}}
+{{mail(imagire@gmail.com,1370551496)
+ありがとうございまーす
+}}
+{{mail(fullvirtue@gmail.com,1370587869)
+入館方法確認しましたー。ありがとうございますー！
+}}
+{{mail(nishimura@nawo.to,1378261739)
+来週か再来週こそ!!
+さ、再来週が都合いいかなww
+
+どっか場所かしてー
+}}
+{{mail(miholovesq@gmail.com,1378262552)
+> どっか場所
+私がいればAiiTでも良いですだー
+}}
+{{mail(imagire@gmail.com,1378262655)
+来週だと、水金しか空いてない…
+その日なら、場所貸すのは、別に問題ないです。
+}}
+{{mail(kimura.kanataku@gmail.com,1378262842)
+9/18 がうれしい
+}}
+{{mail(nishimura@nawo.to,1378363456)
+俺の空いている日を言わんとあかんのを忘れてたww
+9/10, 17, 19, 24, 25 かなー。ごめん、9/18は空いてなかった...w
+ここら辺でみんな集まれ? 5人以上だっけ?
+}}
+{{mail(imagire@gmail.com,1378363889)
+調整さんたてた
+http://chouseisan.com/schedule/List?h=2d3db55a1890e09e6f61ac83d7ff30c8
+}}
+{{mail(nishimura@nawo.to,1378363990)
+ありがとー?? GJすぐる
+}}
+{{mail(nishimura@nawo.to,1378364661)
+入力した!!
+http://chouseisan.com/schedule/List?h=2d3db55a1890e09e6f61ac83d7ff30c8
+}}
+{{mail(imagire@gmail.com,1378785978)
+みなさんの状況を見るに、9/25が一番良いでしょうか？
+}}
+{{mail(miholovesq@gmail.com,1378786258)
+私はだいじょうぶでーす
+}}
+{{mail(nishimura@nawo.to,1378836560)
+ほーい、じゃ改めて25日でよろしくお願いしまーす。誰か会場ををを...w
+}}
+{{mail(takaesu0@gmail.com,1378901826)
+夜の仕事が入ったので、六本木とか日比谷線で行けるところがいいなぁ。
+
+何時に行けるかわからんけどｗ
+
+2013年9月11日 3:09 @nawoto <nishimura@nawo.to>:
+>
+>
+> ほーい、じゃ改めて25日でよろしくお願いしまーす。
+> 誰か会場ををを...w
+}}
+{{mail(imagire@gmail.com,1379550851)
+会場候補が他にないのなら六本木ヒルズ大丈夫です。
+}}
+{{mail(nishimura@nawo.to,1379666897)
+ほーい、六本木貸してくださーい
+}}
+{{mail(imagire@gmail.com,1379668355)
+ほーい、入館方法再掲します。
+
+12-13.Milpitas という会議室を取っていて、私の方は、19:00ぐらいから入っていますので、
+12Fに来られましたら、中でだらだらしていただければと思います。
+
+会議自体は19:30スタートでいいですよね？
+
+--
+日比谷線の場合は、中目黒側の改札を出た後、
+六本木ヒルズ連絡通路を進んで、
+エスカレーターで上がった正面玄関からお入りください。
+大江戸線の場合は、大門側から3,5番出口を出て渋谷の方に進んでください。
+
+入館の際には、六本木ヒルズ森タワー受付(※)で受付手続きをしてください。
+名刺2枚を提示していただき、「グリー株式会社 開発本部のいまぎれ」宛で、
+「打ち合わせでの来訪」の旨お伝えください。
+その際に、入館証を受け取ってください。
+名刺を持っていない方には記入用紙の用意があります。
+
+森タワー受付にて入館証を受け取った後、UL(Upper Lobby)階のホールAのエレベーターより12Fまでお越しください。
+
+※森タワーの受付は2フロアあり、それぞれ、LL(Lower Lobby)階とUL(Upper Lobby)階と呼ばれています。
+受付の手続きはLL階・UL階のいずれでもおこなっていただけますが、12Fへと行けるエレベーターはUL階からのみになります。
+
+
+2013年9月20日 17:47 Nishimura Naoto <n-nishimura@esm.co.jp>:
+
+> ほーい、六本木貸してくださーい
+>
+
+
+
+-- 
+今給黎 隆 Takashi Imagire
+e-mail:imagire@gmail.com
+http://t-pot.com/
+}}
+{{mail(nishimura@nawo.to,1379670021)
+ありがとー
+}}
+{{mail(masashi.arino@gmail.com,1379672732)
+ありがとうございますー。
+行けたら行きます??
+}}
+{{mail(irohiroki@gmail.com,1380017118)
+すいません明日ですが別件がありましたのでお休みします。
+}}

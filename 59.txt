@@ -1,0 +1,133 @@
+* Practice Adoption Board
+{{mail(harada.kiro@gmail.com,1363225892)
+なるものをつくってみようかと、
+
+https://trello.com/b/BIlbKC3M
+
+ちょっとプラクティスを足したり、動かしたりしてみていただけないですか？
+
+たたき台ができたら、エクスポートできるようにして、チームごとのやつを作ればいいかなと。
+
+ご意見求む。
+--
+原田騎郎
+}}
+{{mail(takaesu0@gmail.com,1363226723)
+いいっすねー。
+
+でも掟と必ずやるの違いがちとわからんす。
+}}
+{{mail(harada.kiro@gmail.com,1363227202)
+掟をやぶったら村八分っす ;p
+
+--
+原田騎郎
+
+
+
+2013年3月14日 11:05 Makoto Takaesu <takaesu0@gmail.com>:
+
+> いいっすねー。
+>
+> でも掟と必ずやるの違いがちとわからんす。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/59.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1363235125)
+足したり動かしたりできませんでした＞＜
+
+2013/3/14 Kiro HARADA <harada.kiro@gmail.com>:
+> 掟をやぶったら村八分っす ;p
+>
+> --
+> 原田騎郎
+>
+>
+>
+> 2013年3月14日 11:05 Makoto Takaesu <takaesu0@gmail.com>:
+>
+>> いいっすねー。
+>>
+>> でも掟と必ずやるの違いがちとわからんす。
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/59.html
+>> ML-> taoofscrum@qwik.jp
+>
+>
+}}
+{{mail(masashi.arino@gmail.com,1363235707)
+ついでにtrelloに入れてー
+}}
+{{mail(fullvirtue@gmail.com,1363236480)
+fullvirtue に権限追加お願いします?。
+}}
+{{mail(takaesu0@gmail.com,1363237333)
+taoofscrumのグループのものなので、
+そっちに入れてもらう必要があるかも。
+
+ちなみに管理者はnawoto。
+}}
+{{mail(harada.kiro@gmail.com,1363237342)
+みなさん足しましたー。
+
+
+--
+原田騎郎
+
+
+
+2013年3月14日 13:47 Mitsunori Seki <fullvirtue@gmail.com>:
+
+> fullvirtue に権限追加お願いします－。
+>
+}}
+{{mail(masashi.arino@gmail.com,1363245242)
+はらださんありがとー！
+}}
+{{mail(yohhatu@gmail.com,1363633086)
+　面白そうです。
+
+　私も「掟」と「ルール」の違いが分からなかったです。
+　「掟」の方が厳しい感じですが(苦笑)。
+
+　後、インセプションデッキのような「このプロジェクトやプロダクトの目指すもの」を話し合う何かがあっても良いかと思いました。
+
+　ってことでこのボードへの権限をくれると嬉しいです。
+}}
+{{mail(harada.kiro@gmail.com,1363657271)
+足しました。
+
+まあ、ルールはまっとうな理由があれば破ってもいいですからね。
+掟は違うよ。まあ、合意して変えちゃえばいいんですけど。
+
+ルール: 従わなければならない、従わないと罰がある。定められた手続きによって変更可能。
+ガイドライン: 従わなければならない、従わなくても罰はない。従わない理由の説明が必要。
+ベストプラクティス: 従ってもよい。従う理由の説明が必要。
+
+くらいの気分で使ってます。
+
+--
+原田騎郎
+
+
+
+2013年3月19日 3:58 中村洋 <yohhatu@gmail.com>:
+
+> 面白そうです。
+>
+> 私も「掟」と「ルール」の違いが分からなかったです。
+> 「掟」の方が厳しい感じですが(苦笑)。
+>
+> 後、インセプションデッキのような「このプロジェクトやプロダクトの目指すもの」を話し合う何かがあっても良いかと思いました。
+>
+> ってことでこのボードへの権限をくれると嬉しいです。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/59.html
+> ML-> taoofscrum@qwik.jp
+>
+}}

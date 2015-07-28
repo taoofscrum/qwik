@@ -1,0 +1,115 @@
+* Scrum Boot Campアンケート修正版とアジェンダ
+{{mail(ryuzee@gmail.com,1311858221)
+Ryuzeeです。
+
+皆さんの指摘をうけてアンケート修正しました。
+またアジェンダを作成しましたので確認をお願いします。
+
+＃高江洲さん明日印刷頂くような形でよろしいでしょうか。
+　ギリギリで申し訳ないです。
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+
+
+{{file(ScrumBootCampAgenda.pdf)}}
+}}
+{{mail(takaesu0@gmail.com,1311862910)
+高江洲です。
+
+明日集いの前に事務所による予定なので、そこで刷っていきますー。
+
+＃40部ほどでいいですよね。
+
+2011年7月28日22:03 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> 皆さんの指摘をうけてアンケート修正しました。
+> またアジェンダを作成しましたので確認をお願いします。
+>
+> ＃高江洲さん明日印刷頂くような形でよろしいでしょうか。
+> 　ギリギリで申し訳ないです。
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/11.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(ryuzee@gmail.com,1311862966)
+Ryuzeeです。
+
+はい、４０部ずつ程度で結構です。
+お手数をおかけします。
+
+(11/07/28 23:21), Makoto Takaesu wrote:
+> 高江洲です。
+> 
+> 明日集いの前に事務所による予定なので、そこで刷っていきますー。
+> 
+> ＃40部ほどでいいですよね。
+> 
+> 2011年7月28日22:03 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> Ryuzeeです。
+>>
+>> 皆さんの指摘をうけてアンケート修正しました。
+>> またアジェンダを作成しましたので確認をお願いします。
+>>
+>> ＃高江洲さん明日印刷頂くような形でよろしいでしょうか。
+>> 　ギリギリで申し訳ないです。
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/11.html
+>> ML->  taoofscrum@qwik.jp
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1311864377)
+見ました。いいですね！
+作成も印刷もありがとうございます。
+}}

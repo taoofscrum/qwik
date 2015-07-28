@@ -1,0 +1,708 @@
+* ScrumBootCamp201110
+{{mail(nishimura@nawo.to,1314693434)
+10月開催の Scrum Gathering Tokyo 2011 で検討されていた Scrum Boot Camp 枠が正式にセッションとして決定したので、スレ立てました。
+現時点で決まっている事は以下。
+
+* Scrum Boot Camp on Scrum Gathering Tokyo 2011
+
+:日時: 10/22 10:00 - 17:40
+:場所: 早稲田大学理工学部55号館
+:URL: http://www.scrumgatheringtokyo.org/
+
+----
+
+で、まずは思い付きだけど、俺単独でやるって案はどうだろうか?
+後付けで考えた理由は以下。そんなに悪くない気がしてきたw
+
+- そういや俺のマテリアルややり方って見せてない。いつも他の人のを勉強させてもらってすいませんすいません
+- 最近、単独で研修やってないのでリハビリ。11 月に仙台で 2 Day やるんすよー。練習させてくださいw
+- 社内事情ww 最近、コーチ見習いで一名来たので、おれのやり方を見せてみる。 来ないかもしれんがww
+
+ひとまず、こんな感じです。
+今のところ、Scrum Gathering Tokyo の別枠からオファーは来てないので、そこも大丈夫かも。
+ご意見おまちしてまーす。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1314697601)
+いいね!
+
+一点だけあるとすれば、nawotoさんのお仕事が大変そうなのでご家庭や体調を心配しています。
+}}
+{{mail(miholovesq@gmail.com,1314698832)
+2011年8月30日17:37 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> で、まずは思い付きだけど、俺単独でやるって案はどうだろうか?
+
+良いと思いまーす。
+自分で言うくらいだから家庭や体調はまだまだどうにかなると思いまーす。
+# まあ無理せずw
+
+2011年8月30日17:37 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 今のところ、Scrum Gathering Tokyo の別枠からオファーは来てないので、そこも大丈夫かも。
+
+チームこっしーのインセプションデッキがnawotoさんをアテにしてた場合は要注意ですね。
+こっしーの人見てるかな？
+# そもそもこっしーのセッション案は確定じゃないんだっけ
+}}
+{{mail(miholovesq@gmail.com,1314698884)
+2011年8月30日19:07 Miho Nagase <miholovesq@gmail.com>:
+> チームこっしーのインセプションデッキがnawotoさんをアテにしてた場合は要注意ですね。
+> こっしーの人見てるかな？
+
+こっちは道か！
+見てるわけなかったw
+お見捨ておきくださいww
+}}
+{{mail(ryuzee@gmail.com,1314699417)
+いいねー。
+
+俺もやりたいと思ってたけど、とはいえ全編通しは他のセッション
+見れないしなー、と思ったけど、サポートコーチしたら結局他の
+セッション見れないねｗ。喜んで手伝うけど。
+
+あとはワークショップはあるんだよね？
+その際にサポート役が沢山いるのがScrum Boot Campのウリでもあるので
+そのあたりどんな感じにしようと思ってるのか聞きたいな。
+
+(11/08/30 17:37), Nishimura Naoto wrote:
+> 10月開催の Scrum Gathering Tokyo 2011 で検討されていた Scrum Boot Camp 枠が正式にセッションとして決定したので、スレ立てました。
+> 現時点で決まっている事は以下。
+> 
+> * Scrum Boot Camp on Scrum Gathering Tokyo 2011
+> 
+> :日時: 10/22 10:00 - 17:40
+> :場所: 早稲田大学理工学部55号館
+> :URL: http://www.scrumgatheringtokyo.org/
+> 
+> ----
+> 
+> で、まずは思い付きだけど、俺単独でやるって案はどうだろうか?
+> 後付けで考えた理由は以下。そんなに悪くない気がしてきたw
+> 
+> - そういや俺のマテリアルややり方って見せてない。いつも他の人のを勉強させてもらってすいませんすいません
+> - 最近、単独で研修やってないのでリハビリ。11 月に仙台で 2 Day やるんすよー。練習させてくださいw
+> - 社内事情ww 最近、コーチ見習いで一名来たので、おれのやり方を見せてみる。 来ないかもしれんがww
+> 
+> ひとまず、こんな感じです。
+> 今のところ、Scrum Gathering Tokyo の別枠からオファーは来てないので、そこも大丈夫かも。
+> ご意見おまちしてまーす。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(qooh0.info@gmail.com,1314736783)
+海江田です。
+
+了解。
+コッシーでは nawoto さんの方を見ないようにする。
+
+--
+kaieda
+}}
+{{mail(nishimura@nawo.to,1318471395)
+気がつけば来週だ...
+# 絶賛資料作成中
+
+当日までに決めておく事ってこんな感じか?
+
+** 当日の流れ
+
+10/22
+http://www.scrumgatheringtokyo.org/sgt2011/index.php?id=3
+
+10:00 - 10:15 オープニング
+              Ryuzee から挨拶、スクラム道・講師紹介、自己紹介、お金集める(??)
+10:15 - 11:45 スクラム概要
+11:45 - 13:00 昼休み
+13:00 - 14:30 Head First インセプションデッキ
+14:40 - 16:10 見積もりと計画
+16:20 - 17:40 スプリントの過ごし方 + 質疑応答
+
+うーん、だいぶタイトなスケジュールだなww もうちょい考えるかのー。
+オープニングと質疑応答とかは誰か来てくれると助かりまーす。
+
+** 定員
+
+40名を想定しているが、36 名でもいいかもなー
+6人 x 6卓のイメージ。40 人だと 5人 x 8卓だけど、そんなに席つくれるのかな?
+
+** 備品
+
+これはスクラム道で買い出しして提供にしまーす。
+そして、当日参加者からお金をもらう。
+あとは、いつ買い出しにいけるかだな。
+
+マイクとホワイトボードぐらいはあるんだっけ? > 誰となく
+
+** 受付
+
+参加する人はイベント主催側で確認してくれるが、お金をあつめるとかだと別途受付がいるのかな?
+全員着席してからお金を集めますとかにしておけば、受付はいらない気もしてきた。
+
+** サポートスタッフ
+
+今回は基本的には西村単独でやれるような感じにするつもりなんだけど、それでも備品を配ったりや質疑応答と
+かは色んな人がいてくれると心強いんだが、誰かこれる?
+}}
+{{mail(takaesu0@gmail.com,1318471834)
+高江洲です。
+
+> 10/22
+> http://www.scrumgatheringtokyo.org/sgt2011/index.php?id=3
+
+ん？SGTでやるってことだったのね。
+
+> ** サポートスタッフ
+>
+> 今回は基本的には西村単独でやれるような感じにするつもりなんだけど、それでも備品を配ったりや質疑応答と
+> かは色んな人がいてくれると心強いんだが、誰かこれる?
+
+空いた時間に手伝いに行きますー。
+}}
+{{mail(miholovesq@gmail.com,1318475769)
+2011年10月13日11:03 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 10:00 - 10:15 オープニング
+>              Ryuzee から挨拶、スクラム道・講師紹介、自己紹介、お金集める(??)
+
+これって裏番組もあるし開始をずらすかなー、とか言ってなかった？
+あ、別にこれで決まりならそれで良いです。ふと思っただけ。
+
+> 11:45 - 13:00 昼休み
+> 13:00 - 14:30 Head First インセプションデッキ
+
+会場が食べ物持ち込み不可で近隣の飲食店を利用せざるを得ないため、イベント全体の昼休みが
+13:20までになっています。公式サイトのタイムテーブルが見づらいけど。（○○向け、の時間枠がない）
+Scrum Boot Camp参加者は軍隊式なので1時間休憩！ってんなら問題ありません。
+
+> うーん、だいぶタイトなスケジュールだなww もうちょい考えるかのー。
+> オープニングと質疑応答とかは誰か来てくれると助かりまーす。
+
+私は午後15:20まで裏番組で出演中なので、それが終わったら行くつもりでーす。
+当日の段取りがバタバタでなければ。
+
+> ** 備品
+>
+> これはスクラム道で買い出しして提供にしまーす。
+> そして、当日参加者からお金をもらう。
+> あとは、いつ買い出しにいけるかだな。
+>
+> マイクとホワイトボードぐらいはあるんだっけ? > 誰となく
+
+# 呼ばれた気がするw
+
+マイクとホワイトボードはあります。
+マイクは2本かな？ Qooh0たんが3本とか言ってたような肝。
+ホワイトボードは移動不可能だけど、例の、教室の前方のやつです。
+
+> ** サポートスタッフ
+>
+> 今回は基本的には西村単独でやれるような感じにするつもりなんだけど、それでも備品を配ったりや質疑応答と
+> かは色んな人がいてくれると心強いんだが、誰かこれる?
+
+道のスタッフでスクラムギャザリング東京2011に絡んでいない人もいるので、あらためてスタッフの
+相関関係をシェアしておきます。薄々はご承知かもですけど。
+忘れている人がいたらふぉんとにスミマセン！
+
+SGT2011スタッフ（実行委員＋コンテンツ委員） ← バタバタしている可能性がある
+ryuzee, ebacky, kappa4, miholovesq, kawaguti, Qooh0, nawoto
+tw_takubon, amameci
+
+SGT2011 Day2(10/22) Scrum Boot Camp以外の登壇者 ← Scrum Boot Campの裏番組の可能性がある
+haradakiro, ebacky, miholovesq
+
+# スクラム道とSGT2011の差集合がもはや不明ww
+}}
+{{mail(nishimura@nawo.to,1318477735)
+さくっと回答できるとこだけ。
+
+In <CAPG=6LZm3DU5PBxNLkjnEx-W9ELiZeS1=Tnu0AREqGXa=LHVXQ@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> 2011年10月13日11:03 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> 10:00 - 10:15 オープニング
+>>              Ryuzee から挨拶、スクラム道・講師紹介、自己紹介、お金集める(??)
+> 
+> これって裏番組もあるし開始をずらすかなー、とか言ってなかった？
+> あ、別にこれで決まりならそれで良いです。ふと思っただけ。
+
+最初思ったけど、裏番組にあわしてるとどこまで行っても始められないと思ったww
+俺だって色々と聞きたいんだよwww
+}}
+{{mail(imagire@gmail.com,1318480013)
+SGT2011に絡んでいないImagireです。
+
+当日は参加予定なので、サポート協力できると思います。
+もちろん、いろいろと聞きたいですが～
+}}
+{{mail(qooh0.info@gmail.com,1318480413)
+海江田です。
+
+マイクは 2本です。
+マイクは日本います。
+マイクは外人です。
+
+来週の火曜に、角さんの「ユーザーストーリービギニング」の
+素振りを演る予定です。19:30 - 旧ECナビで。
+こっちにでたくて、角さんのと迷っている人は是非！
+後でコクチーズを出します。
+
+--
+kaieda
+}}
+{{mail(qooh0.info@gmail.com,1318483798)
+海江田です。
+
+MS でやったときの備品をあずかっています。
+家に帰ったら、何があるか連絡します。
+
+模造紙は丸々二束残っていた気がします。
+
+--
+kaieda
+}}
+{{mail(qooh0.info@gmail.com,1318487940)
+海江田です。
+
+人気セッション：角さんのユーザーストーリー・ビギニングの素振りについて
+募集を開始しました。
+Scrum Boot Camp に午後一から出たい！という方は、ぜひ参加してください ♪
+http://kokucheese.com/event/index/19294/
+
+--
+kaieda
+}}
+{{mail(ryuzee@gmail.com,1318488047)
+Ryuzeeです。
+
+(11/10/13 15:38), Kensuke Kaieda wrote:
+> 海江田です。
+> 
+> 人気セッション：角さんのユーザーストーリー・ビギニングの素振りについて
+> 募集を開始しました。
+> Scrum Boot Camp に午後一から出たい！という方は、ぜひ参加してください ♪
+
+→Scrum Boot Campは朝からです！
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(qooh0.info@gmail.com,1318488540)
+海江田です。
+
+そうそう。
+ScrumBootCamp は朝からなのですが、途中だけお手伝いという方がいらっしゃったので
+上のような記載をしました。
+
+わかりづらくて ごめんなさい。
+
+--
+kaieda
+}}
+{{mail(nishimura@nawo.to,1318560637)
+ネタを 4 つやると質疑応答の時間が短かかったり、ふりかえりが十分にできないなーと思ったのでタイムテー
+ブルを見直してみました。
+
+10:00 - 10:15 オープニング (席替え、自己紹介、BootCampの説明とか)
+10:15 - 11:45 Scrumの概要
+11:45 - 13:20 昼休み
+13:20 - 14:50 見積りと計画づくり
+15:00 - 16:30 スプリントの過ごし方(スクラムイベントの説明)
+16:30 - 17:30 ふりかえり+質疑応答
+
+ってな具合にインセプションデッキを除外した感じにしようと思います。
+なんか気になる事とかあれば、教えてくださーい。
+}}
+{{mail(ryuzee@gmail.com,1318560840)
+いくつか気づいた点とか段取の話。
+
+・スプリントの過ごし方と見積り・計画づくりは
+　逆でもいいかなーと思ったりしました。
+・昼休み流石に長すぎない？
+・オープニングの説明資料はいつものやつを用意しときますが、
+　資料は公開しますか？
+・アンケートは取りますか？
+
+劉爺
+
+(11/10/14 11:50), Nishimura Naoto wrote:
+> ネタを 4 つやると質疑応答の時間が短かかったり、ふりかえりが十分にできないなーと思ったのでタイムテー
+> ブルを見直してみました。
+> 
+> 10:00 - 10:15 オープニング (席替え、自己紹介、BootCampの説明とか)
+> 10:15 - 11:45 Scrumの概要
+> 11:45 - 13:20 昼休み
+> 13:20 - 14:50 見積りと計画づくり
+> 15:00 - 16:30 スプリントの過ごし方(スクラムイベントの説明)
+> 16:30 - 17:30 ふりかえり+質疑応答
+> 
+> ってな具合にインセプションデッキを除外した感じにしようと思います。
+> なんか気になる事とかあれば、教えてくださーい。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1318561166)
+In <4E97A443.5060106@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> ・スプリントの過ごし方と見積り・計画づくりは
+> 　逆でもいいかなーと思ったりしました。
+
+なるなる。
+なんかプロダクトバックログのイメージがあった方がスプリントの過ごし方は分かりやすいかなーぐらいに考えてます。
+もうちょっと考えるww
+
+> ・昼休み流石に長すぎない？
+
+バッファ込みで考えてる。
+実際は他のトラックとあわせる感じにしたいなー。
+
+> ・オープニングの説明資料はいつものやつを用意しときますが、
+> 　資料は公開しますか？
+
+よろ。
+資料はふつうに SlideShare とかで公開する予定。
+
+> ・アンケートは取りますか？
+
+そう、アンケートやらないとなーっと思いつつ、手が回ってない...
+いまはやりの Web アンケートかww
+}}
+{{mail(ryuzee@gmail.com,1318561300)
+アンケートはいつものやつで良いなら大丈夫だよ。
+＃印刷どうするかはおいておいて、Dropboxにはおいてあるはず。
+
+(11/10/14 11:59), Nishimura Naoto wrote:
+> In<4E97A443.5060106@gmail.com>,
+> Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+> 
+>> ・スプリントの過ごし方と見積り・計画づくりは
+>> 　逆でもいいかなーと思ったりしました。
+> 
+> なるなる。
+> なんかプロダクトバックログのイメージがあった方がスプリントの過ごし方は分かりやすいかなーぐらいに考えてます。
+> もうちょっと考えるww
+> 
+>> ・昼休み流石に長すぎない？
+> 
+> バッファ込みで考えてる。
+> 実際は他のトラックとあわせる感じにしたいなー。
+> 
+>> ・オープニングの説明資料はいつものやつを用意しときますが、
+>> 　資料は公開しますか？
+> 
+> よろ。
+> 資料はふつうに SlideShare とかで公開する予定。
+> 
+>> ・アンケートは取りますか？
+> 
+> そう、アンケートやらないとなーっと思いつつ、手が回ってない...
+> いまはやりの Web アンケートかww
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(harada.kiro@gmail.com,1318562193)
+原田％杭州です。
+いまから帰る。
+
+>> ・スプリントの過ごし方と見積り・計画づくりは
+>>　 逆でもいいかなーと思ったりしました。
+>
+> なるなる。
+> なんかプロダクトバックログのイメージがあった方がスプリントの過ごし方は分かりやすいかなーぐらいに考えてます。
+> もうちょっと考えるww
+
+バックログのサンプルだけ見せて、先に過ごし方をやるといいかなぁと思っている。
+計画作りだけ先にやると、計画地獄になぜおちないかが腑に落ちていないきがするので。
+
+>> ・昼休み流石に長すぎない？
+>
+> バッファ込みで考えてる。
+> 実際は他のトラックとあわせる感じにしたいなー。
+
+昼休み縮めて、中休みを３０分ぐらいにするほうがいいかなぁ。
+＃きっと参加者休憩しないけどね :)
+
+じぶんのセッション以外の時間は、なるべく顔をだします。
+
+ではでは。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2011年10月14日11:59 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <4E97A443.5060106@gmail.com>,
+> Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+>
+>> ・スプリントの過ごし方と見積り・計画づくりは
+>>　 逆でもいいかなーと思ったりしました。
+>
+> なるなる。
+> なんかプロダクトバックログのイメージがあった方がスプリントの過ごし方は分かりやすいかなーぐらいに考えてます。
+> もうちょっと考えるww
+>
+>> ・昼休み流石に長すぎない？
+>
+> バッファ込みで考えてる。
+> 実際は他のトラックとあわせる感じにしたいなー。
+>
+>> ・オープニングの説明資料はいつものやつを用意しときますが、
+>>　 資料は公開しますか？
+>
+> よろ。
+> 資料はふつうに SlideShare とかで公開する予定。
+>
+>> ・アンケートは取りますか？
+>
+> そう、アンケートやらないとなーっと思いつつ、手が回ってない...
+> いまはやりの Web アンケートかww
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumBootCamp201110.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1319042401)
+そろそろ尻に火がついてきましたよww
+
+当日のタイムテーブルは以下でいきます。
+
+10:00 - 10:15 オープニング (席替え、自己紹介、BootCampの説明とか)
+10:15 - 11:45 [一限目]Scrumの概要
+11:45 - 13:20 昼休み
+13:20 - 14:50 [二限目]見積りと計画づくり
+15:00 - 16:30 [三限目]スプリントの過ごし方(スクラムイベントの説明)
+16:30 - 17:30 [HR]ふりかえり+質疑応答
+
+色々とフィードバックをいただいたのにすいません。
+構成を変更するほどの時間が取れなさそうなので、当初の案でいきます。
+昼休みに関しては、当日の状況を見ながらですが、午後の開始は 10 分程度早めようと思います。
+その分は、休憩時間に還元していく予定っす。
+なので、それぞれの開始時間は前後 5 分ぐらいの誤差が出そうです。
+
+で、やらないといけない事としては、
+
+- 資料準備、講師 -> nawoto
+- 備品調達 -> nawoto
+- オープニング -> ryuzee
+- 受付 -> ryuzee
+- 一限目サポート -> 募集中
+- 二限目サポート -> 募集中
+- 三限目サポート -> 募集中
+- ふりかえり、質疑応答係 -> 募集中
+- アンケート準備 -> 募集中
+
+募集中のところをやってくれる方を募集中でーす。
+サポートの人がいない時間帯があるなら心の準備をするので、その時間は行けるぞって方はサインアップよろw
+あと、アンケートが 42 部必要なんですが、ちょっと僕は用意ができなさそうなので誰か助けてください。
+もし、アンケートが用意できなかった場合は当日、模造紙に書いてもらうメソッドを発動するので何かしらの
+フィードバックは参加者からもらおうとは考えています。
+}}
+{{mail(imagire@gmail.com,1319068449)
+Imagireです。
+
+皆様、おつかれさまです。
+
+とりあえず、以下の項目をサインアップしておきます。
+- 一限目サポート -> 募集中
+- ふりかえり、質疑応答係 -> 募集中
+- アンケート準備 -> 募集中
+
+アンケートはDropBoxの物(まだ確認していないけど)を印刷して持っていけばよいのですよね？
+それなら、対応します。
+もっと大変なら要相談で。
+
+Jeff Patton ききたい…
+}}
+{{mail(nishimura@nawo.to,1319076850)
+In <CACCYYWR+x+XanaqSaXxrP3HO5DEaVv3pniQd+XJD6e=WPDNCXw@mail.gmail.com>,
+imagire takashi <imagire@gmail.com> wrote:
+
+> とりあえず、以下の項目をサインアップしておきます。
+> - 一限目サポート -> 募集中
+> - ふりかえり、質疑応答係 -> 募集中
+> - アンケート準備 -> 募集中
+
+おぉ、ありがとうございまーす!!
+
+> アンケートはDropBoxの物(まだ確認していないけど)を印刷して持っていけばよいのですよね？
+> それなら、対応します。
+> もっと大変なら要相談で。
+
+はい、それで大丈夫です(まだ確認してないけどww)
+もし、不明点があれば言ってください。
+部数は 45 枚あれば大丈夫だと思います。(参加者は 42 人の予定)
+
+すごい助かります。
+
+> Jeff Patton ききたい…
+
+Day1 でも面白そうな事をやっていたので、ぜひ!!
+}}
+{{mail(imagire@gmail.com,1319155393)
+[Done] アンケートの印刷
+これで、寝坊しなければばっちりです
+}}
+{{mail(ryuzee@gmail.com,1319162016)
+全面的にサポートします。
+アンケートはいまぎれさんがやってくれたので残り。
+オープニングのスライドはあとでシェアします。
+＃DropboxのScrumBootCampフォルダの予定
+
+(11/10/20 1:39), Nishimura Naoto wrote:
+> そろそろ尻に火がついてきましたよww
+> 
+> 当日のタイムテーブルは以下でいきます。
+> 
+> 10:00 - 10:15 オープニング (席替え、自己紹介、BootCampの説明とか)
+> 10:15 - 11:45 [一限目]Scrumの概要
+> 11:45 - 13:20 昼休み
+> 13:20 - 14:50 [二限目]見積りと計画づくり
+> 15:00 - 16:30 [三限目]スプリントの過ごし方(スクラムイベントの説明)
+> 16:30 - 17:30 [HR]ふりかえり+質疑応答
+> 
+> 色々とフィードバックをいただいたのにすいません。
+> 構成を変更するほどの時間が取れなさそうなので、当初の案でいきます。
+> 昼休みに関しては、当日の状況を見ながらですが、午後の開始は 10 分程度早めようと思います。
+> その分は、休憩時間に還元していく予定っす。
+> なので、それぞれの開始時間は前後 5 分ぐらいの誤差が出そうです。
+> 
+> で、やらないといけない事としては、
+> 
+> - 資料準備、講師 ->  nawoto
+> - 備品調達 ->  nawoto
+> - オープニング ->  ryuzee
+> - 受付 ->  ryuzee
+> - 一限目サポート ->  募集中
+> - 二限目サポート ->  募集中
+> - 三限目サポート ->  募集中
+> - ふりかえり、質疑応答係 ->  募集中
+> - アンケート準備 ->  募集中
+> 
+> 募集中のところをやってくれる方を募集中でーす。
+> サポートの人がいない時間帯があるなら心の準備をするので、その時間は行けるぞって方はサインアップよろw
+> あと、アンケートが 42 部必要なんですが、ちょっと僕は用意ができなさそうなので誰か助けてください。
+> もし、アンケートが用意できなかった場合は当日、模造紙に書いてもらうメソッドを発動するので何かしらの
+> フィードバックは参加者からもらおうとは考えています。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1319164345)
+Dropboxにオープニング資料配置しました。
+特に西村さん確認をお願いします。
+Dropbox/ScrumBootCamp/第４回/ScrumBootCampInSGT2011_Agenda.pdf
+
+(11/10/21 10:53), Ryutaro YOSHIBA wrote:
+> 全面的にサポートします。
+> アンケートはいまぎれさんがやってくれたので残り。
+> オープニングのスライドはあとでシェアします。
+> ＃DropboxのScrumBootCampフォルダの予定
+> 
+> (11/10/20 1:39), Nishimura Naoto wrote:
+>> そろそろ尻に火がついてきましたよww
+>>
+>> 当日のタイムテーブルは以下でいきます。
+>>
+>> 10:00 - 10:15 オープニング (席替え、自己紹介、BootCampの説明とか)
+>> 10:15 - 11:45 [一限目]Scrumの概要
+>> 11:45 - 13:20 昼休み
+>> 13:20 - 14:50 [二限目]見積りと計画づくり
+>> 15:00 - 16:30 [三限目]スプリントの過ごし方(スクラムイベントの説明)
+>> 16:30 - 17:30 [HR]ふりかえり+質疑応答
+>>
+>> 色々とフィードバックをいただいたのにすいません。
+>> 構成を変更するほどの時間が取れなさそうなので、当初の案でいきます。
+>> 昼休みに関しては、当日の状況を見ながらですが、午後の開始は 10 分程度早めようと思います。
+>> その分は、休憩時間に還元していく予定っす。
+>> なので、それぞれの開始時間は前後 5 分ぐらいの誤差が出そうです。
+>>
+>> で、やらないといけない事としては、
+>>
+>> - 資料準備、講師 ->   nawoto
+>> - 備品調達 ->   nawoto
+>> - オープニング ->   ryuzee
+>> - 受付 ->   ryuzee
+>> - 一限目サポート ->   募集中
+>> - 二限目サポート ->   募集中
+>> - 三限目サポート ->   募集中
+>> - ふりかえり、質疑応答係 ->   募集中
+>> - アンケート準備 ->   募集中
+>>
+>> 募集中のところをやってくれる方を募集中でーす。
+>> サポートの人がいない時間帯があるなら心の準備をするので、その時間は行けるぞって方はサインアップよろw
+>> あと、アンケートが 42 部必要なんですが、ちょっと僕は用意ができなさそうなので誰か助けてください。
+>> もし、アンケートが用意できなかった場合は当日、模造紙に書いてもらうメソッドを発動するので何かしらの
+>> フィードバックは参加者からもらおうとは考えています。
+>>
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}

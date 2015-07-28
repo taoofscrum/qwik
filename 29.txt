@@ -1,0 +1,1089 @@
+* 6/16 Scrum Boot Camp東京
+{{mail(ryuzee@gmail.com,1336447379)
+劉爺です。
+
+先程マイクロソフト長沢さんから連絡をいただきまして、
+6/16(土)に品川の前回と同じ部屋をおかりできることになりました。
+ということで、東阪同時開催です！
+昨年実施したときと同じレギュレーションなので、僕のほうでこくちーず等の
+準備はしたいと思います。
+
+= 決定すべきこと
+* 講師
+　僕はやろうと思いますが、他にいますか？
+* 当日スタッフ
+* あとなんだっけ？
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1336448349)
+高江洲です。
+
+> 先程マイクロソフト長沢さんから連絡をいただきまして、
+> 6/16(土)に品川の前回と同じ部屋をおかりできることになりました。
+> ということで、東阪同時開催です！
+
+同時開催いけますかー。
+
+> = 決定すべきこと
+> * 講師
+> 　僕はやろうと思いますが、他にいますか？
+> * 当日スタッフ
+> * あとなんだっけ？
+
+サブで何かやりたいっす。
+
+とりあえずスタッフの数には入れといてください。
+}}
+{{mail(takubon@kanataku.com,1336465935)
+木村です。
+
+自分もサブでお願いします。
+}}
+{{mail(masashi.arino@gmail.com,1336466140)
+自分はお手伝いスタッフします。  
+
+--  
+Masashi Arino
+
+}}
+{{mail(miholovesq@gmail.com,1336466414)
+長沢さん素晴らしす！
+
+講師については名古屋次第でいけると思うけど、WiPは1つに制限したいので、
+今のところ手を挙げないでおきます。
+ワークのお手伝いとかはできるけどー。
+
+# 大阪も行きたいなりw
+}}
+{{mail(ryuzee@gmail.com,1336481363)
+ということで、申し込みページです。
+確認をお願いします。
+
+http://kokucheese.com/event/index/37041/
+
+みなさんのチェックを頂いた上で、長沢さんにチェックいただき、
+金曜日の10時に公開する予定です。
+
+# あと、会場借りるお礼に、TFSとかVS方面で数名分枠を用意できるといいなぁと思うのですがどうでしょ？
+
+
+2012年5月8日17:40 Miho Nagase <miholovesq@gmail.com>:
+> 長沢さん素晴らしす！
+>
+> 講師については名古屋次第でいけると思うけど、WiPは1つに制限したいので、
+> 今のところ手を挙げないでおきます。
+> ワークのお手伝いとかはできるけどー。
+>
+> # 大阪も行きたいなりw
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/29.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(changesworlds@gmail.com,1336490420)
+自分もスタッフに入れてくださいな。
+
+2012年5月8日12:22 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> 劉爺です。
+>
+> 先程マイクロソフト長沢さんから連絡をいただきまして、
+> 6/16(土)に品川の前回と同じ部屋をおかりできることになりました。
+> ということで、東阪同時開催です！
+> 昨年実施したときと同じレギュレーションなので、僕のほうでこくちーず等の
+> 準備はしたいと思います。
+>
+> = 決定すべきこと
+> * 講師
+> 　僕はやろうと思いますが、他にいますか？
+> * 当日スタッフ
+> * あとなんだっけ？
+>
+> --
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/29.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(nishimura@nawo.to,1336491936)
+2012/5/8 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> ということで、申し込みページです。
+> 確認をお願いします。
+>
+> http://kokucheese.com/event/index/37041/
+
+確認しました。
+
+とても良い感じでーす。一応、一点だけ気になった点が。
+参加者の対象が、Scrumの導入を検討とトレーニングを受けないまま実践している現場の人になってるけど、
+トレーニングを受けないは両方(導入を検討の方)にかかっていても良い気がしました。
+
+> 金曜日の10時に公開する予定です。
+
+たぶん大丈夫だと思うんだけど、fullboost の宣伝タイムの時に満席になっていると嫌なんで、夕方公開とかどう?
+# もう大阪が満席なんで両方埋まっているとガッカリ感がww
+
+> # あと、会場借りるお礼に、TFSとかVS方面で数名分枠を用意できるといいなぁと思うのですがどうでしょ？
+
+明日のスタッフミーティングの議題にしよう。
+僕としては全然オケな感じだけど。
+}}
+{{mail(nishimura@nawo.to,1336491968)
+2012/5/8 Miho Nagase <miholovesq@gmail.com>:
+> # 大阪も行きたいなりw
+
+お、いいね!!
+}}
+{{mail(chuchung@mac.com,1336497470)
+スタッフ参加に挙手
+}}
+{{mail(ryuzee@gmail.com,1336505922)
+* 申し込み開始は金曜日の16時にしました。Fullboostでの告知もよろしくです。
+* 申し込みページの文言修正は完了
+* 会場確保の持続可能性の観点から会場提供側のインセンティブは考えたいなぁということで。
+
+2012年5月9日0:45 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 2012/5/8 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>> ということで、申し込みページです。
+>> 確認をお願いします。
+>>
+>> http://kokucheese.com/event/index/37041/
+>
+> 確認しました。
+>
+> とても良い感じでーす。一応、一点だけ気になった点が。
+> 参加者の対象が、Scrumの導入を検討とトレーニングを受けないまま実践している現場の人になってるけど、
+> トレーニングを受けないは両方(導入を検討の方)にかかっていても良い気がしました。
+>
+>> 金曜日の10時に公開する予定です。
+>
+> たぶん大丈夫だと思うんだけど、fullboost の宣伝タイムの時に満席になっていると嫌なんで、夕方公開とかどう?
+> # もう大阪が満席なんで両方埋まっているとガッカリ感がww
+>
+>> # あと、会場借りるお礼に、TFSとかVS方面で数名分枠を用意できるといいなぁと思うのですがどうでしょ？
+>
+> 明日のスタッフミーティングの議題にしよう。
+> 僕としては全然オケな感じだけど。
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(harada.kiro@gmail.com,1336511180)
+あじぇんだくれーというリクエストが名古屋から来ているよん > miholovesq
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+2012年5月8日17:40 Miho Nagase <miholovesq@gmail.com>:
+> 長沢さん素晴らしす！
+>
+> 講師については名古屋次第でいけると思うけど、WiPは1つに制限したいので、
+> 今のところ手を挙げないでおきます。
+> ワークのお手伝いとかはできるけどー。
+>
+> # 大阪も行きたいなりw
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/29.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(ryuzee@gmail.com,1336568012)
+１点だけ今日のスタッフミーティングにあげておくべき話があった。
+それは、Scrum Boot Camp東京の参加費用の話で、
+とりあえず1000円って書いたけど、どうしましょうね？
+大阪や名古屋は講師の足代と宿泊費頭割りになってるけど、東京は現実問題としては
+交通費は小さい（原田さんらが関西から来る場合は別）んだけど、
+公平感や、地方との格差を普段から解消しておくかどうかとかとか。
+
+あとは長沢さんに会場おかりしたけど、会場によっては実費以上はアウトって
+ケースはあるかもしれない。
+
+2012年5月9日 4:38 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> * 申し込み開始は金曜日の16時にしました。Fullboostでの告知もよろしくです。
+> * 申し込みページの文言修正は完了
+> * 会場確保の持続可能性の観点から会場提供側のインセンティブは考えたいなぁということで。
+>
+> 2012年5月9日0:45 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> 2012/5/8 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>>> ということで、申し込みページです。
+>>> 確認をお願いします。
+>>>
+>>> http://kokucheese.com/event/index/37041/
+>>
+>> 確認しました。
+>>
+>> とても良い感じでーす。一応、一点だけ気になった点が。
+>> 参加者の対象が、Scrumの導入を検討とトレーニングを受けないまま実践している現場の人になってるけど、
+>> トレーニングを受けないは両方(導入を検討の方)にかかっていても良い気がしました。
+>>
+>>> 金曜日の10時に公開する予定です。
+>>
+>> たぶん大丈夫だと思うんだけど、fullboost の宣伝タイムの時に満席になっていると嫌なんで、夕方公開とかどう?
+>> # もう大阪が満席なんで両方埋まっているとガッカリ感がww
+>>
+>>> # あと、会場借りるお礼に、TFSとかVS方面で数名分枠を用意できるといいなぁと思うのですがどうでしょ？
+>>
+>> 明日のスタッフミーティングの議題にしよう。
+>> 僕としては全然オケな感じだけど。
+>
+>
+>
+> --
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1337728452)
+いまの状況をシェアしときます。
+
+ * MSさんに会場をお借りするお礼として参加枠を提供した5枠のうち
+　4枠が埋まりました。でそちら経由の参加者もこくちーずに登録済
+ * 現在35人だけど、大阪とあわせてあと5人増やそうと思います。意見求む。
+ * お手伝いいただけるのは、高江洲さん、木村さん、ちゃんげさん、メイドさん、ありのさん
+　に表明いただいています（抜け漏れあったら指摘よろしくです）
+ * メインは僕がしゃべろうと思いますが、ワークショップは分担でもいいかな。
+
+2012年5月9日 21:53 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> １点だけ今日のスタッフミーティングにあげておくべき話があった。
+> それは、Scrum Boot Camp東京の参加費用の話で、
+> とりあえず1000円って書いたけど、どうしましょうね？
+> 大阪や名古屋は講師の足代と宿泊費頭割りになってるけど、東京は現実問題としては
+> 交通費は小さい（原田さんらが関西から来る場合は別）んだけど、
+> 公平感や、地方との格差を普段から解消しておくかどうかとかとか。
+>
+> あとは長沢さんに会場おかりしたけど、会場によっては実費以上はアウトって
+> ケースはあるかもしれない。
+>
+> 2012年5月9日 4:38 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>> * 申し込み開始は金曜日の16時にしました。Fullboostでの告知もよろしくです。
+>> * 申し込みページの文言修正は完了
+>> * 会場確保の持続可能性の観点から会場提供側のインセンティブは考えたいなぁということで。
+>>
+>> 2012年5月9日0:45 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>>> 2012/5/8 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>>>> ということで、申し込みページです。
+>>>> 確認をお願いします。
+>>>>
+>>>> http://kokucheese.com/event/index/37041/
+>>>
+>>> 確認しました。
+>>>
+>>> とても良い感じでーす。一応、一点だけ気になった点が。
+>>> 参加者の対象が、Scrumの導入を検討とトレーニングを受けないまま実践している現場の人になってるけど、
+>>> トレーニングを受けないは両方(導入を検討の方)にかかっていても良い気がしました。
+>>>
+>>>> 金曜日の10時に公開する予定です。
+>>>
+>>> たぶん大丈夫だと思うんだけど、fullboost の宣伝タイムの時に満席になっていると嫌なんで、夕方公開とかどう?
+>>> # もう大阪が満席なんで両方埋まっているとガッカリ感がww
+>>>
+>>>> # あと、会場借りるお礼に、TFSとかVS方面で数名分枠を用意できるといいなぁと思うのですがどうでしょ？
+>>>
+>>> 明日のスタッフミーティングの議題にしよう。
+>>> 僕としては全然オケな感じだけど。
+>>
+>>
+>>
+>> --
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>
+>
+>
+> --
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(masashi.arino@gmail.com,1337739010)
+inda_reです
+
+>* 現在35人だけど、大阪とあわせてあと5人増やそうと思います。意見求む。
+いいと思います。
+箱サイズ的に問題がなければ。
+
+>* お手伝いいただけるのは、高江洲さん、木村さん、ちゃんげさん、メイドさん、ありのさん
+>　に表明いただいています（抜け漏れあったら指摘よろしくです）
+>* メインは僕がしゃべろうと思いますが、ワークショップは分担でもいいかな。
+手伝います！
+
+masashi arino
+
+
+--  
+Masashi Arino
+
+
+日付：2012年5月23日水曜日、時刻：8:14、差出人：Ryutaro YOSHIBA：
+
+> いまの状況をシェアしときます。
+>  
+> * MSさんに会場をお借りするお礼として参加枠を提供した5枠のうち
+> 　4枠が埋まりました。でそちら経由の参加者もこくちーずに登録済
+> * 現在35人だけど、大阪とあわせてあと5人増やそうと思います。意見求む。
+> * お手伝いいただけるのは、高江洲さん、木村さん、ちゃんげさん、メイドさん、ありのさん
+> 　に表明いただいています（抜け漏れあったら指摘よろしくです）
+> * メインは僕がしゃべろうと思いますが、ワークショップは分担でもいいかな。
+>  
+> 2012年5月9日 21:53 Ryutaro YOSHIBA <ryuzee@gmail.com (mailto:ryuzee@gmail.com)>:
+> > １点だけ今日のスタッフミーティングにあげておくべき話があった。
+> > それは、Scrum Boot Camp東京の参加費用の話で、
+> > とりあえず1000円って書いたけど、どうしましょうね？
+> > 大阪や名古屋は講師の足代と宿泊費頭割りになってるけど、東京は現実問題としては
+> > 交通費は小さい（原田さんらが関西から来る場合は別）んだけど、
+> > 公平感や、地方との格差を普段から解消しておくかどうかとかとか。
+> >  
+> > あとは長沢さんに会場おかりしたけど、会場によっては実費以上はアウトって
+> > ケースはあるかもしれない。
+> >  
+> > 2012年5月9日 4:38 Ryutaro YOSHIBA <ryuzee@gmail.com (mailto:ryuzee@gmail.com)>:
+> > > * 申し込み開始は金曜日の16時にしました。Fullboostでの告知もよろしくです。
+> > > * 申し込みページの文言修正は完了
+> > > * 会場確保の持続可能性の観点から会場提供側のインセンティブは考えたいなぁということで。
+> > >  
+> > > 2012年5月9日0:45 Nishimura Naoto <n-nishimura@esm.co.jp (mailto:n-nishimura@esm.co.jp)>:
+> > > > 2012/5/8 Ryutaro YOSHIBA <ryuzee@gmail.com (mailto:ryuzee@gmail.com)>:
+> > > > > ということで、申し込みページです。
+> > > > > 確認をお願いします。
+> > > > >  
+> > > > > http://kokucheese.com/event/index/37041/
+> > > >  
+> > > > 確認しました。
+> > > >  
+> > > > とても良い感じでーす。一応、一点だけ気になった点が。
+> > > > 参加者の対象が、Scrumの導入を検討とトレーニングを受けないまま実践している現場の人になってるけど、
+> > > > トレーニングを受けないは両方(導入を検討の方)にかかっていても良い気がしました。
+> > > >  
+> > > > > 金曜日の10時に公開する予定です。
+> > > >  
+> > > > たぶん大丈夫だと思うんだけど、fullboost の宣伝タイムの時に満席になっていると嫌なんで、夕方公開とかどう?
+> > > > # もう大阪が満席なんで両方埋まっているとガッカリ感がww
+> > > >  
+> > > > > # あと、会場借りるお礼に、TFSとかVS方面で数名分枠を用意できるといいなぁと思うのですがどうでしょ？
+> > > >  
+> > > > 明日のスタッフミーティングの議題にしよう。
+> > > > 僕としては全然オケな感じだけど。
+> > > >  
+> > >  
+> > >  
+> > >  
+> > >  
+> > > --
+> > > --
+> > > Ryutaro YOSHIBA / Ryuzee
+> > > Agile Coach / Certified Scrum Professional
+> > > http://www.ryuzee.com
+> > > http://twitter.com/ryuzee
+> > > --
+> > > This message contains confidential information and is intended
+> > > only for the individual named. If you are not the named addressee
+> > > you should not disseminate, distribute or copy this e-mail.
+> > > Please notify the sender immediately by e-mail if you have received
+> > > this e-mail by mistake and delete this e-mail from your system.
+> > >  
+> >  
+> >  
+> >  
+> >  
+> > --
+> > --
+> > Ryutaro YOSHIBA / Ryuzee
+> > Agile Coach / Certified Scrum Professional
+> > http://www.ryuzee.com
+> > http://twitter.com/ryuzee
+> > --
+> > This message contains confidential information and is intended
+> > only for the individual named. If you are not the named addressee
+> > you should not disseminate, distribute or copy this e-mail.
+> > Please notify the sender immediately by e-mail if you have received
+> > this e-mail by mistake and delete this e-mail from your system.
+> >  
+>  
+>  
+>  
+>  
+> --  
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>  
+> --  
+> archive-> http://qwik.jp/taoofscrum/29.html  
+> ML-> taoofscrum@qwik.jp (mailto:taoofscrum@qwik.jp)
+>  
+>  
+
+
+}}
+{{mail(takubon@kanataku.com,1337745098)
+木村です。
+
+お手伝いします。
+
+増員は良いと思います。
+40名ですか。8テーブルx5人ですね。
+スタッフ的には足りてると思います。
+
+Ryuzeeさん資料を事前に見させてもらえると助かります。
+
+アジェンダはどんな感じで考えてますか？
+
+iPhoneから送信
+}}
+{{mail(nishimura@nawo.to,1337748633)
+In <CAAZd9adVviJwj2nFH9-C8S9RcLYXcgab0CVzGeOvVBP1DOfMVw@mail.gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> いまの状況をシェアしときます。
+> 
+>  * 現在35人だけど、大阪とあわせてあと5人増やそうと思います。意見求む。
+
+大阪は頻繁に開催できないので、人数を多めにしました。
+なので、無理にあわせなくていいし、みんなのやりやすい人数で良いと思います
+}}
+{{mail(imagire@gmail.com,1339115821)
+Imagireです。
+
+ブートキャンプ用に備品を100円ショップで買い足していて、以下の用意をしています。
+・ハサミ：8挺
+・トランプ：10個(40人分)
+・ペン：50本超
+・付箋紙：400枚ぐらい（今までの残りで、きれいにそろってはいない）
+・付箋紙の大きさのメモ用紙：2400枚
+
+ポストイットはコストパフォーマンスが悪そうだったので、
+電話のメモ用のメモ用紙を購入してみました。
+模造紙を使って張り出すようでしたら、用途に合わないので、お知らせください。
+
+あとは、コピー用紙や飛行場のバミリのテープ、ゴミ袋、
+使うなら模造紙でしょうか？
+言ってくだされば調達しますので、お知らせください。
+}}
+{{mail(ryuzee@gmail.com,1339123646)
+Ryuzeeeeeeeです
+
+ありがとうございます！
+
+バックログは模造紙に貼って、みんなに見せる感じになりますので、
+やはり付箋が良いですね。すいません。
+その他に必要なもの
+・模造紙：8枚
+・紙飛行機用のコピー用紙：500枚入り×2
+・紙飛行機片づけ用のゴミ袋：1 or 2
+
+こちらについては僕が調達して持っていきます。
+}}
+{{mail(imagire@gmail.com,1339124248)
+Imagireです。
+
+了解です。
+付箋紙を調達しておきます。
+100枚×8テーブル×3色で2400枚ぐらい調達します。
+
+2012年6月8日 11:47 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+
+> Ryuzeeeeeeeです
+>
+> ありがとうございます！
+>
+> バックログは模造紙に貼って、みんなに見せる感じになりますので、
+> やはり付箋が良いですね。すいません。
+> その他に必要なもの
+> ・模造紙：8枚
+> ・紙飛行機用のコピー用紙：500枚入り×2
+> ・紙飛行機片づけ用のゴミ袋：1 or 2
+>
+> こちらについては僕が調達して持っていきます。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/29.html
+> ML-> taoofscrum@qwik.jp
+>
+
+
+
+-- 
+今給黎 隆 Takashi Imagire
+e-mail:imagire@gmail.com
+http://t-pot.com/
+}}
+{{mail(ryuzee@gmail.com,1339124441)
+さすがにそんなに沢山はいらない気がします。
+８チーム×（バックログ：５０個＋タスク５０個＋質問とかで５０個）とすると1200枚
+半分でいいんじゃないですかね？
+
+2012年6月8日 11:57 imagire takashi <imagire@gmail.com>:
+> Imagireです。
+>
+> 了解です。
+> 付箋紙を調達しておきます。
+> 100枚×8テーブル×3色で2400枚ぐらい調達します。
+>
+> 2012年6月8日 11:47 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>>
+>> Ryuzeeeeeeeです
+>>
+>> ありがとうございます！
+>>
+>> バックログは模造紙に貼って、みんなに見せる感じになりますので、
+>> やはり付箋が良いですね。すいません。
+>> その他に必要なもの
+>> ・模造紙：8枚
+>> ・紙飛行機用のコピー用紙：500枚入り×2
+>> ・紙飛行機片づけ用のゴミ袋：1 or 2
+>>
+>> こちらについては僕が調達して持っていきます。
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/29.html
+>> ML-> taoofscrum@qwik.jp
+>
+>
+>
+>
+> --
+> 今給黎 隆 Takashi Imagire
+> e-mail:imagire@gmail.com
+> http://t-pot.com/
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(imagire@gmail.com,1339127345)
+了解しました
+}}
+{{mail(kimura.kanataku@gmail.com,1339206369)
+たくぼんです。
+
+主にryuzee さん
+
+ScrumBootCamp東京について内容およびマテリアルについて確認させて下さい。
+
+■タイムテーブルを教えて下さい。
+
+■サブの進め方
+192ページのワークショップから224ページのバーンダウンチャートまでの
+ワークショップを担当することでOK?
+
+■マテリアルの内容について
+196ページのカードを使った例では、何を伝える
+
+213ページのスプリントバックログのページの内容の確認
+・これは日々の進捗を現していると言う認識でOK?
+・月曜日に見積もりを行ってタスクの理想時間が出た。
+・UIのコーディングが火曜日に実施して残時間が４時間に減ったが、
+水曜日に実施した際に、何かの要因で、残時間が８時間になった。
+・Fooクラスを書くタスクは、未着手
+
+215ページ
+このタスクにおけるSMARTは ryuzee さんオリジナル？
+Time-boxed 達成可能な時間で見積もられる事。大きい場合は分割しよう
+の方がしっくりくるのですが。
+
+217ページ
+１つの例外をのぞいて0.5時間以下のタスクを作らないとありますが、
+例外とは何ですか？
+
+218ページ
+タスクの付箋を革新しようとありますが、具体的にどのような事でしょうか？
+}}
+{{mail(ryuzee@gmail.com,1339209187)
+＃引用多くてすまぬ
+
+- タイムテーブル（変更する場合があります）
+10:00-10:15	 前説
+10:15-11:00	 Agile基礎
+11:00-12:00	 ワークショップ（繰り返し型開発プロセス）
+13:00-14:00	 Scrum基礎
+14:00-15:00	プロダクトバックログ演習
+15:00-16:00	 スプリント計画演習
+16:00-17:00	 Scrumおよびアジャイルのその他のトピック（品質、テスト自動化）
+17:00-18:00	 ふりかえり、質疑応答
+
+> ■サブの進め方
+> 192ページのワークショップから224ページのバーンダウンチャートまでの
+> ワークショップを担当することでOK?
+
+→OKです。
+
+> ■マテリアルの内容について
+> 196ページのカードを使った例では、何を伝える
+
+→「こんな感じ」で構わないです。
+　というかこのページは差し替える可能性大。
+
+> 213ページのスプリントバックログのページの内容の確認
+> ・これは日々の進捗を現していると言う認識でOK?
+> ・月曜日に見積もりを行ってタスクの理想時間が出た。
+> ・UIのコーディングが火曜日に実施して残時間が４時間に減ったが、
+> 水曜日に実施した際に、何かの要因で、残時間が８時間になった。
+> ・Fooクラスを書くタスクは、未着手
+
+→OK。このやりかたはMike Cohn流ですね。
+
+> 215ページ
+> このタスクにおけるSMARTは ryuzee さんオリジナル？
+> Time-boxed 達成可能な時間で見積もられる事。大きい場合は分割しよう
+> の方がしっくりくるのですが。
+
+→オリジナルじゃないです。
+　http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/
+　を参照。
+
+> 217ページ
+> １つの例外をのぞいて0.5時間以下のタスクを作らないとありますが、
+> 例外とは何ですか？
+
+→なんだと思います？
+　通常貼らないタスクってどういうタスクでしょう？
+　サイズに関係なく貼っておかないとまずいタスクはなんでしょう？
+
+> 218ページ
+> タスクの付箋を革新しようとありますが、具体的にどのような事でしょうか？
+
+→付箋に書き方もどんどん変わって行きませんか？
+　レイアウトや書き方、書く内容、取り扱い方・・・・・
+}}
+{{mail(ryuzee@gmail.com,1339285974)
+Ryuzeeです。
+
+いよいよ次の土曜日開催です。
+ということで、マイクロソフトさんに入館者の申請をします。
+ScrumBootCampの参加者については僕が管理していますが、
+サブやお手伝いの皆さんについても僕から申請します。
+
+お手数ですが、フルネームと会社名教えてください。
+
+高江洲さん、木村さん、いまぎれさんは知ってますので、
+ちゃんげさん、メイドさん、ありのさんは、お手数ですが、
+ご連絡くださいませ。
+
+他に誰かいらっしゃいますか？
+}}
+{{mail(masashi.arino@gmail.com,1339296979)
+いんだれです  
+> お手数ですが、フルネームと会社名教えてください。
+>  
+>  
+
+
+メールで送っておきました 、よろしくお願いします。
+
+
+}}
+{{mail(ryuzee@gmail.com,1339320623)
+Ryuzeeです。
+
+以下でアナウンスメール出す予定です。
+気になる点あれば指摘を。
+なお、受付を９時半開始にしますので、スタッフは９時丁度に２Fの入り口でお願いします。
+そのタイミングでMS長沢さんから入館証一式を受け取ります。
+なお、９時半から１０時まで、Scrum Boot Campの来場者に入館証を渡す仕事がありますので
+自己組織的に対応できればと思いますー。
+なので、何枚か案内用の紙印刷しとくとよいかもしれないですね。
+
+---- ここから ----
+
+*******************************************************************
+本メールはScrum Boot Camp東京へ参加申込みされた方にBCCで一斉送信
+させていただいております。
+本メールに心当たりのない方は大変お手数ですが、ryuzee+sbc@gmail.com
+までご一報くださいますようお願いいたします。
+*******************************************************************
+
+Scrum Boot Camp東京にお申し込みいただきありがとうございました。
+ご存知の通り、Scrum Boot Camp東京は今週末6月16日(土)に開催いたします。
+
+本メールでは開催に際して、いくつか皆様にご案内をさせていただきます。
+以下長文になりますが、内容をご確認いただき、ご不明な点がありましたら
+ご連絡くださいますようお願いいたします。
+
+また既に当日ご都合が悪く欠席を予定されている方が居らっしゃいましたら
+お手数ですがその旨早めにご連絡ください。キャンセル待ちをされている方が
+いらっしゃいますのでご配慮いただければ幸いです。
+
+1. 開催日時
+
+　　6月16日(土) 10:00コース開始
+
+　　参加者の方の受付は9:30より開始いたします。10:00よりコースを
+　　開始いたしますので余裕をもってお越しください。
+
+　　万一当日遅刻される場合や急遽欠席される場合はお手数ですが、
+　　Twitterで#scrumbcタグを付けてツイートをお願いいたします。
+
+2. 会場について
+
+　　日本マイクロソフト株式会社様 会議室
+　　〒108-0075 東京都港区港南 2-16-3 品川グランドセントラルタワー
+　　31F大会議室
+　　地図については下記をご参照ください。
+　　http://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx
+
+　　なお、ビルの入り口は2Fになります。
+　　入館証は、2階にてマイクロソフトの社員の方からお一人おひとりに
+　　お渡します。
+　　※一時退出（お昼ご飯など）時は入館証を返却しないようご注意ください
+　　（再入出できなくなります）
+　　※退出時は、投函ボックスに入館証をご返却ください。
+　　※入館証は、常に見える位置に身に着けてください。
+
+　　なお、入館に際してはマイクロソフトの社員の方ならびにスクラム道スタッフの
+　　誘導指示に従っていただきますようお願いいたします。
+　　また講習場所以外の会議室やフロアへの立ち入りはご遠慮ください。
+
+3. 費用について
+
+　　コース内で利用する文具類についてはお申し込みの際にご案内している
+　　通り実費分のご負担をお願いします。
+　　金額は500円の予定です。
+　　当日受付にて頂戴いたしますので、小銭のご用意をお願いします。
+
+4. 事前準備について
+
+　　お時間に余裕のある方は事前準備として以下の無料リソースをご一読頂くことを
+　　オススメします。
+
+　　Scrum Guide
+　　　http://www.scrum.org/scrumguides/　　（中段に日本語版があります）
+　　塹壕よりScrumとXP
+　　　http://www.infoq.com/jp/minibooks/scrum-xp-from-the-trenches
+
+5. その他
+
+  ・筆記用具をお持ちください。
+　・演習中はパソコンの利用はご遠慮ください。
+　・座席については、こちらでシャッフルさせていただきます。
+　・当日は写真撮影をさせていただく予定です。予めご了承ください。
+　・館内への食事の持ち込みはご遠慮ください。飲み物は問題ありません。
+　・コース終了後にアンケートへの回答をお願いします。コースをより良くするため
+　　ご協力ください。
+
+以上、よろしくお願いいたします。
+}}
+{{mail(changesworlds@gmail.com,1339337272)
+ちぇんわです。
+
+メール送信致しました。
+
+よろしくお願いします。
+}}
+{{mail(ryuzee@gmail.com,1339573939)
+Ryuzeeです。
+
+MSさんへの入館の申請および入館証の取得が完了しました＞長沢さんに感謝！
+
+当日は９時半から受付開始ですが、スタッフの方は９時に品川MSの２F玄関に
+集合くださいませ。
+そこで長沢さんから全員分の入館証を受け取り、その上で、9:20くらいから2Fで
+案内用の紙を持つなどして参加者に入館証を渡してください。（記名方式ですので
+本人の名前を確認の上での引換になります）
+
+正式な受付は31Fのセミナールームの中で行います。
+名簿については私の方で印刷していきます。
+
+ということで他になにか気になる点があればご指摘くださいませ。
+}}
+{{mail(masashi.arino@gmail.com,1339574958)
+いんだれです。
+
+>案内用の紙を持つなどして参加者に入館証を渡してください。
+
+Scrum Boot Camp  
+入館証受付
+
+と印刷した紙を数枚持っていきますね。
+}}
+{{mail(ryuzee@gmail.com,1339575193)
+ありがとうございます。
+
+ちょーーー格好いいやつでよろしくお願いします！
+
+> Scrum Boot Camp
+> 入館証受付
+>
+> と印刷した紙を数枚持っていきますね。
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(masashi.arino@gmail.com,1339575220)
+らじゃ！  
+
+}}
+{{mail(masashi.arino@gmail.com,1339578350)
+いんだれです。
+
+とりあえず3枚。
+B5横印刷想定で。
+
+https://picasaweb.google.com/109614676050490730992/SBCTokyo?authuser=0&feat=directlink
+}}
+{{mail(miholovesq@gmail.com,1339579220)
+オンラインアンケート作ったのでレビューよろ。
+項目はいつものとおり。
+http://jp.surveymonkey.com/s.aspx?PREVIEW_MODE=DO_NOT_USE_THIS_LINK_FOR_COLLECTION&sm=cyLgas5GSitX6YLtOkxkaDPxDudpAJ6y5fX9xCo8fOc%3d
+
+東京大阪を選択式にしたけど、別にして項目を変えることもできます。
+}}
+{{mail(nishimura@nawo.to,1339681889)
+In <CAPG=6LZ=x=bYOx39nYdXcLRzYPFhk9Ab2Fgfue_kN6yKv7GdCw@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> オンラインアンケート作ったのでレビューよろ。
+
+ありがとうありがとう!!
+確認しました。
+
+なんか内容のとこを全部良かったにできないんだけど、俺の環境だけかいな?
+あと、完了の後の画面が出ないのね。ちょっとビックリしたw
+
+> 項目はいつものとおり。
+
+とりあえず、項目はいつもどおりでいきますか。
+
+> http://jp.surveymonkey.com/s.aspx?PREVIEW_MODE=DO_NOT_USE_THIS_LINK_FOR_COLLECTION&sm=cyLgas5GSitX6YLtOkxkaDPxDudpAJ6y5fX9xCo8fOc%3d
+
+短かくした!!
+
+http://svy.mk/scrumbc20120616
+
+> 東京大阪を選択式にしたけど、別にして項目を変えることもできます。
+
+まずは、このままで!!
+}}
+{{mail(ryuzee@gmail.com,1339760766)
+修正Done。
+
+でもってプレビュー用のリンクを短縮しちゃってるぞ＞nawoto
+
+あらためてこちらのURLを短縮してください。
+http://www.surveymonkey.com/s/BVGT2DQ
+
+
+2012年6月14日 22:51 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CAPG=6LZ=x=bYOx39nYdXcLRzYPFhk9Ab2Fgfue_kN6yKv7GdCw@mail.gmail.com>,
+> Miho Nagase <miholovesq@gmail.com> wrote:
+>
+>> オンラインアンケート作ったのでレビューよろ。
+>
+> ありがとうありがとう!!
+> 確認しました。
+>
+> なんか内容のとこを全部良かったにできないんだけど、俺の環境だけかいな?
+> あと、完了の後の画面が出ないのね。ちょっとビックリしたw
+>
+>> 項目はいつものとおり。
+>
+> とりあえず、項目はいつもどおりでいきますか。
+>
+>> http://jp.surveymonkey.com/s.aspx?PREVIEW_MODE=DO_NOT_USE_THIS_LINK_FOR_COLLECTION&sm=cyLgas5GSitX6YLtOkxkaDPxDudpAJ6y5fX9xCo8fOc%3d
+>
+> 短かくした!!
+>
+> http://svy.mk/scrumbc20120616
+>
+>> 東京大阪を選択式にしたけど、別にして項目を変えることもできます。
+>
+> まずは、このままで!!
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/29.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1339764674)
+> あらためてこちらのURLを短縮してください
+
+明日の朝までには短縮して連絡するわ
+}}
+{{mail(nishimura@nawo.to,1339776270)
+2012/6/15 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>
+>> あらためてこちらのURLを短縮してください
+
+短縮した!!
+
+http://svy.mk/scrumbc201206
+
+末尾の16を消したURLっす。
+すまんが東京組も朝イチで修正よろ
+}}
+{{mail(ryuzee@gmail.com,1339789236)
+確認＆修正Done
+
+>>> あらためてこちらのURLを短縮してください
+>
+> 短縮した!!
+>
+> http://svy.mk/scrumbc201206
+>
+> 末尾の16を消したURLっす。
+> すまんが東京組も朝イチで修正よろ
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}

@@ -1,0 +1,118 @@
+* Fwd: 【開催直前】Scrum Boot Camp 東京に関するお知らせ
+{{mail(ryuzee@gmail.com,1339513780)
+以下情報共有。
+参加者あてにメール発信済です！
+
+
+---------- 転送メッセージ ----------
+From: Ryutaro YOSHIBA <ryuzee@gmail.com>
+日付: 2012年6月13日 0:07
+件名: 【開催直前】Scrum Boot Camp 東京に関するお知らせ
+To: ryuzee+sbc@gmail.com
+
+
+*******************************************************************
+本メールはScrum Boot Camp東京へ参加申込みされた方にBCCで一斉送信
+させていただいております。
+本メールに心当たりのない方は大変お手数ですが、ryuzee+sbc@gmail.com
+までご一報くださいますようお願いいたします。
+*******************************************************************
+
+Scrum Boot Camp東京にお申し込みいただきありがとうございました。
+ご存知の通り、Scrum Boot Camp東京は今週末6月16日(土)に開催いたします。
+
+本メールでは開催に際して、いくつか皆様にご案内をさせていただきます。
+以下長文になりますが、内容をご確認いただき、ご不明な点がありましたら
+ご連絡くださいますようお願いいたします。
+
+また既に当日ご都合が悪く欠席を予定されている方が居らっしゃいましたら
+お手数ですがその旨早めにご連絡ください。キャンセル待ちをされている方が
+いらっしゃいますのでご配慮いただければ幸いです。
+
+1. 開催日時
+
+　　6月16日(土) 10:00コース開始
+
+　　参加者の方の受付は9:30より開始いたします。10:00よりコースを
+　　開始いたしますので余裕をもってお越しください。
+
+　　万一当日遅刻される場合や急遽欠席される場合はお手数ですが、
+　　Twitterで#scrumbcタグを付けてツイートをお願いいたします。
+
+2. 会場について
+
+　　日本マイクロソフト株式会社様 会議室
+　　〒108-0075 東京都港区港南 2-16-3 品川グランドセントラルタワー
+　　31F大会議室
+　　地図については下記をご参照ください。
+　　http://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx
+
+　　なお、ビルの入り口は2Fになります。
+　　入館証は、2階にてマイクロソフトの社員の方からお一人おひとりに
+　　お渡します。
+　　※一時退出（お昼ご飯など）時は入館証を返却しないようご注意ください
+　　（再入出できなくなります）
+　　※退出時は、投函ボックスに入館証をご返却ください。
+　　※入館証は、常に見える位置に身に着けてください。
+
+　　なお、入館に際してはマイクロソフトの社員の方ならびにスクラム道スタッフの
+　　誘導指示に従っていただきますようお願いいたします。
+　　また講習場所以外の会議室やフロアへの立ち入りはご遠慮ください。
+
+3. 費用について
+
+　　コース内で利用する文具類についてはお申し込みの際にご案内している
+　　通り実費分のご負担をお願いします。
+　　金額は500円の予定です。
+　　当日受付にて頂戴いたしますので、小銭のご用意をお願いします。
+
+4. 事前準備について
+
+　　お時間に余裕のある方は事前準備として以下の無料リソースをご一読頂くことを
+　　オススメします。
+
+　　Scrum Guide
+　　　http://www.scrum.org/scrumguides/　　（中段に日本語版があります）
+　　塹壕よりScrumとXP
+　　　http://www.infoq.com/jp/minibooks/scrum-xp-from-the-trenches
+
+5. その他
+
+ ・筆記用具をお持ちください。
+　・演習中はパソコンの利用はご遠慮ください。
+　・座席については、こちらでシャッフルさせていただきます。
+　・当日は写真撮影をさせていただく予定です。予めご了承ください。
+　・館内への食事の持ち込みはご遠慮ください。飲み物は問題ありません。
+　・コース終了後にアンケートへの回答をお願いします。コースをより良くするため
+　　ご協力ください。
+
+以上、よろしくお願いいたします。
+
+
+--
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}

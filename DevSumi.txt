@@ -1,0 +1,1454 @@
+* デブサミ
+
+- 当日朝から来れる人 : ryuzee, miholovesq, takaesu0,(tw_takubon)
+- チケットがいる人: nawoto(夜のみの予定)
+- OpenJam担当 : 15分枠です。
+- LT担当 → LTはありません。
+- Scrum To Go やる人 : miholovesq, ryuzee, takaesu0
+
+{{mail(nishimura@nawo.to,1341544042)
+夏サミ用にスレ立てた。
+僕はいけないっぽいので、あとはまかせたぞ!!
+
+決まっているのは、以下。
+
+- ブースがだせる
+- パスが三枚もらえる
+- コミュニティLTで話せる
+- ブースで Scrum To Go をやる
+
+POの希望としては、コミュニティLTで10月の道ギャザリングの宣伝っぽい事をお願いしたいっす.
+それと、パーティーに間にあったらで、パスを一枚もらえると嬉しい。
+
+で一番大切な事がww せっかく新ロゴができたので、夏サミ向けに缶バッジとかのグッズをつくろうぜ!!
+近日中にデータ(画像とイラレ)はもらえそうなので、どなたか缶バッジに詳しい方はおられますかー?
+}}
+{{mail(ryuzee@gmail.com,1341544183)
+とりあえず任されたので安心してください！ｗ
+}}
+{{mail(harada.kiro@gmail.com,1341545366)
+別件で、缶バッジはここで頼んでみようかと検討中。
+＃ロゴがまだできてない。
+まあ、小さいのの最小ロットで 2000円くらいなので。
+
+http://www.secondpress.us/
+--
+原田騎郎
+
+
+
+2012/7/6 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> とりあえず任されたので安心してください！ｗ
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/DevSumi.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(nishimura@nawo.to,1341551744)
+2012/7/6 Kiro HARADA <harada.kiro@gmail.com>:
+> まあ、小さいのの最小ロットで 2000円くらいなので。
+>
+> http://www.secondpress.us/
+
+おぉ、これは良い!! 早速頼んじゃおうかなww
+何個ぐらいがいいかな? 300個もあれば当面大丈夫かな?
+Imagireメンバーのおこづかいを使おうww
+}}
+{{mail(imagire@gmail.com,1341571656)
+Imagireです。
+オレのおこずかいじゃね～
+金額をわかるようにしていただければ、適当なときにお金はお渡しします。
+scrum boot camp の卒業記念品みたいな感じで渡せるようになると、
+楽しいかもしれませんね。
+}}
+{{mail(nishimura@nawo.to,1341635804)
+2012/7/6 imagire takashi <imagire@gmail.com>:
+> オレのおこずかいじゃね?
+
+まちがえたww
+
+> 金額をわかるようにしていただければ、適当なときにお金はお渡しします。
+
+らじゃ!!
+データを貰え次第、動こうと思います。
+
+> scrum boot camp の卒業記念品みたいな感じで渡せるようになると、
+> 楽しいかもしれませんね。
+
+ああ、これはいいかも。
+tddbc のバンドみたいな感じやね
+}}
+{{mail(ryuzee@gmail.com,1342096580)
+>夏サミ詳細
+>
+>以下翔泳社さんからご案内をいただいたので共有。
+>7/27(金)です。
+>僕は朝からいく予定。参戦される方は表明してくださいませ。
+>
+>あとオープンジャム15分。どうしよう？
+>
+>---
+>
+>この度は、Developers [Social Enterprise] Summit（以下夏サミ）に
+>ご参加いただき、ありがとうございます。
+>
+>お待たせしておりましたブース、LT枠などが決定いたしましたのでご案内いたします。
+>
+>====================================================
+>■コミュニティブースについて
+>====================================================
+>出展希望多数のため、冬のデブサミ同様、1つの机に2つのコミュニティとさせていただきました。
+>まずは組み合わせをご報告いたします。
+>マニュアルを連休明けにお送りする予定ですので、ブース位置は、その際にご確認ください。
+>IDパスは、当日会場内にある関係者受付にて1団体5名様までIDパスをお渡しします。
+>（こちらのパスで全セッション参加可能です。）
+>
+>・準備時間8:30～10:30
+>・展示時間10：30～16：30
+>
+>※16時30分～懇親会会場設営のためブースは撤去となります。ご了承ください。
+>
+>-------------------------
+>ITエースをねらえプロジェクト
+>アジャイルUCD研究会
+>-------------------------
+>O-One
+>codeseek
+>-------------------------
+>Coworking JP
+>JAWS-UG
+>-------------------------
+>すくすくスクラム
+>スクラム道
+>-------------------------
+>TFSUG
+>DecLOVE
+>-------------------------
+>日本App Inventorユーザー会
+>日本Grails/Groovyユーザーグループ
+>-------------------------
+>日本Jenkinsユーザー会
+>
+>====================================================
+>■ビアバッシュパーティーでのLT発表
+>====================================================
+>●ビアバッシュパーティー
+>場所：ホワイエ
+>時間：17：30～19：00
+>発表時間は5分
+>PCは自前でお願いします。LANは無線です。
+>
+>●講演順（18時頃から）
+>社内Twitter研究会
+>ITエースを狙えプロジェクト
+>アジャイルUCD研究会
+>CoworkingJPプロジェクト
+>Herokai or Force.com meetup
+>
+>====================================================
+>■Open Jamについて
+>====================================================
+>●OpenJamとは
+>・正式なセッション枠とは別に、コミュニティブース脇のオープンスペースで展開する小規模なセッション空間です。
+>・質疑応答やデモンストレーション、実験的なセッションをやってみる...などに最適です。
+>　ぜひ皆さんの熱意で会場を盛り上げてください！
+>・セッション時間は15分
+>・参加者は10名を目安に。それ以上集まってしまった場合は、通行の妨げになりますので、中止していただくぐらい
+>　の覚悟でお願いします。なお、参加者の誘導・整理はセッション開催者でお願いいたします。
+>・設備は、プロジェクタ、スクリーン、ホワイトボード、無線LAN、椅子5脚です。PCは自前でお願いします。
+>・撮影、ustream配信などはセッション開催者判断で行ってください。尚、撮影機材の提供はありません。
+>プライバシー保護のため、来場者を許可なく撮影することはしないで下さい。
+>
+>●講演順
+>Jenkins　12：45-13：05
+>日本Apps Inventorユーザー会　13:15-13:30
+>DevLOVE　13:40-13:55
+>Codeseek　14:00-14:15
+>JAWS-UG　14:25-14:40
+>O-One　14:50-15:05
+>TFSUG　15:15-15:30
+>スクラム道　15:40-15:55
+>
+>それでは、夏サミでお会いできることを心より楽しみにしております！
+>どうぞよろしくお願いします。
+}}
+{{mail(masashi.arino@gmail.com,1342097795)
+いんだれです。
+終わったあとの打ち上げに行きたいですが、
+現在それも行けるか不明っす。。。
+}}
+{{mail(kimura.kanataku@gmail.com,1342100145)
+木村＠たくぼんです。
+
+研修の日がずれたので行けそうな雰囲気です（まだ確定じゃない。。。）
+
+オープンジャムはスクラム道紹介をする感じ？？？
+}}
+{{mail(miholovesq@gmail.com,1342100548)
+私も朝の準備から行けるよー
+
+ただしふつーに申し込んじゃった
+(これはこれでいいのかなw)
+}}
+{{mail(chuchung@mac.com,1342100995)
+めいどです。
+
+朝から参加の予定です。
+}}
+{{mail(takaesu0@gmail.com,1342101685)
+高江洲です。
+
+参加予定です。
+
+後で申し込んどこー。
+}}
+{{mail(nishimura@nawo.to,1342159674)
+Wikiに朝来る人をまとめるといいかも。
+って事で欄だけは用意したのでよければ使ってください。
+}}
+{{mail(miholovesq@gmail.com,1342355681)
+2012年7月13日 15:07 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> Wikiに朝来る人をまとめるといいかも。
+> って事で欄だけは用意したのでよければ使ってください。
+
+サインアップしといた。
+}}
+{{mail(miholovesq@gmail.com,1343020593)
+Scrum To Goのエプロン役やる人ってだーれ？
+私はやるつもりー。
+
+あと配布用グッズと、Scrum To Goのタイムテーブルを作るためのセットを持って行きます。
+タイムテーブルは模造紙にペンで枠を書いて、大きめの付箋紙使ってサインアップしてもらえば
+いいかなーと思っております。
+（ホワイトボードなさそうだし）
+
+--
+Miho Nagase
+http://twitter.com/miholovesq
+}}
+{{mail(miholovesq@gmail.com,1343136058)
+# 再ポスト
+みーたんだお。
+
+出展コミュニティ用マニュアルp.14に追加備品について記載があるのだけど、「パネルは
+別途オプションのパーテーションをお申し込みいただくと提?可能となります」だそう。
+Scrum To Goをやるのであればパネルがあると良いと思うけどどうかな。
+# なくてもできるっちゃあできるけどアピール的に
+
+ブースは10:30オープンですね。
+p.15に「9:15～9:45は、ご来場者の受付がおこなわれますので、ブース設営はできません」
+とあるので、9:45に行きゃあいい十分じゃないかと思ってます。
+
+OpenJamでは
+・スクラム道自体の宣伝 (コミュニティブース出すの初めてだし)
+・道ギャザリングの宣伝 (明日の道ギャザキックオフでなんか決まるはず)
+・Scrum Boot Camp本の宣伝
+なんてのはどうでしょうか。
+}}
+{{mail(nishimura@nawo.to,1343191663)
+夏サミはみんなに任せたぞww!!
+
+一応 PO の期待を言っておくと、これはスクラム道の宣伝活動の一環です。
+各メンバーの人脈とか広がるといいなー。
+道全体としては以下を期待しています。
+- スクラム道を知ってもらう。デブサミクラスターにはあまり知られていないと思うので
+- 道ギャザの集客!! かなり重要ww あとで宣伝スライドを道ギャザのスレに流します
+- ScrumBootCamp本の布石。こっちは発売が先なんで知ってもらう事が大事かな。宣伝スライドは俺のブログにある!!
+
+> Scrum To Goをやるのであればパネルがあると良いと思うけどどうかな。
+
+あるといいねー。
+バッジと宣伝スライドを印刷したやつとか貼れるといいかも (by 鶏)
+
+> OpenJamでは
+> ・スクラム道自体の宣伝 (コミュニティブース出すの初めてだし)
+> ・道ギャザリングの宣伝 (明日の道ギャザキックオフでなんか決まるはず)
+> ・Scrum Boot Camp本の宣伝
+
+それでOKっす。
+OpenJam なんで、宣伝の後にディスカッションとかできるといいね (by 鶏)
+}}
+{{mail(ryuzee@gmail.com,1343209608)
+Ryuzeeです。
+オプションの備品申込書っていうのがそもそも来てない予感ｗ。
+ということで、たとえば、発砲スチロールの薄いボードみたいなやつ買って
+持って行くとよいかもなあ。
+あとはなんかチラシ作ったりしますか？？
+
+2012年7月24日 22:20 Miho Nagase <miholovesq@gmail.com>:
+> # 再ポスト
+> みーたんだお。
+>
+> 出展コミュニティ用マニュアルp.14に追加備品について記載があるのだけど、「パネルは
+> 別途オプションのパーテーションをお申し込みいただくと提?可能となります」だそう。
+> Scrum To Goをやるのであればパネルがあると良いと思うけどどうかな。
+> # なくてもできるっちゃあできるけどアピール的に
+>
+> ブースは10:30オープンですね。
+> p.15に「9:15～9:45は、ご来場者の受付がおこなわれますので、ブース設営はできません」
+> とあるので、9:45に行きゃあいい十分じゃないかと思ってます。
+>
+> OpenJamでは
+> ・スクラム道自体の宣伝 (コミュニティブース出すの初めてだし)
+> ・道ギャザリングの宣伝 (明日の道ギャザキックオフでなんか決まるはず)
+> ・Scrum Boot Camp本の宣伝
+> なんてのはどうでしょうか。
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1343268665)
+2012年7月25日 18:46 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> オプションの備品申込書っていうのがそもそも来てない予感ｗ。
+> ということで、たとえば、発砲スチロールの薄いボードみたいなやつ買って
+> 持って行くとよいかもなあ。
+
+なんかしら誰かよろ…
+
+> あとはなんかチラシ作ったりしますか？？
+
+個人的にはいらない気もするけど、とりあえず手がまわらないのでまかせたw
+}}
+{{mail(nishimura@nawo.to,1343273322)
+2012/7/26 Miho Nagase <miholovesq@gmail.com>:
+> なんかしら誰かよろ…
+>
+>> あとはなんかチラシ作ったりしますか？？
+>
+> 個人的にはいらない気もするけど、とりあえず手がまわらないのでまかせたw
+
+こんな感じか?
+
+1. 宣伝スライド(道ギャザ、ScrumBC本)を大量に印刷してチラシとして配る
+2. 宣伝スライドを一部づつ印刷してブースに目立つようにはっておく
+3. PCで何か映しておく
+
+2 までできていたら、十分過ぎる感じかなー (by 鶏)
+}}
+{{mail(ryuzee@gmail.com,1343289373)
+とりあえずできるかぎり頑張ります。
+スライドは作り中！
+
+あと、だれか電源タップを持ってきてもらえませんか？
+＞名乗りをあげてくれるとうれしい
+
+2012年7月26日 12:28 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 2012/7/26 Miho Nagase <miholovesq@gmail.com>:
+>> なんかしら誰かよろ…
+>>
+>>> あとはなんかチラシ作ったりしますか？？
+>>
+>> 個人的にはいらない気もするけど、とりあえず手がまわらないのでまかせたw
+>
+> こんな感じか?
+>
+> 1. 宣伝スライド(道ギャザ、ScrumBC本)を大量に印刷してチラシとして配る
+> 2. 宣伝スライドを一部づつ印刷してブースに目立つようにはっておく
+> 3. PCで何か映しておく
+>
+> 2 までできていたら、十分過ぎる感じかなー (by 鶏)
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(chuchung@mac.com,1343289766)
+NUBoardを持って行きます(使う？)。
+あと団扇？ｗ
+}}
+{{mail(kimura.kanataku@gmail.com,1343291083)
+木村です。
+
+> あと、だれか電源タップを持ってきてもらえませんか？
+> ＞名乗りをあげてくれるとうれしい
+
+しょぼいので良ければ持って行きます。
+（しっかりしたOAタップでは無い)
+}}
+{{mail(miholovesq@gmail.com,1343302230)
+劉爺ワークありがとう！
+団扇は会社に置いてきたw
+
+Scrum to Goといえば100均でエプロン買ったったw
+
+明日は9時45分入り目指して行きまーす。
+よろしくお願いします。
+}}
+{{mail(uedayo@gmail.com,1343306097)
+うえだです。
+
+> あと、だれか電源タップを持ってきてもらえませんか？
+> ＞名乗りをあげてくれるとうれしい
+しょぼいの追加で持ってきます。
+長さ足んないとかあるかもしれないので。
+
+10:00 までに会場入り目標。
+}}
+{{mail(ryuzee@gmail.com,1343309838)
+とりあえずOpenJam用の資料作って以下においておいた。
+https://dl.dropbox.com/u/428597/DevSumi_OpenJam.pdf
+俺になにかあったら誰か頼みます。
+＃SGTの話も入れさせてもらったが許してね＞PO
+
+適当に各スライドはプリントアウトしとくつもり。
+
+2012年7月26日 20:30 Miho Nagase <miholovesq@gmail.com>:
+> 劉爺ワークありがとう！
+> 団扇は会社に置いてきたw
+>
+> Scrum to Goといえば100均でエプロン買ったったw
+>
+> 明日は9時45分入り目指して行きまーす。
+> よろしくお願いします。
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1343313184)
+さらに配布用資料も作っておきました。
+https://dl.dropbox.com/u/428597/DevSumi_Distribution.pdf
+
+で、お願い。
+どなたか性能の良いプリンタお持ちの方は（というかプリンタお持ちで明日参加される方は）
+ひとり10枚くらいプリントしていただけないですかね。。。
+
+2012年7月26日 22:37 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> とりあえずOpenJam用の資料作って以下においておいた。
+> https://dl.dropbox.com/u/428597/DevSumi_OpenJam.pdf
+> 俺になにかあったら誰か頼みます。
+> ＃SGTの話も入れさせてもらったが許してね＞PO
+>
+> 適当に各スライドはプリントアウトしとくつもり。
+>
+> 2012年7月26日 20:30 Miho Nagase <miholovesq@gmail.com>:
+>> 劉爺ワークありがとう！
+>> 団扇は会社に置いてきたw
+>>
+>> Scrum to Goといえば100均でエプロン買ったったw
+>>
+>> 明日は9時45分入り目指して行きまーす。
+>> よろしくお願いします。
+>
+>
+>
+> --
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(chuchung@mac.com,1343318747)
+タップ1本持って行きます。
+印刷はコンビニかなぁ。
+(インクが切れてる人)
+}}
+{{mail(kimura.kanataku@gmail.com,1343345125)
+木村です。
+
+10枚位持っていきます
+
+
+iPhoneから送信
+
+On 2012/07/26, at 23:33, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> さらに配布用資料も作っておきました。
+> https://dl.dropbox.com/u/428597/DevSumi_Distribution.pdf
+> 
+> で、お願い。
+> どなたか性能の良いプリンタお持ちの方は（というかプリンタお持ちで明日参加される方は）
+> ひとり10枚くらいプリントしていただけないですかね。。。
+> 
+> 2012年7月26日 22:37 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>> とりあえずOpenJam用の資料作って以下においておいた。
+>> https://dl.dropbox.com/u/428597/DevSumi_OpenJam.pdf
+>> 俺になにかあったら誰か頼みます。
+>> ＃SGTの話も入れさせてもらったが許してね＞PO
+>> 
+>> 適当に各スライドはプリントアウトしとくつもり。
+>> 
+>> 2012年7月26日 20:30 Miho Nagase <miholovesq@gmail.com>:
+>>> 劉爺ワークありがとう！
+>>> 団扇は会社に置いてきたw
+>>> 
+>>> Scrum to Goといえば100均でエプロン買ったったw
+>>> 
+>>> 明日は9時45分入り目指して行きまーす。
+>>> よろしくお願いします。
+>> 
+>> 
+>> 
+>> --
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+> 
+> 
+> 
+> -- 
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/DevSumi.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(nishimura@nawo.to,1354082184)
+オフィシャルコミュニティになっていいですかー?
+# お願いされたので
+
+特に反対がなければ、明日ぐらいに申し込んじゃいます。
+今度はデブサミカラーのバッジつくるどー
+}}
+{{mail(imagire@gmail.com,1354082414)
+Imagireです。
+
+いいんじゃないんでしょうか。
+
+デブサミ色って何？
+}}
+{{mail(nishimura@nawo.to,1354082546)
+>
+> デブサミ色って何？
+>
+
+緑と白かなww
+}}
+{{mail(takaesu0@gmail.com,1354082832)
+>> デブサミ色って何？
+>
+>
+> 緑と白かなww
+>
+
+デブサミってより雅叙園を想定するなら赤、黒、金のあたりかなー。
+}}
+{{mail(changesworlds@gmail.com,1354090185)
+いいとも～
+
+iPhoneから送信
+
+2012/11/28 14:56、Nishimura Naoto <n-nishimura@esm.co.jp> のメッセージ:
+
+> オフィシャルコミュニティになっていいですかー?
+> # お願いされたので
+> 
+> 特に反対がなければ、明日ぐらいに申し込んじゃいます。
+> 今度はデブサミカラーのバッジつくるどー
+> 
+> 
+}}
+{{mail(miholovesq@gmail.com,1354090514)
+いいとも～。
+
+デブサミカラーは上が青、下に緑のグラデーションで白抜きですが
+デザイン丸パクリでいきましょう！
+# たぶんNG
+}}
+{{mail(kimura.kanataku@gmail.com,1354090532)
+問題ないです^^
+
+2012年11月28日 17:09 takashi takebayashi <changesworlds@gmail.com>:
+> いいとも～
+>
+> iPhoneから送信
+>
+> 2012/11/28 14:56、Nishimura Naoto <n-nishimura@esm.co.jp> のメッセージ:
+>
+>> オフィシャルコミュニティになっていいですかー?
+>> # お願いされたので
+>>
+>> 特に反対がなければ、明日ぐらいに申し込んじゃいます。
+>> 今度はデブサミカラーのバッジつくるどー
+>>
+>>
+}}
+{{mail(uedayo@gmail.com,1354114326)
+いいですね！大賛成！
+}}
+{{mail(fullvirtue@gmail.com,1354115112)
+賛成です！バッジも楽しみです♪
+}}
+{{mail(imagire@gmail.com,1354121707)
+Imagireです。
+
+Dropboxにバッチ用の画像をあげといたよ！
+（ちょっと色味が違うかなという気もしますが…）
+}}
+{{mail(nishimura@nawo.to,1354688267)
+>
+> Dropboxにバッチ用の画像をあげといたよ！
+> （ちょっと色味が違うかなという気もしますが…）
+>
+
+完璧すぎて吹いたww
+で、オフィシャルコミュニティの方に申し込み Done
+とりあえず、ブース、オープンジャム、コミュニティLTの全部入りにしちゃいました。
+抽選の結果待ちですが、何をやるかのアイデアありますかー。
+}}
+{{mail(nishimura@nawo.to,1354879140)
+ロゴをくれって言われているんだけど、SGTに送ったやつのオリジナル持っている人いますかー。
+手元には黒と白の二色のやつしか無いんで。
+}}
+{{mail(ryuzee@gmail.com,1354879204)
+オラもってるけど、どうしたらいい？
+
+On 2012/12/07, at 20:18, Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+> ロゴをくれって言われているんだけど、SGTに送ったやつのオリジナル持っている人いますかー。
+> 手元には黒と白の二色のやつしか無いんで。
+}}
+{{mail(nishimura@nawo.to,1354879582)
+2012/12/7 Ryutaro YOSHIBA <ryuzee@gmail.com>
+
+> オラもってるけど、どうしたらいい？
+>
+
+ひとまず某書籍のDropboxでww
+そのうち [[Goodies]] のページに集めよ。
+imagire メンバーのデブサミバッチのデータとか公開したいww
+}}
+{{mail(ryuzee@gmail.com,1354881028)
+そこで思ったんだが、SGTで貰ったロゴって黒白だった。
+http://scrumgatheringtokyo.org/2013/wp-content/themes/wsc6/img/related/150200_scrumdo.png
+の元データってことかいね？
+
+On 2012/12/07, at 20:26, Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+> 2012/12/7 Ryutaro YOSHIBA <ryuzee@gmail.com>
+> オラもってるけど、どうしたらいい？
+> 
+> ひとまず某書籍のDropboxでww
+> そのうち [[Goodies]] のページに集めよ。
+> imagire メンバーのデブサミバッチのデータとか公開したいww
+> 
+}}
+{{mail(nishimura@nawo.to,1354881143)
+2012/12/7 Ryutaro YOSHIBA <ryuzee@gmail.com>
+
+> そこで思ったんだが、SGTで貰ったロゴって黒白だった。
+>
+> http://scrumgatheringtokyo.org/2013/wp-content/themes/wsc6/img/related/150200_scrumdo.png
+> の元データってことかいね？
+>
+
+そうでーす。
+加工するのが面倒だったもので...w
+}}
+{{mail(nishimura@nawo.to,1354881344)
+> バナーサイズは、【100pixel×120pixel 以上程度】の大きさで、300dpi 以上の
+> jpeg 等画像のリンク先を記載または添付してご返信ください。
+
+これに該当するのがあれば欲しいっす。
+}}
+{{mail(ryuzee@gmail.com,1354883073)
+横の比率があんまり良くないねー。
+とりあえず高さの基準にしたやつ某書籍のところに置いた。
+
+On 2012/12/07, at 20:55, Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+> > バナーサイズは、【100pixel×120pixel 以上程度】の大きさで、300dpi 以上の
+> > jpeg 等画像のリンク先を記載または添付してご返信ください。
+> 
+> これに該当するのがあれば欲しいっす。
+}}
+{{mail(nishimura@nawo.to,1354883354)
+すまんす!! 助かった。
+}}
+{{mail(nishimura@nawo.to,1356362283)
+連絡が遅くなりましたが、デブサミ2013でブースとOpen Jamに当選しました。
+残念ながらLTは落選です。
+
+以降、ここはネタだしのスレでww
+}}
+{{mail(nishimura@nawo.to,1358836983)
+やばいやばい、デブサミの準備を全くしちょらんww
+今回もスクラム道は公式コミュニティなんでブースとOpen Jamをやりますよ。
+
+とりあえず思いつくまま決めないといけないことをだしてみる
+
+- Open Jamで何するか決める
+- ブースで何しよ
+- Scrum Boot Camp Premium のスタッフ募集しなきゃ
+- デブサミ限定バッチどうしよ
+
+うー、あとなんかあったっけかな?
+}}
+{{mail(miholovesq@gmail.com,1358840545)
+みーたんだお
+
+> - デブサミ限定バッチどうしよ
+
+前に今給黎メンバーがうｐしてくれたやつで良ければオーダー出すよーん。
+数を指定してください。
+ちなみにEXPO特製は300個で単価38円、500個を超えると36円、1000個を超えると35円でっす。
+Premium参加者とブースで配布とか？
+
+> うー、あとなんかあったっけかな?
+
+実は私がこっそり作った道はんこがあって、札幌のときにnawotoに渡してるんだよね。
+それの使い道をぜひw
+御朱印帳みたいになんかないかなw
+
+あと、デブサミ発売のBoot Camp本はスクラム道プレゼンツなので、
+スクラム道の人に最初に説明したいかもー！
+# いつどうやっては謎のまま…
+}}
+{{mail(yohhatu@gmail.com,1358841166)
+一瞬だけ横槍ごめんなさい。
+デブサミ2日間とも参加できるので、ブースとOpen Jamにいる皆さんに会えます！(いや、そんだけですが)
+}}
+{{mail(harada.kiro@gmail.com,1358842872)
+サインアップ、サインアップ。
+＃強制的自主サインアップ。アンチアジャイルだなぁ、もう。
+
+
+--
+原田騎郎
+
+
+
+2013年1月22日 16:52 中村洋 <yohhatu@gmail.com>:
+
+> 一瞬だけ横槍ごめんなさい。
+> デブサミ2日間とも参加できるので、ブースとOpen Jamにいる皆さんに会えます！(いや、そんだけですが)
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/DevSumi.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(masashi.arino@gmail.com,1358917378)
+二日とも行く予定ですよーん
+}}
+{{mail(irohiroki@gmail.com,1358917758)
+新人のいろです。
+
+デブサミ、いくつかセッション聞きにいくのですが、それ以外の時間に
+何かお手伝いできればと思うんですが、ブースの店番ぐらいはやらせてもらえるでしょうか？
+ブースにいるときよく聞かれる質問とかありますか？
+
+}}
+{{mail(miholovesq@gmail.com,1358918945)
+ブースで何やるかによりますねー。
+夏サミではScrum To Goをやりました。
+http://www.taoofscrum.org/contents/post/285
+
+SGTの応援エントリ書き忘れてた…w
+次のデブサミ応援エントリも書かねばw
+}}
+{{mail(takuo.doi@gmail.com,1358918993)
+土肥です。
+
+両日ともに行く予定です。
+新人の僕でもお手伝いできることがあれば、言いつけてください。
+}}
+{{mail(irohiroki@gmail.com,1358919232)
+> 夏サミではScrum To Goをやりました。
+> http://www.taoofscrum.org/contents/post/285
+
+こんな出展もできるんですね。  
+まずは見習いからですね。
+
+}}
+{{mail(fullvirtue@gmail.com,1358941803)
+> - Scrum Boot Camp Premium のスタッフ募集しなきゃ
+
+デブサミに行けることになったので、
+Scrum Boot Camp Premium スタッフ応募します。
+}}
+{{mail(nishimura@nawo.to,1358947621)
+まずは出し物を決めますよー。
+それから宣伝エントリを書きましょう。
+
+ってことでネタのたたき台。
+
+** Open Jam
+15分ぐらいあるそうな
+
+- 誰か発表する。コミュニティ紹介じゃなくふつうに発表がいいな
+- 勝手にLT大会 (1人3分でww)
+- 勝手に座談会 (会場からテーマもらってあーだこーだ)
+- ワークショップ大戦出張版 (さすがにスクラム道場は無理かのー)
+
+他になんかあるー?
+
+** ブース
+
+- Scrum To Go
+- 本買った人はスタンプおせるぜキャンペーン
+
+他になんかあるー?
+
+2013/1/23 Mitsunori Seki <fullvirtue@gmail.com>
+
+> Scrum Boot Camp Premium スタッフ応募します。
+>
+
+これはスレを分けましょう。
+続きは [[Scrum Boot Camp in デブサミ2013]] で
+}}
+{{mail(nishimura@nawo.to,1358947936)
+2013/1/22 Miho Nagase <miholovesq@gmail.com>
+
+> > - デブサミ限定バッチどうしよ
+>
+> 前に今給黎メンバーがうｐしてくれたやつで良ければオーダー出すよーん。
+> 数を指定してください。
+> ちなみにEXPO特製は300個で単価38円、500個を超えると36円、1000個を超えると35円でっす。
+> Premium参加者とブースで配布とか？
+>
+
+今給黎メンバー作のでいくぞーww
+最低ロットは何個だっけ? 300個は余りそうww 150ぐらいがいいなー。
+Premiumは有料セミナーなので配らんかなー。バッチはコミュニティの人たち向けということで。
+配布するのはブース、Open Jam、サイン会、セッションとかとかかな。
+欲しい人はお近くのスタッフまでとかw
+
+実は私がこっそり作った道はんこがあって、札幌のときにnawotoに渡してるんだよね。
+> それの使い道をぜひw
+> 御朱印帳みたいになんかないかなw
+>
+
+ブースで押せますとかどうか。
+
+あと、中村メンバー aka yohhatu に会えるのを楽しみにしてるぜー。
+}}
+{{mail(ryuzee@gmail.com,1358948161)
+前回同様に抽選にします。
+何人スタッフが必要かは現時点で未定ですが、1～3人程度だと思っておいてください。
+
+＃劉爺
+
+>> - Scrum Boot Camp Premium のスタッフ募集しなきゃ
+> 
+> デブサミに行けることになったので、
+> Scrum Boot Camp Premium スタッフ応募します。
+}}
+{{mail(harada.kiro@gmail.com,1358948663)
+バッジの色は黄色以外がいいな。
+検査ゲートで危険物バッジと間違えられた人がいるらしいぞ。
+
+
+
+2013/01/23 22:31、Nishimura Naoto <n-nishimura@esm.co.jp> のメッセージ:
+
+> 2013/1/22 Miho Nagase <miholovesq@gmail.com>
+>> > - デブサミ限定バッチどうしよ
+>> 
+>> 前に今給黎メンバーがうｐしてくれたやつで良ければオーダー出すよーん。
+>> 数を指定してください。
+>> ちなみにEXPO特製は300個で単価38円、500個を超えると36円、1000個を超えると35円でっす。
+>> Premium参加者とブースで配布とか？
+> 
+> 今給黎メンバー作のでいくぞーww
+> 最低ロットは何個だっけ? 300個は余りそうww 150ぐらいがいいなー。
+> Premiumは有料セミナーなので配らんかなー。バッチはコミュニティの人たち向けということで。
+> 配布するのはブース、Open Jam、サイン会、セッションとかとかかな。
+> 欲しい人はお近くのスタッフまでとかw
+> 
+>> 実は私がこっそり作った道はんこがあって、札幌のときにnawotoに渡してるんだよね。
+>> それの使い道をぜひw
+>> 御朱印帳みたいになんかないかなw
+> 
+> ブースで押せますとかどうか。
+> 
+> あと、中村メンバー aka yohhatu に会えるのを楽しみにしてるぜー。
+}}
+{{mail(nishimura@nawo.to,1358949080)
+2013/1/23 Kiro Harada <harada.kiro@gmail.com>
+
+> バッジの色は黄色以外がいいな。
+> 検査ゲートで危険物バッジと間違えられた人がいるらしいぞ。
+>
+
+うそーん、まじでww
+大丈夫、今回の今給黎メンバー作のはすごいっすよww
+}}
+{{mail(miholovesq@gmail.com,1358950095)
+みーたんだお。
+
+2013年1月23日水曜日 Nishimura Naoto n-nishimura@esm.co.jp:
+
+> 2013/1/22 Miho Nagase <miholovesq@gmail.com <javascript:_e({}, 'cvml',
+> 'miholovesq@gmail.com');>>
+>
+>> > - デブサミ限定バッチどうしよ
+>>
+>> 前に今給黎メンバーがうｐしてくれたやつで良ければオーダー出すよーん。
+>> 数を指定してください。
+>> ちなみにEXPO特製は300個で単価38円、500個を超えると36円、1000個を超えると35円でっす。
+>> Premium参加者とブースで配布とか？
+>>
+>
+> 今給黎メンバー作のでいくぞーww
+> 最低ロットは何個だっけ? 300個は余りそうww 150ぐらいがいいなー。
+>
+
+単価が変わるのは、20,300,500,1000だね。
+最低ロットは20だよん。
+
+今月中にオーダーするくらいの気持ちの計画がいいかも。
+
+-- 
+--
+Miho Nagase
+http://twitter.com/miholovesq
+}}
+{{mail(nishimura@nawo.to,1359121187)
+2013/1/23 Miho Nagase <miholovesq@gmail.com>
+
+> > - デブサミ限定バッチどうしよ
+
+今月中にオーダーするくらいの気持ちの計画がいいかも。
+
+
+ですなー。
+100 から 150 ぐらいかなー。
+毎回余ってるしww
+ちょっと他の人の意見も聞きたいなー
+}}
+{{mail(nishimura@nawo.to,1359121597)
+それよりも Open Jam とブースをなんとかせねばww
+今日がキャンセルの締切なんで、後には引けないwww
+
+ひとまずコミュニィ向けの資料を添付しときます。
+あんまりちゃんと読んでないけど、端のほうに置いやられて Unconference やり放題ってことは理解したww
+
+>
+>
+
+{{file(潟ャ」ャ「?~0123.pdf)}}
+}}
+{{mail(harada.kiro@gmail.com,1359123068)
+Agile Conference に持っていくから、300 いっちゃえ。
+
+--
+原田騎郎
+
+
+
+2013年1月25日 22:39 Nishimura Naoto <n-nishimura@esm.co.jp>:
+
+> 2013/1/23 Miho Nagase <miholovesq@gmail.com>
+>
+>> > - デブサミ限定バッチどうしよ
+>
+> 今月中にオーダーするくらいの気持ちの計画がいいかも。
+>
+>
+> ですなー。
+> 100 から 150 ぐらいかなー。
+> 毎回余ってるしww
+> ちょっと他の人の意見も聞きたいなー
+>
+}}
+{{mail(chuchung@mac.com,1359123172)
+一応、二日間とも行く予定の大和です。
+
+> あんまりちゃんと読んでないけど、端のほうに置いやられて Unconference やり放題ってことは理解したww
+入り口かとw
+
+それはさておき。
+明日か明後日あたりに、あんおふぃしゃるなぱーてぃ方面からLT的な依頼が来る予定です。
+}}
+{{mail(nishimura@nawo.to,1359124547)
+> Agile Conference に持っていくから、300 いっちゃえ。
+
+たしかにww
+けど、デブサミバージョンじゃなくていいやんww
+
+
+2013/1/25 <chuchung@mac.com>
+>
+> 明日か明後日あたりに、あんおふぃしゃるなぱーてぃ方面からLT的な依頼が来る予定です。
+>
+
+なんだってwww
+}}
+{{mail(kimura.kanataku@gmail.com,1359157701)
+ブースは scrum to go に1票
+で、scrum to go に参加してくれた人に、色違いバッチを配るとか
+
+あと、お店にあるような、お店の名刺を
+スクラム道として作っても良いかと思いました。
+}}
+{{mail(nishimura@nawo.to,1359212138)
+今のところ、ブースは Scrum To Go とスタンプ押せるとかかな。
+なんか借りとく備品とかある? ちゃんと資料見てないんだけど(汗
+
+2013/1/26 Takao Kimura <kimura.kanataku@gmail.com>
+>
+> あと、お店にあるような、お店の名刺を
+> スクラム道として作っても良いかと思いました。
+
+
+なんのお店www
+}}
+{{mail(kimura.kanataku@gmail.com,1359242680)
+> 今のところ、ブースは Scrum To Go とスタンプ押せるとかかな。
+> なんか借りとく備品とかある? ちゃんと資料見てないんだけど(汗
+
+備品とかは持ち込みっぽいけど
+
+あと Action カードを作って配布してほしいって
+
+>> あと、お店にあるような、お店の名刺を
+>> スクラム道として作っても良いかと思いました。
+>
+>
+> なんのお店www
+
+よく美容院とか、居酒屋とかにある お店の名前が書いてある名刺
+URLとかtwitter id (あれ？あったっけ？) とか書いておくとか
+}}
+{{mail(nishimura@nawo.to,1359377379)
+2013/1/27 Takao Kimura <kimura.kanataku@gmail.com>
+
+> > 今のところ、ブースは Scrum To Go とスタンプ押せるとかかな。
+> > なんか借りとく備品とかある? ちゃんと資料見てないんだけど(汗
+>
+> 備品とかは持ち込みっぽいけど
+>
+
+Scrum To Go やるなら予約表(??)にする何かがいるね。
+
+あと Action カードを作って配布してほしいって
+>
+
+うーん、ちゃんと資料読まねば....
+
+あと、限定バッチは 130 個でいきましょう。あんまり残ってもいやなんで 。
+オーダーはお願いしていいかな? > miholovesq
+}}
+{{mail(nishimura@nawo.to,1359382335)
+2013/1/28 Nishimura Naoto <n-nishimura@esm.co.jp>
+
+>  > なんか借りとく備品とかある? ちゃんと資料見てないんだけど(汗
+>>
+>> 備品とかは持ち込みっぽいけど
+>>
+>
+いちおうお金を払えばいろいろとレンタルはできるみたいだね。
+締切は2/1
+
+ あと Action カードを作って配布してほしいって
+>>
+>
+> うーん、ちゃんと資料読まねば....
+>
+
+これはテンプレートが公開されるので各コミュニティで用意してほしいって感じみたいだね。
+できれば協力してあげたいとこだけど、誰か巻取ってくれる人いる?
+}}
+{{mail(imagire@gmail.com,1359425965)
+Imagireです。
+
+良くわからないけど、Action!カード拾います。
+
+2/8 に詳細確定で間に合うかな？
+}}
+{{mail(miholovesq@gmail.com,1359426002)
+2013年1月28日 21:49 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> あと、限定バッチは 130 個でいきましょう。あんまり残ってもいやなんで 。
+> オーダーはお願いしていいかな? > miholovesq
+
+がってんです。
+
+バッチデザインのkanpu_devsumi.jpgとは別に、白い円周がないバージョンが欲しいっす！ > imagire
+}}
+{{mail(imagire@gmail.com,1359426577)
+> バッチデザインのkanpu_devsumi.jpgとは別に、白い円周がないバージョンが欲しいっす！ > imagire
+
+一番外側が無いだけでしょうか？
+
+
+{{file(kanpu_noring.png)}}
+}}
+{{mail(miholovesq@gmail.com,1359427229)
+2013年1月29日 11:29 imagire takashi <imagire@gmail.com>:
+>> バッチデザインのkanpu_devsumi.jpgとは別に、白い円周がないバージョンが欲しいっす！ > imagire
+>
+> 一番外側が無いだけでしょうか？
+
+そうそう、そうです！
+そしてこれのDevsumiカラーがいただけると！
+
+一番外側の円周は、オーダーするときに「缶バッチのサイズはここで合わせてね」っていう
+入稿用の目印なので、実際には印刷用に丸のないやつが必要になるのですー。
+}}
+{{mail(imagire@gmail.com,1359427301)
+Devsumiカラーは、夜に家で作り直さないといけないので、待ってください。
+}}
+{{mail(miholovesq@gmail.com,1359433376)
+ありがとうございますー。
+お待ちしてます！
+}}
+{{mail(imagire@gmail.com,1359469572)
+imagireです。
+
+Dropboxに以下のファイルを上げました
+kanpu_devsumi_noring.jpg
+
+
+2013/1/29, Miho Nagase <miholovesq@gmail.com>:
+> ありがとうございますー。
+> お待ちしてます！
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/DevSumi.html
+> ML-> taoofscrum@qwik.jp
+>
+
+
+-- 
+今給黎 隆 Takashi Imagire
+e-mail:imagire@gmail.com
+http://t-pot.com/
+}}
+{{mail(miholovesq@gmail.com,1359470679)
+2013年1月29日火曜日 imagire takashi imagire@gmail.com:
+
+> imagireです。
+>
+> Dropboxに以下のファイルを上げました
+> kanpu_devsumi_noring.jpg
+>
+
+ありがとうございマーす！
+完璧過ぎるww
+
+
+-- 
+--
+Miho Nagase
+http://twitter.com/miholovesq
+}}
+{{mail(chuchung@mac.com,1359823376)
+大和でーす。メール便でーす。
+
+リーダー塾のあまのりょーさんからデブサミのアンオフィシャルパーティの件でメッセージが届いております。
+参加できそうな人いませんか？
+
+//////////////////////////////////////////////////
+
+スクラム道 様
+
+こんにちは、リーダー塾のあまのりょーです。
+
+デブサミまであと2週間ほどとなりましたが、
+先日中大和さんより参加のお話をいただきました
+「アンオフィシャルパーティ」での
+コミュニティPRタイムについて、詳細のご連絡です。
+
+下記の通りですので、なにか不明点などありましたら、
+ぜひぜひお気軽にお願いします！
+
+本メッセージ受け取り後の、コミュニティ様側でのアクションとしては
+おおまかに言って以下の2点となります。
+(1) 登壇者様の イベント登録
+(2) 登録した旨の当方への連絡
+
+●コミュニティPRタイム登壇者の登録について
+アンオフィシャルパーティの登録を一般公開前に先行して下記のURLで案内させていただきます。
+SEShop で、「各コミュニティ様 2名」をMaxとして、ご登録ください。
+本URLは一般公開に先立って PRタイム対象コミュニティ様に先行してご連絡するものですので、
+一般公開を行う 2/5(火)までは拡散しないように取り扱いにご配慮お願いします。
+http://www.seshop.com/product/detail/15399/
+(※) 参加費 としてお一人様 ￥1,000 の負担はよろしくお願い致します（PRタイム登壇者だからといって招待枠とはなりません）
+
+なお、把握のために PRタイム登壇者様のお名前をご連絡いただければ幸いです。
+
+●当日について
+会場提供のアマゾン・ジャパン様のご好意により、プロジェクターとスクリーンを
+利用できることになりましたので、持ち込んだPCと資料があれば投影が可能です。
+ただ、接続確認の時間などは特に設けませんので、
+VGA出力の準備をしていただいて、当日ぶっつけでお願いします。
+また、パーティ運営チームでは特にPCの都合などを保証はいたしませんので、
+もし、プロジェクタを使いたい場合は貴コミュニティでの用意をお願いします。
+（もちろん、どうしても！ という場合には相談ください）
+
+PRタイムは5分以内でお願いします（つまり、いわゆるLTです）
+発表順に関しては、当日調整とさせてください。
+
+当日の進行は、募集サイトにある通り、下記のとおりです。
+少なくとも、19:30 の乾杯には登壇者が会場入りしていただきますようお願いします。
+
+19:00　開場（ウェルカムドリンク）
+19:30　乾杯
+19:40　イベント開始
+　　　　　・コミュニティPRタイム
+　　　　　・「盟友を探せ」
+20:45　締めの挨拶
+
+以上です。よろしくお願いいたします。
+}}
+{{mail(imagire@gmail.com,1359937448)
+Action!カードのQRコードがFBのグループに上げられるようなのですが、どのグループかご存知な方いましたら、教えてください。
+}}
+{{mail(nishimura@nawo.to,1359954852)
+コミュニティグループかなー?
+なんかそれっぽいのが見つからないんだけど、ひとまず今給黎メンバーをグループに加えてもらうように申請しました。
+}}
+{{mail(nishimura@nawo.to,1359955458)
+とりあえずアンオフィシャルパーティーは申し込んだぞ!!
+コミュニティLTはやるよー。
+Open Jam どうしよー。俺はサイン会があるので行けないんよ...
+}}
+{{mail(imagire@gmail.com,1359957162)
+> なんかそれっぽいのが見つからないんだけど、ひとまず今給黎メンバーをグループに加えてもらうように申請しました。
+
+ありがとうございました。
+}}
+{{mail(chuchung@mac.com,1359998560)
+「アンオフィシャルパーティのLTやります」と回答しておきました。
+
+めいど
+}}
+{{mail(nishimura@nawo.to,1360124247)
+2013/2/5 <chuchung@mac.com>
+
+> 「アンオフィシャルパーティのLTやります」と回答しておきました。
+>
+
+ほーい、ありがとー。
+SGTでやったやつの再演でもすっか。
+}}
+{{mail(imagire@gmail.com,1360161056)
+Action!カードの雛型をDropBoxに置きました
+/ScrumBootCamp/デブサミ2013/Action!カード.pptx
+
+誰か素敵なメッセージとデザインについてのコメントよろしく！
+（あとは、印刷方法考えなくちゃだな）
+}}
+{{mail(nishimura@nawo.to,1360167394)
+今給黎メンバーありがと!!
+なにこれ良いじゃないww あとハッシュタグもあるといいと思いました。
+}}
+{{mail(kimura.kanataku@gmail.com,1360232265)
+コミュニティパスとかってどうなってるのだっけ？
+}}
+{{mail(fullvirtue@gmail.com,1360234073)
+ML上では話題になっていないので、存在を知らない可能性大。
+このままだと捨てて終わっちゃうのでは。
+}}
+{{mail(takaesu0@gmail.com,1360234850)
+どうせ行く予定の人は普通に申し込んでるんでない？
+
+ということで誰も困らない気もｗ
+}}
+{{mail(nishimura@nawo.to,1360308335)
+コミュニティパスは2枚ぐらいもらえた気がする。
+あれ!? ここのスレにコミュニティ向けの資料って貼らなかったっけ?
+
+Takaesu先生の言うとおり、行く人は申し込めばいいから何もしなくてもいいよねww
+申し込み期限が過ぎてうんぬんとかあれば、資料を渡すので適当に申し込んでくださいww
+}}
+{{mail(kimura.kanataku@gmail.com,1360312000)
+コミュニティパスだと、とりあえずどこのセッションも見られるそうなので、
+聞いてみました。
+}}
+{{mail(nishimura@nawo.to,1361322644)
+お礼が遅くなった。
+みんな、デブサミの準備とかありがとー!!
+おかげでうまくいったよー。
+もう少しスタッフの仕事に繋げるとかのメリットの部分を強くしていこ。
+
+なんか、感想とかダメ出しとかあればよろ
+}}
+{{mail(nishimura@nawo.to,1384746770)
+こんな依頼が来てましたー！
+誰かやりたい人、巻きとってー...
+
+オフィシャルコミュニティの申し込み締切は、11月29日(金)となっております。
+応募のご検討をいただけますと幸いです。
+何卒よろしくお願い申し上げます。
+
+
+デブサミ2014 プレサイト
+http://event.shoeisha.jp/devsumi/20140213/
+
+デブサミ2014 オフィシャルコミュニティ募集中
+http://event.shoeisha.jp/devsumi/20140213#OfficialCommunity
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+●デブサミ2014オフィシャルコミュニティに参画するメリット
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+・デブサミサイトおよび当日のパンフレットなどで、コミュニティ活動の露出
+・コミュニティブースの提供（無料／応募多数の場合は抽選）
+・LTでの発表枠の提供（無料／応募多数の場合は抽選）
+・オープンジャムでの発表枠の提供（無料／応募多数の場合は抽選）
+}}
+{{mail(harada.kiro@gmail.com,1384746978)
+当日現地にいる予定なので、手伝えます。きっと。何かやらん？
+
+2013年11月18日月曜日 Nishimura Naoto n-nishimura@esm.co.jp:
+
+> こんな依頼が来てましたー！
+> 誰かやりたい人、巻きとってー...
+>
+> オフィシャルコミュニティの申し込み締切は、11月29日(金)となっております。
+> 応募のご検討をいただけますと幸いです。
+> 何卒よろしくお願い申し上げます。
+>
+>
+> デブサミ2014 プレサイト
+> http://event.shoeisha.jp/devsumi/20140213/
+>
+> デブサミ2014 オフィシャルコミュニティ募集中
+> http://event.shoeisha.jp/devsumi/20140213#OfficialCommunity
+>
+>
+> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> ●デブサミ2014オフィシャルコミュニティに参画するメリット
+> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> ・デブサミサイトおよび当日のパンフレットなどで、コミュニティ活動の露出
+> ・コミュニティブースの提供（無料／応募多数の場合は抽選）
+> ・LTでの発表枠の提供（無料／応募多数の場合は抽選）
+> ・オープンジャムでの発表枠の提供（無料／応募多数の場合は抽選）
+>
+
+
+-- 
+--
+原田騎郎
+}}
+{{mail(changesworlds@gmail.com,1384747438)
+はいはい、自分も自分も
+
+iPhoneから送信
+
+2013/11/18 12:56、Kiro HARADA <harada.kiro@gmail.com> のメッセージ:
+
+> 当日現地にいる予定なので、手伝えます。きっと。何かやらん？
+> 
+> 2013年11月18日月曜日 Nishimura Naoto n-nishimura@esm.co.jp:
+>> こんな依頼が来てましたー！
+>> 誰かやりたい人、巻きとってー...
+>> 
+>> オフィシャルコミュニティの申し込み締切は、11月29日(金)となっております。
+>> 応募のご検討をいただけますと幸いです。
+>> 何卒よろしくお願い申し上げます。
+>> 
+>> 
+>> デブサミ2014 プレサイト
+>> http://event.shoeisha.jp/devsumi/20140213/
+>> 
+>> デブサミ2014 オフィシャルコミュニティ募集中
+>> http://event.shoeisha.jp/devsumi/20140213#OfficialCommunity
+>> 
+>> 
+>> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+>> ●デブサミ2014オフィシャルコミュニティに参画するメリット
+>> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+>> ・デブサミサイトおよび当日のパンフレットなどで、コミュニティ活動の露出
+>> ・コミュニティブースの提供（無料／応募多数の場合は抽選）
+>> ・LTでの発表枠の提供（無料／応募多数の場合は抽選）
+>> ・オープンジャムでの発表枠の提供（無料／応募多数の場合は抽選）
+> 
+> 
+> -- 
+> --
+> 原田騎郎
+> 
+> 
+}}
+{{mail(nishimura@nawo.to,1384933789)
+【急募】だれか窓口頼む...救世主】
+
+11/29が締切なんで誰かやりませんかー
+# いなければパスでもいいよね?
+}}
+{{mail(nishimura@nawo.to,1385726972)
+ひとまず申し込んどきますね
+ただ、そこまでしかできないのであとは誰かまきとってー
+}}
+{{mail(nishimura@nawo.to,1386393343)
+あ、申し込むのを忘れました。ごめんちゃい。
+次回のデブサミはパスということで
+}}
+{{mail(changesworlds@gmail.com,1386396480)
+了解です
+
+iPhoneから送信
+
+2013/12/07 14:15、Nishimura Naoto <n-nishimura@esm.co.jp> のメッセージ:
+
+> あ、申し込むのを忘れました。ごめんちゃい。
+> 次回のデブサミはパスということで
+}}

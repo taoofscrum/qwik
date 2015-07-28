@@ -1,0 +1,87 @@
+* スクラム道場ネタ出し
+
+** Ready になってるテーマ
+
+- プロダクトバックログ [[@imagire|http://twitter.com/imagire]]
+- Done の定義 [[@ryuzee|http://twitter.com/ryuzee]]
+
+** 今後、道場であつかいたいテーマ
+
+- チームビルディング
+- スプリント期間
+- Done (Ready-Reay Done-Done)
+- PO
+- Daily Scrum
+- スプリントレビュー
+- 価値
+- 旧来のマネージャーとの付き合い方
+- インセプションデッキ
+- 大規模や分散
+- 導入(はじめてのチームでやる時の注意点とか、説得の仕方はやりたくないなー)
+- スプリント0
+- ドキュメント
+- タスクボード
+- 全体設計(アーキテクチャ、ストーリーマッピング)
+- QA
+- リリーススプリント
+- 結合テストやカバレッジ
+- アジャイルサムライついて詳しく
+- 非スクラムとの連携
+- 要件定義
+- タスクボード
+- リリースバーンダウン
+- リリース計画
+
+以下、新しいネタや読み手の立候補とかのやり取りが続くはず
+{{mail(nishimura@nawo.to,1310542385)
+@ryuzee が Done の定義について立候補してくれたよ。
+時期は、次々回かな。最短で 9 月だね。
+
+って感じで、このスレでは新しいネタの補給と読み手の立候補や推薦の話をしていきましょう。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1310548708)
+「プロダクトバックログ」いいかも。
+}}
+{{mail(nishimura@nawo.to,1310549189)
+In <CACskh0eya2Qo4xCV_ua8yQvHjXqy8r6RTrsiNTrjb=VF8C9NaA@mail.gmail.com>,
+Kaz Takahashi <takahashi.kazuyoshi@gmail.com> wrote:
+
+> 「プロダクトバックログ」いいかも。
+
+8 月の imagire 先生に期待!!
+ページのトップに Ready になってるテーマをまとめてみました。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1310549383)
+おっと、もうガガだったのか
+}}
+{{mail(miholovesq@gmail.com,1310550790)
+レディガガ…
+}}
+{{mail(nishimura@nawo.to,1310609403)
+
+In <CACskh0dMV9i6CXNzusvnNFUcbUc+XMhtDs+Kn3Wu12Y-ccYdZw@mail.gmail.com>,
+Kaz Takahashi <takahashi.kazuyoshi@gmail.com> wrote:
+
+>> おっと、もうガガだったのか
+>
+> レディガガ…
+
+これはスルーでいいよねww
+}}
+{{mail(takubon@kanataku.com,1310641600)
+リリース計画やろうと検討中
+失敗事例になっちゃうかもだけど…
+
+iPhoneから送信
+
+On 平成23/07/13, at 16:33, Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+> @ryuzee が Done の定義について立候補してくれたよ。
+> 時期は、次々回かな。最短で 9 月だね。
+> 
+> って感じで、このスレでは新しいネタの補給と読み手の立候補や推薦の話をしていきましょう。
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/NextThemesForDojo.html 
+> ML-> taoofscrum@qwik.jp
+}}

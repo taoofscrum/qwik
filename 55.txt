@@ -1,0 +1,179 @@
+* agile2013 submission
+{{mail(kimura.kanataku@gmail.com,1359010374)
+木村です。
+
+ 「折り紙を利用した相対見積り実践ワークショップ」
+のsubmissionを書いてみました。
+
+オープンジャムでもいいかなと
+
+これじゃダメだよ等、ご意見いただけるとうれしいです。
+
+
+Title: Workshops relative estimate using origami
+
+Co-Presenter: 英会話が堪能な方ヘルプをよろしくお願いします。
+
+Featured Participants: サポートよろしくお願いします。
+
+Track:
+
+Keywords: Estimate,Scrum,Story points
+
+Abstract:
+本セッションは相対見積もりの有効性を体感してもらう為のセッションである。
+本セッションの特徴は以下にある。
+・誰でも体験可能な相対見積もりの模擬実践
+・見積もりを実践した後に、実際に、日本文化的な鶴や兜などを折り紙で作り、見積もりの妥当性を検証出来るため、幅広い人達に相対見積もり手法をの基本を学んでもらうことができる
+
+
+本ワークショップは次のステップで構成される.
+相対見積もりの説明
+プランニングポーカーの説明
+基準となる折り紙を折る
+基準となる折り紙をベースに相対的に見積もりを行う
+見積もった折り紙を実際に折る
+見積の妥当性を検証する
+
+Learning Outcomes:
+相対見積りを学習することができる
+折り紙の折り方を学ぶことができる
+
+Prerequisite Knowledge:
+本セッションでは、特に必要ありません。
+
+Information for Review Team:
+
+基準となる折り紙を実際に折る
+基準の折り紙をポイント3とする
+その他の折り紙を相対的に見積もる
+相対的に見積もりを行った折り紙を実際に折る(2つくらい)
+基準の折り紙に比べてどうだったかを検証する
+
+
+Presentation History:
+本セッションは、自分がアジャイルコーチとして、チームビルディング研修で実践している(60min)
+}}
+{{mail(imagire@gmail.com,1359010603)
+Imagireです。
+
+自分は、「誰のためのセッション？」ということを突っ込まれたので、
+「新しくスクラムを始めるチームメンバーのための」のような事を入れると
+そんなこと言われないかもしれません。
+}}
+{{mail(takaesu0@gmail.com,1359011392)
+高江洲です。
+
+> Featured Participants: サポートよろしくお願いします。
+
+これって役割ではなく、対象となる参加者を指してませんか？
+
+いまぎれさんのもここを突っ込まれたのかなーと。
+
+> Learning Outcomes:
+> 相対見積りを学習することができる
+> 折り紙の折り方を学ぶことができる
+
+折り方学べるｗｗｗ
+}}
+{{mail(imagire@gmail.com,1359012007)
+Imagireです。
+
+
+> Featured Participants: サポートよろしくお願いします。
+>
+> これって役割ではなく、対象となる参加者を指してませんか？
+>
+
+Featured Participants のバルーンヘルプに
+「Please list panel members, experience report co-authors or other people
+that will be participating in this session (so that they are not scheduled
+in other sessions at the same time).」
+って出たから、「知り合い書いとけよ。バッティングしないように配慮しとくからさ」ってことかと思っていました。
+}}
+{{mail(takaesu0@gmail.com,1359017647)
+高江洲です。
+
+> Featured Participants のバルーンヘルプに
+> 「Please list panel members, experience report co-authors or other people
+> that will be participating in this session (so that they are not scheduled
+> in other sessions at the same time).」
+> って出たから、「知り合い書いとけよ。バッティングしないように配慮しとくからさ」ってことかと思っていました。
+
+そう読めますねｗ
+
+だったらたくぼんさんの場合はいまぎれさんでいいってことかなー。
+}}
+{{mail(kimura.kanataku@gmail.com,1359022766)
+ありがとうございます。
+
+がんばって英語にしてみます。
+}}
+{{mail(imagire@gmail.com,1359023413)
+Imagireです。
+
+自分の場合は、おりがみ動物園が通らないといかない可能性が高いので、
+他の方にしていただくのが良いかと思います。
+
+ていうか、英語は得意じゃないですよ…
+}}
+{{mail(kimura.kanataku@gmail.com,1359089082)
+木村です。 google先生の力を持って翻訳してみました。
+
+Title:
+Using origami workshop for relative estimate
+
+Co-Presenter:
+Help Me!! (英会話堪能な方にHelpをお願いしたい)
+
+Featured Participants:
+takashi imagire
+
+Track:
+Not Sure - Technical
+
+Session Type:
+Workshop
+
+Duration:
+75 minutes
+
+Keywords:
+Scrum,Estimate,Relative Estimate
+
+Abstract:
+In this workshop, you will be able to learn the relative effectiveness
+of the estimate.
+Want to learn the relative estimate, this workshop is intended for new
+Scrum teams to begin.
+After that origami, to estimate the material was carried out to
+estimate the relative
+By folding in fact, you will be able to confirm the validity of the estimates.
+
+Also, you can learn how to fold an origami Japanese cultural :-)
+
+Origami : http://en.wikipedia.org/wiki/Origami
+
+Learning Outcomes:
+Learning of relative estimation method
+Learning how to fold origami
+
+Prerequisite Knowledge:
+Not need to do anything.
+
+Information for Review Team:
+This workshop consists of the following steps.
+- Description of the estimate relative
+- Description of the planning poker
+- Description of origami
+- Determined by the team that serves as a reference origami
+- Make an estimate based on the relatively origami to be a reference
+- I actually folded origami estimated
+- To verify the validity of the estimates
+
+Presentation History:
+
+
+Presentation Sample:
+I practice this session in the scrum team building training (60min)
+}}

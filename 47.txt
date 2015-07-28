@@ -1,0 +1,107 @@
+* webサイトのタイトルバナー
+{{mail(imagire@gmail.com,1350465925)
+Imagireです。
+
+webサイトのタイトルバナーがうっすらと白く縁が出ているのが気になったので、
+画像を加工して、縁が出ないようにしてみました。
+
+サイトの更新の仕方はわからないので、どなたかよろしくお願いします。
+
+
+{{file(tao_of_scrum_banner_alpha.png)}}
+}}
+{{mail(ryuzee@gmail.com,1350466395)
+ぼくあてにお送りくださいませ！
+
+---
+Ryutaro Yoshiba
+ryuzee@gmail.com
+090-1552-4660
+
+
+On 2012/10/17, at 18:25, imagire takashi <imagire@gmail.com> wrote:
+
+> Imagireです。
+> 
+> webサイトのタイトルバナーがうっすらと白く縁が出ているのが気になったので、
+> 画像を加工して、縁が出ないようにしてみました。
+> 
+> サイトの更新の仕方はわからないので、どなたかよろしくお願いします。 
+> <tao_of_scrum_banner_alpha.png>
+}}
+{{mail(ryuzee@gmail.com,1350466465)
+すいません。添付ファイルあるの気づいてませんでした。あとでやっておきます！
+
+---
+Ryutaro Yoshiba
+ryuzee@gmail.com
+090-1552-4660
+
+
+On 2012/10/17, at 18:33, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> ぼくあてにお送りくださいませ！
+> 
+> ---
+> Ryutaro Yoshiba
+> ryuzee@gmail.com
+> 090-1552-4660
+> 
+> 
+> On 2012/10/17, at 18:25, imagire takashi <imagire@gmail.com> wrote:
+> 
+>> Imagireです。
+>> 
+>> webサイトのタイトルバナーがうっすらと白く縁が出ているのが気になったので、
+>> 画像を加工して、縁が出ないようにしてみました。
+>> 
+>> サイトの更新の仕方はわからないので、どなたかよろしくお願いします。 
+>> <tao_of_scrum_banner_alpha.png>
+}}
+{{mail(imagire@gmail.com,1350466551)
+お願いします！
+}}
+{{mail(ryuzee@gmail.com,1350468972)
+すいません。
+念のため確認なんですが、
+対象の画像は
+http://www.taoofscrum.org/contents/
+の左上の画像ですか？
+
+できれば画像のサイズは元画像と同じでいただけるとありがたいのですが
+可能でしょうか？元は318x85pxです。
+
+
+On 2012/10/17, at 18:25, imagire takashi <imagire@gmail.com> wrote:
+
+> Imagireです。
+> 
+> webサイトのタイトルバナーがうっすらと白く縁が出ているのが気になったので、
+> 画像を加工して、縁が出ないようにしてみました。
+> 
+> サイトの更新の仕方はわからないので、どなたかよろしくお願いします。 <tao_of_scrum_banner_alpha.png>
+
+}}
+{{mail(imagire@gmail.com,1350469227)
+違うやつなのか…
+ちょっとお待ちを
+}}
+{{mail(imagire@gmail.com,1350470402)
+できました
+
+
+{{file(tao_of_scrum_logo3_alpha.png)}}
+}}
+{{mail(ryuzee@gmail.com,1350479571)
+サイトを更新しました。確認をお願いします。
+
+劉爺
+
+On 2012/10/17, at 19:40, imagire takashi <imagire@gmail.com> wrote:
+
+> できました <tao_of_scrum_logo3_alpha.png>
+}}
+{{mail(imagire@gmail.com,1350481707)
+確認しました。
+ありがとうございました。
+}}

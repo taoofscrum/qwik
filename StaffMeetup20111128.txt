@@ -1,0 +1,295 @@
+* StaffMeetup20111128
+- 日時:2011/11/28 19:00 - 
+- 場所:
+
+** 参加者
+
+nawoto, miholovesq, Qooh0,
+
+** アジェンダ
+
+- 次回イベントは何しよう
+{{mail(nishimura@nawo.to,1320633114)
+ごめん、スレッドのタイトル間違えたんで再送...
+
+調整さんの記入ありがとうございました。
+というわけで、次回のスタッフミーティングは 11/28 19:00 に開催します。
+# スレも分けました
+
+で、一つ相談なのですが、どなたか場所を提供してもらえないでしょうか?
+いつもの場所の永和なのですが、その日は全社教育とかで会議室が全部埋まっています。
+タタミの部屋で開催する事もできそうなのですが、支社に色んな人が来てそうなので可能であれば別の場所でや
+りたいでーす。
+すいませんが、宜しくお願い致します。
+}}
+{{mail(miholovesq@gmail.com,1320638734)
+2011年11月7日11:31 Nishimura Naoto <n-nishimura@esm.co.jp>:
+
+> で、一つ相談なのですが、どなたか場所を提供してもらえないでしょうか?
+
+遠くて忍びないんですが弊社で良ければ空いてますよん。
+どこでも良ければどうぞー。
+}}
+{{mail(takaesu0@gmail.com,1320640639)
+高江洲です。
+
+>> で、一つ相談なのですが、どなたか場所を提供してもらえないでしょうか?>> 遠くて忍びないんですが弊社で良ければ空いてますよん。> どこでも良ければどうぞー。
+蒲田でも大丈夫だけど永瀬さんとこ行ったことないので行ってみたいー。
+}}
+{{mail(sarastier@gmail.com,1320649170)
+弊社でも大丈夫ですが以下同文ー。
+}}
+{{mail(miholovesq@gmail.com,1320663711)
+弊社の会議室をおさえましたのでどうぞ～。
+他に良き所があればリリースはいつでも可能ですので。
+}}
+{{mail(nishimura@nawo.to,1320759097)
+空前の笹塚ブームww
+それでは、今回はみんなで笹塚にお邪魔して、老大房でゴハン食べましょう。
+
+という事で今回のスタッフミーティングの予定は以下で決定で。
+
+:日時:2011/11/28 19:00-21:00
+:場所:株式会社ディアイスクエア (http://www.di-square.co.jp/)
+}}
+{{mail(nishimura@nawo.to,1321870055)
+さて来週はスタッフミーティングですが、何かネタありますかね?
+次回、スクラム道場にするなら今のうちから読み手とテーマの立候補があると嬉しいかも。
+# あとは日時と場所の調整だけで済むし
+}}
+{{mail(miholovesq@gmail.com,1322479423)
+* 議事録
+今日のゴールは「次何やろう」
+** スクラム道場
+- 12/26(月) DONEの定義の話 by Ryuzee
+そのまま忘年会などに突入
+- 次回以降
+-- アーキテクチャの合意形成の話 by Qooh0
+-- LadyによるReadyの話 by miholovesq
+-- 話したい人が話したいネタを持ち寄るネタ駆動の公募制にしよう
+デイリースクラム、タスクボード、リリーススプリント、プロダクトオーナーなどなど。
+続きはMLで
+-- ネタはMLでレビュー
+** ワークショップ大戦
+- またやりたいぜ
+** KDDIのコミュニティ支援
+- [[公式サイト|http://cloudcore.jp/vps/develop/]]
+- 申請したら通ったので会場とVPSが借りられることになった
+- 会場の下見に行こう
+- VPSにWebサイト作る？
+ドメイン、中身、誰がやんの？の続きはMLで
+** Scrum Boot Camp プレミアム(仮)
+- 「有料でやりませんか？」というお誘いがある
+無料版は継続するのか？ 住み分けはどうする？ 気になることはMLで
+** nawotoのやりたいシリーズ
+*** スクラム道ギャザリングやりたい
+- 朝から晩までがっつり議論()
+- 30人ぐらい
+- 有料(ギャザリングだからね)
+*** スクラム道バースト2やりたい
+- "スクラム道ビースト"(仮)
+*** [[Trello|https://trello.com/]]使おうぜ
+- ためしに
+}}
+{{mail(takaesu0@gmail.com,1322657580)
+高江洲です。
+
+> -- 話したい人が話したいネタを持ち寄るネタ駆動の公募制にしよう
+> デイリースクラム、タスクボード、リリーススプリント、プロダクトオーナーなどなど。
+> 続きはMLで
+
+テストの話を聞きたいなー。
+
+みんなどういったことをしてるのか聞きたい。
+
+ということでテストのネタを持ち寄ればいいってことですか？
+}}
+{{mail(nishimura@nawo.to,1323152344)
+今さらだけど議事録ありがとう。
+ぽちぽち補足していきます。
+
+In <CACMw1MCsbonHtxhD9ddwP8_-jHXFqt6Q40_FhF5O6SiUGi88Lw@mail.gmail.com>,
+Makoto Takaesu <takaesu0@gmail.com> wrote:
+
+> 高江洲です。
+> 
+>> -- 話したい人が話したいネタを持ち寄るネタ駆動の公募制にしよう
+>> デイリースクラム、タスクボード、リリーススプリント、プロダクトオーナーなどなど。
+>> 続きはMLで
+
+こういう経緯にしたいのは、前回道場の今給黎さんの回でたまたま事前に資料をレビューしたんだけど、これが
+個人的にはすごく良かったと思いました。
+できれば、この事前にレビューをするってのは定着させていきたい。
+
+でも、来月道場やります。で、その二週間前に資料をレビューするので作ってくださいだと読み手の負担ばかり
+が増えるだけなので、それもやだなーと思っています。
+なので、あらかじめこういうネタで開催したいので読み手募集と告知(公募??)して、それについての資料が出来、
+レビューが終われば道場を開催するというフローに出来ないかと考えています。
+
+公募してから開催までのタイムラグは、3ヶ月ぐらいを見ています。
+なので、今、読み手の候補としてあがっている 3 人(Ryuzee,Qooh0,miholovesq)の回が終わるまでには告知をし
+なければ。
+
+> テストの話を聞きたいなー。
+> 
+> みんなどういったことをしてるのか聞きたい。
+> 
+> ということでテストのネタを持ち寄ればいいってことですか？
+
+スタッフ側でこういうネタでやりたいのを整理して、告知するのでテストが聞きたいってとこまででいいと思い
+ます。
+ただ、テストってだけだとフワっとした議論になりそうなんで、もう少しターゲットを絞ったテーマにしていき
+たい。例えば、スプリント内でのテストのやり方とか
+
+こういうのを上手くやる公募のやり方ってのは、もう少し練りたいなー。
+例えば、スクラムガイド縛りを導入するとか?
+テストだとチームと「完了」の定義に含まれているので、テーマとしては開発チームか「完了」の定義にすると
+か。
+# 開発チームでこういうテストをしているやテストの実施内容を完了の定義に絡めて読んでくださいとか??
+
+そういう縛りを導入するなら今のうちからやりたいので、そっちも並行して議論したい。
+例えば、次回以降のアーキテクチャと Ready はどうしよう?
+
+って話の続きは、[[スクラム道場ネタ出し]] でやりましょうか?
+}}
+{{mail(nishimura@nawo.to,1323153741)
+In <CAPG=6LbuxuDW-2wgHrU1D6Db696j+sb67x6GwPu1uxS4YRUL9w@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> *** [[Trello|https://trello.com/]]使おうぜ
+> - ためしに
+
+とりあえず作ったww
+
+https://trello.com/taoofscrum
+
+Public にしたから見えると思う。
+あとはメンバーを追加すればいいんだけど、アカウント教えてでいいのかな?
+}}
+{{mail(qooh0.info@gmail.com,1323156361)
+海江田です。
+
+trello のアカウントは Qooh0 です
+
+--
+kaieda
+}}
+{{mail(miholovesq@gmail.com,1323158549)
+2011年12月6日15:42 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> https://trello.com/taoofscrum
+>
+> Public にしたから見えると思う。
+> あとはメンバーを追加すればいいんだけど、アカウント教えてでいいのかな?
+
+miholovesqでーす。
+とりあえず見えてるけど。
+}}
+{{mail(harada.kiro@gmail.com,1323163949)
+haradakiro です。よろしく。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2011年12月6日17:02 Miho Nagase <miholovesq@gmail.com>:
+> 2011年12月6日15:42 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> https://trello.com/taoofscrum
+>>
+>> Public にしたから見えると思う。
+>> あとはメンバーを追加すればいいんだけど、アカウント教えてでいいのかな?
+>
+> miholovesqでーす。
+> とりあえず見えてるけど。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup20111128.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(ryuzee@gmail.com,1323165233)
+いつもの通り、ryuzee です。
+よろしくお願いします。
+
+(11/12/06 18:32), Kiro HARADA wrote:
+> haradakiro です。よろしく。
+> --
+> 原田騎郎
+> 株式会社　情報システム総研
+> 
+> 
+> 
+> 2011年12月6日17:02 Miho Nagase<miholovesq@gmail.com>:
+>> 2011年12月6日15:42 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>> https://trello.com/taoofscrum
+>>>
+>>> Public にしたから見えると思う。
+>>> あとはメンバーを追加すればいいんだけど、アカウント教えてでいいのかな?
+>>
+>> miholovesqでーす。
+>> とりあえず見えてるけど。
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/StaffMeetup20111128.html
+>> ML->  taoofscrum@qwik.jp
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1323183064)
+takaesu0です。
+
+よろしくです！
+}}
+{{mail(takubon@kanataku.com,1323356020)
+アカウントはきっと takaokimura です。
+googleでログインしたらそうなった。。。
+
+}}
+{{mail(sarastier@gmail.com,1323392146)
+kenmatsumoto
+だとおもわれます
+}}
+{{mail(nishimura@nawo.to,1323419173)
+In <CAHNDpjKoT=8rL7O_aBAE5FoVqh4qw+xC3J9nKX+XgAapufDnBA@mail.gmail.com>,
+Ken Matsumoto <sarastier@gmail.com> wrote:
+
+> kenmatsumoto
+> だとおもわれます
+
+ここまでの人は招待したつもり。
+なんで、みんな思われますなんだよww Account のとこ見たら書いてるよww
+
+で、ここで Board の方に招待するのを忘れてた。
+Board のメンバーとして Organization のメンバーをまとめて登録する方法がしりたいww
+Board の方にはぼちぼち招待していきます。
+全員招待終わったら、Board は closed にしちゃおうかな。
+}}
+{{mail(sarastier@gmail.com,1323493167)
+kenmatsumoto
+だとおもわれます
+}}
+{{mail(chuchung@mac.com,1323710333)
+遅くなりました。
+
+amame
+でお願いします。
+}}
+{{mail(imagire@gmail.com,1323710433)
+忘れてた。
+
+imagireでお願いします。
+}}
+{{mail(changesworlds@gmail.com,1323762177)
+遅くなりましたが、 changeworld でお願いします。
+}}

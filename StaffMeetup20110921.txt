@@ -1,0 +1,82 @@
+* StaffMeetup20110921
+
+- 日時:2011/09/21 19:00 - 
+- 場所:永和システムマネジメント
+
+** 参加者
+
+nawoto, 
+
+** アジェンダ
+
+- スクラム道場08の準備
+- 新スタッフをいじる
+- [[Scrum Boot Camp関西ふりかえり]]
+- [[ScrumBootCamp201110]]
+{{mail(nishimura@nawo.to,1316008391)
+それでは割と集まりそうなので 9/21 19:00 永和システムマネジメントの会議室で開催します。
+来れそうな人は、このスレのページの参加者に書いておいてください。
+また、アジェンダに追記したい事があれば、そっちも追記お願いします。
+
+In <CACCYYWQLcQsv_=moreBY8wjij=2Dw8p2GGrT1VR-bgN2ZyAC1Q@mail.gmail.com>,
+imagire takashi <imagire@gmail.com> wrote:
+
+> 朝は、7:30-8:30@E和なら、いつでも大丈夫です！
+> 21日はたぶん大丈夫ですが、新しい職場は19:00打ち合わせだと厳しい～
+
+ごめんなさーい。
+次回までに Imagire メンバーも参加しやすいような工夫を考えたいと思います。
+今回は、良ければ飲み会の部からでも来てくださーい。# たぶん飲んでるはずw
+}}
+{{mail(nishimura@nawo.to,1316498933)
+明日はスタッフミーティングだよっというリマインドw
+けど、台風が直撃っぽいので都内に警報が出ている場合は順延にします。
+}}
+{{mail(miholovesq@gmail.com,1316499417)
+り～
+}}
+{{mail(takaesu0@gmail.com,1316505807)
+ただいま9連休引きこもり中。
+
+雨風が激しくなければー。
+}}
+{{mail(ryuzee@gmail.com,1316562424)
+ごめんなさい。
+明らかにこちらに台風が来る様相を挺しているので
+今日のスタッフミーティングは欠席します。
+# というかさすがにやらないよね？....
+
+(11/09/20 15:08), Nishimura Naoto wrote:
+> 明日はスタッフミーティングだよっというリマインドw
+> けど、台風が直撃っぽいので都内に警報が出ている場合は順延にします。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1316563166)
+おはようございます。23区にも大雨洪水警報でてますねー。これは中止かな？
+名古屋は大変なことになってますね。
+}}
+{{mail(nishimura@nawo.to,1316576124)
+こりゃイカンね。本日は中止にします。
+みんな、くれぐれも気をつけて帰宅してねー
+
+2011/9/21 高橋 一貴 <takahashi.kazuyoshi@gmail.com>:
+> おはようございます。23区にも大雨洪水警報でてますねー。これは中止かな？
+> 名古屋は大変なことになってますね。
+}}
+{{mail(miholovesq@gmail.com,1316576161)
+大雨暴風洪水波浪の4セットで警報が出てますね。
+19時に上野に向かうときが一番しんどそうなので今日は帰ろうかなーと思います。
+}}

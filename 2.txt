@@ -1,0 +1,394 @@
+* 国立情報学研究所でのセミナー会場提供の案内(8/15-19)
+{{mail(imagire@gmail.com,1311234354)
+Imagireです。
+
+知り合いの@mnagakuさんから、セミナー会場の提供の話がきています。
+会場自体は、教室のような場所です。
+時間があまりありませんが、スクラム道だけに限らず、何か勉強会が
+できそうだというアイデアがありましたら、お知らせください。
+
+残念ながら先負がないんですよね・・・
+
+-----------------------------------
+国立情報学研究所の20階にedubaseSpaceと言う、教室環境があります。
+
+edubaseSpace
+http://edubase.jp/space/
+
+普段は、社会人向けの教育課程である、
+
+TopSE
+http://www.topse.jp/
+
+に供されているのですが、8月は基本的に講義がないので、
+8/15からの5日間を、コミュニティの勉強会に使ってもらう、
+「edubaseSpace勉強会Week」にしたいと考えています。
+
+あまり時間もないので、今回は私の知っている範囲で、
+アジャイルとか、パターンとか、スクラムとか、テストとか、形式手法とか、
+のコミュニティに関わっておられて、興味を持って頂けそうな皆さんに、
+このように案内させて頂く次第です。
+
+講演形式はもちろん、
+ワークショップやパネルディスカッションに向いた施設ですので、
+普段の勉強会でやっていないことを試してもらえるとうれしいですが、
+準備時間もないので、
+取り敢えず1回使って頂いて、使用感など伺えればと思います。
+
+レギュレーションとしては
+
+・スクール形式36席(椅子のみだと50席程度)
+・無線LANあり
+・プロジェクタは正面1枚、背面1枚、壁面6枚、大型TV2枚
+・空調+扇風機6台w
+・準備は17時から
+・撤収は21時半までに
+・参加者に弊所パンフレットの配布
+・参加者に使用感のアンケートを実施
+・参加者の氏名と所属をまとめたものを入館者リストとして警備に提出する必要あり
+・会場での受付はコミュニティ側で行う
+・19時以降EVホールが施錠されるので、対応が必要
+・無料セミナとして実施して欲しい
+・形式上GRACEセンタ主催扱いにするので申請は不要
+
+といった感じになります。
+
+普段、ustを流していないなどの場合には、
+私の方でやらせて頂くことも可能です。
+会場内でハッシュタグを追いかけて表示といったことも対応可能です。
+
+皆さんの関わっておられるコミュニティで相談して頂いて、
+利用を検討頂ければ幸いです。
+
+宜しくお願い致します。
+-- 
+今給黎 隆 Takashi Imagire
+e-mail:imagire@gmail.com
+http://t-pot.com/
+}}
+{{mail(kawaguti@gmail.com,1311298967)
+かわぐちです。
+
+　スクラム道やるならつきあいます。
+　スクラム入門もやってみたい気がします。人が来るのかわからないけど。
+　AgileUCDjaでもなんかやりたい気がする。
+
+　なんか一つできるといいなぁ。
+　(月曜日は予定入っているのでパスしたいです。)
+
+　>>・参加者の氏名と所属をまとめたものを入館者リストとして警備に提出する必要あり
+
+　急遽参加の方の対応フローはどうしたらいいですかね。
+　門前払いはしたくないですよね。
+
+　たぶん初めての試みだと思いますので、この機会にフローを作っていただく感じになると思いますので、希望を出して長久先生に動いていただく必要があるか...。
+
+
+2011年7月21日16:45 imagire takashi <imagire@gmail.com>:
+> Imagireです。
+>
+> 知り合いの@mnagakuさんから、セミナー会場の提供の話がきています。
+> 会場自体は、教室のような場所です。
+> 時間があまりありませんが、スクラム道だけに限らず、何か勉強会が
+> できそうだというアイデアがありましたら、お知らせください。
+>
+> 残念ながら先負がないんですよね・・・
+>
+> -----------------------------------
+> 国立情報学研究所の20階にedubaseSpaceと言う、教室環境があります。
+>
+> edubaseSpace
+> http://edubase.jp/space/
+>
+> 普段は、社会人向けの教育課程である、
+>
+> TopSE
+> http://www.topse.jp/
+>
+> に供されているのですが、8月は基本的に講義がないので、
+> 8/15からの5日間を、コミュニティの勉強会に使ってもらう、
+> 「edubaseSpace勉強会Week」にしたいと考えています。
+>
+> あまり時間もないので、今回は私の知っている範囲で、
+> アジャイルとか、パターンとか、スクラムとか、テストとか、形式手法とか、
+> のコミュニティに関わっておられて、興味を持って頂けそうな皆さんに、
+> このように案内させて頂く次第です。
+>
+> 講演形式はもちろん、
+> ワークショップやパネルディスカッションに向いた施設ですので、
+> 普段の勉強会でやっていないことを試してもらえるとうれしいですが、
+> 準備時間もないので、
+> 取り敢えず1回使って頂いて、使用感など伺えればと思います。
+>
+> レギュレーションとしては
+>
+> ・スクール形式36席(椅子のみだと50席程度)
+> ・無線LANあり
+> ・プロジェクタは正面1枚、背面1枚、壁面6枚、大型TV2枚
+> ・空調+扇風機6台w
+> ・準備は17時から
+> ・撤収は21時半までに
+> ・参加者に弊所パンフレットの配布
+> ・参加者に使用感のアンケートを実施
+> ・参加者の氏名と所属をまとめたものを入館者リストとして警備に提出する必要あり
+> ・会場での受付はコミュニティ側で行う
+> ・19時以降EVホールが施錠されるので、対応が必要
+> ・無料セミナとして実施して欲しい
+> ・形式上GRACEセンタ主催扱いにするので申請は不要
+>
+> といった感じになります。
+>
+> 普段、ustを流していないなどの場合には、
+> 私の方でやらせて頂くことも可能です。
+> 会場内でハッシュタグを追いかけて表示といったことも対応可能です。
+>
+> 皆さんの関わっておられるコミュニティで相談して頂いて、
+> 利用を検討頂ければ幸いです。
+>
+> 宜しくお願い致します。
+> --
+> 今給黎 隆 Takashi Imagire
+> e-mail:imagire@gmail.com
+> http://t-pot.com/
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/2.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(imagire@gmail.com,1311301300)
+今給黎です。
+
+それでは、スクラム道の判断は別として、川口さんと長久さんをつなぎます～
+}}
+{{mail(nishimura@nawo.to,1311307001)
+2011年7月21日16:45 imagire takashi <imagire@gmail.com>:
+> edubaseSpace
+> http://edubase.jp/space/
+
+これは良さそうな開場ですな。
+先負じゃないけど、スクラム道場.07の会場で使うのもいいかもね。
+あと、何かネタあるかな?? ワークショップ大戦やるか!?
+}}
+{{mail(imagire@gmail.com,1311307428)
+会場写真はパースが強いですね。
+行ったことがあるのですが、体感的には写真の2/3ぐらいの広さに感じました。
+
+何かやるなら、最初に日程だけ決めておきますか？
+他の方にも声を掛けられているようなので、早めに宣言しておいた方が良いかもしれません。
+}}
+{{mail(nishimura@nawo.to,1311308963)
+In <CACCYYWSE7RrQMxK7j2NiOfgrkTEgxfzRvUPrDY4Xdh=0sJWt7A@mail.gmail.com>,
+imagire takashi <imagire@gmail.com> wrote:
+
+> 会場写真はパースが強いですね。
+> 行ったことがあるのですが、体感的には写真の2/3ぐらいの広さに感じました。
+
+さすが、写真大臣ww
+
+> 何かやるなら、最初に日程だけ決めておきますか？
+> 他の方にも声を掛けられているようなので、早めに宣言しておいた方が良いかもしれません。
+
+特に何もやらない方向ですかね。
+
+[[スクラム道場.07]]は、選手のみで永和でいいかなって気になってます。意見は別スレで募集中。
+あとは、他にネタがあればかな。今のところネタとしては、ワークショップ大戦ぐらいしか思いつかんww
+今日一杯ぐらい様子見ましょうか。
+}}
+{{mail(kawaguti@gmail.com,1311309483)
+かわぐちです。
+
+　スクラム道とはちょっと趣旨があわないかもしれないけど、
+　上司に反対されたり顧客説得が面倒だったりして、
+　「隠れスクラム」をやっている職場が結構あったと思います。
+　このへんのベストプラクティスを共有したい。
+
+　どんな職場であれ、Scrumっぽいことで改善できる余地がたくさんあると思うし、
+　みんなのはじめの一歩もそんな感じだったのかもしれないし。
+
+　　・予算なし
+　　・壁なし
+　　・上司や顧客の合意なし
+　　・(もしかすると)チームメンバーすら同意なし
+
+　そうせざるを得ないときの制約(フォース、Impediments)はなにか？
+　その場合にできることは何か？やってみてよかったことはなんだろうか？
+
+　Sneaky Scrum という名前を付けた人がいて、Agile2011でLT枠を勝ち取ったようです。
+　　http://kasperowski.com/2010/03/my-presentations-at-scrum-gathering.html
+　　http://submit2011.agilealliance.org/node/11237
+　　http://program2011.agilealliance.org/event/7cd292f26e5e1d4dc91427ffc5b870e8
+
+　　Does your organization resist Scrum? Is your boss afraid of Scrum
+because of the strange jargon and lack of big up front planning? Do
+your developers say it's a good idea, but they can't deliver done
+stories? Try Sneaky Scrum. Trick your teams into adopting Scrum, one
+practice at a time. Use my subversive system to stealthily sneak Scrum
+into your organization. I did, and I'll show you how I did it. This
+lightning talk was also presented as a pecha kucha at Scrum Gather
+2010 in Orlando, Florida.
+
+　　会社がScrumに反対してるって？上司がScrumは用語だらけで計画もなくて怖いって言ってるって？なら、隠れスクラムを試そう。チームを騙してScrumを適用するんだ。一つずつプラクティスを適用していくんだぜ。俺の悪巧みシステムを使って、組織に隠れスクラムを密かに仕込んじゃいな。俺はもうやったから、どうやるのか教えてやんぜ。Scrum
+Gathering 2010 の LTで話したぜ。
+
+
+
+一応、どっかでできればいいな、という程度で。
+
+
+2011年7月22日13:29 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CACCYYWSE7RrQMxK7j2NiOfgrkTEgxfzRvUPrDY4Xdh=0sJWt7A@mail.gmail.com>,
+> imagire takashi <imagire@gmail.com> wrote:
+>
+>> 会場写真はパースが強いですね。
+>> 行ったことがあるのですが、体感的には写真の2/3ぐらいの広さに感じました。
+>
+> さすが、写真大臣ww
+>
+>> 何かやるなら、最初に日程だけ決めておきますか？
+>> 他の方にも声を掛けられているようなので、早めに宣言しておいた方が良いかもしれません。
+>
+> 特に何もやらない方向ですかね。
+>
+> [[スクラム道場.07]]は、選手のみで永和でいいかなって気になってます。意見は別スレで募集中。
+> あとは、他にネタがあればかな。今のところネタとしては、ワークショップ大戦ぐらいしか思いつかんww
+> 今日一杯ぐらい様子見ましょうか。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/2.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1311310205)
+In <CAHY8s=BcoHd-Ch_EXb_d9bL1YYOydNGQnY676=kyJ+oHtzJuig@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+> 　スクラム道とはちょっと趣旨があわないかもしれないけど、
+> 　上司に反対されたり顧客説得が面倒だったりして、
+> 　「隠れスクラム」をやっている職場が結構あったと思います。
+> 　このへんのベストプラクティスを共有したい。
+
+というテーマで[[スクラム道場]]でどうか。
+}}
+{{mail(kawaguti@gmail.com,1311311014)
+かわぐちです。
+
+　どっちでも。
+
+2011年7月22日13:49 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CAHY8s=BcoHd-Ch_EXb_d9bL1YYOydNGQnY676=kyJ+oHtzJuig@mail.gmail.com>,
+> Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+>
+>>　 スクラム道とはちょっと趣旨があわないかもしれないけど、
+>>　 上司に反対されたり顧客説得が面倒だったりして、
+>>　 「隠れスクラム」をやっている職場が結構あったと思います。
+>>　 このへんのベストプラクティスを共有したい。
+>
+> というテーマで[[スクラム道場]]でどうか。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/2.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1311311354)
+In <CAHY8s=B_oamHksW=dKNeFbiSeR03bW2T4uBqNrkx3gcB_bUUQQ@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+>>>　 「隠れスクラム」をやっている職場が結構あったと思います。
+>>>　 このへんのベストプラクティスを共有したい。
+>>
+>> というテーマで[[スクラム道場]]でどうか。
+>
+> 　どっちでも。
+
+う、[[スクラム道場ネタ出し]]に記入して pending でいいのかな?
+}}
+{{mail(kawaguti@gmail.com,1311311879)
+かわぐちです。
+
+　どこにかけばいいのだっけ。
+
+2011年7月22日14:09 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CAHY8s=B_oamHksW=dKNeFbiSeR03bW2T4uBqNrkx3gcB_bUUQQ@mail.gmail.com>,
+> Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+>
+>>>>　 「隠れスクラム」をやっている職場が結構あったと思います。
+>>>>　 このへんのベストプラクティスを共有したい。
+>>>
+>>> というテーマで[[スクラム道場]]でどうか。
+>>
+>>　 どっちでも。
+>
+> う、[[スクラム道場ネタ出し]]に記入して pending でいいのかな?
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/2.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1311522978)
+In <CAHY8s=BgfJ=UAwZSYLRLhapUkYPscciW1AHc_myjdhA_ZKV4sg@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+> 　どこにかけばいいのだっけ。
+
+http://qwik.jp/taoofscrum/NextThemesForDojo.html
+}}
+{{mail(kawaguti@gmail.com,1311527734)
+かわぐちです。
+
+　えらいたくさん書いてあるな～。
+　ありがとうございます。
+
+2011年7月25日0:56 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CAHY8s=BgfJ=UAwZSYLRLhapUkYPscciW1AHc_myjdhA_ZKV4sg@mail.gmail.com>,
+> Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+>
+>>　 どこにかけばいいのだっけ。
+>
+> http://qwik.jp/taoofscrum/NextThemesForDojo.html
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/2.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(imagire@gmail.com,1311555500)
+で、NIIの会場はどうしましょうか？
+
+かわぐちさんが、「やる」といえば、決まるのかな？
+それとも、PO判断？
+}}
+{{mail(nishimura@nawo.to,1311569497)
+2011/7/25 imagire takashi <imagire@gmail.com>:
+> で、NIIの会場はどうしましょうか？
+
+やらないでいいんじゃない。
+
+> かわぐちさんが、「やる」といえば、決まるのかな？
+> それとも、PO判断？
+
+誰かがこの時期にスクラム道プレゼンツでこれやろうぜってのがあって、みんなでやろうかってなればやるって感じですかね。
+ただ、もうタイムアップっぽいので僕は「やらない」で良いと思ってます。
+# ワークショップ大戦は賛同者をつのるところから始めますww
+}}
+{{mail(imagire@gmail.com,1311572185)
+ひとまず、キャンセルで話をしておきます。
+}}
+{{mail(nishimura@nawo.to,1311572469)
+2011/7/25 imagire takashi <imagire@gmail.com>:
+> ひとまず、キャンセルで話をしておきます。
+
+すいません、ありがとうございます。
+}}
+{{mail(nishimura@nawo.to,1311779818)
+In <CAHY8s=CLbVwShQtsUCuxH9W09RRDjXfr5tKBncg09QZKOmUxuQ@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+> 　えらいたくさん書いてあるな～。
+> 　ありがとうございます。
+
+最近、ちょっと読み手の待ち行列が出来るぐらいになってきたので、ちょっとやり方を考えたいなー。
+続きはスレ違いっぽいので、そのうちスレ立てます。
+}}

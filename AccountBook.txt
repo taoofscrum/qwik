@@ -1,0 +1,65 @@
+* おこづかい帳
+
+主に [[ScrumBootCamp]] の備品代の残りを記録していくためのスレ。
+{{mail(nishimura@nawo.to,1340247627)
+# スレたてた
+
+例えば、こんな感じで投げてください。
+
+nawoto +1000円 nawoto ScrumBootCampなんちゃら備品 201206xx
+# メールだと日付が付くから日付はいかんかも
+}}
+{{mail(ryuzee@gmail.com,1340855338)
+みんな、お小遣い帳の記入よろしく頼みますねー。
+
+#
+#  劉爺
+#
+}}
+{{mail(imagire@gmail.com,1341337323)
+違ったら後から修正
+
+imagire +17000円 ScrumBootCamp東京 20120616
+}}
+
+{{mail(miholovesq@gmail.com,1347695807)
+8月のCEDECと今日のXP祭りでおりがみなどなどの経費が発生しています。
+このスレに書くように！
+
+nawotoは初期の埋蔵金を出すようにw
+
+EXPO前にキレイにしとくとあとがラクよ～
+てことでよろしく。
+}}
+{{mail(harada.kiro@gmail.com,1347800447)
+合宿やろうぜスレを立てようかと思ったが、こっちが先だな。
+
+XP祭り参加の皆様、おつかれさまでした。
+--
+原田騎郎
+
+
+
+2012年9月15日 16:56 Miho Nagase <miholovesq@gmail.com>:
+> 8月のCEDECと今日のXP祭りでおりがみなどなどの経費が発生しています。
+> このスレに書くように！
+>
+> nawotoは初期の埋蔵金を出すようにw
+>
+> EXPO前にキレイにしとくとあとがラクよ～
+> てことでよろしく。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/AccountBook.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(imagire@gmail.com,1347836160)
+Imagireです。
+支出はまだまとめていないので、収入だけ。
+
+今回、募金していただいた合計金額は、2750円になります。
+一口100円なのに…
+}}
+{{mail(nishimura@nawo.to,1350138619)
+nawoto +3500 おこづかい帳以前に預っていたお金
+}}

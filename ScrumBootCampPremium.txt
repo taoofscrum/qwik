@@ -1,0 +1,304 @@
+* ScrumBootCampプレミアム
+{{mail(nishimura@nawo.to,1324267483)
+ひとまずスレ立てた。
+# 立てるの忘れてた
+
+** 経緯
+
+某社から有料でSBCをやってみないかという依頼を受けたので、当初から話題に出ていた有料化へのアプローチ
+の一つとして一回やってみることにした。
+現在、2/25 に開催の方向で進めています。
+
+あと、別件ですが講師プロフィールとかは、このページにまとめていけばいいかな? > Ryuzee
+
+** 気になる事
+
+まずは一回やってみる事になりましたが、気になる事はどのみち議論します。
+なので、現時点で何かあれば忘れないように、このスレに書いといてもらえますか? > all
+}}
+{{mail(miholovesq@gmail.com,1325058040)
+反応するの忘れてた。
+
+2011/12/19 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 現在、2/25 に開催の方向で進めています。
+
+スタッフは今まで通りな感じ（マテリアルレビューしたり、申し込み準備や当日手伝ったり、
+ワークとかで参加者フォローしたり）でいいのかしらん？
+事務局的な関わり方は減るはずなので、多少なりとも変わるんじゃないかと思ってますが。
+中身については有料なりのものにする必要があると思うので、より一層協力したいと思っては
+いるけど、そもそもそんなに手伝うことないとか。
+
+# いずれにせよ信頼と実績のアレなんで平気だろうけどw
+
+それと、前回議論したときに挙がったと思うんだけど、お金の流れはどうなるんでしょうかー。
+うまくいく仕組みができそうなのかな？
+まあまずは1回やってみよう、ってぐらいだとは思いますが、地方開催とかなんとか野望はデカイ
+ので単に興味があります。
+
+# MLでシェアってのはしにくい話かもしんないね
+
+次回道場どうすんのとともにスタッフミーティング開催かしらね。
+}}
+{{mail(nishimura@nawo.to,1326175529)
+In <CAPG=6LZp_cf_bcKZKqeZufvLnpMKXKy-q25g2t=SUyo4vrseSA@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> 2011/12/19 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> 現在、2/25 に開催の方向で進めています。
+> 
+> スタッフは今まで通りな感じ（マテリアルレビューしたり、申し込み準備や当日手伝ったり、
+> ワークとかで参加者フォローしたり）でいいのかしらん？
+> 事務局的な関わり方は減るはずなので、多少なりとも変わるんじゃないかと思ってますが。
+> 中身については有料なりのものにする必要があると思うので、より一層協力したいと思っては
+> いるけど、そもそもそんなに手伝うことないとか。
+
+運営面は某社にお願いするので、道としてはあくまでコンテンツ提供と必要があれば当日スタッフの提供ぐらい
+だと思う。
+
+> # いずれにせよ信頼と実績のアレなんで平気だろうけどw
+
+もちろん、レビューとかはお願いするが、今回は既製品で行くと思う。
+
+> それと、前回議論したときに挙がったと思うんだけど、お金の流れはどうなるんでしょうかー。
+> うまくいく仕組みができそうなのかな？
+> まあまずは1回やってみよう、ってぐらいだとは思いますが、地方開催とかなんとか野望はデカイ
+> ので単に興味があります。
+
+その予想で大正解ww
+道は、お金をプールする仕組みを持ってないので、今回はまずは有料での開催を一回やってみて反応をみようと
+いうふうにしました。
+なので、今回は講師の講演料としてもらおうと思っています。
+で、好評なら次回以降の宿題として、どうやってお金をプールするかを考えたいと思います。
+
+> # MLでシェアってのはしにくい話かもしんないね
+
+じゃんじゃんシェアするぜ。
+どうしても駄目そうな話が出れば、Torello のコメントにでも移動すっかね。
+
+> 次回道場どうすんのとともにスタッフミーティング開催かしらね。
+
+お金のプールの話はアイデア出しぐらいはしたいなー。
+で、ミーティングいつやろっか? なんか、みんな忙しそうだけどww
+}}
+{{mail(sarastier@gmail.com,1326300235)
+チラシの裏です。
+
+今日JICCCという、育成機関でトレーニングを受けた企業内コーチのコミュニティ（コーチングをいかに企業内で使っていくか、浸透させていくかがテーマ）の定例会へ見学参加してきました。会員数70名程度で、定例会には20人くらいの参加。内容はすくすくに近かったです。世代的に5～10歳位上の人が多かったんですが、コミュニティとは思えない活動レベルで、少し調べてみたらNPO認定を取っていて、公器としての道を選んだ団体でした。
+
+スクラムではお金とセットでアライアンスが押さえてるあたりの話だし、道の趣旨とも少し違うし、参加者層も随分違うけど、お金の扱いを考えると、将来的な方向性としてNPOを考える、もしくはスタンスの確立のためにその辺りを表明して行くのはどうなのかなと思った次第です。
+}}
+{{mail(takubon@kanataku.com,1326865394)
+木村です。
+募集開始したみたいですね。
+
+http://enterprisezine.jp/pma/special/01
+http://www.seshop.com/product/detail/14053/
+
+当日スタッフ等あれば、協力します。
+
+}}
+{{mail(ryuzee@gmail.com,1326865864)
+吉羽です。
+
+今日から募集開始ですね。とりあえずしばらく申し込みの様子を
+みて自分たちでも告知するかどうかは決めていく予定です。
+当日スタッフについては、あまり皆さんのお手をわずらわせないように
+したいとは思っていますが、今後相談させていただきます。
+
+＃木村さん、横浜道場おめでとうございます＆足お大事に～
+
+(12/01/18 14:43), takubon@kanataku.com wrote:
+> 木村です。
+> 募集開始したみたいですね。
+> 
+> http://enterprisezine.jp/pma/special/01
+> http://www.seshop.com/product/detail/14053/
+> 
+> 当日スタッフ等あれば、協力します。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1326866957)
+高江洲です。
+
+> 今日から募集開始ですね。とりあえずしばらく申し込みの様子を
+> みて自分たちでも告知するかどうかは決めていく予定です。
+> 当日スタッフについては、あまり皆さんのお手をわずらわせないように
+> したいとは思っていますが、今後相談させていただきます。
+
+おー。
+
+人手が必要であればお手伝いさせてくださいー。
+}}
+{{mail(nishimura@nawo.to,1329972820)
+SBCP は無事 14 名の申し込みがありました。
+
+で、当日お手伝いいだたけるスタッフを二名募集します。
+一名は補佐で、一名は人数調整のためサクラ(??)として参加をお願いします。
+たしか、miholovesq と takaesu0 は予定を空けてもらってたと思うので、ぜひぜひ。
+
+直前のお願いですいませんが、宜しくお願い致します。> all
+}}
+{{mail(miholovesq@gmail.com,1329973360)
+はーい。行きます。
+補佐でもサクラでも良いです。
+色々考えたて希望はやや補佐寄りだけどどちらも同じくらい。
+どっちのロールが適任かは、参加者見ながら講師に判断してもらった方がいいかな。
+2012/02/23 13:53 "Nishimura Naoto" <n-nishimura@esm.co.jp>:
+
+> SBCP は無事 14 名の申し込みがありました。
+>
+> で、当日お手伝いいだたけるスタッフを二名募集します。
+> 一名は補佐で、一名は人数調整のためサクラ(??)として参加をお願いします。
+> たしか、miholovesq と takaesu0 は予定を空けてもらってたと思うので、ぜひぜひ。
+>
+> 直前のお願いですいませんが、宜しくお願い致します。> all
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumBootCampPremium.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1329978777)
+In <CAPG=6LYTqr+cG6R_H8SrGh_9D4PmROVE6+t9Z+w5og8GQvvN7Q@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> はーい。行きます。
+> 補佐でもサクラでも良いです。
+> 色々考えたて希望はやや補佐寄りだけどどちらも同じくらい。
+> どっちのロールが適任かは、参加者見ながら講師に判断してもらった方がいいかな。
+
+それじゃ、よろしくお願いしまーす。
+僕らは 9 時ぐらいに会場入りする予定なので、その時でも相談しましょう。
+
+とりあえず、スタッフ希望が 2 名以下なら先着順でいいよね。
+}}
+{{mail(takaesu0@gmail.com,1329989464)
+高江洲です。
+
+今の時点でちと体調が悪くなりそう（単に現場の空気が悪くてちょっとだるいだけかも）
+な感じなので、今日明日様子を見たいと思います。
+
+インフルエンザ疑わしきは参加せず、ということで。。。
+
+2012年2月23日15:32 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CAPG=6LYTqr+cG6R_H8SrGh_9D4PmROVE6+t9Z+w5og8GQvvN7Q@mail.gmail.com>,
+> Miho Nagase <miholovesq@gmail.com> wrote:
+>
+>> はーい。行きます。
+>> 補佐でもサクラでも良いです。
+>> 色々考えたて希望はやや補佐寄りだけどどちらも同じくらい。
+>> どっちのロールが適任かは、参加者見ながら講師に判断してもらった方がいいかな。
+>
+> それじゃ、よろしくお願いしまーす。
+> 僕らは 9 時ぐらいに会場入りする予定なので、その時でも相談しましょう。
+>
+> とりあえず、スタッフ希望が 2 名以下なら先着順でいいよね。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumBootCampPremium.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takubon@kanataku.com,1329989489)
+木村です。
+
+さくら役の補欠で…
+}}
+{{mail(nishimura@nawo.to,1330000885)
+In <CACMw1MBkLk=3LWY54qZN6SGOm7afk_1FkgQdLdXqDK9WDS862w@mail.gmail.com>,
+Makoto Takaesu <takaesu0@gmail.com> wrote:
+
+> 今の時点でちと体調が悪くなりそう（単に現場の空気が悪くてちょっとだるいだけかも）
+> な感じなので、今日明日様子を見たいと思います。
+> 
+> インフルエンザ疑わしきは参加せず、ということで。。。
+
+おぉ、なんと!!
+じゃ、明日の日中に教えてくださいな。
+
+それじゃ、takubon にアップを開始してもらおう。
+ちなみにお弁当が出ますw
+}}
+{{mail(qooh0.info@gmail.com,1330052589)
+海江田です。
+
+2/25 は予定がつくので、人出が足らんかったら手伝いに行けます。
+大丈夫だと思うけど、なんかあったら言ってください。
+
+--
+kaieda
+}}
+{{mail(takaesu0@gmail.com,1330064291)
+高江洲です。
+
+体調は問題ないので、朝から参加の方向で！
+
+iPhoneから送信
+
+On 2012/02/23, at 21:41, Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+> In <CACMw1MBkLk=3LWY54qZN6SGOm7afk_1FkgQdLdXqDK9WDS862w@mail.gmail.com>,
+> Makoto Takaesu <takaesu0@gmail.com> wrote:
+> 
+>> 今の時点でちと体調が悪くなりそう（単に現場の空気が悪くてちょっとだるいだけかも）
+>> な感じなので、今日明日様子を見たいと思います。
+>> 
+>> インフルエンザ疑わしきは参加せず、ということで。。。
+> 
+> おぉ、なんと!!
+> じゃ、明日の日中に教えてくださいな。
+> 
+> それじゃ、takubon にアップを開始してもらおう。
+> ちなみにお弁当が出ますw
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/ScrumBootCampPremium.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(nishimura@nawo.to,1330066929)
+In <BD3E28A7-DCD8-4F5C-8D89-CF3ADD797659@gmail.com>,
+Taka-S <takaesu0@gmail.com> wrote:
+
+> 体調は問題ないので、朝から参加の方向で！
+
+ほーい、それでは今回は miholovesq と takaesu にお願いしまーす。
+直前の連絡なのに、みんな手を挙げてくれてありがとー!!
+}}
+{{mail(harada.kiro@gmail.com,1330067222)
+がんばってねー。
+
+安心して今晩、神戸に帰りまする。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2012/2/24 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <BD3E28A7-DCD8-4F5C-8D89-CF3ADD797659@gmail.com>,
+> Taka-S <takaesu0@gmail.com> wrote:
+>
+>> 体調は問題ないので、朝から参加の方向で！
+>
+> ほーい、それでは今回は miholovesq と takaesu にお願いしまーす。
+> 直前の連絡なのに、みんな手を挙げてくれてありがとー!!
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumBootCampPremium.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takubon@kanataku.com,1330090751)
+がんばって下さい(^-^)/
+}}

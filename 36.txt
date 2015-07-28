@@ -1,0 +1,223 @@
+* Scrum Boot Camp - Fukuoka
+{{mail(harada.kiro@gmail.com,1341545124)
+やるよん！
+
+というわけで、決まっていることは以下
+
+- 9/1(土曜日) にやりたい
+- 現地コーディネータは、ハウインターナショナルの高橋さん(@goking)
+- 場所はきっとここ(http://frac.jp/)
+- 講師に対する条件は名古屋といっしょ(東京からの交通費、宿泊費二人分)
+  - 宿泊費が二泊分出るかはちょっと調整
+- 私はサポートで参加します
+
+というわけで、
+- メイン講師、サブ講師、サポートさんを募集します。
+
+- ちなみに(http://www.trs-fukuoka.co.jp/)にみんなで泊まるのもきっと面白い。
+
+翌日は、私が観光案内しますよ :)
+
+それでは、よろしくお願いします。
+--
+原田騎郎
+}}
+{{mail(ryuzee@gmail.com,1341545608)
+一応メインでいくつもりだけど、他に手をあげる人いれば調整しましょー
+
+
+> - 9/1(土曜日) にやりたい
+> - 現地コーディネータは、ハウインターナショナルの高橋さん(@goking)
+> - 場所はきっとここ(http://frac.jp/)
+> - 講師に対する条件は名古屋といっしょ(東京からの交通費、宿泊費二人分)
+>   - 宿泊費が二泊分出るかはちょっと調整
+> - 私はサポートで参加します
+>
+> というわけで、
+> - メイン講師、サブ講師、サポートさんを募集します。
+>
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1341546201)
+サブか何かでやります!
+
+2012/7/6 Kiro HARADA <harada.kiro@gmail.com>:
+> やるよん！
+>
+> というわけで、決まっていることは以下
+>
+> - 9/1(土曜日) にやりたい
+> - 現地コーディネータは、ハウインターナショナルの高橋さん(@goking)
+> - 場所はきっとここ(http://frac.jp/)
+> - 講師に対する条件は名古屋といっしょ(東京からの交通費、宿泊費二人分)
+>   - 宿泊費が二泊分出るかはちょっと調整
+> - 私はサポートで参加します
+>
+> というわけで、
+> - メイン講師、サブ講師、サポートさんを募集します。
+>
+> - ちなみに(http://www.trs-fukuoka.co.jp/)にみんなで泊まるのもきっと面白い。
+>
+> 翌日は、私が観光案内しますよ :)
+>
+> それでは、よろしくお願いします。
+> --
+> 原田騎郎
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/36.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(kimura.kanataku@gmail.com,1341549980)
+かっぱたん、初参戦！
+
+福岡行ってみたかったけど、9/1 はTDD Bootcamp Yokohama だった。。。
+
+
+2012年7月6日 12:42 Kaz Takahashi <takahashi.kazuyoshi@gmail.com>:
+> サブか何かでやります!
+>
+> 2012/7/6 Kiro HARADA <harada.kiro@gmail.com>:
+>> やるよん！
+>>
+>> というわけで、決まっていることは以下
+>>
+>> - 9/1(土曜日) にやりたい
+>> - 現地コーディネータは、ハウインターナショナルの高橋さん(@goking)
+>> - 場所はきっとここ(http://frac.jp/)
+>> - 講師に対する条件は名古屋といっしょ(東京からの交通費、宿泊費二人分)
+>>   - 宿泊費が二泊分出るかはちょっと調整
+>> - 私はサポートで参加します
+>>
+>> というわけで、
+>> - メイン講師、サブ講師、サポートさんを募集します。
+>>
+>> - ちなみに(http://www.trs-fukuoka.co.jp/)にみんなで泊まるのもきっと面白い。
+>>
+>> 翌日は、私が観光案内しますよ :)
+>>
+>> それでは、よろしくお願いします。
+>> --
+>> 原田騎郎
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/36.html
+>> ML-> taoofscrum@qwik.jp
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/36.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(nishimura@nawo.to,1341551215)
+おお、かっぱたんktkr!!
+
+とりあえず体制表をどぞ
+
+- 講師
+- サポート
+
+じゃ、俺は北の方を担当するよww
+どっかないのw?
+}}
+{{mail(ryuzee@gmail.com,1341551624)
+札幌からそういう話がでつつあるんだけど、nawotoさんOK？
+
+2012年7月6日 14:06 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> おお、かっぱたんktkr!!
+>
+> とりあえず体制表をどぞ
+>
+> - 講師
+> - サポート
+>
+> じゃ、俺は北の方を担当するよww
+> どっかないのw?
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1341556541)
+このスレでいいのかわからんけど、レギュレーションって何かありましたよね。
+どこ見ればわかるかな?
+}}
+{{mail(takaesu0@gmail.com,1341558123)
+高江洲です。
+
+サポート行きたいなー。
+
+沖縄開催はメインで行くぞ。
+
+＃っていつやれるんだろw
+
+2012年7月6日 14:06 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> おお、かっぱたんktkr!!
+>
+> とりあえず体制表をどぞ
+>
+> - 講師
+> - サポート
+>
+> じゃ、俺は北の方を担当するよww
+> どっかないのw?
+}}
+{{mail(nishimura@nawo.to,1341638620)
+みんな、福岡はまかせたぞ!!
+あとで、僕は誰に状況とかを確認していくよいのかを教えてねー。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1346666831)
+古いスレを復活させてみるw
+資料のシェアってもうされていますか？
+あと、今の段階で僕が手伝えること、準備しておいた方が良いことは何かありますか？
+}}
+{{mail(imagire@gmail.com,1346666985)
+Imagireです。
+
+この前のスタッフミーティングでは、かっぱたんがサブ決定な感じで、
+資料も全てお任せするような雰囲気でした。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1346669461)
+過去の実施要綱とかキャッチアップできてなくて申し訳ないです。
+
+過去ログで発見したのですが、Dropboxの ScrumBootCamp ディレクトリがあるんですね。
+どなたかシェアしてもらえないでしょうか？
+そこに全体の流れと持ち時間、期待するスコープが記載されていることを期待w
+
+資料作りは寝耳にウォーターでした。
+サブ講師はメイン講師の資料使ってやると思い込んでた…
+}}
+{{mail(imagire@gmail.com,1346669793)
+Dropbox はRyuzeeさんにやってもらえるはずです！
+
+そういえば、CEDEC は、自分が作った資料をワークで使ってもらいました。
+その辺は、メイン講師とサブ講師のやり取りで決めてもらえば良いかと思いますが、
+自分の経験では、同じ内容でも自分なりの説明の仕方があるので、
+コピペでも新たに作った方が良いかと思っています。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1346670584)
+了解です～。
+まずはキャッチアップがんばりますw
+
+2012/9/3 imagire takashi <imagire@gmail.com>:
+> Dropbox はRyuzeeさんにやってもらえるはずです！
+>
+> そういえば、CEDEC は、自分が作った資料をワークで使ってもらいました。
+> その辺は、メイン講師とサブ講師のやり取りで決めてもらえば良いかと思いますが、
+> 自分の経験では、同じ内容でも自分なりの説明の仕方があるので、
+> コピペでも新たに作った方が良いかと思っています。
+>
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1346680886)
+シェアしてもらいました！
+ありがとうございました～>ryuzeeさん
+}}

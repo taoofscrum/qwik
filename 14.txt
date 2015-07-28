@@ -1,0 +1,2841 @@
+* Scrum Boot Camp関西について
+
+** Scrum Boot Camp 関西
+
+- 日時 : 9/7
+- 講師 : ryuzee, haradakiro
+- 当日スタッフ : takaesu0, kawaguti, miholovesq, Qooh0, nawoto
+
+{{mail(ryuzee@gmail.com,1312865704)
+Ryuzeeです。
+
+突然ですが、9月7日(水)のデブサミ関西にて、Scrum Boot Campを
+実施することにしました。
+
+http://codezine.jp/devsumi/2011/kansai/
+
+＃翔泳社岩切さんからオファーを頂きました。
+
+講師として、原田さんと私は行くことを決定しましたが、
+他のスタッフの方で、関西に行きたい！という方がいたら
+是非お知らせください！
+
+なお交通費等についてですが、講師1人分については確約を頂きました。
+その他の方の分については、先方と交渉可能です。
+＃nawotoさんは会社と調整...
+
+取り急ぎお知らせまで。
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1312883354)
+高江洲です。
+
+行けるかどうかはまだ確定ではないですが、行きたいっす。
+
+社費で行けるので参加表明のみで。
+
+2011年8月9日13:54 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> 突然ですが、9月7日(水)のデブサミ関西にて、Scrum Boot Campを
+> 実施することにしました。
+>
+> http://codezine.jp/devsumi/2011/kansai/
+>
+> ＃翔泳社岩切さんからオファーを頂きました。
+>
+> 講師として、原田さんと私は行くことを決定しましたが、
+> 他のスタッフの方で、関西に行きたい！という方がいたら
+> 是非お知らせください！
+>
+> なお交通費等についてですが、講師1人分については確約を頂きました。
+> その他の方の分については、先方と交渉可能です。
+> ＃nawotoさんは会社と調整...
+>
+> 取り急ぎお知らせまで。
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(kawaguti@gmail.com,1312900733)
+かわぐちです。
+
+  いきます。
+  社費でいけるかは交渉します(?)。
+
+On 2011/08/08, at 22:54, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> Ryuzeeです。
+> 
+> 突然ですが、9月7日(水)のデブサミ関西にて、Scrum Boot Campを
+> 実施することにしました。
+> 
+> http://codezine.jp/devsumi/2011/kansai/
+> 
+> ＃翔泳社岩切さんからオファーを頂きました。
+> 
+> 講師として、原田さんと私は行くことを決定しましたが、
+> 他のスタッフの方で、関西に行きたい！という方がいたら
+> 是非お知らせください！
+> 
+> なお交通費等についてですが、講師1人分については確約を頂きました。
+> その他の方の分については、先方と交渉可能です。
+> ＃nawotoさんは会社と調整...
+> 
+> 取り急ぎお知らせまで。
+> 
+> -- 
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/14.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(nishimura@nawo.to,1312903506)
+In <CACMw1MCkDJYMBOWgQyZY5PPKX2UWqF6jRQQYdWkpXnXW86Sj1Q@mail.gmail.com>,
+Makoto Takaesu <takaesu0@gmail.com> wrote:
+
+>> なお交通費等についてですが、講師1人分については確約を頂きました。
+>> その他の方の分については、先方と交渉可能です。
+
+待ち望んでいた先方で費用を負担してもらえる絶好の機会なんで、ふだん行けないスタッフはぜひ!!
+Boot Camp は当日手伝える事はたくさんあるよ!!
+
+> 社費で行けるので参加表明のみで。
+
+この表明はいいっすね。
+会社のお金で行ける人は、会社のお金で行こう!!
+
+>> ＃nawotoさんは会社と調整...
+
+そういう俺は 10 月に大阪に行くので予算を使う予定なので厳しかったりww
+}}
+{{mail(ryuzee@gmail.com,1312924242)
+Ryuzeeです。
+
+>>> なお交通費等についてですが、講師1人分については確約を頂きました。
+>>> その他の方の分については、先方と交渉可能です。
+>
+> 待ち望んでいた先方で費用を負担してもらえる絶好の機会なんで、ふだん行けないスタッフはぜひ!!
+> Boot Camp は当日手伝える事はたくさんあるよ!!
+
+コメントにします
+# 予算の関係で講師＋1くらいが限度みたいです。
+
+
+-- 
+Ryuzee
+Shibuya.trac / Certified Scrum Master
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+}}
+{{mail(ryuzee@gmail.com,1312925201)
+Ryuzeeです。
+
+関西版についてもろもろの連絡です。
+他に気になる点があれば早めにご連絡ください。
+
+確定事項
+
+・告知と集客については今回翔泳社さんのサイトで行ってくださるとのことです。
+・セッションの時間は会場の都合で11時~17時半(遅くて18時)とのこと。
+・会場は40人入る広さ。
+
+確認事項
+
+・翔泳社さんのほうでTwitter等で告知を開始してよいか？（特に問題ないと思う）
+・当日誰が講師するか（参加表明者：原田さん、かわぐちさん、私、たかえすさん）
+・ほかに行きたい方(特に翔泳社さんと費用交渉が必要な人)は？？
+・備品は翔泳社さんで準備いただけるか？
+・準備が難しい場合、参加者に費用負担を求めてよいか確認する。
+・前回の反省からマテリアルを印刷して配りたいが可能かを確認する。
+　可能な場合は入稿締切日
+・プランニングポーカーを配ったりできると素敵だよねーｗ
+　Agile2011で購入出来たりするなら、大量空輸とかもあり？ｗ
+
+2011年8月10日6:10 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+>>>> なお交通費等についてですが、講師1人分については確約を頂きました。
+>>>> その他の方の分については、先方と交渉可能です。
+>>
+>> 待ち望んでいた先方で費用を負担してもらえる絶好の機会なんで、ふだん行けないスタッフはぜひ!!
+>> Boot Camp は当日手伝える事はたくさんあるよ!!
+>
+> コメントにします
+> # 予算の関係で講師＋1くらいが限度みたいです。
+>
+>
+> --
+> Ryuzee
+> Shibuya.trac / Certified Scrum Master
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+>
+
+
+
+-- 
+Ryuzee
+Shibuya.trac / Certified Scrum Master
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+}}
+{{mail(miholovesq@gmail.com,1312964582)
+自腹はキツイけど交通費が出るなら行きたいです。
+ただし、もっとなんかアレな人がいたらゆずる。
+}}
+{{mail(ryuzee@gmail.com,1312964710)
+現在交渉中。但し最大２名分だと思う。
+
+(11/08/10 17:22), Miho Nagase wrote:
+> 自腹はキツイけど交通費が出るなら行きたいです。
+> ただし、もっとなんかアレな人がいたらゆずる。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(qooh0.info@gmail.com,1312972270)
+海江田です。
+
+僕も自腹はきついけど、交通費出るならです。
+
+--
+kaieda
+
+
+2011年8月10日17:25 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> 現在交渉中。但し最大２名分だと思う。
+>
+> (11/08/10 17:22), Miho Nagase wrote:
+>> 自腹はキツイけど交通費が出るなら行きたいです。
+>> ただし、もっとなんかアレな人がいたらゆずる。
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1312972638)
+たかはしです。
+
+Job Opportunity が必要なひとに譲りますw
+というかスクラムギャザリングでいっぱいいっぱいっすw
+
+2011/8/10 Kensuke Kaieda <qooh0.info@gmail.com>:
+> 海江田です。
+>
+> 僕も自腹はきついけど、交通費出るならです。
+>
+> --
+> kaieda
+>
+>
+> 2011年8月10日17:25 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>> 現在交渉中。但し最大２名分だと思う。
+>>
+>> (11/08/10 17:22), Miho Nagase wrote:
+>>> 自腹はキツイけど交通費が出るなら行きたいです。
+>>> ただし、もっとなんかアレな人がいたらゆずる。
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/14.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+
+
+
+-- 
+Kaz
+http://twitter.com/kappa4 (JP)
+http://twitter.com/kaztak_en (EN)
+}}
+{{mail(takubon@kanataku.com,1313019924)
+木村@tw_takubonです。
+
+イイね！
+
+自分も参加したいけど、自腹参加は厳しいです。
+# 会社と調整して参加出来るようなら参加したいです。
+
+iPhoneから送信
+
+On 平成23/08/09, at 13:54, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> Ryuzeeです。
+> 
+> 突然ですが、9月7日(水)のデブサミ関西にて、Scrum Boot Campを
+> 実施することにしました。
+> 
+> http://codezine.jp/devsumi/2011/kansai/
+> 
+> ＃翔泳社岩切さんからオファーを頂きました。
+> 
+> 講師として、原田さんと私は行くことを決定しましたが、
+> 他のスタッフの方で、関西に行きたい！という方がいたら
+> 是非お知らせください！
+> 
+> なお交通費等についてですが、講師1人分については確約を頂きました。
+> その他の方の分については、先方と交渉可能です。
+> ＃nawotoさんは会社と調整...
+> 
+> 取り急ぎお知らせまで。
+> 
+> -- 
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/14.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(kawaguti@gmail.com,1313039754)
+かわぐちです。
+
+　諸般の事情で、XP Game (ベロシティゲーム) をやりたい感じになってきました。
+
+
+2011年8月11日8:44 takubon <takubon@kanataku.com>:
+> 木村@tw_takubonです。
+>
+> イイね！
+>
+> 自分も参加したいけど、自腹参加は厳しいです。
+> # 会社と調整して参加出来るようなら参加したいです。
+>
+> iPhoneから送信
+>
+> On 平成23/08/09, at 13:54, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+>
+>> Ryuzeeです。
+>>
+>> 突然ですが、9月7日(水)のデブサミ関西にて、Scrum Boot Campを
+>> 実施することにしました。
+>>
+>> http://codezine.jp/devsumi/2011/kansai/
+>>
+>> ＃翔泳社岩切さんからオファーを頂きました。
+>>
+>> 講師として、原田さんと私は行くことを決定しましたが、
+>> 他のスタッフの方で、関西に行きたい！という方がいたら
+>> 是非お知らせください！
+>>
+>> なお交通費等についてですが、講師1人分については確約を頂きました。
+>> その他の方の分については、先方と交渉可能です。
+>> ＃nawotoさんは会社と調整...
+>>
+>> 取り急ぎお知らせまで。
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/14.html
+>> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(qooh0.info@gmail.com,1313048958)
+諸般の事情ってなんだ…。
+}}
+{{mail(ryuzee@gmail.com,1313050554)
+Ryuzeeです。
+
+内容については、講師を確定させた上での議論とさせてください。
+よろしくお願いいたします。
+
+翔泳社さんとの交渉状況は別途シェアします。
+
+(11/08/11 14:15), Yasunobu Kawaguchi wrote:
+> 
+> 　諸般の事情で、XP Game (ベロシティゲーム) をやりたい感じになってきました。
+> 
+> 
+> 2011年8月11日8:44 takubon<takubon@kanataku.com>:
+>> 木村@tw_takubonです。
+>>
+>> イイね！
+>>
+>> 自分も参加したいけど、自腹参加は厳しいです。
+>> # 会社と調整して参加出来るようなら参加したいです。
+>>
+>> iPhoneから送信
+>>
+>> On 平成23/08/09, at 13:54, Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+>>
+>>> Ryuzeeです。
+>>>
+>>> 突然ですが、9月7日(水)のデブサミ関西にて、Scrum Boot Campを
+>>> 実施することにしました。
+>>>
+>>> http://codezine.jp/devsumi/2011/kansai/
+>>>
+>>> ＃翔泳社岩切さんからオファーを頂きました。
+>>>
+>>> 講師として、原田さんと私は行くことを決定しましたが、
+>>> 他のスタッフの方で、関西に行きたい！という方がいたら
+>>> 是非お知らせください！
+>>>
+>>> なお交通費等についてですが、講師1人分については確約を頂きました。
+>>> その他の方の分については、先方と交渉可能です。
+>>> ＃nawotoさんは会社と調整...
+>>>
+>>> 取り急ぎお知らせまで。
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/14.html
+>>> ML->  taoofscrum@qwik.jp
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1313062008)
+かわぐちです。
+
+　脱線してすみません。
+　全く了解です。
+
+2011年8月11日17:15 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> 内容については、講師を確定させた上での議論とさせてください。
+> よろしくお願いいたします。
+>
+> 翔泳社さんとの交渉状況は別途シェアします。
+>
+> (11/08/11 14:15), Yasunobu Kawaguchi wrote:
+>>
+>>　 諸般の事情で、XP Game (ベロシティゲーム) をやりたい感じになってきました。
+>>
+>>
+>> 2011年8月11日8:44 takubon<takubon@kanataku.com>:
+>>> 木村@tw_takubonです。
+>>>
+>>> イイね！
+>>>
+>>> 自分も参加したいけど、自腹参加は厳しいです。
+>>> # 会社と調整して参加出来るようなら参加したいです。
+>>>
+>>> iPhoneから送信
+>>>
+>>> On 平成23/08/09, at 13:54, Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+>>>
+>>>> Ryuzeeです。
+>>>>
+>>>> 突然ですが、9月7日(水)のデブサミ関西にて、Scrum Boot Campを
+>>>> 実施することにしました。
+>>>>
+>>>> http://codezine.jp/devsumi/2011/kansai/
+>>>>
+>>>> ＃翔泳社岩切さんからオファーを頂きました。
+>>>>
+>>>> 講師として、原田さんと私は行くことを決定しましたが、
+>>>> 他のスタッフの方で、関西に行きたい！という方がいたら
+>>>> 是非お知らせください！
+>>>>
+>>>> なお交通費等についてですが、講師1人分については確約を頂きました。
+>>>> その他の方の分については、先方と交渉可能です。
+>>>> ＃nawotoさんは会社と調整...
+>>>>
+>>>> 取り急ぎお知らせまで。
+>>>>
+>>>> --
+>>>> Ryutaro YOSHIBA / Ryuzee
+>>>> Agile Coach / Certified Scrum Professional
+>>>> http://www.ryuzee.com
+>>>> http://twitter.com/ryuzee
+>>>> --
+>>>> This message contains confidential information and is intended
+>>>> only for the individual named. If you are not the named addressee
+>>>> you should not disseminate, distribute or copy this e-mail.
+>>>> Please notify the sender immediately by e-mail if you have received
+>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>
+>>>> --
+>>>> archive->  http://qwik.jp/taoofscrum/14.html
+>>>> ML->  taoofscrum@qwik.jp
+>>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1313312676)
+まとめるとこんな感じか。
+
+* Scrum Boot Camp 関西
+
+- 日時 : 9/7
+- 講師 : ryuzee, haradakiro
+- 当日スタッフ : takaesu0, kawaguti, miholovesq, Qooh0, nawoto
+
+確定しているのは講師だけで、あと一名講師枠が残っている。講師は交通費の補助付き(要交渉)。
+当日スタッフはとりあえず参加表明や名前が挙がっている人をまとめてみた。
+スタッフは、基本的には、自腹(or 会社からお金出る)な人になりますね。
+
+ひとまず、上記の表記を Wiki ページの先頭にも書いてみたので、そっちをメンテしていくといいかも。
+
+個人的には、今回は ryuzee がちゃんと交通費の補助を貰って関西で Scrum Boot Camp をやってくる事と、次
+回以降の関西への繋りを作ってくるぐらいがゴールでいいのではと思っています。
+}}
+{{mail(nishimura@nawo.to,1313492908)
+会社から補助してもらえる事になったので、当日スタッフとして行けるようになりました。
+}}
+{{mail(ryuzee@gmail.com,1313533168)
+Ryuzeeです。
+
+単刀直入ですが、nawotoさんも講師しますか？
+
+今のところ原田さんと私が講師することになってますが、
+別に決まりでもないので、大阪に行く予定の方で講師やりたい
+人いたら是非挙手お願いします。また話したい部位があれば
+あわせてお知らせください。
+
+＃個人的には全員が何がしか講師役をやって帰ってくるというのも良いかと。
+
+
+
+(11/08/16 20:08), Nishimura Naoto wrote:
+> 会社から補助してもらえる事になったので、当日スタッフとして行けるようになりました。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1313535672)
+かわぐちです
+
+> 今のところ原田さんと私が講師することになってますが、
+> 別に決まりでもないので、大阪に行く予定の方で講師やりたい
+> 人いたら是非挙手お願いします。また話したい部位があれば
+> あわせてお知らせください。
+
+講師やりたいです。
+}}
+{{mail(ryuzee@gmail.com,1313540364)
+Ryuzeeです
+
+了解しました。やりたい部位はどこでしょうか？
+
+ちなみに今回は11時開始で17時半終了ですので、若干
+内容の精査が必要だと思います。
+
+(11/08/17 8:01), Yasunobu Kawaguchi wrote:
+> かわぐちです
+> 
+>> 今のところ原田さんと私が講師することになってますが、
+>> 別に決まりでもないので、大阪に行く予定の方で講師やりたい
+>> 人いたら是非挙手お願いします。また話したい部位があれば
+>> あわせてお知らせください。
+> 
+> 講師やりたいです。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1313540756)
+かわぐちです。
+
+　今回はぜひ原田さんとXP Game (Jim Coplien のワークで行われたもの)を準備したいと考えています。
+　　https://cygnus.cc.kuleuven.be/bbcswebdav/users/c-r0242344/Publiek/Werkstukken%202010-2011/Systeemanalyse/XP%20Game%20Manual.pdf
+
+　素振りの機会を募集中です。
+
+2011年8月17日9:19 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです
+>
+> 了解しました。やりたい部位はどこでしょうか？
+>
+> ちなみに今回は11時開始で17時半終了ですので、若干
+> 内容の精査が必要だと思います。
+>
+> (11/08/17 8:01), Yasunobu Kawaguchi wrote:
+>> かわぐちです
+>>
+>>> 今のところ原田さんと私が講師することになってますが、
+>>> 別に決まりでもないので、大阪に行く予定の方で講師やりたい
+>>> 人いたら是非挙手お願いします。また話したい部位があれば
+>>> あわせてお知らせください。
+>>
+>> 講師やりたいです。
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1313540962)
+Ryuzeeです。
+
+ではコーチ確定させたら内容を詰めさせてください。
+＃いきなりの素振りの前に、全体の構成決めを先にやりたいので。
+
+素朴な疑問なんですが、Scrum Boot CampなんだけどXP Game??
+
+(11/08/17 9:25), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　今回はぜひ原田さんとXP Game (Jim Coplien のワークで行われたもの)を準備したいと考えています。
+> 　　https://cygnus.cc.kuleuven.be/bbcswebdav/users/c-r0242344/Publiek/Werkstukken%202010-2011/Systeemanalyse/XP%20Game%20Manual.pdf
+> 
+> 　素振りの機会を募集中です。
+> 
+> 2011年8月17日9:19 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> Ryuzeeです
+>>
+>> 了解しました。やりたい部位はどこでしょうか？
+>>
+>> ちなみに今回は11時開始で17時半終了ですので、若干
+>> 内容の精査が必要だと思います。
+>>
+>> (11/08/17 8:01), Yasunobu Kawaguchi wrote:
+>>> かわぐちです
+>>>
+>>>> 今のところ原田さんと私が講師することになってますが、
+>>>> 別に決まりでもないので、大阪に行く予定の方で講師やりたい
+>>>> 人いたら是非挙手お願いします。また話したい部位があれば
+>>>> あわせてお知らせください。
+>>>
+>>> 講師やりたいです。
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/14.html
+>> ML->  taoofscrum@qwik.jp
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1313541146)
+かわぐちです。
+
+　Jim Coplien さんの CSMでは、「Velocity Game」というタイトルで行っていました。
+　ヘンリックもやるらしいので、スクラムトレーナーの間では有名なゲームなんだと推測しています(知らんけど)。
+
+2011年8月17日9:29 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> ではコーチ確定させたら内容を詰めさせてください。
+> ＃いきなりの素振りの前に、全体の構成決めを先にやりたいので。
+>
+> 素朴な疑問なんですが、Scrum Boot CampなんだけどXP Game??
+>
+> (11/08/17 9:25), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>>　 今回はぜひ原田さんとXP Game (Jim Coplien のワークで行われたもの)を準備したいと考えています。
+>>　　 https://cygnus.cc.kuleuven.be/bbcswebdav/users/c-r0242344/Publiek/Werkstukken%202010-2011/Systeemanalyse/XP%20Game%20Manual.pdf
+>>
+>>　 素振りの機会を募集中です。
+>>
+>> 2011年8月17日9:19 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>> Ryuzeeです
+>>>
+>>> 了解しました。やりたい部位はどこでしょうか？
+>>>
+>>> ちなみに今回は11時開始で17時半終了ですので、若干
+>>> 内容の精査が必要だと思います。
+>>>
+>>> (11/08/17 8:01), Yasunobu Kawaguchi wrote:
+>>>> かわぐちです
+>>>>
+>>>>> 今のところ原田さんと私が講師することになってますが、
+>>>>> 別に決まりでもないので、大阪に行く予定の方で講師やりたい
+>>>>> 人いたら是非挙手お願いします。また話したい部位があれば
+>>>>> あわせてお知らせください。
+>>>>
+>>>> 講師やりたいです。
+>>>>
+>>>
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/14.html
+>>> ML->  taoofscrum@qwik.jp
+>>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(qooh0.info@gmail.com,1313543268)
+海江田です。
+
+XP Game をやるなら、僕も行く。
+
+--
+kaieda
+}}
+{{mail(nishimura@nawo.to,1313551851)
+In <4E4AECFB.50609@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> 単刀直入ですが、nawotoさんも講師しますか？
+
+お、やるやる!!
+
+> 今のところ原田さんと私が講師することになってますが、
+> 別に決まりでもないので、大阪に行く予定の方で講師やりたい
+> 人いたら是非挙手お願いします。また話したい部位があれば
+> あわせてお知らせください。
+
+どこでも OK!! 例えば、僕は構成に合わせて、担当のいないとこで大丈夫です。
+一応、判断材料としてぱっとすぐにやれそうなところだと以下です。
+
+- 概要 -> トランプゲームのワークも含めてやれます
+- 見積もり -> 仙台でやってきたやつ
+- ふりかえり -> harumful な感じでww
+
+> ＃個人的には全員が何がしか講師役をやって帰ってくるというのも良いかと。
+
+もし、今回は時間が短いのもあるし、みんながみんなやると整合性とか都合が悪いとこが出てくるんなら、
+Ryuzee が立候補した人の中から適当に決めちゃえばいいんじゃない?
+}}
+{{mail(nishimura@nawo.to,1313552904)
+In <CAHY8s=DRHXiodhLAMAJ=fX=X7oYE8SXZCTp1PkjJ=O=_Addqww@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+> 　素振りの機会を募集中です。
+
+つ ワークショップ大戦ww
+}}
+{{mail(kawaguti@gmail.com,1313559741)
+かわぐちです。
+
+　私も担当部分は、全体構成にあわせます。
+
+　> つ ワークショップ大戦ww
+　やるやる
+
+
+2011年8月17日12:48 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CAHY8s=DRHXiodhLAMAJ=fX=X7oYE8SXZCTp1PkjJ=O=_Addqww@mail.gmail.com>,
+> Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+>
+>>　 素振りの機会を募集中です。
+>
+> つ ワークショップ大戦ww
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1313570631)
+In <CAHY8s=CNGNO+YhWDQcXam8OEYCYFttO_X5+uK3S00KNbEQS-mg@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+> 　私も担当部分は、全体構成にあわせます。
+
+じゃ、全体構成の話にしていけばいいのかな?
+
+今回は全体で 11:00 - 17:30 だから昼休みを考慮して、全体で 5.5h ぐらいの構成ぐらいかな?
+バッファは 30 分にしたが、ちょっと厳しいか。5h ぐらいと考えた方が良いかも。
+
+誰かが全体構成の叩き台を出す方がやりやすいか、みんなで持ち寄る方が良いか悩むので一旦ここまで
+
+> 　> つ ワークショップ大戦ww
+> 　やるやる
+
+こっちの続きは別スレで。
+}}
+{{mail(kawaguti@gmail.com,1313571117)
+かわぐちです。
+
+　>>今回は全体で 11:00 - 17:30 だから昼休みを考慮して、全体で 5.5h ぐらいの構成ぐらいかな?
+　>>バッファは 30 分にしたが、ちょっと厳しいか。5h ぐらいと考えた方が良いかも。
+
+　XP Game は 180分のワークショップなので、
+　残りが2.5hしかなくなってしまう....。
+
+　ちょっと厳しいっすね。
+　紙ヒコーキが安定しているとみた。
+}}
+{{mail(ryuzee@gmail.com,1313587209)
+Ryuzeeです。
+
+まず連絡事項
+今回は講師の遠征費用が１人分しか出ませんでした。
+２人目以降をあてにしていた方ごめんなさい。
+
+前回のnawotoさんのフォーマットでまとめるとこんな感じ。
+＃認識違ったら教えてください。
+
+* Scrum Boot Camp 関西
+
+- 日時 : 9/7
+- 講師 : haradakiro, kawaguti, nawoto, ryuzee
+- 当日スタッフ : takaesu0
+- その他検討中：tw_takubon(会社で費用でるなら), Qooh0(XPゲームやるなら)
+- 備品確保：翔泳社様
+
+費用は原田さんは近所在住、川口さんと西村さんと高江洲さんは会社負担、私の分が
+翔泳社さん負担になります。
+備品はご用意いただけるとのこと。
+また前回のSBCの振り返りで全編のテキストを印刷して配布したい件について
+岩切さんに相談しましたが、Kinkos等で印刷して参加者からお金を取る
+ようにする手はある、と言われています。個人的には印刷可能な電子媒体を
+配布するのは避けておいたほうが良いと思っているのですが、
+何か意見があればよろしく。
+
+** 時間割について
+以下のような感じではどうだろうか？(前回の構成を踏襲)
+※意見求む。枠組み決めたあとに担当者を決めたい感じ。
+
+- 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+- 11:20 - 12:00 Scrum概論＋タイムボックス
+- 12:00 - 13:00 休憩
+- 13:00 - 14:00 紙飛行機？
+- 14:00 - 15:00 Role
+- 15:00 - 15:10 休憩
+- 15:10 - 16:30 Artifact＋PBI作成WS
+- 16:30 - 16:40 休憩
+- 16:40 - 17:00 Q&Aタイム
+- 17:00 - 17:20 ふりかえり
+- 17:20 - 17:30 後説
+
+(11/08/17 17:51), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　>>今回は全体で 11:00 - 17:30 だから昼休みを考慮して、全体で 5.5h ぐらいの構成ぐらいかな?
+> 　>>バッファは 30 分にしたが、ちょっと厳しいか。5h ぐらいと考えた方が良いかも。
+> 
+> 　XP Game は 180分のワークショップなので、
+> 　残りが2.5hしかなくなってしまう....。
+> 
+> 　ちょっと厳しいっすね。
+> 　紙ヒコーキが安定しているとみた。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1314004583)
+Ryuzeeです。
+
+翔泳社さんで受付が開始されました。
+http://codezine.jp/devsumi/2011/kansai/special/
+集客へのご協力よろしくお願いします。
+
+また以下のメールもご意見があれば是非！！
+
+(11/08/17 22:20), Ryutaro YOSHIBA wrote:
+> Ryuzeeです。
+> 
+> まず連絡事項
+> 今回は講師の遠征費用が１人分しか出ませんでした。
+> ２人目以降をあてにしていた方ごめんなさい。
+> 
+> 前回のnawotoさんのフォーマットでまとめるとこんな感じ。
+> ＃認識違ったら教えてください。
+> 
+> * Scrum Boot Camp 関西
+> 
+> - 日時 : 9/7
+> - 講師 : haradakiro, kawaguti, nawoto, ryuzee
+> - 当日スタッフ : takaesu0
+> - その他検討中：tw_takubon(会社で費用でるなら), Qooh0(XPゲームやるなら)
+> - 備品確保：翔泳社様
+> 
+> 費用は原田さんは近所在住、川口さんと西村さんと高江洲さんは会社負担、私の分が
+> 翔泳社さん負担になります。
+> 備品はご用意いただけるとのこと。
+> また前回のSBCの振り返りで全編のテキストを印刷して配布したい件について
+> 岩切さんに相談しましたが、Kinkos等で印刷して参加者からお金を取る
+> ようにする手はある、と言われています。個人的には印刷可能な電子媒体を
+> 配布するのは避けておいたほうが良いと思っているのですが、
+> 何か意見があればよろしく。
+> 
+> ** 時間割について
+> 以下のような感じではどうだろうか？(前回の構成を踏襲)
+> ※意見求む。枠組み決めたあとに担当者を決めたい感じ。
+> 
+> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+> - 11:20 - 12:00 Scrum概論＋タイムボックス
+> - 12:00 - 13:00 休憩
+> - 13:00 - 14:00 紙飛行機？
+> - 14:00 - 15:00 Role
+> - 15:00 - 15:10 休憩
+> - 15:10 - 16:30 Artifact＋PBI作成WS
+> - 16:30 - 16:40 休憩
+> - 16:40 - 17:00 Q&Aタイム
+> - 17:00 - 17:20 ふりかえり
+> - 17:20 - 17:30 後説
+> 
+> (11/08/17 17:51), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>> 　>>今回は全体で 11:00 - 17:30 だから昼休みを考慮して、全体で 5.5h ぐらいの構成ぐらいかな?
+>> 　>>バッファは 30 分にしたが、ちょっと厳しいか。5h ぐらいと考えた方が良いかも。
+>>
+>> 　XP Game は 180分のワークショップなので、
+>> 　残りが2.5hしかなくなってしまう....。
+>>
+>> 　ちょっと厳しいっすね。
+>> 　紙ヒコーキが安定しているとみた。
+>>
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(harada.kiro@gmail.com,1314012638)
+はらだです。反応鈍くてすんません。今週から通常営業のはず。
+
+で、参加者の数は何人ぐらいでしたっけ？
+３０人を超えるとベロシティゲームはちょっとしんどいかもです。
+
+サイコロと砂時計の類いは、６チーム分くらいはあります。
+
+元ネタは、こちら:
+http://www.agilebelgium.org/xpgame/
+
+原作者の許可を得て日本語化してあります。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2011年8月22日18:16 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> 翔泳社さんで受付が開始されました。
+> http://codezine.jp/devsumi/2011/kansai/special/
+> 集客へのご協力よろしくお願いします。
+>
+> また以下のメールもご意見があれば是非！！
+>
+> (11/08/17 22:20), Ryutaro YOSHIBA wrote:
+>> Ryuzeeです。
+>>
+>> まず連絡事項
+>> 今回は講師の遠征費用が１人分しか出ませんでした。
+>> ２人目以降をあてにしていた方ごめんなさい。
+>>
+>> 前回のnawotoさんのフォーマットでまとめるとこんな感じ。
+>> ＃認識違ったら教えてください。
+>>
+>> * Scrum Boot Camp 関西
+>>
+>> - 日時 : 9/7
+>> - 講師 : haradakiro, kawaguti, nawoto, ryuzee
+>> - 当日スタッフ : takaesu0
+>> - その他検討中：tw_takubon(会社で費用でるなら), Qooh0(XPゲームやるなら)
+>> - 備品確保：翔泳社様
+>>
+>> 費用は原田さんは近所在住、川口さんと西村さんと高江洲さんは会社負担、私の分が
+>> 翔泳社さん負担になります。
+>> 備品はご用意いただけるとのこと。
+>> また前回のSBCの振り返りで全編のテキストを印刷して配布したい件について
+>> 岩切さんに相談しましたが、Kinkos等で印刷して参加者からお金を取る
+>> ようにする手はある、と言われています。個人的には印刷可能な電子媒体を
+>> 配布するのは避けておいたほうが良いと思っているのですが、
+>> 何か意見があればよろしく。
+>>
+>> ** 時間割について
+>> 以下のような感じではどうだろうか？(前回の構成を踏襲)
+>> ※意見求む。枠組み決めたあとに担当者を決めたい感じ。
+>>
+>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>> - 12:00 - 13:00 休憩
+>> - 13:00 - 14:00 紙飛行機？
+>> - 14:00 - 15:00 Role
+>> - 15:00 - 15:10 休憩
+>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>> - 16:30 - 16:40 休憩
+>> - 16:40 - 17:00 Q&Aタイム
+>> - 17:00 - 17:20 ふりかえり
+>> - 17:20 - 17:30 後説
+>>
+>> (11/08/17 17:51), Yasunobu Kawaguchi wrote:
+>>> かわぐちです。
+>>>
+>>>　 >>今回は全体で 11:00 - 17:30 だから昼休みを考慮して、全体で 5.5h ぐらいの構成ぐらいかな?
+>>>　 >>バッファは 30 分にしたが、ちょっと厳しいか。5h ぐらいと考えた方が良いかも。
+>>>
+>>>　 XP Game は 180分のワークショップなので、
+>>>　 残りが2.5hしかなくなってしまう....。
+>>>
+>>>　 ちょっと厳しいっすね。
+>>>　 紙ヒコーキが安定しているとみた。
+>>>
+>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(kawaguti@gmail.com,1314053470)
+かわぐちです。
+
+　今回、時間が短いので、通常180分のベロシティゲームはつらいかな、と思っています。
+　なんかアイデアあります？
+
+2011年8月22日20:30 Kiro HARADA <harada.kiro@gmail.com>:
+> はらだです。反応鈍くてすんません。今週から通常営業のはず。
+>
+> で、参加者の数は何人ぐらいでしたっけ？
+> ３０人を超えるとベロシティゲームはちょっとしんどいかもです。
+>
+> サイコロと砂時計の類いは、６チーム分くらいはあります。
+>
+> 元ネタは、こちら:
+> http://www.agilebelgium.org/xpgame/
+>
+> 原作者の許可を得て日本語化してあります。
+> --
+> 原田騎郎
+> 株式会社　情報システム総研
+>
+>
+>
+> 2011年8月22日18:16 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>> Ryuzeeです。
+>>
+>> 翔泳社さんで受付が開始されました。
+>> http://codezine.jp/devsumi/2011/kansai/special/
+>> 集客へのご協力よろしくお願いします。
+>>
+>> また以下のメールもご意見があれば是非！！
+>>
+>> (11/08/17 22:20), Ryutaro YOSHIBA wrote:
+>>> Ryuzeeです。
+>>>
+>>> まず連絡事項
+>>> 今回は講師の遠征費用が１人分しか出ませんでした。
+>>> ２人目以降をあてにしていた方ごめんなさい。
+>>>
+>>> 前回のnawotoさんのフォーマットでまとめるとこんな感じ。
+>>> ＃認識違ったら教えてください。
+>>>
+>>> * Scrum Boot Camp 関西
+>>>
+>>> - 日時 : 9/7
+>>> - 講師 : haradakiro, kawaguti, nawoto, ryuzee
+>>> - 当日スタッフ : takaesu0
+>>> - その他検討中：tw_takubon(会社で費用でるなら), Qooh0(XPゲームやるなら)
+>>> - 備品確保：翔泳社様
+>>>
+>>> 費用は原田さんは近所在住、川口さんと西村さんと高江洲さんは会社負担、私の分が
+>>> 翔泳社さん負担になります。
+>>> 備品はご用意いただけるとのこと。
+>>> また前回のSBCの振り返りで全編のテキストを印刷して配布したい件について
+>>> 岩切さんに相談しましたが、Kinkos等で印刷して参加者からお金を取る
+>>> ようにする手はある、と言われています。個人的には印刷可能な電子媒体を
+>>> 配布するのは避けておいたほうが良いと思っているのですが、
+>>> 何か意見があればよろしく。
+>>>
+>>> ** 時間割について
+>>> 以下のような感じではどうだろうか？(前回の構成を踏襲)
+>>> ※意見求む。枠組み決めたあとに担当者を決めたい感じ。
+>>>
+>>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>>> - 12:00 - 13:00 休憩
+>>> - 13:00 - 14:00 紙飛行機？
+>>> - 14:00 - 15:00 Role
+>>> - 15:00 - 15:10 休憩
+>>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>>> - 16:30 - 16:40 休憩
+>>> - 16:40 - 17:00 Q&Aタイム
+>>> - 17:00 - 17:20 ふりかえり
+>>> - 17:20 - 17:30 後説
+>>>
+>>> (11/08/17 17:51), Yasunobu Kawaguchi wrote:
+>>>> かわぐちです。
+>>>>
+>>>>　 >>今回は全体で 11:00 - 17:30 だから昼休みを考慮して、全体で 5.5h ぐらいの構成ぐらいかな?
+>>>>　 >>バッファは 30 分にしたが、ちょっと厳しいか。5h ぐらいと考えた方が良いかも。
+>>>>
+>>>>　 XP Game は 180分のワークショップなので、
+>>>>　 残りが2.5hしかなくなってしまう....。
+>>>>
+>>>>　 ちょっと厳しいっすね。
+>>>>　 紙ヒコーキが安定しているとみた。
+>>>>
+>>>
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/14.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1314178749)
+Ryuzeeです。
+
+9月7日のプログラムについてですが、ベロシティゲームは
+3時間コースなのと、素振りが出来ていないのと２つの観点から
+今回はエリアPO判断として見送りにさせてください。
+# 金曜日までに翔泳社さんに必要備品の一覧を提出しないといけないので
+
+今回のワークは安心の(笑)紙飛行機で行きたいと思います。
+その上で、
+以下のタイムスケジュールについてご意見頂きたいのと
+担当したい箇所があれば表明をお願いします。
+# とくに希望がない場合は勝手に決めちゃいますｗ
+
+- 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+- 11:20 - 12:00 Scrum概論＋タイムボックス
+- 12:00 - 13:00 休憩
+- 13:00 - 14:00 紙飛行機？
+- 14:00 - 15:00 Role
+- 15:00 - 15:10 休憩
+- 15:10 - 16:30 Artifact＋PBI作成WS
+- 16:30 - 16:40 休憩
+- 16:40 - 17:00 Q&Aタイム
+- 17:00 - 17:20 ふりかえり
+- 17:20 - 17:30 後説
+
+
+
+(11/08/23 7:51), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　今回、時間が短いので、通常180分のベロシティゲームはつらいかな、と思っています。
+> 　なんかアイデアあります？
+> 
+> 2011年8月22日20:30 Kiro HARADA<harada.kiro@gmail.com>:
+>> はらだです。反応鈍くてすんません。今週から通常営業のはず。
+>>
+>> で、参加者の数は何人ぐらいでしたっけ？
+>> ３０人を超えるとベロシティゲームはちょっとしんどいかもです。
+>>
+>> サイコロと砂時計の類いは、６チーム分くらいはあります。
+>>
+>> 元ネタは、こちら:
+>> http://www.agilebelgium.org/xpgame/
+>>
+>> 原作者の許可を得て日本語化してあります。
+>> --
+>> 原田騎郎
+>> 株式会社　情報システム総研
+>>
+>>
+>>
+>> 2011年8月22日18:16 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>> Ryuzeeです。
+>>>
+>>> 翔泳社さんで受付が開始されました。
+>>> http://codezine.jp/devsumi/2011/kansai/special/
+>>> 集客へのご協力よろしくお願いします。
+>>>
+>>> また以下のメールもご意見があれば是非！！
+>>>
+>>> (11/08/17 22:20), Ryutaro YOSHIBA wrote:
+>>>> Ryuzeeです。
+>>>>
+>>>> まず連絡事項
+>>>> 今回は講師の遠征費用が１人分しか出ませんでした。
+>>>> ２人目以降をあてにしていた方ごめんなさい。
+>>>>
+>>>> 前回のnawotoさんのフォーマットでまとめるとこんな感じ。
+>>>> ＃認識違ったら教えてください。
+>>>>
+>>>> * Scrum Boot Camp 関西
+>>>>
+>>>> - 日時 : 9/7
+>>>> - 講師 : haradakiro, kawaguti, nawoto, ryuzee
+>>>> - 当日スタッフ : takaesu0
+>>>> - その他検討中：tw_takubon(会社で費用でるなら), Qooh0(XPゲームやるなら)
+>>>> - 備品確保：翔泳社様
+>>>>
+>>>> 費用は原田さんは近所在住、川口さんと西村さんと高江洲さんは会社負担、私の分が
+>>>> 翔泳社さん負担になります。
+>>>> 備品はご用意いただけるとのこと。
+>>>> また前回のSBCの振り返りで全編のテキストを印刷して配布したい件について
+>>>> 岩切さんに相談しましたが、Kinkos等で印刷して参加者からお金を取る
+>>>> ようにする手はある、と言われています。個人的には印刷可能な電子媒体を
+>>>> 配布するのは避けておいたほうが良いと思っているのですが、
+>>>> 何か意見があればよろしく。
+>>>>
+>>>> ** 時間割について
+>>>> 以下のような感じではどうだろうか？(前回の構成を踏襲)
+>>>> ※意見求む。枠組み決めたあとに担当者を決めたい感じ。
+>>>>
+>>>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>>>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>>>> - 12:00 - 13:00 休憩
+>>>> - 13:00 - 14:00 紙飛行機？
+>>>> - 14:00 - 15:00 Role
+>>>> - 15:00 - 15:10 休憩
+>>>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>>>> - 16:30 - 16:40 休憩
+>>>> - 16:40 - 17:00 Q&Aタイム
+>>>> - 17:00 - 17:20 ふりかえり
+>>>> - 17:20 - 17:30 後説
+>>>>
+>>>> (11/08/17 17:51), Yasunobu Kawaguchi wrote:
+>>>>> かわぐちです。
+>>>>>
+>>>>> 　>>今回は全体で 11:00 - 17:30 だから昼休みを考慮して、全体で 5.5h ぐらいの構成ぐらいかな?
+>>>>> 　>>バッファは 30 分にしたが、ちょっと厳しいか。5h ぐらいと考えた方が良いかも。
+>>>>>
+>>>>> 　 XP Game は 180分のワークショップなので、
+>>>>> 　 残りが2.5hしかなくなってしまう....。
+>>>>>
+>>>>> 　 ちょっと厳しいっすね。
+>>>>> 　 紙ヒコーキが安定しているとみた。
+>>>>>
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/14.html
+>>> ML->  taoofscrum@qwik.jp
+>>>
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/14.html
+>> ML->  taoofscrum@qwik.jp
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1314179172)
+かわぐちです。
+
+　新作作ってる余裕がないので、概論＋タイムボックス希望。
+　紙飛行機も拾えると思います。
+
+2011年8月24日18:39 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> 9月7日のプログラムについてですが、ベロシティゲームは
+> 3時間コースなのと、素振りが出来ていないのと２つの観点から
+> 今回はエリアPO判断として見送りにさせてください。
+> # 金曜日までに翔泳社さんに必要備品の一覧を提出しないといけないので
+>
+> 今回のワークは安心の(笑)紙飛行機で行きたいと思います。
+> その上で、
+> 以下のタイムスケジュールについてご意見頂きたいのと
+> 担当したい箇所があれば表明をお願いします。
+> # とくに希望がない場合は勝手に決めちゃいますｗ
+>
+> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+> - 11:20 - 12:00 Scrum概論＋タイムボックス
+> - 12:00 - 13:00 休憩
+> - 13:00 - 14:00 紙飛行機？
+> - 14:00 - 15:00 Role
+> - 15:00 - 15:10 休憩
+> - 15:10 - 16:30 Artifact＋PBI作成WS
+> - 16:30 - 16:40 休憩
+> - 16:40 - 17:00 Q&Aタイム
+> - 17:00 - 17:20 ふりかえり
+> - 17:20 - 17:30 後説
+>
+>
+>
+> (11/08/23 7:51), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>>　 今回、時間が短いので、通常180分のベロシティゲームはつらいかな、と思っています。
+>>　 なんかアイデアあります？
+>>
+>> 2011年8月22日20:30 Kiro HARADA<harada.kiro@gmail.com>:
+>>> はらだです。反応鈍くてすんません。今週から通常営業のはず。
+>>>
+>>> で、参加者の数は何人ぐらいでしたっけ？
+>>> ３０人を超えるとベロシティゲームはちょっとしんどいかもです。
+>>>
+>>> サイコロと砂時計の類いは、６チーム分くらいはあります。
+>>>
+>>> 元ネタは、こちら:
+>>> http://www.agilebelgium.org/xpgame/
+>>>
+>>> 原作者の許可を得て日本語化してあります。
+>>> --
+>>> 原田騎郎
+>>> 株式会社　情報システム総研
+>>>
+>>>
+>>>
+>>> 2011年8月22日18:16 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>> Ryuzeeです。
+>>>>
+>>>> 翔泳社さんで受付が開始されました。
+>>>> http://codezine.jp/devsumi/2011/kansai/special/
+>>>> 集客へのご協力よろしくお願いします。
+>>>>
+>>>> また以下のメールもご意見があれば是非！！
+>>>>
+>>>> (11/08/17 22:20), Ryutaro YOSHIBA wrote:
+>>>>> Ryuzeeです。
+>>>>>
+>>>>> まず連絡事項
+>>>>> 今回は講師の遠征費用が１人分しか出ませんでした。
+>>>>> ２人目以降をあてにしていた方ごめんなさい。
+>>>>>
+>>>>> 前回のnawotoさんのフォーマットでまとめるとこんな感じ。
+>>>>> ＃認識違ったら教えてください。
+>>>>>
+>>>>> * Scrum Boot Camp 関西
+>>>>>
+>>>>> - 日時 : 9/7
+>>>>> - 講師 : haradakiro, kawaguti, nawoto, ryuzee
+>>>>> - 当日スタッフ : takaesu0
+>>>>> - その他検討中：tw_takubon(会社で費用でるなら), Qooh0(XPゲームやるなら)
+>>>>> - 備品確保：翔泳社様
+>>>>>
+>>>>> 費用は原田さんは近所在住、川口さんと西村さんと高江洲さんは会社負担、私の分が
+>>>>> 翔泳社さん負担になります。
+>>>>> 備品はご用意いただけるとのこと。
+>>>>> また前回のSBCの振り返りで全編のテキストを印刷して配布したい件について
+>>>>> 岩切さんに相談しましたが、Kinkos等で印刷して参加者からお金を取る
+>>>>> ようにする手はある、と言われています。個人的には印刷可能な電子媒体を
+>>>>> 配布するのは避けておいたほうが良いと思っているのですが、
+>>>>> 何か意見があればよろしく。
+>>>>>
+>>>>> ** 時間割について
+>>>>> 以下のような感じではどうだろうか？(前回の構成を踏襲)
+>>>>> ※意見求む。枠組み決めたあとに担当者を決めたい感じ。
+>>>>>
+>>>>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>>>>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>>>>> - 12:00 - 13:00 休憩
+>>>>> - 13:00 - 14:00 紙飛行機？
+>>>>> - 14:00 - 15:00 Role
+>>>>> - 15:00 - 15:10 休憩
+>>>>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>>>>> - 16:30 - 16:40 休憩
+>>>>> - 16:40 - 17:00 Q&Aタイム
+>>>>> - 17:00 - 17:20 ふりかえり
+>>>>> - 17:20 - 17:30 後説
+>>>>>
+>>>>> (11/08/17 17:51), Yasunobu Kawaguchi wrote:
+>>>>>> かわぐちです。
+>>>>>>
+>>>>>>　 >>今回は全体で 11:00 - 17:30 だから昼休みを考慮して、全体で 5.5h ぐらいの構成ぐらいかな?
+>>>>>>　 >>バッファは 30 分にしたが、ちょっと厳しいか。5h ぐらいと考えた方が良いかも。
+>>>>>>
+>>>>>>　  XP Game は 180分のワークショップなので、
+>>>>>>　  残りが2.5hしかなくなってしまう....。
+>>>>>>
+>>>>>>　  ちょっと厳しいっすね。
+>>>>>>　  紙ヒコーキが安定しているとみた。
+>>>>>>
+>>>>>
+>>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Ryutaro YOSHIBA / Ryuzee
+>>>> Agile Coach / Certified Scrum Professional
+>>>> http://www.ryuzee.com
+>>>> http://twitter.com/ryuzee
+>>>> --
+>>>> This message contains confidential information and is intended
+>>>> only for the individual named. If you are not the named addressee
+>>>> you should not disseminate, distribute or copy this e-mail.
+>>>> Please notify the sender immediately by e-mail if you have received
+>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>
+>>>> --
+>>>> archive->  http://qwik.jp/taoofscrum/14.html
+>>>> ML->  taoofscrum@qwik.jp
+>>>>
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/14.html
+>>> ML->  taoofscrum@qwik.jp
+>>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+
+
+
+-- 
+[PR] 19,22 Oct. : The first scrum gathering in Tokyo:
+http://www.scrumgatheringtokyo.org/
+[PR] 17-18 Oct.  : Certified Scrum Master course by Henrik Kniberg:
+http://training-jp.agilergo.com/
+[PR] 20-21 Oct. : Passionated Product Owner course by Jeff Patton:
+http://training-jp.agilergo.com/
+}}
+{{mail(ryuzee@gmail.com,1314179452)
+ありがとうございます。
+
+原田さん、西村さん、高江洲さんはいかがでしょう？
+
+ちなみに僕は前説と後説はやらせていただきたいと思います。
+また資料が必要であれば、過去の分は提供しますー。
+
+(11/08/24 18:46), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　新作作ってる余裕がないので、概論＋タイムボックス希望。
+> 　紙飛行機も拾えると思います。
+> 
+> 2011年8月24日18:39 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> Ryuzeeです。
+>>
+>> 9月7日のプログラムについてですが、ベロシティゲームは
+>> 3時間コースなのと、素振りが出来ていないのと２つの観点から
+>> 今回はエリアPO判断として見送りにさせてください。
+>> # 金曜日までに翔泳社さんに必要備品の一覧を提出しないといけないので
+>>
+>> 今回のワークは安心の(笑)紙飛行機で行きたいと思います。
+>> その上で、
+>> 以下のタイムスケジュールについてご意見頂きたいのと
+>> 担当したい箇所があれば表明をお願いします。
+>> # とくに希望がない場合は勝手に決めちゃいますｗ
+>>
+>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>> - 12:00 - 13:00 休憩
+>> - 13:00 - 14:00 紙飛行機？
+>> - 14:00 - 15:00 Role
+>> - 15:00 - 15:10 休憩
+>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>> - 16:30 - 16:40 休憩
+>> - 16:40 - 17:00 Q&Aタイム
+>> - 17:00 - 17:20 ふりかえり
+>> - 17:20 - 17:30 後説
+>>
+>>
+>>
+>> (11/08/23 7:51), Yasunobu Kawaguchi wrote:
+>>> かわぐちです。
+>>>
+>>> 　 今回、時間が短いので、通常180分のベロシティゲームはつらいかな、と思っています。
+>>> 　 なんかアイデアあります？
+>>>
+>>> 2011年8月22日20:30 Kiro HARADA<harada.kiro@gmail.com>:
+>>>> はらだです。反応鈍くてすんません。今週から通常営業のはず。
+>>>>
+>>>> で、参加者の数は何人ぐらいでしたっけ？
+>>>> ３０人を超えるとベロシティゲームはちょっとしんどいかもです。
+>>>>
+>>>> サイコロと砂時計の類いは、６チーム分くらいはあります。
+>>>>
+>>>> 元ネタは、こちら:
+>>>> http://www.agilebelgium.org/xpgame/
+>>>>
+>>>> 原作者の許可を得て日本語化してあります。
+>>>> --
+>>>> 原田騎郎
+>>>> 株式会社　情報システム総研
+>>>>
+>>>>
+>>>>
+>>>> 2011年8月22日18:16 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>>> Ryuzeeです。
+>>>>>
+>>>>> 翔泳社さんで受付が開始されました。
+>>>>> http://codezine.jp/devsumi/2011/kansai/special/
+>>>>> 集客へのご協力よろしくお願いします。
+>>>>>
+>>>>> また以下のメールもご意見があれば是非！！
+>>>>>
+>>>>> (11/08/17 22:20), Ryutaro YOSHIBA wrote:
+>>>>>> Ryuzeeです。
+>>>>>>
+>>>>>> まず連絡事項
+>>>>>> 今回は講師の遠征費用が１人分しか出ませんでした。
+>>>>>> ２人目以降をあてにしていた方ごめんなさい。
+>>>>>>
+>>>>>> 前回のnawotoさんのフォーマットでまとめるとこんな感じ。
+>>>>>> ＃認識違ったら教えてください。
+>>>>>>
+>>>>>> * Scrum Boot Camp 関西
+>>>>>>
+>>>>>> - 日時 : 9/7
+>>>>>> - 講師 : haradakiro, kawaguti, nawoto, ryuzee
+>>>>>> - 当日スタッフ : takaesu0
+>>>>>> - その他検討中：tw_takubon(会社で費用でるなら), Qooh0(XPゲームやるなら)
+>>>>>> - 備品確保：翔泳社様
+>>>>>>
+>>>>>> 費用は原田さんは近所在住、川口さんと西村さんと高江洲さんは会社負担、私の分が
+>>>>>> 翔泳社さん負担になります。
+>>>>>> 備品はご用意いただけるとのこと。
+>>>>>> また前回のSBCの振り返りで全編のテキストを印刷して配布したい件について
+>>>>>> 岩切さんに相談しましたが、Kinkos等で印刷して参加者からお金を取る
+>>>>>> ようにする手はある、と言われています。個人的には印刷可能な電子媒体を
+>>>>>> 配布するのは避けておいたほうが良いと思っているのですが、
+>>>>>> 何か意見があればよろしく。
+>>>>>>
+>>>>>> ** 時間割について
+>>>>>> 以下のような感じではどうだろうか？(前回の構成を踏襲)
+>>>>>> ※意見求む。枠組み決めたあとに担当者を決めたい感じ。
+>>>>>>
+>>>>>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>>>>>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>>>>>> - 12:00 - 13:00 休憩
+>>>>>> - 13:00 - 14:00 紙飛行機？
+>>>>>> - 14:00 - 15:00 Role
+>>>>>> - 15:00 - 15:10 休憩
+>>>>>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>>>>>> - 16:30 - 16:40 休憩
+>>>>>> - 16:40 - 17:00 Q&Aタイム
+>>>>>> - 17:00 - 17:20 ふりかえり
+>>>>>> - 17:20 - 17:30 後説
+>>>>>>
+>>>>>> (11/08/17 17:51), Yasunobu Kawaguchi wrote:
+>>>>>>> かわぐちです。
+>>>>>>>
+>>>>>>> 　>>今回は全体で 11:00 - 17:30 だから昼休みを考慮して、全体で 5.5h ぐらいの構成ぐらいかな?
+>>>>>>> 　>>バッファは 30 分にしたが、ちょっと厳しいか。5h ぐらいと考えた方が良いかも。
+>>>>>>>
+>>>>>>> 　  XP Game は 180分のワークショップなので、
+>>>>>>> 　  残りが2.5hしかなくなってしまう....。
+>>>>>>>
+>>>>>>> 　  ちょっと厳しいっすね。
+>>>>>>> 　  紙ヒコーキが安定しているとみた。
+>>>>>>>
+>>>>>>
+>>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>> Agile Coach / Certified Scrum Professional
+>>>>> http://www.ryuzee.com
+>>>>> http://twitter.com/ryuzee
+>>>>> --
+>>>>> This message contains confidential information and is intended
+>>>>> only for the individual named. If you are not the named addressee
+>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>
+>>>>> --
+>>>>> archive->   http://qwik.jp/taoofscrum/14.html
+>>>>> ML->   taoofscrum@qwik.jp
+>>>>>
+>>>>
+>>>> --
+>>>> archive->   http://qwik.jp/taoofscrum/14.html
+>>>> ML->   taoofscrum@qwik.jp
+>>>>
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/14.html
+>> ML->  taoofscrum@qwik.jp
+>>
+> 
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1314241620)
+In <4E54C975.2020608@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+>>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>>> - 12:00 - 13:00 休憩
+>>> - 13:00 - 14:00 紙飛行機？
+>>> - 14:00 - 15:00 Role
+>>> - 15:00 - 15:10 休憩
+>>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>>> - 16:30 - 16:40 休憩
+>>> - 16:40 - 17:00 Q&Aタイム
+>>> - 17:00 - 17:20 ふりかえり
+>>> - 17:20 - 17:30 後説
+>
+> 原田さん、西村さん、高江洲さんはいかがでしょう？
+
+僕はふりかえりかなーw やっぱり。
+他の方が都合が良いのであれば、それに合わせるのも可能です。
+}}
+{{mail(harada.kiro@gmail.com,1314254172)
+原田です。
+
+Scrum 概論のところかな。
+
+あと、確認したい質問を決めてパーキングロットにおいておくというのを、チームビルディングの
+最後にしときたい。
+
+TPS/Lean/Agile の話を概論にちょこっと足せたらいいかなぁ。
+
+--
+はらだきろう
+
+
+2011年8月25日12:06 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <4E54C975.2020608@gmail.com>,
+> Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+>
+>>>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>>>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>>>> - 12:00 - 13:00 休憩
+>>>> - 13:00 - 14:00 紙飛行機？
+>>>> - 14:00 - 15:00 Role
+>>>> - 15:00 - 15:10 休憩
+>>>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>>>> - 16:30 - 16:40 休憩
+>>>> - 16:40 - 17:00 Q&Aタイム
+>>>> - 17:00 - 17:20 ふりかえり
+>>>> - 17:20 - 17:30 後説
+>>
+>> 原田さん、西村さん、高江洲さんはいかがでしょう？
+>
+> 僕はふりかえりかなーw やっぱり。
+> 他の方が都合が良いのであれば、それに合わせるのも可能です。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(kawaguti@gmail.com,1314260908)
+かわぐちです。
+
+  では私は
+    - 紙飛行機、ロール
+    - アーティファクトとPBI作成&見積もりゲーム
+  のどちらかに回ります。
+  どちらかというと後者がいいです。
+
+On 2011/08/25, at 15:36, Kiro HARADA <harada.kiro@gmail.com> wrote:
+
+> 原田です。
+> 
+> Scrum 概論のところかな。
+> 
+> あと、確認したい質問を決めてパーキングロットにおいておくというのを、チームビルディングの
+> 最後にしときたい。
+> 
+> TPS/Lean/Agile の話を概論にちょこっと足せたらいいかなぁ。
+> 
+> --
+> はらだきろう
+> 
+> 
+> 2011年8月25日12:06 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> In <4E54C975.2020608@gmail.com>,
+>> Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+>> 
+>>>>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>>>>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>>>>> - 12:00 - 13:00 休憩
+>>>>> - 13:00 - 14:00 紙飛行機？
+>>>>> - 14:00 - 15:00 Role
+>>>>> - 15:00 - 15:10 休憩
+>>>>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>>>>> - 16:30 - 16:40 休憩
+>>>>> - 16:40 - 17:00 Q&Aタイム
+>>>>> - 17:00 - 17:20 ふりかえり
+>>>>> - 17:20 - 17:30 後説
+>>> 
+>>> 原田さん、西村さん、高江洲さんはいかがでしょう？
+>> 
+>> 僕はふりかえりかなーw やっぱり。
+>> 他の方が都合が良いのであれば、それに合わせるのも可能です。
+>> 
+>> --
+>> archive-> http://qwik.jp/taoofscrum/14.html
+>> ML-> taoofscrum@qwik.jp
+>> 
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/14.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takaesu0@gmail.com,1314262320)
+高江洲ですー。
+
+雑用としか考えてなかったので強いて言えばQ&Aで適当にふりまくるくらいしか。。。
+
+
+2011年8月25日17:28 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> かわぐちです。
+>
+>  では私は
+>    - 紙飛行機、ロール
+>    - アーティファクトとPBI作成&見積もりゲーム
+>  のどちらかに回ります。
+>  どちらかというと後者がいいです。
+>
+> On 2011/08/25, at 15:36, Kiro HARADA <harada.kiro@gmail.com> wrote:
+>
+>> 原田です。
+>>
+>> Scrum 概論のところかな。
+>>
+>> あと、確認したい質問を決めてパーキングロットにおいておくというのを、チームビルディングの
+>> 最後にしときたい。
+>>
+>> TPS/Lean/Agile の話を概論にちょこっと足せたらいいかなぁ。
+>>
+>> --
+>> はらだきろう
+>>
+>>
+>> 2011年8月25日12:06 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>>> In <4E54C975.2020608@gmail.com>,
+>>> Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+>>>
+>>>>>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>>>>>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>>>>>> - 12:00 - 13:00 休憩
+>>>>>> - 13:00 - 14:00 紙飛行機？
+>>>>>> - 14:00 - 15:00 Role
+>>>>>> - 15:00 - 15:10 休憩
+>>>>>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>>>>>> - 16:30 - 16:40 休憩
+>>>>>> - 16:40 - 17:00 Q&Aタイム
+>>>>>> - 17:00 - 17:20 ふりかえり
+>>>>>> - 17:20 - 17:30 後説
+>>>>
+>>>> 原田さん、西村さん、高江洲さんはいかがでしょう？
+>>>
+>>> 僕はふりかえりかなーw やっぱり。
+>>> 他の方が都合が良いのであれば、それに合わせるのも可能です。
+>>>
+>>> --
+>>> archive-> http://qwik.jp/taoofscrum/14.html
+>>> ML-> taoofscrum@qwik.jp
+>>>
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/14.html
+>> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1314262605)
+せっかくなので何か話しませんか？＞高江洲さん（無理強いはしないけどせっかくの機会なので）
+
+ということで、挑戦的に、いままでやったことが無い部位にあたるように
+名前を入れてみた（希望は考慮してありますｗ）
+いかがでしょうか？
+
+- 11:00 - 11:20 (よしば) 前説＋チーム決め＋チームビルディング
+- 11:20 - 12:00 (はらだ) Scrum概論＋タイムボックス
+- 12:00 - 13:00 休憩
+- 13:00 - 14:00 (ナヲト) 紙飛行機？
+- 14:00 - 15:00 (たかえす) Role
+- 15:00 - 15:10 休憩
+- 15:10 - 16:30 (かわぐち) Artifact＋PBI作成WS
+- 16:30 - 16:40 休憩
+- 16:40 - 17:00 (みんな) Q&Aタイム
+- 17:00 - 17:20 (よしば) ふりかえり
+- 17:20 - 17:30 (よしば) 後説
+
+(11/08/25 17:51), Makoto Takaesu wrote:
+> 高江洲ですー。
+> 
+> 雑用としか考えてなかったので強いて言えばQ&Aで適当にふりまくるくらいしか。。。
+> 
+> 
+> 2011年8月25日17:28 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>> かわぐちです。
+>>
+>>   では私は
+>>     - 紙飛行機、ロール
+>>     - アーティファクトとPBI作成&見積もりゲーム
+>>   のどちらかに回ります。
+>>   どちらかというと後者がいいです。
+>>
+>> On 2011/08/25, at 15:36, Kiro HARADA<harada.kiro@gmail.com>  wrote:
+>>
+>>> 原田です。
+>>>
+>>> Scrum 概論のところかな。
+>>>
+>>> あと、確認したい質問を決めてパーキングロットにおいておくというのを、チームビルディングの
+>>> 最後にしときたい。
+>>>
+>>> TPS/Lean/Agile の話を概論にちょこっと足せたらいいかなぁ。
+>>>
+>>> --
+>>> はらだきろう
+>>>
+>>>
+>>> 2011年8月25日12:06 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>> In<4E54C975.2020608@gmail.com>,
+>>>> Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+>>>>
+>>>>>>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>>>>>>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>>>>>>> - 12:00 - 13:00 休憩
+>>>>>>> - 13:00 - 14:00 紙飛行機？
+>>>>>>> - 14:00 - 15:00 Role
+>>>>>>> - 15:00 - 15:10 休憩
+>>>>>>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>>>>>>> - 16:30 - 16:40 休憩
+>>>>>>> - 16:40 - 17:00 Q&Aタイム
+>>>>>>> - 17:00 - 17:20 ふりかえり
+>>>>>>> - 17:20 - 17:30 後説
+>>>>>
+>>>>> 原田さん、西村さん、高江洲さんはいかがでしょう？
+>>>>
+>>>> 僕はふりかえりかなーw やっぱり。
+>>>> 他の方が都合が良いのであれば、それに合わせるのも可能です。
+>>>>
+>>>> --
+>>>> archive->  http://qwik.jp/taoofscrum/14.html
+>>>> ML->  taoofscrum@qwik.jp
+>>>>
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/14.html
+>>> ML->  taoofscrum@qwik.jp
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1314262877)
+高江洲です。
+
+> せっかくなので何か話しませんか？＞高江洲さん（無理強いはしないけどせっかくの機会なので）
+
+では、お言葉に甘えて（？）ｗロールをば。。。
+
+＃どきどき＞＜
+}}
+{{mail(nishimura@nawo.to,1314351130)
+In <4E560E49.5020103@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> ということで、挑戦的に、いままでやったことが無い部位にあたるように
+> 名前を入れてみた（希望は考慮してありますｗ）
+> いかがでしょうか？
+> 
+> - 11:00 - 11:20 (よしば) 前説＋チーム決め＋チームビルディング
+> - 11:20 - 12:00 (はらだ) Scrum概論＋タイムボックス
+> - 12:00 - 13:00 休憩
+> - 13:00 - 14:00 (ナヲト) 紙飛行機？
+> - 14:00 - 15:00 (たかえす) Role
+> - 15:00 - 15:10 休憩
+> - 15:10 - 16:30 (かわぐち) Artifact＋PBI作成WS
+> - 16:30 - 16:40 休憩
+> - 16:40 - 17:00 (みんな) Q&Aタイム
+> - 17:00 - 17:20 (よしば) ふりかえり
+> - 17:20 - 17:30 (よしば) 後説
+
+ちょっと気になったんだが、分担が多くないかな?
+前回、説明する人が三人でも説明が混乱するなどがあったので、減らした方が良い気がしました。
+例えば、分けるにしても経験者+初めての人のペアでやるとかどうでしょうか?
+それだと、二つか三つぐらいで分けれないかなー。
+
+おれはサポートで話す人から外れてもオッケーっす。
+}}
+{{mail(ryuzee@gmail.com,1314413930)
+Ryuzeeです。
+
+すいません。一部から前回の反省で講師が多いと用語の揺れ等で
+混乱するかも、という指摘を受けたので、割り当てを変更します。
+
+- 11:00 - 11:20 (よしば) 前説＋チーム決め＋チームビルディング
+- 11:20 - 12:00 (はらだ) Scrum概論＋タイムボックス
+- 12:00 - 13:00 休憩
+- 13:00 - 14:00 (【変更】たかえす) 紙飛行機？
+- 14:00 - 15:00 (【変更】はらだ) Role
+- 15:00 - 15:10 休憩
+- 15:10 - 16:30 (かわぐち) Artifact＋PBI作成WS
+- 16:30 - 16:40 休憩
+- 16:40 - 17:00 (みんな) Q&Aタイム
+- 17:00 - 17:20 (なおと) ふりかえり
+- 17:20 - 17:30 (よしば) 後説
+---
+原田さん　：概論＋タイムボックス＋Role
+高江洲さん：紙飛行機メイン
+川口さん　：Artifact
+---
+でお願いします！
+過去に僕が使った資料が必要な方は言ってください。
+来週末くらいにレビューできるといいなあ。
+
+
+
+(11/08/25 17:56), Ryutaro YOSHIBA wrote:
+> せっかくなので何か話しませんか？＞高江洲さん（無理強いはしないけどせっかくの機会なので）
+> 
+> ということで、挑戦的に、いままでやったことが無い部位にあたるように
+> 名前を入れてみた（希望は考慮してありますｗ）
+> いかがでしょうか？
+> 
+
+> 
+> (11/08/25 17:51), Makoto Takaesu wrote:
+>> 高江洲ですー。
+>>
+>> 雑用としか考えてなかったので強いて言えばQ&Aで適当にふりまくるくらいしか。。。
+>>
+>>
+>> 2011年8月25日17:28 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>> かわぐちです。
+>>>
+>>>    では私は
+>>>      - 紙飛行機、ロール
+>>>      - アーティファクトとPBI作成&見積もりゲーム
+>>>    のどちらかに回ります。
+>>>    どちらかというと後者がいいです。
+>>>
+>>> On 2011/08/25, at 15:36, Kiro HARADA<harada.kiro@gmail.com>   wrote:
+>>>
+>>>> 原田です。
+>>>>
+>>>> Scrum 概論のところかな。
+>>>>
+>>>> あと、確認したい質問を決めてパーキングロットにおいておくというのを、チームビルディングの
+>>>> 最後にしときたい。
+>>>>
+>>>> TPS/Lean/Agile の話を概論にちょこっと足せたらいいかなぁ。
+>>>>
+>>>> --
+>>>> はらだきろう
+>>>>
+>>>>
+>>>> 2011年8月25日12:06 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>> In<4E54C975.2020608@gmail.com>,
+>>>>> Ryutaro YOSHIBA<ryuzee@gmail.com>   wrote:
+>>>>>
+>>>>>>>> - 11:00 - 11:20 前説＋チーム決め＋チームビルディング
+>>>>>>>> - 11:20 - 12:00 Scrum概論＋タイムボックス
+>>>>>>>> - 12:00 - 13:00 休憩
+>>>>>>>> - 13:00 - 14:00 紙飛行機？
+>>>>>>>> - 14:00 - 15:00 Role
+>>>>>>>> - 15:00 - 15:10 休憩
+>>>>>>>> - 15:10 - 16:30 Artifact＋PBI作成WS
+>>>>>>>> - 16:30 - 16:40 休憩
+>>>>>>>> - 16:40 - 17:00 Q&Aタイム
+>>>>>>>> - 17:00 - 17:20 ふりかえり
+>>>>>>>> - 17:20 - 17:30 後説
+>>>>>>
+>>>>>> 原田さん、西村さん、高江洲さんはいかがでしょう？
+>>>>>
+>>>>> 僕はふりかえりかなーw やっぱり。
+>>>>> 他の方が都合が良いのであれば、それに合わせるのも可能です。
+>>>>>
+>>>>> --
+>>>>> archive->   http://qwik.jp/taoofscrum/14.html
+>>>>> ML->   taoofscrum@qwik.jp
+>>>>>
+>>>>
+>>>> --
+>>>> archive->   http://qwik.jp/taoofscrum/14.html
+>>>> ML->   taoofscrum@qwik.jp
+>>>
+>>
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1314597408)
+高江洲です。
+
+> すいません。一部から前回の反省で講師が多いと用語の揺れ等で
+> 混乱するかも、という指摘を受けたので、割り当てを変更します。
+>
+> - 11:00 - 11:20 (よしば) 前説＋チーム決め＋チームビルディング
+> - 11:20 - 12:00 (はらだ) Scrum概論＋タイムボックス
+> - 12:00 - 13:00 休憩
+> - 13:00 - 14:00 (【変更】たかえす) 紙飛行機？
+> - 14:00 - 15:00 (【変更】はらだ) Role
+> - 15:00 - 15:10 休憩
+> - 15:10 - 16:30 (かわぐち) Artifact＋PBI作成WS
+> - 16:30 - 16:40 休憩
+> - 16:40 - 17:00 (みんな) Q&Aタイム
+> - 17:00 - 17:20 (なおと) ふりかえり
+> - 17:20 - 17:30 (よしば) 後説
+
+紙飛行機は先日のBootCampに間に合わなかったので、
+かわぐちさんにお願いってのでいいっすか？
+
+当初の予定通り（？）3人でやってもらって、雑用に回ろうかと。
+}}
+{{mail(ryuzee@gmail.com,1314597778)
+せっかくの機会なので是非とは思うのですが、
+難しければ僕のほうで引き取ります。
+＃お手数かけてすいません
+
+Ryuzee。
+
+(11/08/29 14:56), Makoto Takaesu wrote:
+> 高江洲です。
+> 
+>> すいません。一部から前回の反省で講師が多いと用語の揺れ等で
+>> 混乱するかも、という指摘を受けたので、割り当てを変更します。
+>>
+>> - 11:00 - 11:20 (よしば) 前説＋チーム決め＋チームビルディング
+>> - 11:20 - 12:00 (はらだ) Scrum概論＋タイムボックス
+>> - 12:00 - 13:00 休憩
+>> - 13:00 - 14:00 (【変更】たかえす) 紙飛行機？
+>> - 14:00 - 15:00 (【変更】はらだ) Role
+>> - 15:00 - 15:10 休憩
+>> - 15:10 - 16:30 (かわぐち) Artifact＋PBI作成WS
+>> - 16:30 - 16:40 休憩
+>> - 16:40 - 17:00 (みんな) Q&Aタイム
+>> - 17:00 - 17:20 (なおと) ふりかえり
+>> - 17:20 - 17:30 (よしば) 後説
+> 
+> 紙飛行機は先日のBootCampに間に合わなかったので、
+> かわぐちさんにお願いってのでいいっすか？
+> 
+> 当初の予定通り（？）3人でやってもらって、雑用に回ろうかと。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1314597842)
+In <CACMw1MBKpQQ3LyXGSO+78FteUrt+St8K5_-9X+7_7MuR-JhHAg@mail.gmail.com>,
+Makoto Takaesu <takaesu0@gmail.com> wrote:
+
+>> - 13:00 - 14:00 (【変更】たかえす) 紙飛行機？
+> 
+> 紙飛行機は先日のBootCampに間に合わなかったので、
+> かわぐちさんにお願いってのでいいっすか？
+
+資料もあるし、誰かサポートしてくれるし、ちょっとやってみてはどうかww
+}}
+{{mail(ryuzee@gmail.com,1314597944)
+いいね！　＋１
+
+(11/08/29 15:04), Nishimura Naoto wrote:
+> In<CACMw1MBKpQQ3LyXGSO+78FteUrt+St8K5_-9X+7_7MuR-JhHAg@mail.gmail.com>,
+> Makoto Takaesu<takaesu0@gmail.com>  wrote:
+> 
+>>> - 13:00 - 14:00 (【変更】たかえす) 紙飛行機？
+>>
+>> 紙飛行機は先日のBootCampに間に合わなかったので、
+>> かわぐちさんにお願いってのでいいっすか？
+> 
+> 資料もあるし、誰かサポートしてくれるし、ちょっとやってみてはどうかww
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1314598254)
+いいね！ +1
+あー、私の紙ヒコーキ資料でよけれればバンバン使ってくださいな。
+私のっていうかだけどw
+
+# 気持ちだけ紙ヒコーキに乗せて飛ばしとくw
+}}
+{{mail(takaesu0@gmail.com,1314598332)
+高江洲です。
+
+いやほんと、お言葉に甘えてって感じですがｗ
+
+ありがとうございます＞＜
+
+> いいね！　＋１
+>>>
+>>> 紙飛行機は先日のBootCampに間に合わなかったので、
+>>> かわぐちさんにお願いってのでいいっすか？
+>>
+>> 資料もあるし、誰かサポートしてくれるし、ちょっとやってみてはどうかww
+>>
+}}
+{{mail(ryuzee@gmail.com,1314598582)
+XP祭り用に永瀬さんからパワポ貰って体裁整えたやつがあるので、それをシェアしちゃって良いですか>永瀬さん
+
+---
+Ryutaro Yoshiba
+ryuzee@gmail.com
+090-...
+
+
+On 2011/08/29, at 15:12, Makoto Takaesu <takaesu0@gmail.com> wrote:
+
+> 高江洲です。
+> 
+> いやほんと、お言葉に甘えてって感じですがｗ
+> 
+> ありがとうございます＞＜
+> 
+>> いいね！　＋１
+>>>> 
+>>>> 紙飛行機は先日のBootCampに間に合わなかったので、
+>>>> かわぐちさんにお願いってのでいいっすか？
+>>> 
+>>> 資料もあるし、誰かサポートしてくれるし、ちょっとやってみてはどうかww
+>>> 
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/14.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(miholovesq@gmail.com,1314599484)
+2011/08/29 15:16 "Ryutaro YOSHIBA" <ryuzee@gmail.com>:
+>
+> XP祭り用に永瀬さんからパワポ貰って体裁整えたやつがあるので、それをシェアしちゃって良いですか>永瀬さん
+
+全然問題ないです～
+}}
+{{mail(ryuzee@gmail.com,1314600090)
+ありがとうございます！
+ではあとで高江洲さんにメールしますね
+
+---
+Ryutaro Yoshiba
+ryuzee@gmail.com
+090-...
+
+
+On 2011/08/29, at 15:31, Miho Nagase <miholovesq@gmail.com> wrote:
+
+> 2011/08/29 15:16 "Ryutaro YOSHIBA" <ryuzee@gmail.com>:
+> >
+> > XP祭り用に永瀬さんからパワポ貰って体裁整えたやつがあるので、それをシェアしちゃって良いですか>永瀬さん
+> 
+> 全然問題ないです～
+}}
+{{mail(takaesu0@gmail.com,1314602192)
+> ありがとうございます！
+> ではあとで高江洲さんにメールしますね
+
+よろしくお願いします！
+}}
+{{mail(kawaguti@gmail.com,1315151529)
+かわぐちです。
+
+　別スレの原田さんの資料を確認しました。
+　基本的にはホワイトベース、いやホワイトボードベースということですので、
+　座学は一貫して原田さんにおねがいする、というのはいかがでしょうか。
+
+　- - -
+
+　PBI作成ワークショップは、まだ資料ができていませんが、
+　やらせていただけるとありがたいです。
+
+　時間は60分程度におさめたいですが、書く量がそこそこありますので、
+　ファシリテーション次第では、もうちょっと伸びるかもしれません。
+　基本的な流れは、このサイトにあるやつと同じです。
+　　http://agilesoftwaredevelopment.com/blog/peterstev/creating-scrum-product-backlog-start-users
+
+　ネタは、 Ryuzee さんがやってくれた飲み会支援システムに即すつもりです。
+　だいたい User Stories Applied に即していて、
+　樽本さんがやってくれたWSと、
+　Jeff Patton が Agile 2011 でやった WS を参考に、
+　だいたい再現できるように資料作ろうとおもいます。
+}}
+{{mail(ryuzee@gmail.com,1315168050)
+かわぐちさん
+
+Ryuzeeです。
+
+座学を原田さんに全部お願いしてしまうのはボリュームの観点から
+大変なのと、Artifactとワークショップはセットであるべきと思っているので
+もとのタイムスケジュールでお願いしたいです。
+
+----
+- 11:00 - 11:20 (よしば) 前説＋チーム決め＋チームビルディング
+- 11:20 - 12:00 (はらだ) Scrum概論＋タイムボックス
+- 12:00 - 13:00 休憩
+- 13:00 - 14:00 (【変更】たかえす) 紙飛行機？
+- 14:00 - 15:00 (【変更】はらだ) Role
+- 15:00 - 15:10 休憩
+- 15:10 - 16:30 (かわぐち) Artifact＋PBI作成WS
+- 16:30 - 16:40 休憩
+- 16:40 - 17:00 (みんな) Q&Aタイム
+- 17:00 - 17:20 (なおと) ふりかえり
+- 17:20 - 17:30 (よしば) 後説
+---
+原田さん　：概論＋タイムボックス＋Role
+高江洲さん：紙飛行機メイン
+川口さん　：Artifact
+----
+
+＃資料の方お待ちしてます...
+
+(11/09/05 0:52), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　別スレの原田さんの資料を確認しました。
+> 　基本的にはホワイトベース、いやホワイトボードベースということですので、
+> 　座学は一貫して原田さんにおねがいする、というのはいかがでしょうか。
+> 
+> 　- - -
+> 
+> 　PBI作成ワークショップは、まだ資料ができていませんが、
+> 　やらせていただけるとありがたいです。
+> 
+> 　時間は60分程度におさめたいですが、書く量がそこそこありますので、
+> 　ファシリテーション次第では、もうちょっと伸びるかもしれません。
+> 　基本的な流れは、このサイトにあるやつと同じです。
+> 　　http://agilesoftwaredevelopment.com/blog/peterstev/creating-scrum-product-backlog-start-users
+> 
+> 　ネタは、 Ryuzee さんがやってくれた飲み会支援システムに即すつもりです。
+> 　だいたい User Stories Applied に即していて、
+> 　樽本さんがやってくれたWSと、
+> 　Jeff Patton が Agile 2011 でやった WS を参考に、
+> 　だいたい再現できるように資料作ろうとおもいます。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(harada.kiro@gmail.com,1315200841)
+はらだです。
+
+了解です。
+ロールの説明が１時間あるのですね。
+
+既存のプロジェクトでの役割を、Team / SM / PO にマップするワークをやる時間があるかも
+しれませんね。
+＃紙飛行機の後のタイミングなら、ふりかえりも含めていい場所ですね。
+
+座学全部は大変なので、てきぎフォロー（つっこみともいう）ことにしましょう。
+
+よろしくお願いします。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2011年9月5日5:27 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> かわぐちさん
+>
+> Ryuzeeです。
+>
+> 座学を原田さんに全部お願いしてしまうのはボリュームの観点から
+> 大変なのと、Artifactとワークショップはセットであるべきと思っているので
+> もとのタイムスケジュールでお願いしたいです。
+>
+> ----
+> - 11:00 - 11:20 (よしば) 前説＋チーム決め＋チームビルディング
+> - 11:20 - 12:00 (はらだ) Scrum概論＋タイムボックス
+> - 12:00 - 13:00 休憩
+> - 13:00 - 14:00 (【変更】たかえす) 紙飛行機？
+> - 14:00 - 15:00 (【変更】はらだ) Role
+> - 15:00 - 15:10 休憩
+> - 15:10 - 16:30 (かわぐち) Artifact＋PBI作成WS
+> - 16:30 - 16:40 休憩
+> - 16:40 - 17:00 (みんな) Q&Aタイム
+> - 17:00 - 17:20 (なおと) ふりかえり
+> - 17:20 - 17:30 (よしば) 後説
+> ---
+> 原田さん　：概論＋タイムボックス＋Role
+> 高江洲さん：紙飛行機メイン
+> 川口さん　：Artifact
+> ----
+>
+> ＃資料の方お待ちしてます...
+>
+> (11/09/05 0:52), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>>　 別スレの原田さんの資料を確認しました。
+>>　 基本的にはホワイトベース、いやホワイトボードベースということですので、
+>>　 座学は一貫して原田さんにおねがいする、というのはいかがでしょうか。
+>>
+>>　 - - -
+>>
+>>　 PBI作成ワークショップは、まだ資料ができていませんが、
+>>　 やらせていただけるとありがたいです。
+>>
+>>　 時間は60分程度におさめたいですが、書く量がそこそこありますので、
+>>　 ファシリテーション次第では、もうちょっと伸びるかもしれません。
+>>　 基本的な流れは、このサイトにあるやつと同じです。
+>>　　 http://agilesoftwaredevelopment.com/blog/peterstev/creating-scrum-product-backlog-start-users
+>>
+>>　 ネタは、 Ryuzee さんがやってくれた飲み会支援システムに即すつもりです。
+>>　 だいたい User Stories Applied に即していて、
+>>　 樽本さんがやってくれたWSと、
+>>　 Jeff Patton が Agile 2011 でやった WS を参考に、
+>>　 だいたい再現できるように資料作ろうとおもいます。
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(kawaguti@gmail.com,1315243401)
+かわぐちです。
+
+　添付ファイルサイズがでかいと怒られた。
+　　/Dropbox/ScrumBootCamp/第３回(関西)
+　に入れてますので、見ておくんなまし。
+
+2011年9月6日2:13 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> かわぐちです。
+>
+> 　アーティファクトとプロダクトバックログ作成ワークの資料です。
+> 　説明すべきことをもうちょっと書かないと当日頭が真っ白になりそうなので、明日の新幹線でがんばります。
+> 　だめそうなら、Ryuzee いるので、もうちょっと粘ってみますわ。
+>
+}}
+{{mail(ryuzee@gmail.com,1315258817)
+Ryuzeeです
+
+プランニングポーカーはしないのでしょうか？
+見積りの仕方は実際やらせたほうが良いと思うんだけど、どうでしょう？
+
+(11/09/06 2:23), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　添付ファイルサイズがでかいと怒られた。
+> 　　/Dropbox/ScrumBootCamp/第３回(関西)
+> 　に入れてますので、見ておくんなまし。
+> 
+> 2011年9月6日2:13 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>> かわぐちです。
+>>
+>> 　アーティファクトとプロダクトバックログ作成ワークの資料です。
+>> 　説明すべきことをもうちょっと書かないと当日頭が真っ白になりそうなので、明日の新幹線でがんばります。
+>> 　だめそうなら、Ryuzee いるので、もうちょっと粘ってみますわ。
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1315262480)
+かわぐちです。
+
+　> プランニングポーカーはしないのでしょうか？
+　> 見積りの仕方は実際やらせたほうが良いと思うんだけど、どうでしょう？
+
+　カードソーティングとプランニングポーカーはやっていただく感じで考えてます。
+　資料に全然入ってないですね。うーむ。オレ大丈夫か。
+
+-- 
+[PR] 19,22 Oct. : The first scrum gathering in Tokyo:
+http://www.scrumgatheringtokyo.org/
+[PR] 17-18 Oct.  : Certified Scrum Master course by Henrik Kniberg:
+http://training-jp.agilergo.com/
+[PR] 20-21 Oct. : Passionated Product Owner course by Jeff Patton:
+http://training-jp.agilergo.com/
+}}
+{{mail(harada.kiro@gmail.com,1315262892)
+プランニングポーカーは、手持ちの在庫は持って行きますよ。
+チームでワークをやるぶんぐらいはあるはず。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2011年9月6日6:40 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです
+>
+> プランニングポーカーはしないのでしょうか？
+> 見積りの仕方は実際やらせたほうが良いと思うんだけど、どうでしょう？
+>
+> (11/09/06 2:23), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>>　 添付ファイルサイズがでかいと怒られた。
+>>　　 /Dropbox/ScrumBootCamp/第３回(関西)
+>>　 に入れてますので、見ておくんなまし。
+>>
+>> 2011年9月6日2:13 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>> かわぐちです。
+>>>
+>>>　 アーティファクトとプロダクトバックログ作成ワークの資料です。
+>>>　 説明すべきことをもうちょっと書かないと当日頭が真っ白になりそうなので、明日の新幹線でがんばります。
+>>>　 だめそうなら、Ryuzee いるので、もうちょっと粘ってみますわ。
+>>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/14.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(takubon@kanataku.com,1315615580)
+たくぼんです。
+
+写真をFacebookにアップしようと思ったのですが、個人だと個人のアルバムに
+なってしまうみたいなので、DropBoxにアップしました。
+誰か、FaceBookに再アップしてもらえるとうれしいです。
+
+}}
+{{mail(ryuzee@gmail.com,1315624143)
+Ryuzeeです。
+
+写真の準備ありがとうございました。
+Facebookにアップしましたのでご確認くださいー。
+
+
+(11/09/10 9:46), takubon@kanataku.com wrote:
+> たくぼんです。
+> 
+> 写真をFacebookにアップしようと思ったのですが、個人だと個人のアルバムに
+> なってしまうみたいなので、DropBoxにアップしました。
+> 誰か、FaceBookに再アップしてもらえるとうれしいです。
+> 
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1315689145)
+Ryuzeeです。
+
+アンケートの集計結果をDropboxにアップしました。
+内容ご確認くださいー。
+
+(11/09/10 12:08), Ryutaro YOSHIBA wrote:
+> Ryuzeeです。
+> 
+> 写真の準備ありがとうございました。
+> Facebookにアップしましたのでご確認くださいー。
+> 
+> 
+> (11/09/10 9:46), takubon@kanataku.com wrote:
+>> たくぼんです。
+>>
+>> 写真をFacebookにアップしようと思ったのですが、個人だと個人のアルバムに
+>> なってしまうみたいなので、DropBoxにアップしました。
+>> 誰か、FaceBookに再アップしてもらえるとうれしいです。
+>>
+>>
+>>
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}

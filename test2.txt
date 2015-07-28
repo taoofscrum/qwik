@@ -1,0 +1,226 @@
+* 最初の一歩
+
+ML を qwik に移行するよー
+{{mail(nishimura@nawo.to,1310389833)
+こんにちわコンニチワ(テスト)
+}}
+{{mail(ryuzee@gmail.com,1310389882)
+夜だからコンバンハです。
+
+> こんにちわコンニチワ(テスト)
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1310390207)
+おやすみマーヤ
+
+--
+Miho Nagase
+http://twitter.com/miholovesq
+}}
+{{mail(harada.kiro@gmail.com,1310393432)
+メールアドレスの設定間違えた。
+もういっかい。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2011/7/11 Kiro Harada <harada@isken.co.jp>:
+> こんばんわ。
+> ちゃんととどいてますよ。
+> --
+> 原田騎郎
+> 株式会社　情報システム総研
+>
+>
+>
+> 2011年7月11日21:16 Miho Nagase <miholovesq@gmail.com>:
+>> おやすみマーヤ
+>>
+>> --
+>> Miho Nagase
+>> http://twitter.com/miholovesq
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/test2.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>
+}}
+{{mail(chuchung@me.com,1310397339)
+amameciです。
+届いています。
+****************
+NAKA Yamato
+chuchung@mac.com
+****************
+
+2011年7月11日 11:10PM、Kiro HARADA <harada.kiro@gmail.com>のメッセージ：
+
+メールアドレスの設定間違えた。
+もういっかい。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2011/7/11 Kiro Harada <harada@isken.co.jp>:
+> こんばんわ。
+> ちゃんととどいてますよ。
+> --
+> 原田騎郎
+> 株式会社　情報システム総研
+>
+>
+>
+> 2011年7月11日21:16 Miho Nagase <miholovesq@gmail.com>:
+>> おやすみマーヤ
+>>
+>> --
+>> Miho Nagase
+>> http://twitter.com/miholovesq
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/test2.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>
+
+-- 
+archive-> http://qwik.jp/taoofscrum/test2.html 
+ML-> taoofscrum@qwik.jp
+}}
+{{mail(kawaguti@gmail.com,1310402107)
+かわぐちです。
+
+　qwik.jp って、たしか100名までしかML登録できなかったような気がします。
+　その制限ってまだあるのかな？
+
+2011年7月12日0:14  <chuchung@me.com>:
+> amameciです。
+> 届いています。
+>
+> ****************
+> NAKA Yamato
+> chuchung@mac.com
+> ****************
+>
+> 2011年7月11日 11:10PM、Kiro HARADA <harada.kiro@gmail.com>のメッセージ：
+>
+> メールアドレスの設定間違えた。
+> もういっかい。
+> --
+> 原田騎郎
+> 株式会社　情報システム総研
+>
+>
+>
+> 2011/7/11 Kiro Harada <harada@isken.co.jp>:
+>> こんばんわ。
+>> ちゃんととどいてますよ。
+>> --
+>> 原田騎郎
+>> 株式会社　情報システム総研
+>>
+>>
+>>
+>> 2011年7月11日21:16 Miho Nagase <miholovesq@gmail.com>:
+>>> おやすみマーヤ
+>>>
+>>> --
+>>> Miho Nagase
+>>> http://twitter.com/miholovesq
+>>>
+>>> --
+>>> archive-> http://qwik.jp/taoofscrum/test2.html
+>>> ML-> taoofscrum@qwik.jp
+>>>
+>>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/test2.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1310402413)
+2011/7/12 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> 　qwik.jp って、たしか100名までしかML登録できなかったような気がします。
+> 　その制限ってまだあるのかな？
+
+設定で変えれるよ。
+}}
+{{mail(kawaguti@gmail.com,1310450285)
+かわぐちです。
+
+　そうだったのか！ありがとうございます。
+
+2011年7月12日1:39 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 2011/7/12 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>>　 qwik.jp って、たしか100名までしかML登録できなかったような気がします。
+>>　 その制限ってまだあるのかな？
+>
+> 設定で変えれるよ。
+>
+}}
+{{mail(nishimura@nawo.to,1310534876)
+In <CAJeMxR_m0US_r4FqpqSoyk+B3HWxhakNzOsS9SayfCR5fBcSSw@mail.gmail.com>,
+Kiro HARADA <harada.kiro@gmail.com> wrote:
+
+> メールアドレスの設定間違えた。
+
+全然、余談ですが複数のメールアカウント持っていて Gmail 側で集約している人は、ML に複数アカウントを登
+録しておくと少し幸せになれますよ
+}}
+{{mail(nishimura@nawo.to,1310534999)
+In <CAHuTkVyE2owd-8SqXu5dWJ3zEkErMWfwnOQp=a2HqfWbyPVdjg@mail.gmail.com>,
+Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+> 2011/7/12 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>> 　qwik.jp って、たしか100名までしかML登録できなかったような気がします。
+>
+> 設定で変えれるよ。
+
+運営用 ML で 100 人こえたら大変だけどww
+}}
+{{mail(kawaguti@gmail.com,1310535158)
+かわぐちです。
+
+　わかんないですよ。
+　なんといっても、スクランドゥ(気に入ってる)、だからなぁ。
+
+2011年7月13日14:29 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CAHuTkVyE2owd-8SqXu5dWJ3zEkErMWfwnOQp=a2HqfWbyPVdjg@mail.gmail.com>,
+> Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+>
+>> 2011/7/12 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>>>　 qwik.jp って、たしか100名までしかML登録できなかったような気がします。
+>>
+>> 設定で変えれるよ。
+>
+> 運営用 ML で 100 人こえたら大変だけどww
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/test2.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(chuchung@mac.com,1313760150)
+大和です。
+
+メール送信テスト。
+==届かない？==
+}}

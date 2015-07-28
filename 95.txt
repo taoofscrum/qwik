@@ -1,0 +1,472 @@
+* 6/6(金) Cope を囲む会
+{{mail(kawaguti@gmail.com,1400713955)
+かわぐちです。
+
+　6/6(金) 夜に Voyage Group さんのパンゲア会議室(大きいとこ)で
+　Copeを囲むミートアップをできるといいなと思っているのですが、
+　いかがでしょうか。
+　手伝っていただける方を募集です。
+
+　こないだ作ったうまく行かないパターンを
+　英語化して、話していくのもいいかもね。
+　組織パターン交えながら。
+}}
+{{mail(changesworlds@gmail.com,1400716772)
+英語話せないけど手伝いましょうか。
+
+iPhoneから送信
+
+2014/05/22 8:12、Yasunobu Kawaguchi <kawaguti@gmail.com> のメッセージ:
+
+> かわぐちです。
+> 
+> 　6/6(金) 夜に Voyage Group さんのパンゲア会議室(大きいとこ)で
+> 　Copeを囲むミートアップをできるといいなと思っているのですが、
+> 　いかがでしょうか。
+> 　手伝っていただける方を募集です。
+> 
+> 　こないだ作ったうまく行かないパターンを
+> 　英語化して、話していくのもいいかもね。
+> 　組織パターン交えながら。
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/95.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takaesu0@gmail.com,1400724054)
+何やるかわかんないけど、はーい。
+}}
+{{mail(morita@c.wsf.jp,1400724621)
+できる事があれば、やりたいです。
+
+---
+Kenji Morita
+
+
+2014/05/22 8:12、Yasunobu Kawaguchi <kawaguti@gmail.com> のメッセージ:
+
+> かわぐちです。
+> 
+> 　6/6(金) 夜に Voyage Group さんのパンゲア会議室(大きいとこ)で
+> 　Copeを囲むミートアップをできるといいなと思っているのですが、
+> 　いかがでしょうか。
+> 　手伝っていただける方を募集です。
+> 
+> 　こないだ作ったうまく行かないパターンを
+> 　英語化して、話していくのもいいかもね。
+> 　組織パターン交えながら。
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/95.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(harada.kiro@gmail.com,1400743068)
+当日は参加できませんが、手伝います。
+
+なにか前振りしておくことあります？
+--
+はらだきろう＠Copeのとなり
+--
+原田騎郎
+
+
+
+2014年5月22日 4:12 Kenji Morita <morita@c.wsf.jp>:
+> できる事があれば、やりたいです。
+>
+> ---
+> Kenji Morita
+>
+>
+> 2014/05/22 8:12、Yasunobu Kawaguchi <kawaguti@gmail.com> のメッセージ:
+>
+>> かわぐちです。
+>>
+>>　 6/6(金) 夜に Voyage Group さんのパンゲア会議室(大きいとこ)で
+>>　 Copeを囲むミートアップをできるといいなと思っているのですが、
+>>　 いかがでしょうか。
+>>　 手伝っていただける方を募集です。
+>>
+>>　 こないだ作ったうまく行かないパターンを
+>>　 英語化して、話していくのもいいかもね。
+>>　 組織パターン交えながら。
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/95.html
+>> ML-> taoofscrum@qwik.jp
+}}
+{{mail(kawaguti@gmail.com,1400797995)
+かわぐちです。
+
+　ちぇんわさん、高江洲さん、もりたさん、はらださん、ありがとうございます。
+
+　テーマは決まってないですが、今のところ２案です。
+　通訳を入れるのはつらいので、まあ片言でも英語で行きたいなと。
+
+　TDD論議が活発な昨今ですので、TDD最大の敵を自称するCopeさんと、
+　日本のTDDBC界隈の人たちとの、論議の場所を作るのは、
+　よいことかな。
+
+　「組織パターン」に関連する研修がないので、きちんとここを
+　扱っておきたい、という感じが一つ。そのネタとしてこないだの
+　Scurm道場での「うまく行かないパターン」は、いいかもしれない。
+
+
+
+2014年5月22日 16:17 Kiro HARADA <harada.kiro@gmail.com>:
+> 当日は参加できませんが、手伝います。
+>
+> なにか前振りしておくことあります？
+> --
+> はらだきろう＠Copeのとなり
+> --
+> 原田騎郎
+>
+>
+>
+> 2014年5月22日 4:12 Kenji Morita <morita@c.wsf.jp>:
+>> できる事があれば、やりたいです。
+>>
+>> ---
+>> Kenji Morita
+>>
+>>
+>> 2014/05/22 8:12、Yasunobu Kawaguchi <kawaguti@gmail.com> のメッセージ:
+>>
+>>> かわぐちです。
+>>>
+>>>　 6/6(金) 夜に Voyage Group さんのパンゲア会議室(大きいとこ)で
+>>>　 Copeを囲むミートアップをできるといいなと思っているのですが、
+>>>　 いかがでしょうか。
+>>>　 手伝っていただける方を募集です。
+>>>
+>>>　 こないだ作ったうまく行かないパターンを
+>>>　 英語化して、話していくのもいいかもね。
+>>>　 組織パターン交えながら。
+>>>
+>>> --
+>>> archive-> http://qwik.jp/taoofscrum/95.html
+>>> ML-> taoofscrum@qwik.jp
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/95.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(harada.kiro@gmail.com,1400798244)
+Neil に組織パターン教えに来てよ、と頼んだので、おもったより早く実現するかも。
+
+"I'm really a patient guy who used years to kill TDD." って誰か言ってた気がします。
+
+おやすみなさい。
+
+はらだきろう
+
+2014年5月23日金曜日、Yasunobu Kawaguchi<kawaguti@gmail.com>さんは書きました:
+
+> かわぐちです。
+>
+> ちぇんわさん、高江洲さん、もりたさん、はらださん、ありがとうございます。
+>
+> テーマは決まってないですが、今のところ２案です。
+> 通訳を入れるのはつらいので、まあ片言でも英語で行きたいなと。
+>
+> TDD論議が活発な昨今ですので、TDD最大の敵を自称するCopeさんと、
+> 日本のTDDBC界隈の人たちとの、論議の場所を作るのは、
+> よいことかな。
+>
+> 「組織パターン」に関連する研修がないので、きちんとここを
+> 扱っておきたい、という感じが一つ。そのネタとしてこないだの
+> Scurm道場での「うまく行かないパターン」は、いいかもしれない。
+>
+>
+>
+> 2014年5月22日 16:17 Kiro HARADA <harada.kiro@gmail.com <javascript:;>>:
+> > 当日は参加できませんが、手伝います。
+> >
+> > なにか前振りしておくことあります？
+> > --
+> > はらだきろう＠Copeのとなり
+> > --
+> > 原田騎郎
+> >
+> >
+> >
+> > 2014年5月22日 4:12 Kenji Morita <morita@c.wsf.jp <javascript:;>>:
+> >> できる事があれば、やりたいです。
+> >>
+> >> ---
+> >> Kenji Morita
+> >>
+> >>
+> >> 2014/05/22 8:12、Yasunobu Kawaguchi <kawaguti@gmail.com <javascript:;>>
+> のメッセージ:
+> >>
+> >>> かわぐちです。
+> >>>
+> >>>  6/6(金) 夜に Voyage Group さんのパンゲア会議室(大きいとこ)で
+> >>>  Copeを囲むミートアップをできるといいなと思っているのですが、
+> >>>  いかがでしょうか。
+> >>>  手伝っていただける方を募集です。
+> >>>
+> >>>  こないだ作ったうまく行かないパターンを
+> >>>  英語化して、話していくのもいいかもね。
+> >>>  組織パターン交えながら。
+> >>>
+> >>> --
+> >>> archive-> http://qwik.jp/taoofscrum/95.html
+> >>> ML-> taoofscrum@qwik.jp <javascript:;>
+> >
+> > --
+> > archive-> http://qwik.jp/taoofscrum/95.html
+> > ML-> taoofscrum@qwik.jp <javascript:;>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/95.html
+> ML-> taoofscrum@qwik.jp <javascript:;>
+>
+
+
+-- 
+--
+原田騎郎
+}}
+{{mail(takuo.doi@gmail.com,1400798342)
+当日、調整できそうなので、何か関われたら嬉しいです。
+}}
+{{mail(kimura.kanataku@gmail.com,1400800475)
+英語わかんないけど、行きたい！
+
+2014年5月23日金曜日、Takuo Doi<takuo.doi@gmail.com>さんは書きました:
+
+> 当日、調整できそうなので、何か関われたら嬉しいです。
+>
+}}
+{{mail(kawaguti@gmail.com,1401705630)
+かわぐちです。
+
+　準備遅くなってすみません。
+　CopeからTDDの議論Welcomeをもらいましたので、Doorkeeper用意してみました。
+　レビューをお願いできますでしょうか。明朝にはいったん公開いたしたく。
+
+
+スクラム道場.12 with Jim Coplien (英語:通訳なし)
+
+2014-06-06 19:00-21:00
+VOYAGE GROUP 8F 会議室パンゲア
+
+Jim Coplien さんを迎えて、スクラム道場を行ってみます。
+テーマは「Is TDD died? Is Unit Testing waste? (TDDは死んだのか？ユニットテストはゴミか？)」です。
+
+4月にRuby on Rails の創始者DHHが "TDD is died"
+というブログを公開してから、TDDの意味や範囲について多くの議論が巻き起こっています。指摘されているTDDの問題とは何か、DHHのブログが参照している
+"Unit Testing is waste." の著者である Jim Coplien
+さんと議論してみたいと思います。(なお、ゲストに配慮し、主に英語で話します。通訳はいません。)
+http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+
+スクラム道場は、Scrumを中心にアジャイルについて探究するための場です。明日からより上手く実践できる事を目的として、毎回、参加者と共に一つのテーマを徹底的に議論をする形式で進めます。はじめに読み手が15分ほど議論のネタになる話をして、その後の90分以上を参加者と講師など全員でディスカッションをする進め方が特徴です。
+注意) 議論が中心のため、スクラムについての初歩的な説明などはありませんのでご理解ください。
+}}
+{{mail(miholovesq@gmail.com,1401706364)
+> "Unit Testing is waste." の著者である
+論文のタイトルとかはちゃんと書いてあげたほうががが
+"Why Most Unit Testing is Waste"
+
+そして、DHHのブログのURLを載せるなら元記事のCopeの記事URLも載せた方ががが
+http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
+
+と思いました。
+
+なんとなくですが話題が話題だけに普段より人が来るかもと思いましたー。
+楽しくなりそうで羨ましい！
+}}
+{{mail(kawaguti@gmail.com,1401707957)
+ながせさん
+
+   ご指摘感謝ー。対応しました。
+   Copeに最低限伝わる程度に英語つけてみました。
+
+Jim Coplien さんを迎えて、スクラム道場を行ってみます。
+テーマは「Is TDD died? Is Unit Testing waste? (TDDは死んだのか？ユニットテストはゴミか？)」です。
+
+Since David Heinemeier Hanson, creator of Ruby on Rails, wrote an article
+"TDD is dead" on his blog, several arguments have emerged around that. What
+is the problem of TDD he mentioned? Let's discuss! With Jim Coplien, the
+author of the key article "Why Most Unit Testing is waste." the DHH's
+article referred.
+
+DHH's blog : TDD is dead
+http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+
+Jim Coplien's article : Why Most Unit Testing is waste.
+http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
+
+4月にRuby on Rails の創始者DHHが "TDD is died"
+というブログを公開してから、TDDの意味や範囲について多くの議論が巻き起こっています。指摘されているTDDの問題とは何か、DHHのブログが参照している
+"Why Most Unit Testing is waste." の著者である Jim Coplien
+さんと議論してみたいと思います。(なお、ゲストに配慮し、主に英語で話します。通訳はいません。)
+
+DHHのブログ
+http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+
+Jim Coplien: Why Most Unit Testing is waste.
+http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
+
+スクラム道場は、Scrumを中心にアジャイルについて探究するための場です。明日からより上手く実践できる事を目的として、毎回、参加者と共に一つのテーマを徹底的に議論をする形式で進めます。はじめに読み手が15分ほど議論のネタになる話をして、その後の90分以上を参加者と講師など全員でディスカッションをする進め方が特徴です。
+*注意)* 議論が中心のため、スクラムについての初歩的な説明などはありませんのでご理解ください。
+}}
+{{mail(kimura.kanataku@gmail.com,1401716432)
+川口さん
+
+準備ありがとうございます。
+
+開場の時間とかが書いてあるとうれしいです。
+
+ドアキ関係無いかもしれませんが、
+進め方は、会場から質問を受けて、Copeが答える感じで進めるのでしょうか？
+
+以上です。
+
+
+
+2014年6月2日 20:19 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+
+> ながせさん
+>
+>    ご指摘感謝ー。対応しました。
+>    Copeに最低限伝わる程度に英語つけてみました。
+>
+> Jim Coplien さんを迎えて、スクラム道場を行ってみます。
+> テーマは「Is TDD died? Is Unit Testing waste? (TDDは死んだのか？ユニットテストはゴミか？)」です。
+>
+> Since David Heinemeier Hanson, creator of Ruby on Rails, wrote an article
+> "TDD is dead" on his blog, several arguments have emerged around that. What
+> is the problem of TDD he mentioned? Let's discuss! With Jim Coplien, the
+> author of the key article "Why Most Unit Testing is waste." the DHH's
+> article referred.
+>
+> DHH's blog : TDD is dead
+> http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+>
+> Jim Coplien's article : Why Most Unit Testing is waste.
+> http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
+>
+> 4月にRuby on Rails の創始者DHHが "TDD is died"
+> というブログを公開してから、TDDの意味や範囲について多くの議論が巻き起こっています。指摘されているTDDの問題とは何か、DHHのブログが参照している
+> "Why Most Unit Testing is waste." の著者である Jim Coplien
+> さんと議論してみたいと思います。(なお、ゲストに配慮し、主に英語で話します。通訳はいません。)
+>
+> DHHのブログ
+> http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+>
+> Jim Coplien: Why Most Unit Testing is waste.
+> http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
+>
+>
+> スクラム道場は、Scrumを中心にアジャイルについて探究するための場です。明日からより上手く実践できる事を目的として、毎回、参加者と共に一つのテーマを徹底的に議論をする形式で進めます。はじめに読み手が15分ほど議論のネタになる話をして、その後の90分以上を参加者と講師など全員でディスカッションをする進め方が特徴です。
+> *注意)* 議論が中心のため、スクラムについての初歩的な説明などはありませんのでご理解ください。
+>
+}}
+{{mail(changesworlds@gmail.com,1401756667)
+通訳なしなので、全部英語にしてしまって良いと思います。
+
+また、修正するでしょうが、締切が今のイベントページだと過ぎているので、当日の17時とかまでにしたらいかがでしょうか？
+
+iPhoneから送信
+
+2014/06/02 19:40、Yasunobu Kawaguchi <kawaguti@gmail.com> のメッセージ:
+
+> かわぐちです。
+> 
+> 　準備遅くなってすみません。
+> 　CopeからTDDの議論Welcomeをもらいましたので、Doorkeeper用意してみました。
+> 　レビューをお願いできますでしょうか。明朝にはいったん公開いたしたく。
+> 
+> 
+> スクラム道場.12 with Jim Coplien (英語:通訳なし)
+> 
+> 2014-06-06 19:00-21:00
+> VOYAGE GROUP 8F 会議室パンゲア
+> 
+> Jim Coplien さんを迎えて、スクラム道場を行ってみます。
+> テーマは「Is TDD died? Is Unit Testing waste? (TDDは死んだのか？ユニットテストはゴミか？)」です。
+> 
+> 4月にRuby on Rails の創始者DHHが "TDD is died"
+> というブログを公開してから、TDDの意味や範囲について多くの議論が巻き起こっています。指摘されているTDDの問題とは何か、DHHのブログが参照している
+> "Unit Testing is waste." の著者である Jim Coplien
+> さんと議論してみたいと思います。(なお、ゲストに配慮し、主に英語で話します。通訳はいません。)
+> http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+> 
+> スクラム道場は、Scrumを中心にアジャイルについて探究するための場です。明日からより上手く実践できる事を目的として、毎回、参加者と共に一つのテーマを徹底的に議論をする形式で進めます。はじめに読み手が15分ほど議論のネタになる話をして、その後の90分以上を参加者と講師など全員でディスカッションをする進め方が特徴です。
+> 注意) 議論が中心のため、スクラムについての初歩的な説明などはありませんのでご理解ください。
+}}
+{{mail(kawaguti@gmail.com,1401757800)
+川口です。
+
+　いただいた修正を反映して、イベント公開しました。
+　　http://taoofscrum.doorkeeper.jp/events/12131
+
+
+　>>開場の時間とかが書いてあるとうれしいです。
+　何時って書けばいいのかわからないのでいったん保留で...
+
+　>>ドアキ関係無いかもしれませんが、
+　>>進め方は、会場から質問を受けて、Copeが答える感じで進めるのでしょうか？
+　だいたい道場スタイルと思っていますが、Copeが答えることが多くなる気がします。
+
+　>>通訳なしなので、全部英語にしてしまって良いと思います。
+　手間が追いつかないので、いまのままで。
+
+　>>また、修正するでしょうが、締切が今のイベントページだと過ぎているので、当日の17時とかまでにしたらいかがでしょうか？
+　ぎゃ、日付指定するとデフォルト今日なのか...締め切りを変更しました。
+
+以上、ご指摘ありがとうございました！
+}}
+{{mail(changesworlds@gmail.com,1401764258)
+社内のネイティブにも紹介しました。そして、もしかして、スタッフは登録しなくてもよかったりします？
+
+iPhoneから送信
+
+2014/06/03 10:09、Yasunobu Kawaguchi <kawaguti@gmail.com> のメッセージ:
+
+> 川口です。
+> 
+> 　いただいた修正を反映して、イベント公開しました。
+> 　　http://taoofscrum.doorkeeper.jp/events/12131
+> 
+> 
+> 　>>開場の時間とかが書いてあるとうれしいです。
+> 　何時って書けばいいのかわからないのでいったん保留で...
+> 
+> 　>>ドアキ関係無いかもしれませんが、
+> 　>>進め方は、会場から質問を受けて、Copeが答える感じで進めるのでしょうか？
+> 　だいたい道場スタイルと思っていますが、Copeが答えることが多くなる気がします。
+> 
+> 　>>通訳なしなので、全部英語にしてしまって良いと思います。
+> 　手間が追いつかないので、いまのままで。
+> 
+> 　>>また、修正するでしょうが、締切が今のイベントページだと過ぎているので、当日の17時とかまでにしたらいかがでしょうか？
+> 　ぎゃ、日付指定するとデフォルト今日なのか...締め切りを変更しました。
+> 
+> 以上、ご指摘ありがとうございました！
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/95.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takaesu0@gmail.com,1401766445)
+スタッフの申し込み必要？
+
+申し込んじゃったけど。
+}}
+{{mail(changesworlds@gmail.com,1402005797)
+イベントページからもキャンセルしてますが、昨日から体調が優れないので、いけなくなりました。
+
+iPhoneから送信
+
+2014/05/23 8:14、Takao Kimura <kimura.kanataku@gmail.com> のメッセージ:
+
+> 英語わかんないけど、行きたい！
+> 
+> 2014年5月23日金曜日、Takuo Doi<takuo.doi@gmail.com>さんは書きました:
+>> 当日、調整できそうなので、何か関われたら嬉しいです。
+}}

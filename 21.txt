@@ -1,0 +1,359 @@
+* スクラム道場.08 資料レビューのお願い
+{{mail(ryuzee@gmail.com,1324681032)
+吉羽です。
+
+スクラム道場.08 Doneの定義の資料を作りました。
+お手数ですがレビューをお願いします。
+
+# http://dl.dropbox.com/u/428597/20111226_DefinitionOfDone.pdf
+
+議論を誘発するためにあえて細かいことをあんまり書いていないので
+つまらんかなぁ...
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(harada.kiro@gmail.com,1324692645)
+原田です。
+
+コメントします。
+
+- Done の定義は、チームのスキルセットそのものだったりするので、
+それを含めて、拡張していく話を入れときたい。
+
+- Potentially Shippable を作れるチームはほとんどないので、どうやって
+漸進的に DoD を拡張していくかというところがキモのような気がする。
+安定と改善のバランス。
+
+- その課程において役に立たないことがわかった DoD を廃止する、またはいちいち
+書く必要がなくなったものも書かなくする。それらと、DoD を縮小するという
+話は、ぜんぜん違うというところをどうやって説明するか？
+
+そんなあたりで。
+
+まあ、ぜんぶディスカッションのネタのような気もします。
+
+Merry Christmas.
+--
+原田騎郎
+
+
+
+2011年12月24日7:57 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> 吉羽です。
+>
+> スクラム道場.08 Doneの定義の資料を作りました。
+> お手数ですがレビューをお願いします。
+>
+> # http://dl.dropbox.com/u/428597/20111226_DefinitionOfDone.pdf
+>
+> 議論を誘発するためにあえて細かいことをあんまり書いていないので
+> つまらんかなぁ...
+>
+> --
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/21.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(ryuzee@gmail.com,1324693333)
+ありがとうございました！
+DoDは、色々考えたんですがコンテキストへの依存性が大きいですね。
+参加者には受託開発をやっている人が多いのでそちらに寄せて
+書いてあります。
+
+> - Done の定義は、チームのスキルセットそのものだったりするので、
+> それを含めて、拡張していく話を入れときたい。
+
+→一応最後から２枚目のところあたりで話す感じで。
+
+> - Potentially Shippable を作れるチームはほとんどないので、どうやって
+> 漸進的に DoD を拡張していくかというところがキモのような気がする。
+> 安定と改善のバランス。
+
+→これはどうしようかなぁ。
+　POや顧客との約束としてのDoD（＝最低限必要）なものと、
+　よりチームが成熟した場合のDoDは違うとは思ってますが、
+　うまく説明できる自信がないｗ
+　ただ、DoDは、ふりかえりで議論の対象になるべきポイントであるということと
+　プロセス改善によって更新されることは書いたので、あとは、当日のディスカッションかなぁ。
+
+> - その課程において役に立たないことがわかった DoD を廃止する、またはいちいち
+> 書く必要がなくなったものも書かなくする。それらと、DoD を縮小するという
+> 話は、ぜんぜん違うというところをどうやって説明するか？
+
+→荒ぶる四天王あたりでフォローかな。
+
+それでは、よいクリスマスを！
+
+> 2011年12月24日7:57 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> 吉羽です。
+>>
+>> スクラム道場.08 Doneの定義の資料を作りました。
+>> お手数ですがレビューをお願いします。
+>>
+>> # http://dl.dropbox.com/u/428597/20111226_DefinitionOfDone.pdf
+>>
+>> 議論を誘発するためにあえて細かいことをあんまり書いていないので
+>> つまらんかなぁ...
+>>
+>> --
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/21.html
+>> ML->  taoofscrum@qwik.jp
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1324716243)
+かわぐちです。
+
+　最後の一個前のスライドにある、
+　DoD と 受入条件( Acceptance Criteria) に関しての「定義の違い」って知ってますか～？
+　皆さんの実務上の違いはまあ、その場で議論すればいいんだけど、源流知っている方がいればぜひおしえ～て。
+
+　DoD は Scrum だよね。
+　　http://en.wikipedia.org/wiki/Scrum_(development)
+　　　The exit-criteria to determine whether a product backlog item is
+complete. In many cases the DoD requires that all regression tests
+should be successful.
+
+　　Potentially Shippable を決める条件リストとして説明されてる
+　　　http://www.scrumalliance.org/articles/105-what-is-definition-of-done-dod
+　　　http://www.scrumalliance.org/articles/106-definition-of-done-a-reference
+
+　じゃあ Acceptance Criteria という用語はどこからきたのか？
+　なんとなくPM方面かなとは思うんですけど。
+
+　ユーザーストーリーで Acceptance Test の条件を書くというのは、
+　Mike Cohrn の User Stories Applied にでてきます。
+
+　　Chapter.6 Acceptance Testing User Stories
+　　　テストすべき項目の備忘録をカードの裏に書く
+
+　　　　例: クレジットカードで支払う事ができる
+　　　　　・VISA、マスター、AMEXでテストする (Pass)
+　　　　　・ダイナーズでテストする (失敗)
+　　　　　・正規のカード番号、エラーな番号、存在しない番号でテストする
+　　　　　・期限切れカードでテストする
+　　　　　・数量の違う注文(カード上限を超えるものも含む)でテストする
+　　　　...このあと Fit/FitNesse でテストを書く話に進む
+
+
+　まあ、別に実務上はどうでもいいんですけど。
+
+2011年12月24日11:22 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> ありがとうございました！
+> DoDは、色々考えたんですがコンテキストへの依存性が大きいですね。
+> 参加者には受託開発をやっている人が多いのでそちらに寄せて
+> 書いてあります。
+>
+>> - Done の定義は、チームのスキルセットそのものだったりするので、
+>> それを含めて、拡張していく話を入れときたい。
+>
+> →一応最後から２枚目のところあたりで話す感じで。
+>
+>> - Potentially Shippable を作れるチームはほとんどないので、どうやって
+>> 漸進的に DoD を拡張していくかというところがキモのような気がする。
+>> 安定と改善のバランス。
+>
+> →これはどうしようかなぁ。
+> 　POや顧客との約束としてのDoD（＝最低限必要）なものと、
+> 　よりチームが成熟した場合のDoDは違うとは思ってますが、
+> 　うまく説明できる自信がないｗ
+> 　ただ、DoDは、ふりかえりで議論の対象になるべきポイントであるということと
+> 　プロセス改善によって更新されることは書いたので、あとは、当日のディスカッションかなぁ。
+>
+>> - その課程において役に立たないことがわかった DoD を廃止する、またはいちいち
+>> 書く必要がなくなったものも書かなくする。それらと、DoD を縮小するという
+>> 話は、ぜんぜん違うというところをどうやって説明するか？
+>
+> →荒ぶる四天王あたりでフォローかな。
+>
+> それでは、よいクリスマスを！
+>
+>> 2011年12月24日7:57 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>> 吉羽です。
+>>>
+>>> スクラム道場.08 Doneの定義の資料を作りました。
+>>> お手数ですがレビューをお願いします。
+>>>
+>>> # http://dl.dropbox.com/u/428597/20111226_DefinitionOfDone.pdf
+>>>
+>>> 議論を誘発するためにあえて細かいことをあんまり書いていないので
+>>> つまらんかなぁ...
+>>>
+>>> --
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/21.html
+>>> ML->  taoofscrum@qwik.jp
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/21.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+[PR] 10-11 Jan : (Osaka) Certified Product Owner course by James O. Coplien
+[PR] 12-13 Jan : (Tokyo) Certified Scrum Master course by James O. Coplien
+[PR] 16 Jan : (Tokyo) Scrum Fine Tuning by James O. Coplien
+jp.agilergo.com
+}}
+{{mail(kawaguti@gmail.com,1324716983)
+かわぐちです。
+
+　まあ、Acceptance Criteria 自体は、古来からある、一般用語だとは思うのですが。
+　PMBOKには、プロジェクトのスコープ宣言、というのをのっけてるみたいです。
+
+http://en.wikibooks.org/wiki/Project_Management/PMBOK/Quality_Management
+
+Project Scope Statement
+プロジェクトのスコープ宣言
+
+The project scope statement details the deliverables, objectives,
+thresholds and acceptance criteria that the project must meet. This
+makes it very important to quality planning.
+Acceptance criteria describe the requirements and conditions that must
+be achieved before deliverables will be accepted. If the deliverables
+satisfy the acceptance criteria, then the result is the customer's
+needs being met. The acceptance criteria can drastically increase or
+decrease the costs of project quality. In addition, the product scope
+statement may contain a scope description which contains issues that
+may affect quality planning.
+
+プロジェクトのスコープ宣言はプロジェクトが満たすべき納品物、目的、閾値を詳細に記述する。これは品質の計画にたいへん重要である。
+受け入れ条件は納品物の受け入れ前に達成すべき要求・条件を説明する。納品物が受け入れ条件を満たしているならば、その結果、顧客ニーズを満たしているトイウ事になる。受け入れ条件によってはプロジェクトの品質コストが劇的にあがったりさがったりする。また、プロジェクトのスコープ宣言は品質計画に影響する諸問題の説明を含む事がある。
+
+
+... なるほど。(あんまし興味がない)
+}}
+{{mail(nishimura@nawo.to,1324828495)
+In <CAAZd9aet4KunpJsKMgMKYw7M5GTQ=N1Bctg44Efwrx8KPFkurA@mail.gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> スクラム道場.08 Doneの定義の資料を作りました。
+> お手数ですがレビューをお願いします。
+
+レビューしたお。
+実例も書いてあって、良い資料だと思いました。
+
+もし間に合えばで一点だけ挙げるとしたら、Ryuzee 自身が DoD について大切に考えている事や工夫みたいなの
+が最後に前面に出てると良いと思いました。
+前回のバーンダウンの時だと、あれはカイゼンのインプットに使うんだぜみたいなやつ。
+}}
+{{mail(imagire@gmail.com,1324834385)
+今給黎です。
+
+資料読ませて頂きました。
+完了の定義の資料としては、具体的な例も示されていて、大変良いと感じました。
+
+感じたこととしては、ストーリー/スプリント単位/リリース単位でのDoneの定義を分けることは、
+あまり扱われないテーマに思ったので、なぜ分けたほうが良いのか、ということに関して
+もう少し説明があってもよいかと思いました（わざとかもしれませんが）。
+}}
+{{mail(kawaguti@gmail.com,1324844841)
+かわぐちです。
+
+　>>感じたこととしては、ストーリー/スプリント単位/リリース単位でのDoneの定義を分けることは、
+　>>あまり扱われないテーマに思ったので、なぜ分けたほうが良いのか、ということに関して
+　>>もう少し説明があってもよいかと思いました（わざとかもしれませんが）。
+
+　元ネタはこの辺の話ですよね。
+　　http://www.ryuzee.com/contents/blog/3285
+
+　元記事をちょっと訳しました。
+　　http://www.scrumalliance.org/articles/105-what-is-definition-of-done-dod
+
+　(翻訳ここから)
+　"DoD is informed by reality. (DoDは現実から得られる情報だ)"
+　スクラムではチームがスプリントの終わりで "potentially shippable software
+(潜在的に出荷可能なソフトウェア)"
+を出す事を求めている。私にとっては、それはリリース可能な機能のことだ。あまりはっきりと注意を呼びかけなくても、プロダクトオーナーの裁量でエンドユーザに提供する事ができるものだ。そのプロダクトを２日以内にエンドユーザに届ける事ができるなら、"potentially
+shippable"な状態である、としている。理想的には、"potentially shippable"
+が、完了の定義(DoD)と全く同じになる。
+
+実際、多くのチームは"potentially
+shippable"な状態に向かって仕事をしている。そういったチームは、完了の定義(DoD)を複数のレベルで持っているのではないだろうか。
+ - 機能の完了の定義 (ストーリー、または、プロダクトバックログ項目)
+ - スプリントの完了の定義 (スプリント内で開発される機能のセット)
+ - リリースの完了の定義 ( "potentially shippable" な状態 )
+
+それぞれの完了の定義(機能、スプリント、リリース)に影響する様々な要因があるのだが、究極的には、以下の質問に答えられれば完了と判断する。
+ - 各機能に関して、これ(テスト等)を実行することができるか？ (できないなら次の項目)
+ - 各スプリント(の成果物)に関して、これ(テスト等)を実行することができるか？  (できないなら次の項目)
+ - リリースにおいては、これ(テスト等)を、やらなきゃいけないよね!
+　(翻訳終わり)
+
+　つまり、そのタイムボックス内にできるかどうか、ということで、条件をふるいにかけているようです。
+　１番目はストーリーに裏書きするか、グランドルールにして、
+　２番目の質問以降はチケット化するんでしょうかね。
+}}

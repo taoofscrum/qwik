@@ -1,0 +1,391 @@
+* スクラム道Webサイト
+{{mail(ryuzee@gmail.com,1322808436)
+Ryuzeeです。
+
+スクラム道のWebサイトを現在製作中です。
+こういうのは勢いが大事ということで。
+
+現在仮ドメインで構築中です。
+http://taoofscrum.dyndns.org/contents/
+
+1) wordpressで構築していますが、更新や編集をしてくださる方
+　がいましたらアカウントをお渡しします。
+　ここに書くとqwikに記録が残ったりするので個別対応します。
+
+2) 気になることがあれば教えてください。またこういう風にしたら
+　 いいんじゃね？というのも大歓迎。
+
+3) ドメインについては現在taoofscrum.comという案がでています。
+　 それ以外の候補があれば提案してください。
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1322808928)
+In <4ED87471.4050406@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> 1) wordpressで構築していますが、更新や編集をしてくださる方
+> 　がいましたらアカウントをお渡しします。
+> 　ここに書くとqwikに記録が残ったりするので個別対応します。
+
+ほしいほしい。
+
+> 2) 気になることがあれば教えてください。またこういう風にしたら
+> 　 いいんじゃね？というのも大歓迎。
+
+ちょっと見てみました.....かっこいいじゃないかww
+Scrum Boot Camp の僕の回の資料が一つ足りてなかったよ。自分で直せって事だとは理解しているw
+あと、ワークショップ大戦....ww
+
+
+> 3) ドメインについては現在taoofscrum.comという案がでています。
+> 　 それ以外の候補があれば提案してください。
+
+昨日は .org がいいんじゃないって意見が出てたよ
+}}
+{{mail(ryuzee@gmail.com,1322809384)
+Ryuzeeです。
+
+>> 1) wordpressで構築していますが、更新や編集をしてくださる方
+>> 　がいましたらアカウントをお渡しします。
+>> 　ここに書くとqwikに記録が残ったりするので個別対応します。
+> 
+> ほしいほしい。
+
+→送ったよ
+
+>> 2) 気になることがあれば教えてください。またこういう風にしたら
+>> 　 いいんじゃね？というのも大歓迎。
+> 
+> ちょっと見てみました.....かっこいいじゃないかww
+> Scrum Boot Camp の僕の回の資料が一つ足りてなかったよ。自分で直せって事だとは理解しているw
+> あと、ワークショップ大戦....ww
+
+→BootCampの資料は、URLがスライドに自動変換されてなかったのでこっちで直した。
+　ワークショップ対戦は了解。
+
+>> 3) ドメインについては現在taoofscrum.comという案がでています。
+>> 　 それ以外の候補があれば提案してください。
+> 
+> 昨日は .org がいいんじゃないって意見が出てたよ
+
+→昨日URLにofが入るのって格好良くないね、という話も出た。
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1322889606)
+Ryuzeeです。
+
+> ちょっと見てみました.....かっこいいじゃないかww
+> Scrum Boot Camp の僕の回の資料が一つ足りてなかったよ。自分で直せって事だとは理解しているw
+> あと、ワークショップ大戦....ww
+
+ワークショップ対戦のコンテンツも作りました。
+http://taoofscrum.dyndns.org/contents/post/191
+カテゴリはとりあえず道場の中に入れておきました。
+確認よろしくです。
+
+>> 3) ドメインについては現在taoofscrum.comという案がでています。
+>> 　 それ以外の候補があれば提案してください。
+> 
+> 昨日は .org がいいんじゃないって意見が出てたよ
+
+URLにofを入れるってあんまりやらないって話もあるので
+いくつか提案しときます。
+
+(scrum-tao|scrumtao).(org|info|com)
+
+それ以外の話で以下が完了しとります。
+
+- ロゴ差し替え完了
+- 写真の拡大表示にLightbox使うようにしてみた
+- cssをいじくって見やすくした
+- 一部テンプレートに英語が残っていたのを日本語化
+- SEO対策でメタタグとか真面目に入れた
+- 問い合わせフォーム作った
+- サーバの提供でKDDIさんのロゴ入れた
+- テンプレートのソースをgithubに置いた
+
+
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1323054521)
+In <4ED9B182.7060009@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+>> あと、ワークショップ大戦....ww
+> 
+> ワークショップ対戦のコンテンツも作りました。
+> http://taoofscrum.dyndns.org/contents/post/191
+> カテゴリはとりあえず道場の中に入れておきました。
+> 確認よろしくです。
+
+ありがとう!! ちょっとだけ修正しました。
+カテゴリはどうしよう?
+カテゴリはスクラム道場、ScrumBootCamp、その他イベントにして、バーストとワークショップ大戦はその他に
+するとかどうだろう? 次回のバーストは、イベント名が変わりそうだしww
+
+>>> 3) ドメインについては現在taoofscrum.comという案がでています。
+>>> 　 それ以外の候補があれば提案してください。
+>
+> URLにofを入れるってあんまりやらないって話もあるので
+> いくつか提案しときます。
+> 
+> (scrum-tao|scrumtao).(org|info|com)
+
+いや、結構 taoofxxxx って海外のサイトではあんのよ。
+
+- http://the.taoofmac.com # the カッコイイなww
+- http://www.taobackup.com/
+- http://taoofjournalism.org/
+
+で、スクラム道は、いつか SA 認定コミュニティにしたいんだけど、その時には英語名(Tao Of Scrum)に沿った
+URL にしときたいなーっと思いました。
+
+TLD はなんでもいいかなー? jp とかなら日本のコミュニティって分かりやすいけど高いしね。
+それ以外なら org が普通な気がする。
+}}
+{{mail(ryuzee@gmail.com,1323055031)
+Ryuzeeです
+
+> ありがとう!! ちょっとだけ修正しました。
+> カテゴリはどうしよう?
+> カテゴリはスクラム道場、ScrumBootCamp、その他イベントにして、バーストとワークショップ大戦はその他に
+> するとかどうだろう? 次回のバーストは、イベント名が変わりそうだしww
+
+→その他のイベントにしよっか。
+　トップの下の部分を３つに分けているのでそれに合わせたほうがいいだろう。
+
+> で、スクラム道は、いつか SA 認定コミュニティにしたいんだけど、その時には英語名(Tao Of Scrum)に沿った
+> URL にしときたいなーっと思いました。
+> 
+> TLD はなんでもいいかなー? jp とかなら日本のコミュニティって分かりやすいけど高いしね。
+> それ以外なら org が普通な気がする。
+
+→なるほど。じゃあ
+　taoofscrum.orgでいっか。
+　残金があるはずなので、取得してもらえるとうれしいけど、
+　こっちで立替でやっても良いです。
+　ナヲトさんがやってくれる場合は、
+　DNSの設定で、ドメインを27.34.160.183に向けてください。
+　お名前.comなら980円ｗ
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1323057146)
+In <4EDC37B2.1070303@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+>> で、スクラム道は、いつか SA 認定コミュニティにしたいんだけど、その時には英語名(Tao Of Scrum)に沿った
+>> URL にしときたいなーっと思いました。
+> 
+> →なるほど。じゃあ
+> 　taoofscrum.orgでいっか。
+
+それじゃ taoofscrum.org で行きましょう。
+夕方ぐらいに僕の方で作業しようと思いますので、それはイヤだなーって人は言ってください。
+}}
+{{mail(ryuzee@gmail.com,1323066317)
+サイトがオープンされました。
+
+http://www.taoofscrum.org
+
+宣伝活動よろしくお願いします。
+
+引き続きコンテンツ案や指摘事項があれば是非。
+
+ちなみにせっかくドメイン取れたのでスタッフ用の
+メアドを発行したいなぁと思ったりしてます。
+
+(11/12/05 12:52), Nishimura Naoto wrote:
+> In<4EDC37B2.1070303@gmail.com>,
+> Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+> 
+>>> で、スクラム道は、いつか SA 認定コミュニティにしたいんだけど、その時には英語名(Tao Of Scrum)に沿った
+>>> URL にしときたいなーっと思いました。
+>>
+>> →なるほど。じゃあ
+>> 　taoofscrum.orgでいっか。
+> 
+> それじゃ taoofscrum.org で行きましょう。
+> 夕方ぐらいに僕の方で作業しようと思いますので、それはイヤだなーって人は言ってください。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(qooh0.info@gmail.com,1323067439)
+海江田です。
+
+よしばさん、お疲れ様でした。
+
+--
+kaieda
+}}
+{{mail(takaesu0@gmail.com,1323076154)
+お疲れ様でした！
+
+スタッフ用のメアドいいっすねぇ。
+}}
+{{mail(takubon@kanataku.com,1323121877)
+木村＠たくぼんです。
+
+返信遅くなりました。
+
+1) wordpressで構築していますが、更新や編集をしてくださる方
+　がいましたらアカウントをお渡しします。
+　ここに書くとqwikに記録が残ったりするので個別対応します。
+
+ー＞下さい。
+
+
+
+(2011年12月05日 18:09), Makoto Takaesu wrote:
+
+> お疲れ様でした！
+>
+> スタッフ用のメアドいいっすねぇ。
+>
+}}
+{{mail(ryuzee@gmail.com,1323124188)
+Ryuzeeです。
+
+いま個別にメール送りました。
+
+(11/12/06 6:51), takubon@kanataku.com wrote:
+> 木村＠たくぼんです。
+> 
+> 返信遅くなりました。
+> 
+> 1) wordpressで構築していますが、更新や編集をしてくださる方
+> 　がいましたらアカウントをお渡しします。
+> 　ここに書くとqwikに記録が残ったりするので個別対応します。
+> 
+> ー＞下さい。
+> 
+> 
+> 
+> (2011年12月05日 18:09), Makoto Takaesu wrote:
+> 
+>> お疲れ様でした！
+>>
+>> スタッフ用のメアドいいっすねぇ。
+>>
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1323182959)
+高江洲です。
+
+> 木村＠たくぼんです。
+>
+> 返信遅くなりました。
+>
+> 1) wordpressで構築していますが、更新や編集をしてくださる方
+> 　がいましたらアカウントをお渡しします。
+> 　ここに書くとqwikに記録が残ったりするので個別対応します。
+>
+> ー＞下さい。
+
+おいらもー。
+}}
+{{mail(ryuzee@gmail.com,1323183425)
+いま個別メールで送りました。
+
+劉爺
+
+(11/12/06 23:49), Makoto Takaesu wrote:
+> 高江洲です。
+> 
+>> 木村＠たくぼんです。
+>>
+>> 返信遅くなりました。
+>>
+>> 1) wordpressで構築していますが、更新や編集をしてくださる方
+>> 　がいましたらアカウントをお渡しします。
+>> 　ここに書くとqwikに記録が残ったりするので個別対応します。
+>>
+>> ー＞下さい。
+> 
+> おいらもー。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}

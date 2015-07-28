@@ -1,0 +1,20 @@
+* スクラム道のサイトをスマホ対応してみた
+{{mail(ryuzee@gmail.com,1335172116)
+劉爺です。
+コンテンツいじくるついでに、スクラム道のサイトをスマホ対応しました。
+スマホだと同じURLで専用画面で見れます。
+http://www.taoofscrum.org/
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}

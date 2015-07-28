@@ -1,0 +1,34 @@
+* Menu
+- [[FrontPage]]
+- [[ScrumDojo]]
+- [[ScrumBootCamp]]
+- [[WorkshopWars]]
+- [[MLの参加方法|JoinUs]]
+
+* トピック
+
+- [[ScrumdoGathering]] '''HOT'''
+- [[LocalAreaWithUs]]
+- [[FutureEvents]]
+- [[JobBoard]]
+
+* 運営
+
+- [[StaffMeetup]]
+- [[おこづかい帳]]
+
+* その他
+- [[StudyingQwik]]
+- [[TitleList]]
+- [[RecentList]]
+- [[TextFormat]]
+
+{{side_search_form}}
+
+#{{side_plan}}
+#{{plan}}
+
+{{side_recent(10)}}
+
+{{rss}}
+#{{atom}}

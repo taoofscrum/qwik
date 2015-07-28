@@ -1,0 +1,58 @@
+* FrontPage
+
+[[スクラム道|http://qwik.jp/taoofscrum/FrontPage.download/scrumdo-m.png]]
+
+* スクラム道とは
+
+スクラム道は、Scrumを中心にアジャイル開発を探究するための場です。
+継続的に、みんなで教えあい、議論しあう事でお互いを切磋琢磨し、そこからアジャイル開発を上手く実践できる現場を増やす事を目的にしています。
+
+- 発起人: [[@ebacky_ja|http://twitter.com/ebacky_ja]], [[@nawoto|http://twitter.com/nawoto]], [[@ryuzee|http://twitter.com/ryuzee]]
+- Product Owner: [[@nawoto|http://twitter.com/nawoto]]
+- Scrum Master: [[@ryuzee|http://twitter.com/ryuzee]]
+- 公式ページ: [[http://www.facebook.com/TaoOfScrum]]
+- 公式Twitterアカウント: [[@tao_of_scrum|http://twitter.com/tao_of_scrum]]
+- 公式ハッシュタグ: [[#scrumdo|http://twitter.com/#!/search?q=%23scrumdo]]
+
+* このサイトは
+
+スクラム道の運営に関するやり取りを公開しています。
+公式ページは [[Facebook|http://www.facebook.com/TaoOfScrum]]ですが、それを補完する情報(各イベントのまとめなど)も掲載していく予定です。
+
+* スクラム道に参加したい!!
+
+Scrum を始めとするアジャイル開発に興味のある人であれば、どなたでも歓迎します。
+スクラム道では継続的に以下の二つの勉強会を開催していますので、まずはお気軽にご参加ください。
+
+** スクラム道場
+
+自分の現場で Scrum やアジャイル手法を実践している人向けの勉強会です。
+毎回、ひとつのプラクティスなどをテーマに他の人が実際どうやっているかや悩んでいる事を参加者と一緒に相談・議論し、より上手く自分の現場で実践できる事を目的としています。
+Twitter 上では [[#scrumdo|http://twitter.com/#!/search?q=%23scrumdo]] で開催情報などを追うことができます。
+
+また、今後、広い会場で開催する場合には、議論を観戦する観客制を導入したいと思います。どういった議論をしているか気になる方や議論の中から何か学びたい人の参加もお待ちしています。
+
+- [[ScrumDojo]]
+
+** Scrum Boot Camp
+
+自分の現場で Scrum を始めたい or 始めているがよく分かっていない人や体系的に学びたいが認定スクラムマスター研修は会社では受けられない人向けの勉強会。
+Scrum の基礎を丸一日かけて丁寧に学ぶ事を目的としています。
+Twitter 上では  [[#scrumdo|http://twitter.com/#!/search?q=%23scrumdo]] や  [[#scrumbc|http://twitter.com/#!/search?q=%23scrumbc]] で開催情報などを追う事ができます。
+
+- [[ScrumBootCamp]]
+
+** これからScrumを始める方へ
+
+まず [[ScrumBootCamp]] への参加をお勧めします。
+丸一日かけて、Scrumの全体像や各プラクティスのやり方について丁寧に学べます。
+それを元にぜひ現場で実践してみてください。
+そして、自分なりに気付いた事や悩みがあれば、次はぜひ [[スクラム道場]]に来てください。
+より上手く実践するために、ノウハウを共有したり、悩みをみんなで相談しましょう!!
+
+* スクラム道の運営を手伝いたい!!
+
+メール一通書くだけで、今日からあなたもスクラム道スタッフだ!!
+スクラム道は、あなたの助けを必要としています!!
+
+詳しくは、[[スタッフ希望]]を見てください。

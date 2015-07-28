@@ -1,0 +1,2024 @@
+* スタッフ希望
+
+運営をお手伝いしていただける方を随時募集しております。
+手伝ってもいいよって方は、まずはメーリングリストに参加してください。
+以下のようなメールを一通書くだけです。
+
+ To: taoofscrum あっと qwik.jp
+ CC: tao.of.scrum あっと gmail.com
+ Subject: スタッフ希望
+ Body: 自己紹介とかとか
+
+** スタッフ特典
+
+- 各勉強会に申し込み無しで参加できます
+- [[スタッフミーティング]]に参加できます
+- [[スクラム道場ネタ出し]]に好きな事が書けます
+- スクラム界隈に生息している現役のコーチや実践者たちとしょっちゅう==酒を飲めます==情報交換や相談ができます
+- [[スクラム道場]]の読み手に優先的になれます
+- Wiki を自由に編集できます
+- あとで考える
+
+** 注意
+メール本文（シグネチャも含む）の個人情報にお気をつけ下さい。
+メールアドレスはエスケープされますが、電話番号等はそのまま掲載されます。
+
+{{mail(hdkworks@gmail.com,1311560085)
+皆様
+
+はじめまして。田中秀樹と言います。
+＃　かわぐちさんに、お願いしてこちらをご紹介いただきました。
+＃　個人的な活動ですので、個人のアカウントから失礼します。
+
+現在は、グリーに所属しておりますが、つい先日までは、
+会場候補でも話題になったNIIにて、edubase関連の仕事をしておりました。
+その前は、、、というと、かなりいろいろとありまして、
+http://d.hatena.ne.jp/hdkworks/about
+あたりに手短にまとめておりますので、お時間あるときにでも
+読んでいただけると助かります。
+勉強会関連ですと、今年の４月に、情報処理学会学会誌で
+「全国技術系勉強会マップ」を企画し、まとめました。
+http://d.hatena.ne.jp/hdkworks/20110417
+
+どこまで皆さんのお役に立てるか、少々自信のないところもございますが、
+ベストエフォートで関わらせていただければと思っておりますので、
+よろしくお願いいたします。
+
+
+-- 
+------
+Hideki Tanaka
+e-mail:hdkworks@gmail.com
+mobile:080-...
+
+HDKWORKS BLOG
+ http://d.hatena.ne.jp/hdkworks/
+}}
+{{mail(kawaguti@gmail.com,1311560475)
+かわぐちです。
+
+　田中さん、ようこそ～。
+　スクラム適用上のお悩みとかありましたら、きがついたとこからどんどん話題提供お願いいたします～。
+
+　スタッフミーティングと、次回のスクラム道の日程の説明を、どなたにお願いしたく。
+
+
+2011年7月25日11:14 Hideki Tanaka <hdkworks@gmail.com>:
+> ML: taoofscrum@qwik.jp
+> New Member: hdkworks@g...
+>
+> 皆様
+>
+> はじめまして。田中秀樹と言います。
+> ＃　かわぐちさんに、お願いしてこちらをご紹介いただきました。
+> ＃　個人的な活動ですので、個人のアカウントから失礼します。
+>
+> 現在は、グリーに所属しておりますが、つい先日までは、
+> 会場候補でも話題になったNIIにて、edubase関連の仕事をしておりました。
+> その前は、、、というと、かなりいろいろとありまして、
+> http://d.hatena.ne.jp/hdkworks/about
+> あたりに手短にまとめておりますので、お時間あるときにでも
+> 読んでいただけると助かります。
+> 勉強会関連ですと、今年の４月に、情報処理学会学会誌で
+> 「全国技術系勉強会マップ」を企画し、まとめました。
+> http://d.hatena.ne.jp/hdkworks/20110417
+>
+> どこまで皆さんのお役に立てるか、少々自信のないところもございますが、
+> ベストエフォートで関わらせていただければと思っておりますので、
+> よろしくお願いいたします。
+>
+>
+> --
+> ------
+> Hideki Tanaka
+> e-mail:hdkworks@gmail.com
+> mobile:080-...
+>
+> HDKWORKS BLOG
+>  http://d.hatena.ne.jp/hdkworks/
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+> ML-> taoofscrum@qwik.jp
+>
+> How to unsubscribe from the ML:
+> - Just send an empty message to <taoofscrum@qwik.jp>.
+> - Alternatively, if you cannot send an empty message for some reason,
+>  please send a message just saying 'unsubscribe' to <taoofscrum@qwik.jp>.
+>  (e.g., hotmail's advertisement, signature, etc.)
+>
+> Members of <taoofscrum@qwik.jp>:
+> n-nishimura@e...
+> nishimura@n...
+> ryuzee@g...
+> emerson.mills@g...
+> imagire@g...
+> tao.of.scrum@g...
+> takahashi.kazuyoshi@g...
+> k-chiba@e...
+> qooh0.info@g...
+> kawaguti@g...
+> op.homata@g...
+> kazeeechi@g...
+> takubon@k...
+> miholovesq@g...
+> couger@k...
+> sarastier@g...
+> chuchung@m...
+> takaesu0@g...
+> b.takashi@g...
+> coolgirltoboy@g...
+> mochi.hiro43@g...
+> harada.kiro@g...
+> hdkworks@g...
+>
+}}
+{{mail(nishimura@nawo.to,1311573745)
+> 2011年7月25日11:14 Hideki Tanaka <hdkworks@gmail.com>:
+>> はじめまして。田中秀樹と言います。
+
+はじめまして、田中さん。
+スタッフ参加ありがとうございます。
+スクラム道の PO をやっている西村と申します。
+
+>> ＃　かわぐちさんに、お願いしてこちらをご紹介いただきました。
+>> ＃　個人的な活動ですので、個人のアカウントから失礼します。
+
+大丈夫です。みんな個人的な活動だったりしますww
+
+>> http://d.hatena.ne.jp/hdkworks/about
+>> あたりに手短にまとめておりますので、お時間あるときにでも
+>> 読んでいただけると助かります。
+
+す、すごいですね。
+
+>> どこまで皆さんのお役に立てるか、少々自信のないところもございますが、
+>> ベストエフォートで関わらせていただければと思っておりますので、
+>> よろしくお願いいたします。
+
+いえいえ、コミュニティ活動なんでみんなベストエフォートな感じでやってます。
+こちらこそ宜しくお願い致します。
+
+2011/7/25 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> 　スタッフミーティングと、次回のスクラム道の日程の説明を、どなたにお願いしたく。
+
+直近だと 7/30 の [[ScrumBootCamp]] だけど、当日スタッフは会場の都合上事前申請だったね。
+その次だと、[[ScrumDojo07]] か開催日未定の [[スタッフミーティング]] かな??
+スクラム道って何よっていう説明も兼ねた歓迎会とかやりたいね
+}}
+{{mail(takaesu0@gmail.com,1311583646)
+高江洲です。
+
+＞田中さん
+よろしくお願いします。
+
+> スクラム道って何よっていう説明も兼ねた歓迎会とかやりたいね
+
+都合が合えばいつでもどこでもいきますよ。
+
+2011年7月25日15:02 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> 2011年7月25日11:14 Hideki Tanaka <hdkworks@gmail.com>:
+>>> はじめまして。田中秀樹と言います。
+>
+> はじめまして、田中さん。
+> スタッフ参加ありがとうございます。
+> スクラム道の PO をやっている西村と申します。
+>
+>>> ＃　かわぐちさんに、お願いしてこちらをご紹介いただきました。
+>>> ＃　個人的な活動ですので、個人のアカウントから失礼します。
+>
+> 大丈夫です。みんな個人的な活動だったりしますww
+>
+>>> http://d.hatena.ne.jp/hdkworks/about
+>>> あたりに手短にまとめておりますので、お時間あるときにでも
+>>> 読んでいただけると助かります。
+>
+> す、すごいですね。
+>
+>>> どこまで皆さんのお役に立てるか、少々自信のないところもございますが、
+>>> ベストエフォートで関わらせていただければと思っておりますので、
+>>> よろしくお願いいたします。
+>
+> いえいえ、コミュニティ活動なんでみんなベストエフォートな感じでやってます。
+> こちらこそ宜しくお願い致します。
+>
+> 2011/7/25 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>>　 スタッフミーティングと、次回のスクラム道の日程の説明を、どなたにお願いしたく。
+>
+> 直近だと 7/30 の [[ScrumBootCamp]] だけど、当日スタッフは会場の都合上事前申請だったね。
+> その次だと、[[スクラム道場.07]] か開催日未定の [[スタッフミーティング]] かな??
+> スクラム道って何よっていう説明も兼ねた歓迎会とかやりたいね
+>
+}}
+{{mail(hdkworks@gmail.com,1311613222)
+皆様
+
+田中秀樹です。
+まったくもって不慣れなもので、ご迷惑をおかけするかもしれませんが、
+まずは、スタッフミーティングなどで、ご挨拶からはじめさせていただければと、、、
+
+よろしくお願いいたします！
+
+
+
+2011年7月25日17:47 Makoto Takaesu <takaesu0@gmail.com>:
+> 高江洲です。
+>
+> ＞田中さん
+> よろしくお願いします。
+>
+>> スクラム道って何よっていう説明も兼ねた歓迎会とかやりたいね
+>
+> 都合が合えばいつでもどこでもいきますよ。
+>
+> 2011年7月25日15:02 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>>> 2011年7月25日11:14 Hideki Tanaka <hdkworks@gmail.com>:
+>>>> はじめまして。田中秀樹と言います。
+>>
+>> はじめまして、田中さん。
+>> スタッフ参加ありがとうございます。
+>> スクラム道の PO をやっている西村と申します。
+>>
+>>>> ＃　かわぐちさんに、お願いしてこちらをご紹介いただきました。
+>>>> ＃　個人的な活動ですので、個人のアカウントから失礼します。
+>>
+>> 大丈夫です。みんな個人的な活動だったりしますww
+>>
+>>>> http://d.hatena.ne.jp/hdkworks/about
+>>>> あたりに手短にまとめておりますので、お時間あるときにでも
+>>>> 読んでいただけると助かります。
+>>
+>> す、すごいですね。
+>>
+>>>> どこまで皆さんのお役に立てるか、少々自信のないところもございますが、
+>>>> ベストエフォートで関わらせていただければと思っておりますので、
+>>>> よろしくお願いいたします。
+>>
+>> いえいえ、コミュニティ活動なんでみんなベストエフォートな感じでやってます。
+>> こちらこそ宜しくお願い致します。
+>>
+>> 2011/7/25 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>>>　 スタッフミーティングと、次回のスクラム道の日程の説明を、どなたにお願いしたく。
+>>
+>> 直近だと 7/30 の [[ScrumBootCamp]] だけど、当日スタッフは会場の都合上事前申請だったね。
+>> その次だと、[[スクラム道場.07]] か開催日未定の [[スタッフミーティング]] かな??
+>> スクラム道って何よっていう説明も兼ねた歓迎会とかやりたいね
+>>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+> ML-> taoofscrum@qwik.jp
+>
+
+
+
+-- 
+------
+Hideki Tanaka
+e-mail:hdkworks@gmail.com
+mobile:080-...
+
+HDKWORKS BLOG
+ http://d.hatena.ne.jp/hdkworks/
+}}
+{{mail(changesworlds@gmail.com,1312124752)
+スクラム道の皆様
+
+いつも大変お世話になっております。
+ちぇんわ(@changeworlds)こと竹林崇と申します。
+
+7/30はScrum Boot Campに参加させていただき、ありがとうございました。
+@amameciさんに感想を話している際にお願いをしてご紹介していただきました。
+
+CSMもCSPも持っておらず、どこまで皆さんのお役に立てるか、
+気になるところではございますが、出来る範囲でお手伝い出来ればと思っております。
+
+よろしくお願い致します。
+}}
+{{mail(nishimura@nawo.to,1312181614)
+In <CAB7kFHO_rU-90xk3aHLLG3B9EizOe25NwdosxictkE7Z=9r6MQ@mail.gmail.com>,
+Takashi Takebayashi <changesworlds@gmail.com> wrote:
+
+> いつも大変お世話になっております。
+> ちぇんわ(@changeworlds)こと竹林崇と申します。
+
+おー、ようこそ!!
+
+> CSMもCSPも持っておらず、どこまで皆さんのお役に立てるか、
+> 気になるところではございますが、出来る範囲でお手伝い出来ればと思っております。
+
+こちらこそよろしくお願いします。
+そこら辺はあまり関係無いので、大丈夫でーす。
+
+注意点とかあるとすれば、これぐらいか??
+
+- ML に投稿したメールは公開されます
+- qwik に移行したので [[qwikの使い方]] を読んでもらえると嬉しい
+
+http://qwik.jp/taoofscrum/StudyingQwik.html
+
+実は、新しいスタッフの受け入れのために何も用意とかしていなかったりするので、逆にこういうところを詳し
+く説明してほしいとかあったら教えてください。
+}}
+{{mail(changesworlds@gmail.com,1312286971)
+> そこら辺はあまり関係無いので、大丈夫でーす。
+
+ありがとうございます。
+
+> 実は、新しいスタッフの受け入れのために何も用意とかしていなかったりするので、逆にこういうところを詳し
+> く説明してほしいとかあったら教えてください。
+
+FrontPage、スクラム道場、Scrum Boot
+Campを見ても分からず、@amameciさんに聞いてスタッフ希望のページにたどり着けたので、スタッフ希望のページをmenuに追記しておいた方が良いと思いました。
+ということでものは試しに記載してみます。
+あまりメニューに表示されない方がいい場合はレスください。
+}}
+{{mail(changesworlds@gmail.com,1312287216)
+> FrontPage、スクラム道場、Scrum Boot
+> Campを見ても分からず、@amameciさんに聞いてスタッフ希望のページにたどり着けたので、スタッフ希望のページをmenuに追記しておいた方が良いと思いました。
+
+FrontPageの一番下に書いてあることに気づいたので、menuへの追記やめておきます。
+一番下まで見ればあったんですね…失礼致しました。
+}}
+{{mail(nishimura@nawo.to,1312297636)
+In <CAB7kFHPfjFRwZmo9hu-7jJnwHankaE6aXNJBxPXeqArzrvK1UQ@mail.gmail.com>,
+Takashi Takebayashi <changesworlds@gmail.com> wrote:
+
+>> FrontPage、スクラム道場、Scrum Boot
+>> Campを見ても分からず、@amameciさんに聞いてスタッフ希望のページにたどり着けたので、スタッフ希望のページをmenuに追記しておいた方が良いと思いました。
+> 
+> FrontPageの一番下に書いてあることに気づいたので、menuへの追記やめておきます。
+> 一番下まで見ればあったんですね…失礼致しました。
+
+いやいや、ふつうに分かりやすい方がいいのでメニューに追記してみたよww
+
+よし、他の質問カモンww
+}}
+{{mail(uedayo@gmail.com,1324916680)
+はじめまして。
+愛犬の豆柴が普通の柴犬に育ってしまった上田佳典(@uedayo)です。
+
+ざっとスクラム関係の経歴を記載させて頂きます。
+2011年1月にメンバーとしてスクラムデビュー。
+2011年4月にはポチ http://po-chi.jp/ をリリース、2011年8月にはYukarin'Note
+https://yukar.in/ をリリースしました。
+10月にはCSMを取得し、現在は社内向けのRedmine Plugin開発と新規ソーシャルサービスの2つのプロジェクトのスクラムマスターを行なっております。
+
+まだまだ経験が浅い私ですが、スクラム道のスタッフという立場を通して日本のスクラム界隈を盛り上げていきたいと思っております。
+よろしくお願いいたします。
+
+Twitter http://twitter.com/#!/uedayo
+Facebook http://www.fb.me/yoshinori.ueda
+}}
+{{mail(nishimura@nawo.to,1325600708)
+上田さん、
+
+スタッフにようこそ!! and あけましておめでとう!!
+いやー、久々の新スタッフめでたいww
+
+スクラム道の紹介などは新年会(一月スタッフミーティング)でやりましょう。
+そろそろ、いい加減にスクラム道のインセプションデッキも書くかのー。
+}}
+{{mail(takaesu0@gmail.com,1325651402)
+あけましておめでとうございます！
+
+高江洲です。
+
+初めての西大井仲間なのでいろいろとお願いします！
+
+＃仕事のお手伝いのほうも何かあればｗ
+
+> はじめまして。
+> 愛犬の豆柴が普通の柴犬に育ってしまった上田佳典(@uedayo)です。
+>
+> ざっとスクラム関係の経歴を記載させて頂きます。
+> 2011年1月にメンバーとしてスクラムデビュー。
+> 2011年4月にはポチ http://po-chi.jp/ をリリース、2011年8月にはYukarin'Note
+> https://yukar.in/ をリリースしました。
+> 10月にはCSMを取得し、現在は社内向けのRedmine Plugin開発と新規ソーシャルサービスの2つのプロジェクトのスクラムマスターを行なっております。
+>
+> まだまだ経験が浅い私ですが、スクラム道のスタッフという立場を通して日本のスクラム界隈を盛り上げていきたいと思っております。
+> よろしくお願いいたします。
+}}
+{{mail(uedayo@gmail.com,1325675826)
+上田です。
+みなさま、あけましておめでとうございます。
+2012年、よろしくお願いいたします。
+
+＞スクラム道の紹介などは新年会(一月スタッフミーティング)でやりましょう。
+スタッフミーティング楽しみです。
+ご紹介、よろしくおねがいします！
+
+＞そろそろ、いい加減にスクラム道のインセプションデッキも書くかのー。
+エレベーターピッチの「〇〇と違って」の部分が気になります(笑)
+
+＞初めての西大井仲間なのでいろいろとお願いします！
+いつか、高江洲さん宅から西大井界隈を一望したいです！！
+
+若輩者でございますが、もっともっとスクラムを広げていきたいです。
+よろしくお願い致します！
+}}
+{{mail(takaesu0@gmail.com,1325676967)
+高江洲です。
+
+> ＞そろそろ、いい加減にスクラム道のインセプションデッキも書くかのー。
+> エレベーターピッチの「〇〇と違って」の部分が気になります(笑)
+
+そこはすくすく先輩なんじゃないすかねぇ。
+
+> ＞初めての西大井仲間なのでいろいろとお願いします！
+> いつか、高江洲さん宅から西大井界隈を一望したいです！！
+
+ぜひ！！
+}}
+{{mail(yohhatu@gmail.com,1328252217)
+ スクラム道の皆様
+
+いつもお世話になっております、中村 洋(@yohhatu)です。
+
+普段の皆さんの発信や活動から多くのことを得ております。
+ありがとうございます。
+
+少しでもそういう活動のお手伝いができればと思い、メールいたしました。
+＃2年ほどScrumをチームでやって来て、CSMを取ったのもきっかけではありますが。
+
+普段は大阪にいますので、地理的にどこまでお手伝いできるか分かりませんが、よろしくお願いいたします。
+＃現在の所属会社は会場などの提供もしやすい環境かと思いますので、そういう機会があればお声がけいただければ幸いです
+
+失礼します。
+}}
+{{mail(harada.kiro@gmail.com,1328274865)
+いらっしゃいませ。
+
+二人目の関西メンバーだ。
+いっつも東京は地理的に大変なので、関西でも何かやりましょう。
+
+できれば、「たぬき」なみのぐだぐだできる拠点が関西にもほしいなぁ。
+
+よろしくお願いします。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2012年2月3日15:56 中村洋 <yohhatu@gmail.com>:
+> 　スクラム道の皆様
+>
+> 　いつもお世話になっております、中村　洋(@yohhatu)です。
+>
+> 　普段の皆さんの発信や活動から多くのことを得ております。
+> 　ありがとうございます。
+>
+> 　少しでもそういう活動のお手伝いができればと思い、メールいたしました。
+> ＃2年ほどScrumをチームでやって来て、CSMを取ったのもきっかけではありますが。
+>
+> 　普段は大阪にいますので、地理的にどこまでお手伝いできるか分かりませんが、よろしくお願いいたします。
+> ＃現在の所属会社は会場などの提供もしやすい環境かと思いますので、そういう機会があればお声がけいただければ幸いです
+>
+> 　失礼します。
+}}
+{{mail(kawaguti@gmail.com,1328309435)
+中村さんこんにちは。
+
+　こちらでも、よろしくおねがいいたします～。
+　合言葉は「スクラム道をぶっこわせ！」でおねがいいたします。
+
+　アジャイルジャパンはちょっと大阪には行けそうにないのですが(東京は手伝うかも)、
+　個人的には、近いうちにまた、スクラムブートキャンプ的なものをできるといいなー、と思います。
+　お借りできる会議室があるといいのですが～。
+
+-- 
+[PR] 9-10 Apr : Leader's Workshop by Mary & Tom Poppendieck
+[PR] 29-31 Jun : Agile Testing course by Janet Gregory
+jp.agilergo.com
+}}
+{{mail(takubon@kanataku.com,1328322019)
+中村さん
+
+こちらこそ、よろしくお願いします。
+
+関西での活動が活発になりそうですね。
+}}
+{{mail(takaesu0@gmail.com,1328329309)
+高江洲です。
+
+中村さん、よろしくお願いします！
+
+関西行く機会も増えると嬉しいなー。
+}}
+{{mail(yohhatu@gmail.com,1328333415)
+ こんにちは、中村 洋です。
+
+＞かわぐちさん
+＞お借りできる会議室があるといいのですが～。
+
+弊社の会議室・セミナールームなら費用がかからずに使うことができます～(社員がいることが条件ですが)
+
+お気軽にお声がけください。
+
+2012年2月4日7:50 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+
+> 中村さんこんにちは。
+>
+> こちらでも、よろしくおねがいいたします～。
+> 合言葉は「スクラム道をぶっこわせ！」でおねがいいたします。
+>
+> アジャイルジャパンはちょっと大阪には行けそうにないのですが(東京は手伝うかも)、
+> 個人的には、近いうちにまた、スクラムブートキャンプ的なものをできるといいなー、と思います。
+> お借りできる会議室があるといいのですが～。
+>
+> --
+> [PR] 9-10 Apr : Leader's Workshop by Mary & Tom Poppendieck
+> [PR] 29-31 Jun : Agile Testing course by Janet Gregory
+> jp.agilergo.com
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(kawaguti@gmail.com,1328343153)
+かわぐちです。
+
+  素晴らしいです。
+  じゃあ早速日程調整しますか～。
+  ７月くらい？
+
+2012年2月4日土曜日 中村洋 yohhatu@gmail.com:
+> こんにちは、中村 洋です。
+> ＞かわぐちさん
+> ＞お借りできる会議室があるといいのですが～。
+>
+> 弊社の会議室・セミナールームなら費用がかからずに使うことができます～(社員がいることが条件ですが)
+> お気軽にお声がけください。
+>
+> 2012年2月4日7:50 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>>
+>> 中村さんこんにちは。
+>>
+>> こちらでも、よろしくおねがいいたします～。
+>> 合言葉は「スクラム道をぶっこわせ！」でおねがいいたします。
+>>
+>> アジャイルジャパンはちょっと大阪には行けそうにないのですが(東京は手伝うかも)、
+>> 個人的には、近いうちにまた、スクラムブートキャンプ的なものをできるといいなー、と思います。
+>> お借りできる会議室があるといいのですが～。
+>>
+>> --
+>> [PR] 9-10 Apr : Leader's Workshop by Mary & Tom Poppendieck
+>> [PR] 29-31 Jun : Agile Testing course by Janet Gregory
+>> jp.agilergo.com
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+>> ML-> taoofscrum@qwik.jp
+>
+>
+
+-- 
+[PR] 9-10 Apr : Leader's Workshop by Mary & Tom Poppendieck
+[PR] 29-31 Jun : Agile Testing course by Janet Gregory
+jp.agilergo.com
+}}
+{{mail(yohhatu@gmail.com,1328394078)
+　中村　洋です。
+
+> じゃあ早速日程調整しますか～。
+> ７月くらい？
+
+　とりあえず7月前後で空いている日を確認してみます。
+
+(2012/02/04 17:12), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 素晴らしいです。
+> じゃあ早速日程調整しますか～。
+> ７月くらい？
+> 
+> 2012年2月4日土曜日 中村洋 yohhatu@gmail.com <mailto:yohhatu@gmail.com>:
+>  > 　こんにちは、中村　洋です。
+>  > ＞かわぐちさん
+>  > ＞お借りできる会議室があるといいのですが～。
+>  >
+>  > 　弊社の会議室・セミナールームなら費用がかからずに使うことができま 
+> す～(社員がいることが条件ですが)
+>  > 　お気軽にお声がけください。
+>  >
+>  > 2012年2月4日7:50 Yasunobu Kawaguchi <kawaguti@gmail.com 
+> <mailto:kawaguti@gmail.com>>:
+>  >>
+>  >> 中村さんこんにちは。
+>  >>
+>  >> 　こちらでも、よろしくおねがいいたします～。
+>  >> 　合言葉は「スクラム道をぶっこわせ！」でおねがいいたします。
+>  >>
+>  >> 　アジャイルジャパンはちょっと大阪には行けそうにないのですが(東京は 
+> 手伝うかも)、
+>  >> 　個人的には、近いうちにまた、スクラムブートキャンプ的なものをできる 
+> といいなー、と思います。
+>  >> 　お借りできる会議室があるといいのですが～。
+>  >>
+>  >> --
+>  >> [PR] 9-10 Apr : Leader's Workshop by Mary & Tom Poppendieck
+>  >> [PR] 29-31 Jun : Agile Testing course by Janet Gregory
+>  >> jp.agilergo.com <http://jp.agilergo.com>
+>  >>
+>  >> --
+>  >> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+>  >> ML-> taoofscrum@qwik.jp <mailto:taoofscrum@qwik.jp>
+>  >
+>  >
+> 
+> -- 
+> [PR] 9-10 Apr : Leader's Workshop by Mary & Tom Poppendieck
+> [PR] 29-31 Jun : Agile Testing course by Janet Gregory
+> jp.agilergo.com <http://jp.agilergo.com>
+
+
+-- 
+**************************************
+     Name：Yoh Nakamura
+     Mail：yohhatu@gmail.com
+     TwitterID：@yohhatu
+**************************************
+}}
+{{mail(nishimura@nawo.to,1328578255)
+In <CALkfDYHmHjv95580QTU03_5N63t8CDqmU57aP+pMKOT1WXe_8A@mail.gmail.com>,
+中村洋 <yohhatu@gmail.com> wrote:
+
+> いつもお世話になっております、中村 洋(@yohhatu)です。
+
+おぉ、ようこそ!!
+
+> 普段は大阪にいますので、地理的にどこまでお手伝いできるか分かりませんが、よろしくお願いいたします。
+> ＃現在の所属会社は会場などの提供もしやすい環境かと思いますので、そういう機会があればお声がけいただ
+> ければ幸いです
+
+わりとオフラインで色々と決めてしまっている傾向があるので、ML でこういう情報を読みたい/やってほしいと
+かあれば、どんどん意見ください。
+
+あと定期ポストですが、スクラム道のMLはちょっと変わったやつを採用しているので、以下を読んでおいてもら
+うと良いかもしれません。> 新メンバー
+# 投稿した内容は全て公開されちゃいますww
+
+- [[qwikの使い方]] http://qwik.jp/taoofscrum/StudyingQwik.html
+}}
+{{mail(qooh0.info@gmail.com,1328585548)
+海江田です。
+
+> いつもお世話になっております、中村　洋(@yohhatu)です。
+
+はじめまして、中村さん。
+
+よろしうおねがいしま～す。
+
+--
+kaieda
+}}
+{{mail(masashi.arino@gmail.com,1331809417)
+スクラム道の方々へ
+
+ 
+
+はじめまして、有野（@inda_re）と申します。
+
+ 
+
+アジャイルサムライでアジャイルを知り、
+
+流れでスクラムに興味を持ち、とまだまだ勉強中の身です。
+
+ 
+
+あえてスタッフとして参加する事で、よりスクラムやアジャイルを知り、
+
+これからスクラムと出会う人の舗装役が出来ればと思い
+
+スタッフ希望に踏み切りました。
+
+ 
+
+出来る範囲でできることから手伝っていきたいと思いますので
+
+よろしくお願いいたします。
+
+}}
+{{mail(sarastier@gmail.com,1331810948)
+ようこそ～
+よろしくお願いします。
+}}
+{{mail(qooh0.info@gmail.com,1331824725)
+Welcome to Tao of Scrum!
+こんにちは、幽霊部員の海江田です。
+
+-- 
+kensuke
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1331862940)
+有野さん、こんにちは! 高橋(@kappa4)です。
+どうぞよろしくです!
+}}
+{{mail(takaesu0@gmail.com,1331987065)
+有野さん
+
+高江洲です。
+
+よろしくお願いしまーす。
+}}
+{{mail(takubon@kanataku.com,1332036268)
+有野さん
+
+木村(@tw_takubon)です。
+
+よろしくお願いします。
+今度、道場の話も聞かせて下さい。
+}}
+{{mail(high.end.threes@gmail.com,1332851116)
+はじめまして、松尾と申します。
+松元さんに誘われて、やっとメールする事ができました。
+
+スタッフとしてがんばっていきますので
+よろしくお願いします。
+}}
+{{mail(miholovesq@gmail.com,1332854644)
+お待ちしておりましたー！
+よろしくお願いします。
+}}
+{{mail(modalsoul0215@gmail.com,1338218369)
+先日5/23のスタッフミーティングにお邪魔させていただいた、今江です。
+
+先日お邪魔させていただいた際は、
+まったくのノープランの参加でほとんど棒立ち状態でしたが、
+何かスクラム道に貢献できればと思いメールさせていただきました。
+
+まだまだ学びも経験も未熟ですが、スタッフの活動を通して成長したいと思っています。
+よろしくお願いします。
+
+Twitter: http://twiter.com/#!/modal_soul
+Facebook: http://www.facebook.com/imae.masatoshi
+}}
+{{mail(takaesu0@gmail.com,1338219913)
+高江洲です。
+
+うぇるかむ！
+
+> 先日5/23のスタッフミーティングにお邪魔させていただいた、今江です。
+>
+> 先日お邪魔させていただいた際は、
+> まったくのノープランの参加でほとんど棒立ち状態でしたが、
+> 何かスクラム道に貢献できればと思いメールさせていただきました。
+>
+> まだまだ学びも経験も未熟ですが、スタッフの活動を通して成長したいと思っています。
+> よろしくお願いします。
+}}
+{{mail(masashi.arino@gmail.com,1338222183)
+有野(@inda_re)です。
+
+スタッフミーティング幽霊ですがよろしくお願いしますー。  
+
+--  
+Masashi Arino
+
+
+日付：2012年5月29日火曜日、時刻：0:19、差出人：Imae Masatoshi：
+
+> ML: taoofscrum@qwik.jp (mailto:taoofscrum@qwik.jp)
+> New Member: modalsoul0215@g...
+>  
+> 先日5/23のスタッフミーティングにお邪魔させていただいた、今江です。
+>  
+> 先日お邪魔させていただいた際は、
+> まったくのノープランの参加でほとんど棒立ち状態でしたが、
+> 何かスクラム道に貢献できればと思いメールさせていただきました。
+>  
+> まだまだ学びも経験も未熟ですが、スタッフの活動を通して成長したいと思っています。
+> よろしくお願いします。
+>  
+> Twitter: http://twiter.com/#!/modal_soul
+> Facebook: http://www.facebook.com/imae.masatoshi
+>  
+> --  
+> archive-> http://qwik.jp/taoofscrum/JoinUs.html  
+> ML-> taoofscrum@qwik.jp (mailto:taoofscrum@qwik.jp)
+>  
+> How to unsubscribe from the ML:
+> - Just send an empty message to <taoofscrum@qwik.jp (mailto:taoofscrum@qwik.jp)>.
+> - Alternatively, if you cannot send an empty message for some reason,
+> please send a message just saying 'unsubscribe' to <taoofscrum@qwik.jp (mailto:taoofscrum@qwik.jp)>.
+> (e.g., hotmail's advertisement, signature, etc.)
+>  
+> Members of <taoofscrum@qwik.jp (mailto:taoofscrum@qwik.jp)>:
+> n-nishimura@e...
+> nishimura@n...
+> ryuzee@g...
+> emerson.mills@g...
+> imagire@g...
+> tao.of.scrum@g...
+> takahashi.kazuyoshi@g...
+> k-chiba@e...
+> qooh0.info (http://qooh0.info)@g...
+> kawaguti@g...
+> op.homata@g...
+> kazeeechi@g...
+> takubon@k...
+> miholovesq@g...
+> couger@k...
+> sarastier@g...
+> chuchung@m...
+> takaesu0@g...
+> b.takashi@g...
+> coolgirltoboy@g...
+> mochi.hiro43@g...
+> harada.kiro@g...
+> hdkworks@g...
+> changesworlds@g...
+> harada@i...
+> uedayo@g...
+> yohhatu@g...
+> masashi.arino@g...
+> high.end.threes@g...
+> ryuzee@e...
+> modalsoul0215@g...
+>  
+>  
+
+
+}}
+{{mail(miholovesq@gmail.com,1338243401)
+ながせです。
+ウェルカム！
+
+# なんでみんな全文引用するんだよーw
+}}
+{{mail(nishimura@nawo.to,1338351258)
+今江さん、よろしくー。
+
+全文引用すると悲しい事と qwik の使い方については、以下を読むと良いと思いますww > all
+# 手前味噌だが良く書けてんじゃないかww
+
+http://qwik.jp/taoofscrum/StudyingQwik.html
+}}
+{{mail(etsuo@etsuo.com,1342263403)
+スタッフの皆さん
+
+はじめまして、山田悦朗（ヤマダ エツオ）と申します。
+
+豆蔵という会社で、プロジェクト・マネジメントとプロセスの
+コンサルしておりまして、最近は、マネジメント、プロセスの視点から
+スクラムに興味を持っています。
+
+是非、スタッフとして参画させていただきたいと思っています。
+よろしくお願いします。
+＃永瀬さんと有野さんと飲んでいて、半分勢いで書いています。
+＃簡単すぎなのは、ご了解ください。
+
+以上
+}}
+{{mail(nishimura@nawo.to,1342286412)
+2012/7/14 Etsuo, Etsuo <etsuo@etsuo.com>:
+> 是非、スタッフとして参画させていただきたいと思っています。
+> よろしくお願いします。
+
+ここにメールを投げた瞬間からスタッフになれますww
+ウェルカム!!
+}}
+{{mail(takaesu0@gmail.com,1342368709)
+高江洲です。
+
+山田さん、よろしくですー。
+}}
+{{mail(kawaguti@gmail.com,1342376105)
+かわぐちです。
+
+　山田さんようこそ、というほどにはスタッフではないですが、よろしくお願いします。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1342475166)
+高橋です。
+
+よろしくお願いしますー。
+}}
+{{mail(chuchung@mac.com,1342478542)
+大和です。
+
+宜しくお願いします。
+}}
+{{mail(imagire@gmail.com,1342481722)
+Imagire です。
+
+山田さん、よろしくお願いします！
+}}
+{{mail(uedayo@gmail.com,1342485768)
+うえだです。
+
+よろしくお願いします！
+}}
+{{mail(yohhatu@gmail.com,1342509582)
+　山田さん
+
+　中村　洋(@yohhatu)です。
+　関西(主に大阪)方面で活動しています。
+
+　よろしくお願いします！
+}}
+{{mail(modalsoul0215@gmail.com,1342515277)
+山田さん
+
+去年CSM研修でご一緒した、いまえ(@modal_soul)です
+お久しぶりです
+
+よろしくお願いします
+}}
+{{mail(fullvirtue@gmail.com,1348279494)
+To: スクラム道スタッフの皆様
+
+はじめまして、せき@fullvirtue です。
+
+今はスクラムプロダクトオーナー勉強会( https://sites.google.com/site/spostudy/ )を主催したり、
+Scrum Alliance Regional Gathering Tokyo 2013の実行委員をしています。
+
+スクラム道さんのScrum Boot Campで伝える側に是非加わりさせて頂きたいと思い、
+今給黎さんに相談したところ、是非ということでスタッフ希望の方法をご案内頂きました。
+
+スタッフとしてお手伝いできることはしていきたいと考えていますので、
+どうぞよろしくお願いいたします。
+}}
+{{mail(takaesu0@gmail.com,1348284862)
+> はじめまして、せき@fullvirtue です。
+
+うぇるかむ！
+}}
+{{mail(nishimura@nawo.to,1348293265)
+ようこそー。
+
+qwikのページに色々と書いてあるので、さらっと読んでもらえると嬉しいです。
+特に [[qwikの使い方]] とかww
+}}
+{{mail(uedayo@gmail.com,1348295292)
+> はじめまして、せき@fullvirtue です。
+
+よろしくお願いしますー！
+}}
+{{mail(etsuo@etsuo.com,1348295361)
+関さん
+
+いらっしゃいませ。
+SWAでご一緒させて頂いている、山田です。
+よろしくお願い致します。
+
+iPhoneから送信
+
+2012/09/22 11:04、Mitsunori Seki <fullvirtue@gmail.com> のメッセージ:
+
+> To: スクラム道スタッフの皆様
+> 
+> はじめまして、せき@fullvirtue です。
+> 
+> 今はスクラムプロダクトオーナー勉強会( https://sites.google.com/site/spostudy/ )を主催したり、
+> Scrum Alliance Regional Gathering Tokyo 2013の実行委員をしています。
+> 
+> スクラム道さんのScrum Boot Campで伝える側に是非加わりさせて頂きたいと思い、
+> 今給黎さんに相談したところ、是非ということでスタッフ希望の方法をご案内頂きました。
+> 
+> スタッフとしてお手伝いできることはしていきたいと考えていますので、
+> どうぞよろしくお願いいたします。
+}}
+{{mail(miholovesq@gmail.com,1348296259)
+うぇるかむ
+qwik力が問われるから気をつけてねwww
+}}
+{{mail(chuchung@mac.com,1348321807)
+いらっしゃいませー
+}}
+{{mail(kimura.kanataku@gmail.com,1348353847)
+関さん
+
+よろしくです^^
+}}
+{{mail(imagire@gmail.com,1348369037)
+よろしくお願いします。
+
+スクラム道は、プロダクトオーナー成分が低かったので、期待してます。
+}}
+{{mail(yohhatu@gmail.com,1348429479)
+　関さん、よろしくです～
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1348437887)
+こちらでもよろしくおねがいしますー
+}}
+{{mail(irohiroki@gmail.com,1355120644)
+こんにちは、スタッフ希望の吉岡と申します。
+コミュニティ活動のときは「いろ」と名乗ってるので、そう呼んでください。
+Twitter IDは@irohirokiです。
+
+スクラム道のイベントには、先日のEXPOをはじめ、何回かお邪魔しています。
+スクラム道の活動を通じて受託側・委託側を問わずスクラムが広まり、
+仕事が楽しく、やりやすくなればと思い応募しました。
+
+スクラム道以外では主にRubyコミュニティの活動に参加しており、
+例えばRuby会議2011（動員数は3日間で約1,000人）の
+当日スタッフを努めたりしました。
+
+去年の９月から自社のアジャイル化に取り組んでおり、
+今年５月にCSMを取得しています。
+
+どのような形で貢献できるかまだわかりませんが、
+よろしくお願い致します。
+}}
+{{mail(kimura.kanataku@gmail.com,1355126999)
+たくぼんです。
+
+いろさん
+いらっしゃい！よろしくお願いします！
+}}
+{{mail(irohiroki@gmail.com,1355209315)
+> たくぼんです。
+
+毎度、お世話になってます。
+（他の方へ：共通のお客さんを通じて交流があります）
+
+改めてよろしくお願いします！
+}}
+{{mail(takaesu0@gmail.com,1355210414)
+うぇるかむ！
+
+2012年12月10日 15:23 Hiroki Yoshioka <irohiroki@gmail.com>:
+> ML: taoofscrum@qwik.jp
+> New Member: irohiroki@g...
+>
+> こんにちは、スタッフ希望の吉岡と申します。
+> コミュニティ活動のときは「いろ」と名乗ってるので、そう呼んでください。
+> Twitter IDは@irohirokiです。
+>
+> スクラム道のイベントには、先日のEXPOをはじめ、何回かお邪魔しています。
+> スクラム道の活動を通じて受託側・委託側を問わずスクラムが広まり、
+> 仕事が楽しく、やりやすくなればと思い応募しました。
+>
+> スクラム道以外では主にRubyコミュニティの活動に参加しており、
+> 例えばRuby会議2011（動員数は3日間で約1,000人）の
+> 当日スタッフを努めたりしました。
+>
+> 去年の９月から自社のアジャイル化に取り組んでおり、
+> 今年５月にCSMを取得しています。
+>
+> どのような形で貢献できるかまだわかりませんが、
+> よろしくお願い致します。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+> ML-> taoofscrum@qwik.jp
+>
+> How to unsubscribe from the ML:
+> - Just send an empty message to <taoofscrum@qwik.jp>.
+> - Alternatively, if you cannot send an empty message for some reason,
+>   please send a message just saying 'unsubscribe' to <taoofscrum@qwik.jp>.
+>   (e.g., hotmail's advertisement, signature, etc.)
+>
+> Members of <taoofscrum@qwik.jp>:
+> n-nishimura@e...
+> nishimura@n...
+> ryuzee@g...
+> emerson.mills@g...
+> imagire@g...
+> tao.of.scrum@g...
+> takahashi.kazuyoshi@g...
+> k-chiba@e...
+> qooh0.info@g...
+> kawaguti@g...
+> op.homata@g...
+> kazeeechi@g...
+> kimura.kanataku@g...
+> miholovesq@g...
+> couger@k...
+> sarastier@g...
+> chuchung@m...
+> takaesu0@g...
+> b.takashi@g...
+> coolgirltoboy@g...
+> mochi.hiro43@g...
+> harada.kiro@g...
+> hdkworks@g...
+> changesworlds@g...
+> harada@i...
+> uedayo@g...
+> yohhatu@g...
+> masashi.arino@g...
+> high.end.threes@g...
+> ryuzee@e...
+> modalsoul0215@g...
+> etsuo@e...
+> fullvirtue@g...
+> irohiroki@g...
+}}
+{{mail(imagire@gmail.com,1355211354)
+よろしくお願いします！
+}}
+{{mail(fullvirtue@gmail.com,1355218309)
+ようこそ！
+
+よろしくお願い致します！
+}}
+{{mail(nishimura@nawo.to,1356362392)
+いろさん、ようこそー。
+挨拶が遅くなってすいません。
+
+スクラム道としては来年から再始動な感じですが、これからも宜しくお願い致します。
+どっかで僕かスタッフに会ったときに、詳しい説明をしまーすww
+}}
+{{mail(irohiroki@gmail.com,1356391536)
+>
+> どっかで僕かスタッフに会ったときに、詳しい説明をしまーすww
+>
+
+はい、よろしくお願いしまーす 。
+}}
+{{mail(nishimura@nawo.to,1356497580)
+2012/12/25 Hiroki Yoshioka <irohiroki@gmail.com>
+
+> どっかで僕かスタッフに会ったときに、詳しい説明をしまーすww
+>>
+>
+> はい、よろしくお願いしまーす 。
+>
+
+会えなかったときのバックアップとして、新年になったらみんな集まって望年会やろーぜー
+}}
+{{mail(masashi.arino@gmail.com,1356504372)
+1/20過ぎたらやろうやろう。
+
+> 会えなかったときのバックアップとして、新年になったらみんな集まって望年会やろーぜー
+> 
+}}
+{{mail(miholovesq@gmail.com,1356504562)
+いろさんよろしくお願いしまーす！
+
+宴会担当班だった気がしますね、わたし。
+}}
+{{mail(uedayo@gmail.com,1356521702)
+うえだです。
+
+いろさん、よろしくお願いします！
+}}
+{{mail(chuchung@mac.com,1356785184)
+大和です。
+
+いろさん、よろろ。
+}}
+{{mail(takuo.doi@gmail.com,1358623757)
+皆様
+
+はじめまして。
+土肥　拓生（どい　たくお）と申します。
+Scrum Alliance Gathering Tokyo 2013のコミュニティLTで、スタッフ募集と言
+われていたので、メールさせて頂きました。
+
+僕は、現状でScrum/Agileをきっちり実践できている訳ではなく、まだ導入しよ
+うとしている段階ですが、
+レベルファイブ（http://level-five.jp/）
+※ゲームを作っている会社とは関係ありません。
+という会社に職場を変えて、業務の中で実践して行こうという段階です。
+一方で、
+NIIのTopSEプロジェクト（http://www.topse.jp/)
+にも関わらせて頂いていて、今年はアジャイル開発というテーマで少し講義をさ
+せて頂くことになっています。
+
+Scrumの認定という意味では、昨年の11月にCSM、12月にCSDと集中的に取得して
+みました。
+
+Scrum道のイベントには何度か参加させて頂いて、お話しさせて頂いたりもして
+おりますが、皆様の中に身を置くことで自分の気持ちを引き締めるとともに、少
+しでも何かお手伝いさせて頂ければと思っております。
+
+よろしくお願いします。
+}}
+{{mail(masashi.arino@gmail.com,1358645344)
+土肥さんはじめまして
+
+いんだれ(@inda_re)です。
+
+運悪くCSDのお話を聞けなかったので、スタッフミーティングとかで教えてください！
+
+よろしくお願いします！
+}}
+{{mail(uedayo@gmail.com,1358646705)
+土肥さん、こんにちは
+
+うえだ(@uedayo)です。
+
+スタッフよろしくお願いいたします！
+CSDのお話は途中から聞かせて頂きましたが、とても興味深い内容で参考になりました。
+
+今後ともよろしくお願いいたします。
+}}
+{{mail(chuchung@mac.com,1358660619)
+土肥さん
+
+大和です。
+宜しくです。
+}}
+{{mail(fullvirtue@gmail.com,1358677153)
+To: 土肥さん
+
+せき@fullvirtue です。
+是非一緒に盛り上げて行きましょう！
+}}
+{{mail(harada.kiro@gmail.com,1358677295)
+土肥さん
+
+原田です。
+CSD の LT を楽しく拝聴しました。
+
+スクラム道でも、ガチの技術ハンズオンやりたいですねぇ。
+よろしくお願いします。
+
+
+--
+原田騎郎
+
+
+
+2013年1月20日 4:29 Takuo Doi <takuo.doi@gmail.com>:
+
+> ML: taoofscrum@qwik.jp
+> New Member: takuo.doi@g...
+>
+> 皆様
+>
+> はじめまして。
+> 土肥 拓生（どい たくお）と申します。
+> Scrum Alliance Gathering Tokyo 2013のコミュニティLTで、スタッフ募集と言
+> われていたので、メールさせて頂きました。
+>
+> 僕は、現状でScrum/Agileをきっちり実践できている訳ではなく、まだ導入しよ
+> うとしている段階ですが、
+> レベルファイブ（http://level-five.jp/）
+> ※ゲームを作っている会社とは関係ありません。
+> という会社に職場を変えて、業務の中で実践して行こうという段階です。
+> 一方で、
+> NIIのTopSEプロジェクト（http://www.topse.jp/)
+> にも関わらせて頂いていて、今年はアジャイル開発というテーマで少し講義をさ
+> せて頂くことになっています。
+>
+> Scrumの認定という意味では、昨年の11月にCSM、12月にCSDと集中的に取得して
+> みました。
+>
+> Scrum道のイベントには何度か参加させて頂いて、お話しさせて頂いたりもして
+> おりますが、皆様の中に身を置くことで自分の気持ちを引き締めるとともに、少
+> しでも何かお手伝いさせて頂ければと思っております。
+>
+> よろしくお願いします。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+> ML-> taoofscrum@qwik.jp
+>
+> How to unsubscribe from the ML:
+> - Just send an empty message to <taoofscrum@qwik.jp>.
+> - Alternatively, if you cannot send an empty message for some reason,
+>   please send a message just saying 'unsubscribe' to <taoofscrum@qwik.jp>.
+>   (e.g., hotmail's advertisement, signature, etc.)
+>
+> Members of <taoofscrum@qwik.jp>:
+> n-nishimura@e...
+> nishimura@n...
+> ryuzee@g...
+> emerson.mills@g...
+> imagire@g...
+> tao.of.scrum@g...
+> takahashi.kazuyoshi@g...
+> k-chiba@e...
+> qooh0.info@g...
+> kawaguti@g...
+> op.homata@g...
+> kazeeechi@g...
+> kimura.kanataku@g...
+> miholovesq@g...
+> couger@k...
+> sarastier@g...
+> chuchung@m...
+> takaesu0@g...
+> b.takashi@g...
+> coolgirltoboy@g...
+> mochi.hiro43@g...
+> harada.kiro@g...
+> hdkworks@g...
+> changesworlds@g...
+> harada@i...
+> uedayo@g...
+> yohhatu@g...
+> masashi.arino@g...
+> high.end.threes@g...
+> ryuzee@e...
+> modalsoul0215@g...
+> etsuo@e...
+> fullvirtue@g...
+> irohiroki@g...
+> takuo.doi@g...
+>
+}}
+{{mail(takaesu0@gmail.com,1358679281)
+高江洲です。
+
+土肥さん、うぇるかむ！
+
+CSD詳しく聞きたいなー。
+
+＃その時間帯は別フロアで缶詰だったのだｗ
+
+2013年1月20日 19:21 Kiro HARADA <harada.kiro@gmail.com>:
+> 土肥さん
+>
+> 原田です。
+> CSD の LT を楽しく拝聴しました。
+>
+> スクラム道でも、ガチの技術ハンズオンやりたいですねぇ。
+> よろしくお願いします。
+>
+>
+> --
+> 原田騎郎
+>
+>
+>
+> 2013年1月20日 4:29 Takuo Doi <takuo.doi@gmail.com>:
+>
+>> ML: taoofscrum@qwik.jp
+>> New Member: takuo.doi@g...
+>>
+>> 皆様
+>>
+>> はじめまして。
+>> 土肥　拓生（どい　たくお）と申します。
+>> Scrum Alliance Gathering Tokyo 2013のコミュニティLTで、スタッフ募集と言
+>> われていたので、メールさせて頂きました。
+>>
+>> 僕は、現状でScrum/Agileをきっちり実践できている訳ではなく、まだ導入しよ
+>> うとしている段階ですが、
+>> レベルファイブ（http://level-five.jp/）
+>> ※ゲームを作っている会社とは関係ありません。
+>> という会社に職場を変えて、業務の中で実践して行こうという段階です。
+>> 一方で、
+>> NIIのTopSEプロジェクト（http://www.topse.jp/)
+>> にも関わらせて頂いていて、今年はアジャイル開発というテーマで少し講義をさ
+>> せて頂くことになっています。
+>>
+>> Scrumの認定という意味では、昨年の11月にCSM、12月にCSDと集中的に取得して
+>> みました。
+>>
+>> Scrum道のイベントには何度か参加させて頂いて、お話しさせて頂いたりもして
+>> おりますが、皆様の中に身を置くことで自分の気持ちを引き締めるとともに、少
+>> しでも何かお手伝いさせて頂ければと思っております。
+>>
+>> よろしくお願いします。
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>> How to unsubscribe from the ML:
+>> - Just send an empty message to <taoofscrum@qwik.jp>.
+>> - Alternatively, if you cannot send an empty message for some reason,
+>>   please send a message just saying 'unsubscribe' to <taoofscrum@qwik.jp>.
+>>   (e.g., hotmail's advertisement, signature, etc.)
+>>
+>> Members of <taoofscrum@qwik.jp>:
+>> n-nishimura@e...
+>> nishimura@n...
+>> ryuzee@g...
+>> emerson.mills@g...
+>> imagire@g...
+>> tao.of.scrum@g...
+>> takahashi.kazuyoshi@g...
+>> k-chiba@e...
+>> qooh0.info@g...
+>> kawaguti@g...
+>> op.homata@g...
+>> kazeeechi@g...
+>> kimura.kanataku@g...
+>> miholovesq@g...
+>> couger@k...
+>> sarastier@g...
+>> chuchung@m...
+>> takaesu0@g...
+>> b.takashi@g...
+>> coolgirltoboy@g...
+>> mochi.hiro43@g...
+>> harada.kiro@g...
+>> hdkworks@g...
+>> changesworlds@g...
+>> harada@i...
+>> uedayo@g...
+>> yohhatu@g...
+>> masashi.arino@g...
+>> high.end.threes@g...
+>> ryuzee@e...
+>> modalsoul0215@g...
+>> etsuo@e...
+>> fullvirtue@g...
+>> irohiroki@g...
+>> takuo.doi@g...
+>
+>
+}}
+{{mail(kimura.kanataku@gmail.com,1358679824)
+土肥さん
+
+木村です。
+SGT2013ではお世話になりました^^
+
+よろしくです
+}}
+{{mail(o2k.shine@gmail.com,1358766412)
+はじめまして。大槻晋太郎（@sin_o2k）と申します。
+
+昨年夏あたりからいくつかイベントに参加させていただいております。
+いつも主催後に申し込もうと思っていたのですが、
+土地柄（名古屋）なかなか踏み出せず・・・。
+Scrum Alliance Gathering Tokyo 2013で熱い講演で
+熱が冷めないうち今回メールさせていただきました。
+
+2011年6月にCSMは取得済みですが、
+社内標準の都合上、導入までは行き着いていません。
+いくつかプラクティスや個人レベルの活動を細々と行っているのが現状です。
+
+地理的にどこまでお手伝いできるか分かりませんし不安もありますが、
+何かお役にたてればと思っております。
+
+よろしくお願いします。
+}}
+{{mail(kimura.kanataku@gmail.com,1358783154)
+大槻さん
+
+はじめまして木村です。
+よろしくお願いします。
+
+スクラム道名古屋！？
+がんばって下さい！
+}}
+{{mail(yohhatu@gmail.com,1358794814)
+　大槻さん
+
+　はじめまして、中村　洋です。
+　よろしくお願いします。
+
+　私も大阪(スクラム道関西・・・ってのをやっています)ですが、こことかで色々話ができますので、楽しんで行きましょう～
+}}
+{{mail(takaesu0@gmail.com,1358830615)
+高江洲です。
+
+大槻さん、よろしくお願いしますー。
+
+2013年1月21日 20:06 大槻 <o2k.shine@gmail.com>:
+> ML: taoofscrum@qwik.jp
+> New Member: o2k.shine@g...
+>
+> はじめまして。大槻晋太郎（@sin_o2k）と申します。
+>
+> 昨年夏あたりからいくつかイベントに参加させていただいております。
+> いつも主催後に申し込もうと思っていたのですが、
+> 土地柄（名古屋）なかなか踏み出せず・・・。
+> Scrum Alliance Gathering Tokyo 2013で熱い講演で
+> 熱が冷めないうち今回メールさせていただきました。
+>
+> 2011年6月にCSMは取得済みですが、
+> 社内標準の都合上、導入までは行き着いていません。
+> いくつかプラクティスや個人レベルの活動を細々と行っているのが現状です。
+>
+> 地理的にどこまでお手伝いできるか分かりませんし不安もありますが、
+> 何かお役にたてればと思っております。
+>
+> よろしくお願いします。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+> ML-> taoofscrum@qwik.jp
+>
+> How to unsubscribe from the ML:
+> - Just send an empty message to <taoofscrum@qwik.jp>.
+> - Alternatively, if you cannot send an empty message for some reason,
+>   please send a message just saying 'unsubscribe' to <taoofscrum@qwik.jp>.
+>   (e.g., hotmail's advertisement, signature, etc.)
+>
+> Members of <taoofscrum@qwik.jp>:
+> n-nishimura@e...
+> nishimura@n...
+> ryuzee@g...
+> emerson.mills@g...
+> imagire@g...
+> tao.of.scrum@g...
+> takahashi.kazuyoshi@g...
+> k-chiba@e...
+> qooh0.info@g...
+> kawaguti@g...
+> op.homata@g...
+> kazeeechi@g...
+> kimura.kanataku@g...
+> miholovesq@g...
+> couger@k...
+> sarastier@g...
+> chuchung@m...
+> takaesu0@g...
+> b.takashi@g...
+> coolgirltoboy@g...
+> mochi.hiro43@g...
+> harada.kiro@g...
+> hdkworks@g...
+> changesworlds@g...
+> harada@i...
+> uedayo@g...
+> yohhatu@g...
+> masashi.arino@g...
+> high.end.threes@g...
+> ryuzee@e...
+> modalsoul0215@g...
+> etsuo@e...
+> fullvirtue@g...
+> irohiroki@g...
+> takuo.doi@g...
+> o2k.shine@g...
+}}
+{{mail(masashi.arino@gmail.com,1358831542)
+大槻さんはじめまして
+
+いんだれ(@inda_re)です
+
+よろしくお願いしますー。
+}}
+{{mail(nishimura@nawo.to,1358836579)
+いろさん、土肥さん、大槻さん、
+
+スクラム道へようこそ!!
+
+> Scrum Alliance Gathering Tokyo 2013で熱い講演で
+> 熱が冷めないうち今回メールさせていただきました。
+
+俺か、俺のLTかww
+
+わりと会って話しをするのを重視していますが、遠隔地でもいろいろと情報をやり取りさせてもらえればと思います。
+なんとなく定期的にスタッフミーティングという名の雑談する場を開催していますので、ぜひ参加してみてください。
+せっかくなんで、なるべく多くの人が集まれる日を選んで新年会もとい望年会やろーぜー!!
+そっちの続きは別スレで。
+
+あと、MLにqwikってのを使っているので、書き方はご一読ください。
+
+http://qwik.jp/taoofscrum/StudyingQwik.html
+
+また、分からないこととかはなんでも聞いてくださーい。
+}}
+{{mail(miholovesq@gmail.com,1358836785)
+大槻さんどうもー！
+ながせです。
+
+大槻さんはアジャイル名古屋でScrum Boot Camp in 名古屋をお手伝いしてくれた方ですね。
+よろぴこ
+
+# qwik力がないとバンされるから気をつけろ！ 嘘ですww
+}}
+{{mail(etsuo@etsuo.com,1359018771)
+大槻さん、よろしくお願いします。
+}}
+{{mail(etsuo@etsuo.com,1359018833)
+土肥さん、よろしくお願いします。
+}}
+{{mail(morita@c.wsf.jp,1360587115)
+はじめまして、守田(@wsfjp)ともうします。
+
+アジャイルマニフェスト以前からアジャイル的な開発をしていて、
+CSMも数年前に取得したんですが、懐疑的な目で見られる事も多
+くあまり勉強してませんでした。
+
+最近世の中進歩している事にハタと気がついて、再起動中です。
+
+社内的には、数年前のプロジェクト成功が、じわじわ効いていて、
+アジャイル普及を進められそうな雰囲気になってきていて、最近
+ゲリラ的に社内アジャイルコーチ業を開始したところです。
+
+ここでは、何ができるか分かりませんが、よろしくお願いします。
+
+---
+守田憲司
+}}
+{{mail(miholovesq@gmail.com,1360595983)
+守田さん!!
+みーたんです。
+よろしくお願いしまーす!!
+
+
+-- 
+--
+Miho Nagase
+http://twitter.com/miholovesq
+}}
+{{mail(morita@c.wsf.jp,1360620461)
+おはようございます。
+
+永瀬さん、よろしくお願いします。
+
+---
+Kenji Morita
+
+
+On 2013/02/12, at 0:19, Miho Nagase <miholovesq@gmail.com> wrote:
+
+守田さん!!
+みーたんです。
+よろしくお願いしまーす!!
+
+
+-- 
+--
+Miho Nagase
+http://twitter.com/miholovesq
+}}
+{{mail(kimura.kanataku@gmail.com,1360622223)
+木村です。
+
+守田さん
+よろしくお願いします。
+}}
+{{mail(fullvirtue@gmail.com,1360630844)
+せき@fullvirtue です。
+
+守田さん、よろしくお願い致します！
+}}
+{{mail(takaesu0@gmail.com,1360642829)
+高江洲です。
+
+守田さん、よろしくですー。
+}}
+{{mail(masashi.arino@gmail.com,1360645579)
+守田さんはじめまして。
+有野(@inda_re)です。
+
+よろしくお願いします。
+}}
+{{mail(morita@c.wsf.jp,1360649015)
+せきさん、高江洲さん
+
+よろしくお願いします。
+
+---
+Kenji Morita
+
+
+On 2013/02/12, at 13:20, Makoto Takaesu <takaesu0@gmail.com> wrote:
+
+> 高江洲です。
+>
+> 守田さん、よろしくですー。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(mtag1225@gmail.com,1361024621)
+皆さま
+
+お世話になります。田口（@masahirotaguchi）です。
+昨年末に大阪の会社を退職しまして、2/16から東京へ就職しました。
+大阪では「スクラム道関西」のスタッフをしております。
+
+転職＆引っ越ししたばかりでまだまだバタついておりますが、
+いろいろ協力できればと思いますので、
+今後ともよろしくお願いします。
+
+以上です。
+
+
+--
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+  田口 昌宏
+  E-mail : mtag1225@gmail.com
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+}}
+{{mail(miholovesq@gmail.com,1361107570)
+スクラム道関西東京支部長の田口さんこんばんはw
+よろしくお願いしまーす!!
+
+
+--
+}}
+{{mail(takaesu0@gmail.com,1361169360)
+高江洲です。
+
+田口さん、こちらでもよろしくです！
+}}
+{{mail(fullvirtue@gmail.com,1361170374)
+せき@fullvirtue です。
+
+田口さん、どうぞよろしくお願い致します！
+}}
+{{mail(kimura.kanataku@gmail.com,1361175065)
+木村@tw_takubonです。
+
+田口さん、いらっしゃい！
+心強いですw
+}}
+{{mail(chuchung@mac.com,1361202119)
+大和@amameci てゆーか めいど です。
+
+田口さん、よろろ。
+}}
+{{mail(yohhatu@gmail.com,1361233511)
+スクラム道関西の@yohhatuです
+スクラム道関西東京支部長の田口さん、ぜひスクラム道関西を広めてください(笑)。
+}}
+{{mail(masashi.arino@gmail.com,1361248700)
+田口さんはじめまして
+@inda_reです。
+よろしくお願いします！
+}}
+{{mail(nishimura@nawo.to,1361251232)
+いらっしゃーいww
+}}
+{{mail(etsuo@etsuo.com,1361256798)
+田口さん、山田です。
+よろしくお願いします。
+}}
+{{mail(tomomik84@gmail.com,1387417259)
+スクラム道のみなさま
+
+はじめまして。栗毛野友美(くりげのともみ)と申します。
+Twitterアカウントは@tmmkr(たい焼きの人)です。
+
+以前からScrumに興味がありましたが、
+さらに一歩進んで、スクラム道のスタッフへ仲間入りし、
+もっとScrumについて誰かと話をしたい、
+スタッフとして活動したいと思い、
+今回メールでスタッフ参加の表明をするに至りました。
+
+簡単に自己紹介しますと、
+
+・仕事に関しては大規模官公庁系システムの客先常駐開発→Webシステムの開発に従事
+　→現在は諸事情でお休みしています。
+・Scrumとの出会いは、2011年のXP祭りでのセッション「Scrumはじめの一歩」でした。
+・Agile方面では2011年～2012年にかけてアジャイルサムライ新宿道場を主宰
+・自社での社内活動でふりかえりをしましたが、
+　実務でがっつりとスクラムを導入した and スクラムで開発した経験はありません。
+
+
+といった感じです。
+
+
+Scrum道へコンテンツを提供する事はまだ難しいですが、
+細々とした運営に関する雑務等へはご協力できるかと思います。
+どうぞよろしくお願いいたします。
+}}
+{{mail(kimura.kanataku@gmail.com,1387427305)
+よろしくお願いします
+
+
+2013年12月19日 10:40 栗毛野 友美 <tomomik84@gmail.com>:
+
+> スクラム道のみなさま
+>
+> はじめまして。栗毛野友美(くりげのともみ)と申します。
+> Twitterアカウントは@tmmkr(たい焼きの人)です。
+>
+> 以前からScrumに興味がありましたが、
+> さらに一歩進んで、スクラム道のスタッフへ仲間入りし、
+> もっとScrumについて誰かと話をしたい、
+> スタッフとして活動したいと思い、
+> 今回メールでスタッフ参加の表明をするに至りました。
+>
+> 簡単に自己紹介しますと、
+>
+> ・仕事に関しては大規模官公庁系システムの客先常駐開発→Webシステムの開発に従事
+> →現在は諸事情でお休みしています。
+> ・Scrumとの出会いは、2011年のXP祭りでのセッション「Scrumはじめの一歩」でした。
+> ・Agile方面では2011年～2012年にかけてアジャイルサムライ新宿道場を主宰
+> ・自社での社内活動でふりかえりをしましたが、
+> 実務でがっつりとスクラムを導入した and スクラムで開発した経験はありません。
+>
+>
+> といった感じです。
+>
+>
+> Scrum道へコンテンツを提供する事はまだ難しいですが、
+> 細々とした運営に関する雑務等へはご協力できるかと思います。
+> どうぞよろしくお願いいたします。
+}}
+{{mail(harada.kiro@gmail.com,1387428682)
+いらっしゃいませ。
+
+SGTおわったら、ワークショップ大戦やろー。
+＃鬼に笑われそうだ。
+
+よろしくお願いします。
+--
+原田騎郎
+
+
+
+2013年12月19日 10:40 栗毛野 友美 <tomomik84@gmail.com>:
+> スクラム道のみなさま
+>
+> はじめまして。栗毛野友美(くりげのともみ)と申します。
+> Twitterアカウントは@tmmkr(たい焼きの人)です。
+>
+> 以前からScrumに興味がありましたが、
+> さらに一歩進んで、スクラム道のスタッフへ仲間入りし、
+> もっとScrumについて誰かと話をしたい、
+> スタッフとして活動したいと思い、
+> 今回メールでスタッフ参加の表明をするに至りました。
+>
+> 簡単に自己紹介しますと、
+>
+> ・仕事に関しては大規模官公庁系システムの客先常駐開発→Webシステムの開発に従事
+> 　→現在は諸事情でお休みしています。
+> ・Scrumとの出会いは、2011年のXP祭りでのセッション「Scrumはじめの一歩」でした。
+> ・Agile方面では2011年～2012年にかけてアジャイルサムライ新宿道場を主宰
+> ・自社での社内活動でふりかえりをしましたが、
+> 　実務でがっつりとスクラムを導入した and スクラムで開発した経験はありません。
+>
+>
+> といった感じです。
+>
+>
+> Scrum道へコンテンツを提供する事はまだ難しいですが、
+> 細々とした運営に関する雑務等へはご協力できるかと思います。
+> どうぞよろしくお願いいたします。
+}}
+{{mail(takaesu0@gmail.com,1387437125)
+高江洲です。
+
+栗毛野さん、よろしくお願いしまーす。
+}}
+{{mail(irohiroki@gmail.com,1387438097)
+> はじめまして。栗毛野友美(くりげのともみ)と申します。
+
+ようこそ！ASBCではお世話になりました。  
+よろしくお願いします。
+
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1387439775)
+よろしくお願いしますー！
+}}
+{{mail(masashi.arino@gmail.com,1387443399)
+よろしくお願いしますー！
+}}
+{{mail(sarastier@gmail.com,1387443915)
+栗毛野さん、よろしくお願いします！
+
+
+2013/12/19 masashi arino <masashi.arino@gmail.com>
+
+> よろしくお願いしますー！
+>
+}}
+{{mail(tomomik84@gmail.com,1387448658)
+くりげのです。
+みなさま、歓迎いただきありがとうございます！
+昨日のスクラム道忘年会もとても楽しかったです。
+今後ともよろしくお願いいたします :-)
+}}
+{{mail(imagire@gmail.com,1387451022)
+よろしくお願いします！
+}}
+{{mail(takuo.doi@gmail.com,1387451456)
+よろしくお願いします！
+}}
+{{mail(etsuo@etsuo.com,1387451586)
+よろしくお願いします。
+
+
+
+iPhoneから送信
+
+2013/12/19 10:40、栗毛野 友美 <tomomik84@gmail.com> のメッセージ:
+
+> スクラム道のみなさま
+> 
+> はじめまして。栗毛野友美(くりげのともみ)と申します。
+> Twitterアカウントは@tmmkr(たい焼きの人)です。
+> 
+> 以前からScrumに興味がありましたが、
+> さらに一歩進んで、スクラム道のスタッフへ仲間入りし、
+> もっとScrumについて誰かと話をしたい、
+> スタッフとして活動したいと思い、
+> 今回メールでスタッフ参加の表明をするに至りました。
+> 
+> 簡単に自己紹介しますと、
+> 
+> ・仕事に関しては大規模官公庁系システムの客先常駐開発→Webシステムの開発に従事
+> 　→現在は諸事情でお休みしています。
+> ・Scrumとの出会いは、2011年のXP祭りでのセッション「Scrumはじめの一歩」でした。
+> ・Agile方面では2011年～2012年にかけてアジャイルサムライ新宿道場を主宰
+> ・自社での社内活動でふりかえりをしましたが、
+> 　実務でがっつりとスクラムを導入した and スクラムで開発した経験はありません。
+> 
+> 
+> といった感じです。
+> 
+> 
+> Scrum道へコンテンツを提供する事はまだ難しいですが、
+> 細々とした運営に関する雑務等へはご協力できるかと思います。
+> どうぞよろしくお願いいたします。
+}}
+{{mail(changesworlds@gmail.com,1387456880)
+よろしくお願いします。
+
+2013年12月19日 20:12 etsuo <etsuo@etsuo.com>:
+> よろしくお願いします。
+>
+>
+>
+> iPhoneから送信
+>
+> 2013/12/19 10:40、栗毛野 友美 <tomomik84@gmail.com> のメッセージ:
+>
+>> スクラム道のみなさま
+>>
+>> はじめまして。栗毛野友美(くりげのともみ)と申します。
+>> Twitterアカウントは@tmmkr(たい焼きの人)です。
+>>
+>> 以前からScrumに興味がありましたが、
+>> さらに一歩進んで、スクラム道のスタッフへ仲間入りし、
+>> もっとScrumについて誰かと話をしたい、
+>> スタッフとして活動したいと思い、
+>> 今回メールでスタッフ参加の表明をするに至りました。
+>>
+>> 簡単に自己紹介しますと、
+>>
+>> ・仕事に関しては大規模官公庁系システムの客先常駐開発→Webシステムの開発に従事
+>>　 →現在は諸事情でお休みしています。
+>> ・Scrumとの出会いは、2011年のXP祭りでのセッション「Scrumはじめの一歩」でした。
+>> ・Agile方面では2011年～2012年にかけてアジャイルサムライ新宿道場を主宰
+>> ・自社での社内活動でふりかえりをしましたが、
+>>　 実務でがっつりとスクラムを導入した and スクラムで開発した経験はありません。
+>>
+>>
+>> といった感じです。
+>>
+>>
+>> Scrum道へコンテンツを提供する事はまだ難しいですが、
+>> 細々とした運営に関する雑務等へはご協力できるかと思います。
+>> どうぞよろしくお願いいたします。
+}}
+{{mail(yohhatu@gmail.com,1387655112)
+普段は大阪にいる中村　洋(@yohhatu＝よーはつ)です。
+
+月1回くらいはなんだかんだで東京に行くと思うので、お会いする機会があれば仲良くしてやってください！
+
+2013年12月19日 21:41 Takashi Takebayashi <changesworlds@gmail.com>:
+> よろしくお願いします。
+>
+> 2013年12月19日 20:12 etsuo <etsuo@etsuo.com>:
+>> よろしくお願いします。
+>>
+>>
+>>
+>> iPhoneから送信
+>>
+>> 2013/12/19 10:40、栗毛野 友美 <tomomik84@gmail.com> のメッセージ:
+>>
+>>> スクラム道のみなさま
+>>>
+>>> はじめまして。栗毛野友美(くりげのともみ)と申します。
+>>> Twitterアカウントは@tmmkr(たい焼きの人)です。
+>>>
+>>> 以前からScrumに興味がありましたが、
+>>> さらに一歩進んで、スクラム道のスタッフへ仲間入りし、
+>>> もっとScrumについて誰かと話をしたい、
+>>> スタッフとして活動したいと思い、
+>>> 今回メールでスタッフ参加の表明をするに至りました。
+>>>
+>>> 簡単に自己紹介しますと、
+>>>
+>>> ・仕事に関しては大規模官公庁系システムの客先常駐開発→Webシステムの開発に従事
+>>>　 →現在は諸事情でお休みしています。
+>>> ・Scrumとの出会いは、2011年のXP祭りでのセッション「Scrumはじめの一歩」でした。
+>>> ・Agile方面では2011年～2012年にかけてアジャイルサムライ新宿道場を主宰
+>>> ・自社での社内活動でふりかえりをしましたが、
+>>>　 実務でがっつりとスクラムを導入した and スクラムで開発した経験はありません。
+>>>
+>>>
+>>> といった感じです。
+>>>
+>>>
+>>> Scrum道へコンテンツを提供する事はまだ難しいですが、
+>>> 細々とした運営に関する雑務等へはご協力できるかと思います。
+>>> どうぞよろしくお願いいたします。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/JoinUs.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+**************************************
+    Name：Yoh Nakamura
+    Mail：yohhatu@gmail.com
+    Facebook：https://www.facebook.com/yohhatu
+    TwitterID：@yohhatu
+**************************************
+}}
+{{mail(miholovesq@gmail.com,1387690305)
+たいやきさんよろしくねー
+}}
+{{mail(chuchung@mac.com,1387776256)
+よろしくでーす。
+
+めいど
+}}

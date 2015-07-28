@@ -1,0 +1,86 @@
+* 楽天のJames Chenさんとごはん食べません?
+{{mail(takahashi.kazuyoshi@gmail.com,1330917276)
+おつですー
+
+楽天の技術部門の執行役員James Chenさんとひょんなことから
+今週木曜、3/8夜に表参道でごはんを食べる予定になりました。
+
+今のところ藤原さんも来る予定です。誰か一緒に行きませんかー? 2名募集しますー
+(コミュニケーションは英語です)
+}}
+{{mail(kawaguti@gmail.com,1330917519)
+かわぐちです。
+
+　展開ありがとうございます。
+　すごく行きたいですけど、その日はちょっとXP祭り実行委員会の日なので、また次の機会に。
+}}
+{{mail(ryuzee@gmail.com,1330918014)
+よしばです。
+
+いきたいところですが、絶賛デスマーチ中なのでまた今度でお願いします。
+もう疲れたよパトラッシュ
+
+2012年3月5日12:14 Kaz Takahashi <takahashi.kazuyoshi@gmail.com>:
+> おつですー
+>
+> 楽天の技術部門の執行役員James Chenさんとひょんなことから
+> 今週木曜、3/8夜に表参道でごはんを食べる予定になりました。
+>
+> 今のところ藤原さんも来る予定です。誰か一緒に行きませんかー? 2名募集しますー
+> (コミュニケーションは英語です)
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/26.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1330943495)
+かわぐちさん、よしばさん、返信ありがとうございます。了解です～。
+
+言うの忘れてましたが、
+メインの話題はアジャイルとかスクラムに関する話題+組織導入に関するあたりでーす
+
+> いきたいところですが、絶賛デスマーチ中なのでまた今度でお願いします。
+> もう疲れたよパトラッシュ
+
+無理せずー! 召されるにはまだ早い
+http://dic.nicovideo.jp/oekaki/12291.png
+}}
+{{mail(harada.kiro@gmail.com,1330946067)
+行きたいのだけれど展示会の真っ最中だ。残念。
+--
+原田騎郎
+株式会社　情報システム総研
+
+
+
+2012年3月5日19:31 Kaz Takahashi <takahashi.kazuyoshi@gmail.com>:
+> かわぐちさん、よしばさん、返信ありがとうございます。了解です～。
+>
+> 言うの忘れてましたが、
+> メインの話題はアジャイルとかスクラムに関する話題+組織導入に関するあたりでーす
+>
+>> いきたいところですが、絶賛デスマーチ中なのでまた今度でお願いします。
+>> もう疲れたよパトラッシュ
+>
+> 無理せずー! 召されるにはまだ早い
+> http://dic.nicovideo.jp/oekaki/12291.png
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/26.html
+> ML-> taoofscrum@qwik.jp
+}}

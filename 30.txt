@@ -1,0 +1,110 @@
+* 事例くれくれ君
+{{mail(takubon@kanataku.com,1337673722)
+木村です。
+
+スクラムを企業に導入した事例が欲しいのですが、どこかありませんか？
+
+kappa4たん>
+去年のギャザリングでの講演資料は利用させてもらいます。
+}}
+{{mail(ryuzee@gmail.com,1337674633)
+Ryuzeeです。
+
+公開されている有名な事例だと、
+東京海上日動システムズとかヤフーとかMTIとかDeNAとか楽天とかとか
+一杯あるような気がしますがどういう例がよいのかな？
+
+--
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1337681236)
+kappa4です。
+
+事例の何ですかね～?
+訴えたい内容によって知りたい内容が違うのかな～と。
+
+* 企業名の一覧
+* 導入(?)プロセス
+* 制度やルール
+* 法令・制度対応
+* とかとか
+
+>> kappa4たん>
+>> 去年のギャザリングでの講演資料は利用させてもらいます。
+
+はい～ぜひぜひ
+}}
+{{mail(takubon@kanataku.com,1337681640)
+木村です。
+
+> Ryuzeeです。
+> 
+> 公開されている有名な事例だと、
+> 東京海上日動システムズとかヤフーとかMTIとかDeNAとか楽天とかとか
+> 一杯あるような気がしますがどういう例がよいのかな？
+
+プロセス改善したい企業さんが、事例があると周りを説得しやすい
+というところで、引用したかったりします。
+
+# 楽天の事例は藤原さんのプレゼン資料が有効そうですね。
+}}
+{{mail(kawaguti@gmail.com,1337693970)
+かわぐちです。
+
+　ぜひだれかに国内事例をまとめていただきたい！ (他力本願寺)
+}}
+{{mail(takubon@kanataku.com,1337694193)
+木村です。
+
+導入プロセスです。
+
+相談を受けている会社さんは、上の役職の方が、現在の開発プロセスに問題意識を
+(変更に対応出来ない。継続的に改善出来ない等)持たれていて、
+その改善案としてのアジャイル開発プロセスはどうかと言う事で、
+お話を受けています。
+
+
+現在の自分のイメージでは、
+現在の開発プロセスをヒアリング等して整理して、
+その後に、問題点があるのであれば、それに対しての改善案を提示する
+その改善案として、スクラムを推薦します。
+事例として、スクラムの実績および、Yahoo!さんの導入事例など、
+いくつか事例を挙げて、体制案などを提案する。
+
+その次のフェーズで実際に具体的に案をベースに体制等を
+整えつつ、パイロットプロジェクトとして実施
+
+な、イメージで考えています。
+
+（まだヒアリングが足りていないので何とも言えませんが。。。）
+
+}}
+{{mail(nishimura@nawo.to,1337748518)
+In <201205221343.q4MDhC9f042865@www930.sakura.ne.jp>,
+takubon@kanataku.com wrote:
+
+> 相談を受けている会社さんは、上の役職の方が、現在の開発プロセスに問題意識を
+> (変更に対応出来ない。継続的に改善出来ない等)持たれていて、
+> その改善案としてのアジャイル開発プロセスはどうかと言う事で、
+> お話を受けています。
+
+事例としては、SGT の時とかのMTIさんの話が近そうだけど、あれって資料は公開されてないんだよね。たしか
+}}
+{{mail(takubon@kanataku.com,1337842450)
+
+> 事例としては、SGT の時とかのMTIさんの話が近そうだけど、あれって資料は公開されてないんだよね。たしか
+
+そうみたいですね。
+探しても見当たりませんでした。
+
+ちなみに、東京海上日動システムズの記事も見えなくなってしまいました--;
+}}

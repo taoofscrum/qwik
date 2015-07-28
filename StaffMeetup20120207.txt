@@ -1,0 +1,191 @@
+* StaffMeetup20120207
+{{mail(nishimura@nawo.to,1328579784)
+本日はスタッフミーティングです。奮ってご参加ください!!
+
+:時間: 19:00 - 
+:場所: 笹塚のディアイスクエア http://www.di-square.co.jp/profiles/access.html
+
+入館方法などのフォローよろ > miholovesq 
+
+今日のアジェンダでーす。
+# 遅くなってゴミン
+
+** [[ScrumBootCampプレミアム]] について
+
+さて、そろそろ本気で宣伝しようかww
+あと、状況の報告とかとか
+
+** [[スクラム道場.08]] の準備状況について
+
+道場の読み手候補は何人いてもいいので他に立候補や誰それに読んでほしいとか無いですか?
+道場開催までのフローとかもう少し整理した方が良いとかあれば、それも相談したいかも。
+
+** [[今後やりたいイベント]]
+
+何かやりたいイベントありますか? 俺はめっちゃあるww
+そこら辺の棚卸と [[ScrumBootCampNagoya]] の立候補とか聞いてみたい
+
+** デブサミがんばれ
+
+スクラム道所属の人が多数講演するので激励しようぜ!!
+ついでにステマしてきてもらうかww
+
+こんなとこかな?
+他にアジェンダがあればよろ > all
+}}
+{{mail(nishimura@nawo.to,1328585329)
+In <20120207.105618.17671715958122030.n-nishimura@esm.co.jp>,
+Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+> 他にアジェンダがあればよろ > all
+
+あ、ひとつ忘れてた。
+AgileJapan さんからコミュニティ協賛しませんか? というお誘いを受けているので OK でいいですか? という確認を取りたい。
+特典は何も無くて、ロゴをサイトに掲載してもらう代わりに宣伝よろしく!! ってだけなんで特に問題無いかと思っています。
+}}
+{{mail(ryuzee@gmail.com,1328585430)
+いいんじゃないかな。
+nawotoさんと僕が話すし。
+
+(12/02/07 12:28), Nishimura Naoto wrote:
+> In<20120207.105618.17671715958122030.n-nishimura@esm.co.jp>,
+> Nishimura Naoto<n-nishimura@esm.co.jp>  wrote:
+> 
+>> 他にアジェンダがあればよろ>  all
+> 
+> あ、ひとつ忘れてた。
+> AgileJapan さんからコミュニティ協賛しませんか? というお誘いを受けているので OK でいいですか? という確認を取りたい。
+> 特典は何も無くて、ロゴをサイトに掲載してもらう代わりに宣伝よろしく!! ってだけなんで特に問題無いかと思っています。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1328588598)
+入館方法のフォローします！
+
+渋谷区笹塚2-1-6 笹塚センタービル 6F
+Mapは[[こちら|http://maps.google.co.jp/maps/place?ftid=0x6018f318713d9df7:0x1152b1790b57442d&q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E7%AC%B9%E5%A1%9A%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%E2%88%92%EF%BC%96&hl=ja&gl=jp&brcurrent=3,0x6018f3233f366c1d:0xdf952508c0267b69,0&ie=UTF8&ll=35.683618,139.660714&spn=0.000017,0.000021&t=m&z=16&vpsrc=0]]
+
++ 18時以降は正面入口が施錠されています
+建物を回りこむように駐車場に入ると、建物西側面にビルの裏口があります。
+20時までは施錠されていないので、エレベーターで6階まで上がってください。
+上がればわかるようにしておきます。
+わからなければ、 @miholovesq あてにメンションください。
+
++ 20時以降は裏口も施錠されます
+20時以降に到着される場合は、中からの誘導が必要になります。
+到着したらメンションください。
+
+# ちょっとお出かけしてきますけど18時半には戻ってるはず～
+}}
+{{mail(nishimura@nawo.to,1328590259)
+In <CAPG=6LbDtq_VfiRLqe+dN_fDZHqCHrtAjFvmnf=0mdAvk4h5Hg@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> 入館方法のフォローします！
+
+ありがとー!!
+
+> # ちょっとお出かけしてきますけど18時半には戻ってるはず～
+
+マジか!! 16 時ぐらいからヒマになるから遊びに行こうと思ってたのにww
+}}
+{{mail(miholovesq@gmail.com,1328591520)
+2012年2月7日13:50 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> # ちょっとお出かけしてきますけど18時半には戻ってるはず～
+>
+> マジか!! 16 時ぐらいからヒマになるから遊びに行こうと思ってたのにww
+
+誤算だったわー。失敗したわー。どっかで潰しててw
+戻りは18時から18時半だと思います。
+}}
+{{mail(nishimura@nawo.to,1328594576)
+In <4F309AD2.7090801@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> いいんじゃないかな。
+> nawotoさんと僕が話すし。
+
+じゃ、やっときまーす。
+}}
+{{mail(nishimura@nawo.to,1328594917)
+In <CAPG=6LZrW_85LO8Z6_6RHW7VUqSH5ytMwrO2ppugdVQ30DvUXQ@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+>> マジか!! 16 時ぐらいからヒマになるから遊びに行こうと思ってたのにww
+> 
+> 誤算だったわー。失敗したわー。どっかで潰しててw
+> 戻りは18時から18時半だと思います。
+
+了解っす。4sqみながら時間潰しておりますww
+どなたか相手していただける方も随時募集中w
+}}
+{{mail(miholovesq@gmail.com,1328613681)
+** 議事録
+
+- 運営の仕方考えようぜ
+-- 日程調整について再考
+asakusa.rb方式で、曜日時間を固定してみよう。
+場所も持ち回りで不公平感をなくす。
+最小催行人数3人で隔週水曜日。
+他のイベントなどがあれば無理せずずらそう。
+
+-- 次回のスタッフミーティング
+2/29(水)肉の日、有限会社Studio LJさん（東京都大田区蒲田1-30-15）
+
+-- ミーティングのゴール
+次回の開催日と場所が決まっていること。
+
+- 本日のアジェンダ
+-- Scrum Boot Camp Premium
+開催が危ぶまれているw
+# デブサミで開催判断をするらしい
+
+-- スクラム道場.09
+立候補よろしく！
+PO個人的にはScrumの用語として存在するものを扱いたい。
+
+-- デブサミ
+話す人がんばってね！
+
+-- Scrum Boot Camp in 名古屋
+5/26(土)のお誘いがあり。
+メインはコンテンツを持っている人で、となるとharadakiro/nawoto/ryuzee。
+サブメンバーはimagireが立候補。
+とりあえず名古屋コミュニティにharadakiroから「OK」の返事をする。
+
+-- Scrum Boot Camp in 大阪 6/9(土)
+誰か行けんじゃね？
+
+-- Scrum Boot Camp in 福岡 時期未定
+美味しい物がたべたいです (^q^)
+
+-- スクラム道ビースト
+マツケン駆動で4月か5月。01～09までの再演！
+
+- 今週のPOの妄想のコーナー
+-- スクラム道ギャザリング 7月
+コンセプトは日本で一番エッジーな議論を。終日道場をやる感じで。
+会場はOracleさんでどうだ。60人程度。営利目的でなく登壇者に還元方式でお金をいただいてやる。
+
+-- スクラム道ファースト
+スクラム道は怖がられているらしいw
+道場には参加しづらいらしいので、道場初参加の人限定でなんかやる。
+実現チームを作るつもり。
+
+- その他
+-- imagire「CEDECでScrum Boot Campやりたい」
+-- takaesu0 「Coaching Agile TeamsとかSpecification By Exampleの読書会やりたい」
+-- 個別のやりたい系はスレたてて実現チーム作ってコンテンツシェアしようよ
+}}

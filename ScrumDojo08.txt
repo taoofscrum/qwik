@@ -1,0 +1,879 @@
+* スクラム道場.08
+
+- テーマ: 「完了」の定義
+- 読み手: Ryuzee
+- 日時: 2011.12.26 19:00 - 21:00
+- 会場:住友不動産麹町ビル３号
+- URL: http://bit.ly/scrumdojo08
+- 管理ページ:https://ss1.coressl.jp/kokucheese.com/login/index/23422/5b83d7c95d54edf85cc512904fcb3f54
+- 当日スタッフ: nawoto, miholovesq,takaesu0,imagire,sarastier,tw_takubon,amameci
+- 当日スタッフにいけるかも: 
+
+{{mail(nishimura@nawo.to,1323154359)
+スレ立てました。以降のやり取りはこちらで。
+
+* Todo
+
+# Trello でやれるといいなー
+
+- 忘年会どうしよう <miholovesq>
+- 当日スタッフは?
+
+}}
+{{mail(nishimura@nawo.to,1323419806)
+申し込みサイトつくったよー。
+レビューよろ > all
+
+http://bit.ly/scrumdojo08
+
+読み手からのメッセージをお願いします。
+当日は...という方はぜひご参加ください。の間を埋めてくれ!! > Ryuzee
+
+あと、今回 KDDI ウェブコミュニケーションの開発者支援制度提供の会場を借りる事ができたので会場がいつもと違います。
+事前に下見に行くっという話があったけど、先日 Asakusa.rb が会場を使ったので聞いてみて、ホワイトボード、プロジェクター完備、、椅子は移動可能って事で大丈夫そうと判断しました。
+
+ただ、会場が広いんだって。
+永和のいつものスペースの二倍はありそうなんで、観客を入れてもいいんじゃないかと悩んでます。
+今年最後かつ久々の Ryuzee の回だしね。なので、意見を募集中です。
+募集する際には、観客の申し込みページは別途作った方がいいかもとか、募集の仕方についてのアイデアもあわせて募集でーす。
+}}
+{{mail(kawaguti@gmail.com,1323478111)
+かわぐちです。
+
+　KDDIウェブコミュニケーションズはなんどか使った事があります。
+　部屋が半分ずつ、講義室(机が動かせる)とラウンジの２レイアウトになっているので、
+
+　講義室の方は永和さんの会議室をつなげたパターンよりちょっと広いくらいかも。
+　島型4～５人席が 6グループで通路が狭いかな、というくらい。
+　椅子で円陣作るパターンだと20人くらいですかね(やってないのでわからない)。
+
+2011年12月9日17:36 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 申し込みサイトつくったよー。
+> レビューよろ > all
+>
+> http://bit.ly/scrumdojo08
+>
+> 読み手からのメッセージをお願いします。
+> 当日は...という方はぜひご参加ください。の間を埋めてくれ!! > Ryuzee
+>
+> あと、今回 KDDI ウェブコミュニケーションの開発者支援制度提供の会場を借りる事ができたので会場がいつもと違います。
+> 事前に下見に行くっという話があったけど、先日 Asakusa.rb が会場を使ったので聞いてみて、ホワイトボード、プロジェクター完備、、椅子は移動可能って事で大丈夫そうと判断しました。
+>
+> ただ、会場が広いんだって。
+> 永和のいつものスペースの二倍はありそうなんで、観客を入れてもいいんじゃないかと悩んでます。
+> 今年最後かつ久々の Ryuzee の回だしね。なので、意見を募集中です。
+> 募集する際には、観客の申し込みページは別途作った方がいいかもとか、募集の仕方についてのアイデアもあわせて募集でーす。
+>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumDojo08.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+[PR] 10-11 Jan : (Osaka) Certified Product Owner course by James O. Coplien
+[PR] 12-13 Jan : (Tokyo) Certified Scrum Master course by James O. Coplien
+[PR] 16 Jan : (Tokyo) Scrum Fine Tuning by James O. Coplien
+jp.agilergo.com
+}}
+{{mail(nishimura@nawo.to,1323658278)
+In <CAHY8s=DTJ8b7UZSqc38Hvg_MTvDfRZtMT6mqLaqfBzmzUjKG2w@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+> 　KDDIウェブコミュニケーションズはなんどか使った事があります。
+> 　部屋が半分ずつ、講義室(机が動かせる)とラウンジの２レイアウトになっているので、
+> 
+> 　講義室の方は永和さんの会議室をつなげたパターンよりちょっと広いくらいかも。
+> 　島型4～５人席が 6グループで通路が狭いかな、というくらい。
+> 　椅子で円陣作るパターンだと20人くらいですかね(やってないのでわからない)。
+
+なるほど。
+うーん、現地を知らないで観客制を試すのはちょっとマズいかなー。
+選手 15 名ぐらいでやってみるのが、無難な気がしてきた。
+}}
+{{mail(miholovesq@gmail.com,1323661583)
+反応するのを忘れてた！
+
+> うーん、現地を知らないで観客制を試すのはちょっとマズいかなー。
+> 選手 15 名ぐらいでやってみるのが、無難な気がしてきた。
+
+同感でーす。
+
+そういや、新しい会場ってことで会場の注意は不要なのかなってのが気になってきた。
+食べ物は持ち込まないでねとか、そういう制限はないのかなあ。
+色々調べずに言ってるのでごめんやでだけど。
+}}
+{{mail(ryuzee@gmail.com,1323661704)
+聞きたいことがあれば、事前に問い合わせしておくので
+まとめていただけると助かります。
+
+(11/12/12 12:46), Miho Nagase wrote:
+> 反応するのを忘れてた！
+> 
+>  > うーん、現地を知らないで観客制を試すのはちょっとマズいかなー。
+>  > 選手 15 名ぐらいでやってみるのが、無難な気がしてきた。
+> 
+> 同感でーす。
+> 
+> そういや、新しい会場ってことで会場の注意は不要なのかなってのが気になってきた。
+> 食べ物は持ち込まないでねとか、そういう制限はないのかなあ。
+> 色々調べずに言ってるのでごめんやでだけど。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1323664909)
+かわぐちです。
+
+  選手15名くらい、観客なし、にして
+ ラウンジを荷物置き場や待ち合わせつかうといいとおもいます
+
+2011年12月12日月曜日 Ryutaro YOSHIBA ryuzee@gmail.com:
+> 聞きたいことがあれば、事前に問い合わせしておくので
+> まとめていただけると助かります。
+>
+> (11/12/12 12:46), Miho Nagase wrote:
+>> 反応するのを忘れてた！
+>>
+>>  > うーん、現地を知らないで観客制を試すのはちょっとマズいかなー。
+>>  > 選手 15 名ぐらいでやってみるのが、無難な気がしてきた。
+>>
+>> 同感でーす。
+>>
+>> そういや、新しい会場ってことで会場の注意は不要なのかなってのが気になってきた。
+>> 食べ物は持ち込まないでねとか、そういう制限はないのかなあ。
+>> 色々調べずに言ってるのでごめんやでだけど。
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumDojo08.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1323665153)
+お待たせしました。イカでお願いします。
+
+当日は、コーチとして多くの現場で様々な完了の定義をしたり、見てきた話を
+ベースとして、完了の定義はいつ・どのように作るのか、またいつ見なおしたり
+変更するべきなのかといった話をしたいと思います。
+完了の定義の作り方に悩んでいる、完了の定義を定めたがチームが守れずに
+悩んでいるという方は是非ご参加ください。
+
+(11/12/09 17:36), Nishimura Naoto wrote:
+> 申し込みサイトつくったよー。
+> レビューよろ>  all
+> 
+> http://bit.ly/scrumdojo08
+> 
+> 読み手からのメッセージをお願いします。
+> 当日は...という方はぜひご参加ください。の間を埋めてくれ!!>  Ryuzee
+> 
+> あと、今回 KDDI ウェブコミュニケーションの開発者支援制度提供の会場を借りる事ができたので会場がいつもと違います。
+> 事前に下見に行くっという話があったけど、先日 Asakusa.rb が会場を使ったので聞いてみて、ホワイトボード、プロジェクター完備、、椅子は移動可能って事で大丈夫そうと判断しました。
+> 
+> ただ、会場が広いんだって。
+> 永和のいつものスペースの二倍はありそうなんで、観客を入れてもいいんじゃないかと悩んでます。
+> 今年最後かつ久々の Ryuzee の回だしね。なので、意見を募集中です。
+> 募集する際には、観客の申し込みページは別途作った方がいいかもとか、募集の仕方についてのアイデアもあわせて募集でーす。
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1323666973)
+In <4EE586FC.4070101@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> お待たせしました。イカでお願いします。
+> 
+> 当日は、コーチとして多くの現場で様々な完了の定義をしたり、見てきた話を
+>                       <snip>
+> 悩んでいるという方は是非ご参加ください。
+
+反映した!!
+
+In <CAHY8s=By5wt_KqvPAxtnndno7px4zGKb8hoYG=+EOVk7KbnjdA@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+>   選手15名くらい、観客なし、にして
+>  ラウンジを荷物置き場や待ち合わせつかうといいとおもいます
+
+今回はそうしよう。
+選手 15 名で観客なしにします。サイトも反映したつもり。
+募集も 15 名にしたけど、歩留まり考えると 20 名にしてもいいかも。
+
+2011年12月12日月曜日 Ryutaro YOSHIBA ryuzee@gmail.com:
+> 聞きたいことがあれば、事前に問い合わせしておくので
+> まとめていただけると助かります。
+
+入館の手続きとかいるのかなー。
+事前に名簿を渡す必要があるなら、こくちーずで本名とか書いてもらわないとダメかも。
+遅刻者の対応とかで気をつける事があるのかも気になる。例えば、何時以降は扉が閉まるとか。
+
+あと、当日は入館時に誰宛にうかがって、帰る際に何をしなければいけないかも知りたいです。
+}}
+{{mail(ryuzee@gmail.com,1323667287)
+KDDI Webコミュニケーションズさんから頂いている連絡事項を
+展開しておきます。
+
+これ以外の内容については僕から問い合せておきます。
+
+--------------------------------------------------------
+当日は6階に受付がございますので
+受付の電話で深田を呼び出してください。
+セミナールームも6階受付奥にございます。
+参加者にも6階に上がっていただきますようご連絡お願いします。
+
+また、お願いごととして
+セミナールームへの扉がセキュリティロックのかかる扉になりますため、
+あとで合流される方はご参加者の携帯電話を鳴らしていただくなどで
+中から扉を開けていただけますでしょうか？
+また、20時以降ビル入口の自動ドアが外からだと空けられなくなりますので、
+20時までにご参加者が集まれますようご案内いただけますと幸いです。
+（ビル入口の自動ドアも中からですと開きますので、
+お手間をお掛けしますが、セミナールーム同様、
+参加者の携帯電話を鳴らしていただくなどで
+中から自動ドアを開けていただけますでしょうか？）
+--------------------------------------------------------
+
+※この感じだと入館者リストとかいらなそうに見えるけどね。
+
+(11/12/12 14:16), Nishimura Naoto wrote:
+> In<4EE586FC.4070101@gmail.com>,
+> Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+> 
+>> お待たせしました。イカでお願いします。
+>>
+>> 当日は、コーチとして多くの現場で様々な完了の定義をしたり、見てきた話を
+>>                        <snip>
+>> 悩んでいるという方は是非ご参加ください。
+> 
+> 反映した!!
+> 
+> In<CAHY8s=By5wt_KqvPAxtnndno7px4zGKb8hoYG=+EOVk7KbnjdA@mail.gmail.com>,
+> Yasunobu Kawaguchi<kawaguti@gmail.com>  wrote:
+> 
+>>    選手15名くらい、観客なし、にして
+>>   ラウンジを荷物置き場や待ち合わせつかうといいとおもいます
+> 
+> 今回はそうしよう。
+> 選手 15 名で観客なしにします。サイトも反映したつもり。
+> 募集も 15 名にしたけど、歩留まり考えると 20 名にしてもいいかも。
+> 
+> 2011年12月12日月曜日 Ryutaro YOSHIBA ryuzee@gmail.com:
+>> 聞きたいことがあれば、事前に問い合わせしておくので
+>> まとめていただけると助かります。
+> 
+> 入館の手続きとかいるのかなー。
+> 事前に名簿を渡す必要があるなら、こくちーずで本名とか書いてもらわないとダメかも。
+> 遅刻者の対応とかで気をつける事があるのかも気になる。例えば、何時以降は扉が閉まるとか。
+> 
+> あと、当日は入館時に誰宛にうかがって、帰る際に何をしなければいけないかも知りたいです。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1323667691)
+とりあえず質問事項については先方に発射しました。
+回答まで少々お待ち下さい。
+
+またWebサイト側にも告知用のページを作って、公開待ち状態
+にしてあります。公開すればトップページにもお知らせとして
+載るはず。
+
+(11/12/12 14:16), Nishimura Naoto wrote:
+> In<4EE586FC.4070101@gmail.com>,
+> Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+> 
+>> お待たせしました。イカでお願いします。
+>>
+>> 当日は、コーチとして多くの現場で様々な完了の定義をしたり、見てきた話を
+>>                        <snip>
+>> 悩んでいるという方は是非ご参加ください。
+> 
+> 反映した!!
+> 
+> In<CAHY8s=By5wt_KqvPAxtnndno7px4zGKb8hoYG=+EOVk7KbnjdA@mail.gmail.com>,
+> Yasunobu Kawaguchi<kawaguti@gmail.com>  wrote:
+> 
+>>    選手15名くらい、観客なし、にして
+>>   ラウンジを荷物置き場や待ち合わせつかうといいとおもいます
+> 
+> 今回はそうしよう。
+> 選手 15 名で観客なしにします。サイトも反映したつもり。
+> 募集も 15 名にしたけど、歩留まり考えると 20 名にしてもいいかも。
+> 
+> 2011年12月12日月曜日 Ryutaro YOSHIBA ryuzee@gmail.com:
+>> 聞きたいことがあれば、事前に問い合わせしておくので
+>> まとめていただけると助かります。
+> 
+> 入館の手続きとかいるのかなー。
+> 事前に名簿を渡す必要があるなら、こくちーずで本名とか書いてもらわないとダメかも。
+> 遅刻者の対応とかで気をつける事があるのかも気になる。例えば、何時以降は扉が閉まるとか。
+> 
+> あと、当日は入館時に誰宛にうかがって、帰る際に何をしなければいけないかも知りたいです。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1323667744)
+In <20111212.141607.1641545740310744217.n-nishimura@esm.co.jp>,
+Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+> 2011年12月12日月曜日 Ryutaro YOSHIBA ryuzee@gmail.com:
+>> 聞きたいことがあれば、事前に問い合わせしておくので
+>> まとめていただけると助かります。
+
+スレ分けました。
+[[イベント会場]] にここまで挙がっている疑問点とかまとめました。
+}}
+{{mail(nishimura@nawo.to,1323667897)
+In <4EE590E5.2020805@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> とりあえず質問事項については先方に発射しました。
+> 回答まで少々お待ち下さい。
+
+ありがとー!!
+ 
+> またWebサイト側にも告知用のページを作って、公開待ち状態
+> にしてあります。公開すればトップページにもお知らせとして
+> 載るはず。
+
+入館者の名簿の件がクリアになったら公開しましょう。
+}}
+{{mail(ryuzee@gmail.com,1323672576)
+KDDI Webコミュニケーションズ様から回答いただきました。
+名簿不要です。なのでこくちーずで本名を取る必要はありません。
+
+-------
+
+> 1. 入館者の名簿や所属会社名等を事前または当日にご提示する必要があるか
+こちらは勉強会貸し出しで手配していますので
+参加者のご提出は不要です。
+
+> 2. 退出時の片付け等は何が必要か
+テーブルや椅子などを元の形に戻すのにご協力いただけますと幸いです。
+ゴミ等がでましたら、所定のゴミ箱へ捨てていただきますようご協力お願いします。
+
+> 3. 飲み物の持ち込みは可能か？(基本的に食べ物を持ち込む予定は
+> 　 ございません)
+はい、可能でございます。
+
+> 4. その他お借りするにあたり諸注意事項がございましたら
+> 　 ご提示をお願いしたい
+ご提供できます備品などはこちら
+http://www.cloudcore.jp/vps/develop/
+に記載しておりますのでご確認お願いいたします。
+その他は、先日のメールでご連絡させていただいた入退出での
+セキュリティロックの件です。
+
+
+(11/12/12 14:31), Nishimura Naoto wrote:
+> In<4EE590E5.2020805@gmail.com>,
+> Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+> 
+>> とりあえず質問事項については先方に発射しました。
+>> 回答まで少々お待ち下さい。
+> 
+> ありがとー!!
+> 
+>> またWebサイト側にも告知用のページを作って、公開待ち状態
+>> にしてあります。公開すればトップページにもお知らせとして
+>> 載るはず。
+> 
+> 入館者の名簿の件がクリアになったら公開しましょう。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1323675267)
+高江洲です。
+
+>> 2. 退出時の片付け等は何が必要か
+> テーブルや椅子などを元の形に戻すのにご協力いただけますと幸いです。
+> ゴミ等がでましたら、所定のゴミ箱へ捨てていただきますようご協力お願いします。
+>
+>> 3. 飲み物の持ち込みは可能か？(基本的に食べ物を持ち込む予定は
+>>　  ございません)
+> はい、可能でございます。
+
+ちょっとしたお菓子くらいは大丈夫、と解釈してよいんですよね？
+
+＃最近の勉強会はほとんど差し入れなどのおやつありのような気が。
+}}
+{{mail(ryuzee@gmail.com,1323675347)
+カスが出るようなものでなければ大丈夫だと思います。
+＃常識的な選択をしましょうｗ
+
+(11/12/12 16:34), Makoto Takaesu wrote:
+> 高江洲です。
+> 
+>>> 2. 退出時の片付け等は何が必要か
+>> テーブルや椅子などを元の形に戻すのにご協力いただけますと幸いです。
+>> ゴミ等がでましたら、所定のゴミ箱へ捨てていただきますようご協力お願いします。
+>>
+>>> 3. 飲み物の持ち込みは可能か？(基本的に食べ物を持ち込む予定は
+>>> 　  ございません)
+>> はい、可能でございます。
+> 
+> ちょっとしたお菓子くらいは大丈夫、と解釈してよいんですよね？
+> 
+> ＃最近の勉強会はほとんど差し入れなどのおやつありのような気が。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1323676069)
+2011年12月12日15:49 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> KDDI Webコミュニケーションズ様から回答いただきました。
+
+ありがとうっす！
+# あとは忘年会の手配か…w
+}}
+{{mail(takaesu0@gmail.com,1323676079)
+> カスが出るようなものでなければ大丈夫だと思います。
+> ＃常識的な選択をしましょうｗ
+
+そうなんすよねぇ。
+
+ポテチやせんべいよりは、チロルチョコのような一口サイズで
+配りやすくて回収しやすいもので。
+
+差し入れに関しては参加者の好意はありがたくいただきたい
+ところだとは思いますが、何らかの注意書きはしておいたほうが
+いいのかなぁと。
+
+ごみの回収が自治体によっては結構めんどくさかったりして、
+後片付けに支障をきたしたりということも。。。
+}}
+{{mail(kawaguti@gmail.com,1323676367)
+かわぐちです。
+
+　おしゃれな部屋なので、ポテチこぼすとだいぶひんしゅくだと思います。
+ 　飲み物は自販機があります。
+
+2011年12月12日16:47 Makoto Takaesu <takaesu0@gmail.com>:
+>> カスが出るようなものでなければ大丈夫だと思います。
+>> ＃常識的な選択をしましょうｗ
+>
+> そうなんすよねぇ。
+>
+> ポテチやせんべいよりは、チロルチョコのような一口サイズで
+> 配りやすくて回収しやすいもので。
+>
+> 差し入れに関しては参加者の好意はありがたくいただきたい
+> ところだとは思いますが、何らかの注意書きはしておいたほうが
+> いいのかなぁと。
+>
+> ごみの回収が自治体によっては結構めんどくさかったりして、
+> 後片付けに支障をきたしたりということも。。。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumDojo08.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+[PR] 10-11 Jan : (Osaka) Certified Product Owner course by James O. Coplien
+[PR] 12-13 Jan : (Tokyo) Certified Scrum Master course by James O. Coplien
+[PR] 16 Jan : (Tokyo) Scrum Fine Tuning by James O. Coplien
+jp.agilergo.com
+}}
+{{mail(nishimura@nawo.to,1323738373)
+In <20111212.143132.697074936449285136.n-nishimura@esm.co.jp>,
+Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+>> またWebサイト側にも告知用のページを作って、公開待ち状態
+>> にしてあります。公開すればトップページにもお知らせとして
+>> 載るはず。
+> 
+> 入館者の名簿の件がクリアになったら公開しましょう。
+
+クリアになったので公開しました。
+
+bit.ly/scrumdojo08
+
+よーし、あとは忘年会と当日スタッフだ!!
+}}
+{{mail(ryuzee@gmail.com,1323741934)
+サイト側でのお知らせ掲載とTweetも完了。
+
+http://www.taoofscrum.org/contents/post/205
+
+まだスライドは１枚もありませんｗ
+
+(11/12/13 10:06), Nishimura Naoto wrote:
+> In<20111212.143132.697074936449285136.n-nishimura@esm.co.jp>,
+> Nishimura Naoto<n-nishimura@esm.co.jp>  wrote:
+> 
+>>> またWebサイト側にも告知用のページを作って、公開待ち状態
+>>> にしてあります。公開すればトップページにもお知らせとして
+>>> 載るはず。
+>>
+>> 入館者の名簿の件がクリアになったら公開しましょう。
+> 
+> クリアになったので公開しました。
+> 
+> bit.ly/scrumdojo08
+> 
+> よーし、あとは忘年会と当日スタッフだ!!
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(sarastier@gmail.com,1323786042)
+例によって何も貢献できてないのでせめて当日スタッフをさせて下さい。
+}}
+{{mail(miholovesq@gmail.com,1323825478)
+2011年12月13日10:06 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> よーし、あとは忘年会と当日スタッフだ!!
+
+忘年会周りやりまーす。
+とりあえず人数不確定のまま仮押さえして、その後別スレもしくはなんかのサービスで人数調整しまーす。
+# そう、初めて入った会社は麹町1丁目だったわ…（遠い目
+
+Trelloも更新してみたけどあんな感じで使い方あってんのかな？w
+}}
+{{mail(miholovesq@gmail.com,1323827265)
+2011年12月14日10:17 Miho Nagase <miholovesq@gmail.com>:
+> 2011年12月13日10:06 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> よーし、あとは忘年会と当日スタッフだ!!
+>
+> 忘年会周りやりまーす。
+> とりあえず人数不確定のまま仮押さえして、その後別スレもしくはなんかのサービスで人数調整しまーす。
+
+忘年道2011の参加表明はこちら！ http://twipla.jp/events/16572
+参加できない方も不参加表明してください。
+人数把握のため、早めのご協力よろしくお願いしまーす。
+
+# 例のごとくスタッフ優先で考えています。参加人数を見ながら考えよう。
+}}
+{{mail(nishimura@nawo.to,1323833433)
+In <4EE6B2EC.80407@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> サイト側でのお知らせ掲載とTweetも完了。
+> 
+> http://www.taoofscrum.org/contents/post/205
+
+ありがとー。
+今度から bit.ly の短縮URLは公式サイトの URL に対してやろうと学んだww
+}}
+{{mail(nishimura@nawo.to,1323847570)
+In <CAHNDpj+OxV_z2UhML146n20PkGWrCsKWHjmKMKvU79_MfP34oQ@mail.gmail.com>,
+Ken Matsumoto <sarastier@gmail.com> wrote:
+
+> 例によって何も貢献できてないのでせめて当日スタッフをさせて下さい。
+
+ありがとうございまーす。
+当日スタッフで来れる(かも)の人はスレの上部に記入するにしましょう。
+}}
+{{mail(nishimura@nawo.to,1323847876)
+In <CAPG=6LZjgaLWb=TDEghvqYiwNaCTtt-MMV_1e7_PyPg17g0_+A@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> 忘年会周りやりまーす。
+
+ありがとうございまーす。
+# Twipla も記入したお
+
+> Trelloも更新してみたけどあんな感じで使い方あってんのかな？w
+
+あってるあってるww
+}}
+{{mail(takaesu0@gmail.com,1323848624)
+高江洲です。
+
+> 当日スタッフで来れる(かも)の人はスレの上部に記入するにしましょう。
+
+スレの上部ってなんのスレ？
+
+とりあえずスタッフ業しに早めにいきたい。
+}}
+{{mail(miholovesq@gmail.com,1323848850)
+2011年12月14日16:43 Makoto Takaesu <takaesu0@gmail.com>:
+> スレの上部ってなんのスレ？
+
+archive-> http://qwik.jp/taoofscrum/ScrumDojo08.html
+
+これこれ。
+nawoto, miholovesq, と続きます。
+}}
+{{mail(miholovesq@gmail.com,1323934421)
+2011年12月14日10:47 Miho Nagase <miholovesq@gmail.com>:
+> 忘年道2011の参加表明はこちら！ http://twipla.jp/events/16572
+> 参加できない方も不参加表明してください。
+> 人数把握のため、早めのご協力よろしくお願いしまーす。
+
+お店はとり鉄麹町店にしました。
+で、忘年会シーズンのため、席数の調整にはシビアみたいです。
+1週間前までにお店に連絡しなきゃいけませんので、すみませんが今週中、最悪12/19の
+夕方前には参加・不参加表明をお願いします。
+http://twipla.jp/events/16572
+
+しくよろちゃんです！
+}}
+{{mail(nishimura@nawo.to,1324262297)
+In <CAPG=6LY4Z_j8wOuhcxQSpx0AEX+aDHLVD_48ki9_Bh8F0MHxQQ@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> お店はとり鉄麹町店にしました。
+> で、忘年会シーズンのため、席数の調整にはシビアみたいです。
+> 1週間前までにお店に連絡しなきゃいけませんので、すみませんが今週中、最悪12/19の
+> 夕方前には参加・不参加表明をお願いします。
+> http://twipla.jp/events/16572
+
+今日までですよー。
+}}
+{{mail(kawaguti@gmail.com,1324264532)
+かわぐちです。
+
+　参加してもいいですか～。
+
+2011年12月19日11:38 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CAPG=6LY4Z_j8wOuhcxQSpx0AEX+aDHLVD_48ki9_Bh8F0MHxQQ@mail.gmail.com>,
+> Miho Nagase <miholovesq@gmail.com> wrote:
+>
+>> お店はとり鉄麹町店にしました。
+>> で、忘年会シーズンのため、席数の調整にはシビアみたいです。
+>> 1週間前までにお店に連絡しなきゃいけませんので、すみませんが今週中、最悪12/19の
+>> 夕方前には参加・不参加表明をお願いします。
+>> http://twipla.jp/events/16572
+>
+> 今日までですよー。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumDojo08.html
+> ML-> taoofscrum@qwik.jp
+
+
+
+-- 
+[PR] 10-11 Jan : (Osaka) Certified Product Owner course by James O. Coplien
+[PR] 12-13 Jan : (Tokyo) Certified Scrum Master course by James O. Coplien
+[PR] 16 Jan : (Tokyo) Scrum Fine Tuning by James O. Coplien
+jp.agilergo.com
+}}
+{{mail(nishimura@nawo.to,1324266635)
+In <CAHY8s=A+rZtRWTnUH1giMGHz6o08GG=jyE5RVyjf3N_3sgXAtQ@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+> 　参加してもいいですか～。
+
+許可は求めるなww
+# どうぞどうぞ
+}}
+{{mail(kawaguti@gmail.com,1324267153)
+かわぐちです。
+
+>>　 参加してもいいですか～。>> 許可は求めるなww> # どうぞどうぞ
+すみません。(謝罪した)
+-- 
+[PR] 10-11 Jan : (Osaka) Certified Product Owner course by James O. Coplien
+[PR] 12-13 Jan : (Tokyo) Certified Scrum Master course by James O. Coplien
+[PR] 16 Jan : (Tokyo) Scrum Fine Tuning by James O. Coplien
+jp.agilergo.com
+}}
+{{mail(nishimura@nawo.to,1324285545)
+In <CAHY8s=A-oEOQnU0r5gWPKs8ZvKZ+xKvUq8EafhEJAhfmmtsqig@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+>>>　 参加してもいいですか～。>> 許可は求めるなww> # どうぞどうぞ
+> すみません。(謝罪した)
+
+申し込みだけ忘れないでね。
+締切は、みーたんの気分次第だろうしww
+
+http://twipla.jp/events/16572
+}}
+{{mail(miholovesq@gmail.com,1324290252)
+皆様ご協力ありがとうございました。
+
+2011/12/19 18:05 "Nishimura Naoto" <n-nishimura@esm.co.jp>:
+>
+> In <CAHY8s=A-oEOQnU0r5gWPKs8ZvKZ+xKvUq8EafhEJAhfmmtsqig@mail.gmail.com>,
+> Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+>
+> >>>  参加してもいいですか～。>> 許可は求めるなww> # どうぞどうぞ
+> > すみません。(謝罪した)
+>
+> 申し込みだけ忘れないでね。
+> 締切は、みーたんの気分次第だろうしww
+
+よくお分かりでw
+よし！ 締め切るぞ！
+かわぐちさん入れて10人で予約するぞ。
+バッファ積むかなー。
+
+22時まで待ちます。
+}}
+{{mail(imagire@gmail.com,1324856629)
+今給黎です。
+
+SGTの終了後に預かったポストイットとペンを持っていきます。
+(私が遅刻する可能性が高そうな方が問題な気がしますが...)
+}}
+{{mail(nishimura@nawo.to,1324875927)
+In <CACCYYWRTZYjuCfgvJ4ih3HeWg11iKauuz724Eh9zSfaB16aK9w@mail.gmail.com>,
+imagire takashi <imagire@gmail.com> wrote:
+
+> SGTの終了後に預かったポストイットとペンを持っていきます。
+> (私が遅刻する可能性が高そうな方が問題な気がしますが...)
+
+お願いしまーす。
+そこら辺の備品については失念してたわww
+}}
+{{mail(miholovesq@gmail.com,1324876955)
+忘れてた。
+独断だけど、SGTの残備品の山分けリストから吊り下げ名札を確保したので、
+今日持って行こうと思ってます。
+
+おそらくnawotoのところにkappa4から連絡行ってたと思うけど。
+いらなかったかな？
+}}
+{{mail(kawaguti@gmail.com,1324881228)
+かわぐちです。
+
+　そうだ、ギャザリングの名札を預かったので持っていきます。
+　忘れなければ。
+
+-- 
+[PR] 10-11 Jan : (Osaka) Certified Product Owner course by James O. Coplien
+[PR] 12-13 Jan : (Tokyo) Certified Scrum Master course by James O. Coplien
+[PR] 16 Jan : (Tokyo) Scrum Fine Tuning by James O. Coplien
+jp.agilergo.com
+}}
+{{mail(nishimura@nawo.to,1324883739)
+お、名札とかホルダーとか一丁前のコミュニティみたいじゃないかww
+ありがとうありがとう。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1324885979)
+今日行けないのですが、Ryuzeeさんがんばってくださいね!
+}}
+{{mail(ryuzee@gmail.com,1324886051)
+ありがとうございます！
+今年はもうお会いする機会はないですね。
+良いお年を！
+
+(11/12/26 16:52), Kaz Takahashi wrote:
+> 今日行けないのですが、Ryuzeeさんがんばってくださいね!
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1324890741)
+かわぐちです
+
+  名札わすれました
+  想定可能なすべての障害は顕在化するっ
+
+-- 
+[PR] 10-11 Jan : (Osaka) Certified Product Owner course by James O. Coplien
+[PR] 12-13 Jan : (Tokyo) Certified Scrum Master course by James O. Coplien
+[PR] 16 Jan : (Tokyo) Scrum Fine Tuning by James O. Coplien
+jp.agilergo.com
+}}

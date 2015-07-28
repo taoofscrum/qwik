@@ -1,0 +1,963 @@
+* 第２回Scrum Boot Campの懇親会
+{{mail(ryuzee@gmail.com,1311317607)
+Ryuzeeです。
+
+Scrum Boot Campが来週に迫ってきましたが、
+懇親会どうしましょうか？
+前回は持ち込みでその場で開催できましたが、今回はMSさんで
+食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+思ってます。
+
+ということで幹事求む！！（すいません）
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1311317934)
+かわぐちです。
+
+  向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+
+On 2011/07/22, at 15:53, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> Ryuzeeです。
+> 
+> Scrum Boot Campが来週に迫ってきましたが、
+> 懇親会どうしましょうか？
+> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+> 思ってます。
+> 
+> ということで幹事求む！！（すいません）
+> 
+> -- 
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/3.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takaesu0@gmail.com,1311318292)
+高江洲です。
+
+土風炉ですかね。
+http://www.sicity.co.jp/h/index_h.html
+
+あと、OutbackならMSさんとこから近いかと。
+http://www.outbacksteakhouse.co.jp/location/obg_shinagawa.html
+
+2011年7月22日15:56 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> かわぐちです。
+>
+>  向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+>
+> On 2011/07/22, at 15:53, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+>
+>> Ryuzeeです。
+>>
+>> Scrum Boot Campが来週に迫ってきましたが、
+>> 懇親会どうしましょうか？
+>> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+>> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+>> 思ってます。
+>>
+>> ということで幹事求む！！（すいません）
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/3.html
+>> ML-> taoofscrum@qwik.jp
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/3.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(takaesu0@gmail.com,1311318737)
+高江洲です。
+
+求めていたのはお店情報ではなく幹事なんですね。
+
+現場も品川ですしやりますよー。
+
+懇親会参加者は何人くらいですっけ？
+
+2011年7月22日16:04 Makoto Takaesu <takaesu0@gmail.com>:
+> 高江洲です。
+>
+> 土風炉ですかね。
+> http://www.sicity.co.jp/h/index_h.html
+>
+> あと、OutbackならMSさんとこから近いかと。
+> http://www.outbacksteakhouse.co.jp/location/obg_shinagawa.html
+>
+> 2011年7月22日15:56 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>> かわぐちです。
+>>
+>>  向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+>>
+>> On 2011/07/22, at 15:53, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+>>
+>>> Ryuzeeです。
+>>>
+>>> Scrum Boot Campが来週に迫ってきましたが、
+>>> 懇親会どうしましょうか？
+>>> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+>>> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+>>> 思ってます。
+>>>
+>>> ということで幹事求む！！（すいません）
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive-> http://qwik.jp/taoofscrum/3.html
+>>> ML-> taoofscrum@qwik.jp
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/3.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>
+}}
+{{mail(ryuzee@gmail.com,1311318893)
+幹事求めてました。紛らわしくてすいません。
+
+懇親会参加者は、SBCの参加者22人＋スタッフ＋当日お手伝い頂くMS長沢さん
+位を想定ください。だいたい30人くらい。
+
+よろしくお願いします。
+
+(11/07/22 16:12), Makoto Takaesu wrote:
+> 高江洲です。
+> 
+> 求めていたのはお店情報ではなく幹事なんですね。
+> 
+> 現場も品川ですしやりますよー。
+> 
+> 懇親会参加者は何人くらいですっけ？
+> 
+> 2011年7月22日16:04 Makoto Takaesu<takaesu0@gmail.com>:
+>> 高江洲です。
+>>
+>> 土風炉ですかね。
+>> http://www.sicity.co.jp/h/index_h.html
+>>
+>> あと、OutbackならMSさんとこから近いかと。
+>> http://www.outbacksteakhouse.co.jp/location/obg_shinagawa.html
+>>
+>> 2011年7月22日15:56 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>> かわぐちです。
+>>>
+>>>   向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+>>>
+>>> On 2011/07/22, at 15:53, Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+>>>
+>>>> Ryuzeeです。
+>>>>
+>>>> Scrum Boot Campが来週に迫ってきましたが、
+>>>> 懇親会どうしましょうか？
+>>>> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+>>>> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+>>>> 思ってます。
+>>>>
+>>>> ということで幹事求む！！（すいません）
+>>>>
+>>>> --
+>>>> Ryutaro YOSHIBA / Ryuzee
+>>>> Agile Coach / Certified Scrum Professional
+>>>> http://www.ryuzee.com
+>>>> http://twitter.com/ryuzee
+>>>> --
+>>>> This message contains confidential information and is intended
+>>>> only for the individual named. If you are not the named addressee
+>>>> you should not disseminate, distribute or copy this e-mail.
+>>>> Please notify the sender immediately by e-mail if you have received
+>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>
+>>>> --
+>>>> archive->  http://qwik.jp/taoofscrum/3.html
+>>>> ML->  taoofscrum@qwik.jp
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/3.html
+>>> ML->  taoofscrum@qwik.jp
+>>>
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1311319258)
+了解ですー。
+
+その人数だと大きめの部屋を用意できるところがいいですねぇ。
+
+ちと探してみます。
+
+2011年7月22日16:14 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> 幹事求めてました。紛らわしくてすいません。
+>
+> 懇親会参加者は、SBCの参加者22人＋スタッフ＋当日お手伝い頂くMS長沢さん
+> 位を想定ください。だいたい30人くらい。
+>
+> よろしくお願いします。
+>
+> (11/07/22 16:12), Makoto Takaesu wrote:
+>> 高江洲です。
+>>
+>> 求めていたのはお店情報ではなく幹事なんですね。
+>>
+>> 現場も品川ですしやりますよー。
+>>
+>> 懇親会参加者は何人くらいですっけ？
+>>
+>> 2011年7月22日16:04 Makoto Takaesu<takaesu0@gmail.com>:
+>>> 高江洲です。
+>>>
+>>> 土風炉ですかね。
+>>> http://www.sicity.co.jp/h/index_h.html
+>>>
+>>> あと、OutbackならMSさんとこから近いかと。
+>>> http://www.outbacksteakhouse.co.jp/location/obg_shinagawa.html
+>>>
+>>> 2011年7月22日15:56 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>>> かわぐちです。
+>>>>
+>>>>   向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+>>>>
+>>>> On 2011/07/22, at 15:53, Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+>>>>
+>>>>> Ryuzeeです。
+>>>>>
+>>>>> Scrum Boot Campが来週に迫ってきましたが、
+>>>>> 懇親会どうしましょうか？
+>>>>> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+>>>>> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+>>>>> 思ってます。
+>>>>>
+>>>>> ということで幹事求む！！（すいません）
+>>>>>
+>>>>> --
+>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>> Agile Coach / Certified Scrum Professional
+>>>>> http://www.ryuzee.com
+>>>>> http://twitter.com/ryuzee
+>>>>> --
+>>>>> This message contains confidential information and is intended
+>>>>> only for the individual named. If you are not the named addressee
+>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>
+>>>>> --
+>>>>> archive->  http://qwik.jp/taoofscrum/3.html
+>>>>> ML->  taoofscrum@qwik.jp
+>>>>
+>>>> --
+>>>> archive->  http://qwik.jp/taoofscrum/3.html
+>>>> ML->  taoofscrum@qwik.jp
+>>>>
+>>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/3.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1311319356)
+お手数かけますがよろしくお願いしますー。
+
+Ryuzee
+
+(11/07/22 16:20), Makoto Takaesu wrote:
+> 了解ですー。
+> 
+> その人数だと大きめの部屋を用意できるところがいいですねぇ。
+> 
+> ちと探してみます。
+> 
+> 2011年7月22日16:14 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> 幹事求めてました。紛らわしくてすいません。
+>>
+>> 懇親会参加者は、SBCの参加者22人＋スタッフ＋当日お手伝い頂くMS長沢さん
+>> 位を想定ください。だいたい30人くらい。
+>>
+>> よろしくお願いします。
+>>
+>> (11/07/22 16:12), Makoto Takaesu wrote:
+>>> 高江洲です。
+>>>
+>>> 求めていたのはお店情報ではなく幹事なんですね。
+>>>
+>>> 現場も品川ですしやりますよー。
+>>>
+>>> 懇親会参加者は何人くらいですっけ？
+>>>
+>>> 2011年7月22日16:04 Makoto Takaesu<takaesu0@gmail.com>:
+>>>> 高江洲です。
+>>>>
+>>>> 土風炉ですかね。
+>>>> http://www.sicity.co.jp/h/index_h.html
+>>>>
+>>>> あと、OutbackならMSさんとこから近いかと。
+>>>> http://www.outbacksteakhouse.co.jp/location/obg_shinagawa.html
+>>>>
+>>>> 2011年7月22日15:56 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>>>> かわぐちです。
+>>>>>
+>>>>>    向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+>>>>>
+>>>>> On 2011/07/22, at 15:53, Ryutaro YOSHIBA<ryuzee@gmail.com>   wrote:
+>>>>>
+>>>>>> Ryuzeeです。
+>>>>>>
+>>>>>> Scrum Boot Campが来週に迫ってきましたが、
+>>>>>> 懇親会どうしましょうか？
+>>>>>> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+>>>>>> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+>>>>>> 思ってます。
+>>>>>>
+>>>>>> ということで幹事求む！！（すいません）
+>>>>>>
+>>>>>> --
+>>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>>> Agile Coach / Certified Scrum Professional
+>>>>>> http://www.ryuzee.com
+>>>>>> http://twitter.com/ryuzee
+>>>>>> --
+>>>>>> This message contains confidential information and is intended
+>>>>>> only for the individual named. If you are not the named addressee
+>>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>>
+>>>>>> --
+>>>>>> archive->   http://qwik.jp/taoofscrum/3.html
+>>>>>> ML->   taoofscrum@qwik.jp
+>>>>>
+>>>>> --
+>>>>> archive->   http://qwik.jp/taoofscrum/3.html
+>>>>> ML->   taoofscrum@qwik.jp
+>>>>>
+>>>>
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/3.html
+>> ML->  taoofscrum@qwik.jp
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1311325331)
+かわぐちです。
+
+  ええ、たしか土風炉です。
+  土曜日だし、早い時間なら予約なしで入れるような。
+
+On 2011/07/22, at 16:04, Makoto Takaesu <takaesu0@gmail.com> wrote:
+
+> 高江洲です。
+> 
+> 土風炉ですかね。
+> http://www.sicity.co.jp/h/index_h.html
+> 
+> あと、OutbackならMSさんとこから近いかと。
+> http://www.outbacksteakhouse.co.jp/location/obg_shinagawa.html
+> 
+> 2011年7月22日15:56 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>> かわぐちです。
+>> 
+>> 向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+>> 
+>> On 2011/07/22, at 15:53, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+>> 
+>>> Ryuzeeです。
+>>> 
+>>> Scrum Boot Campが来週に迫ってきましたが、
+>>> 懇親会どうしましょうか？
+>>> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+>>> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+>>> 思ってます。
+>>> 
+>>> ということで幹事求む！！（すいません）
+>>> 
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>> 
+>>> --
+>>> archive-> http://qwik.jp/taoofscrum/3.html
+>>> ML-> taoofscrum@qwik.jp
+>> 
+>> --
+>> archive-> http://qwik.jp/taoofscrum/3.html
+>> ML-> taoofscrum@qwik.jp
+>> 
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/3.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takaesu0@gmail.com,1311865066)
+高江洲です。
+
+とりあえずここでとりました。
+
+創作ダイニング 土間
+品川イーストワンタワー店
+http://r.gnavi.co.jp/g220016/menu2.html
+
+2980円のコースで30人、タカエスの名前でとってます。
+
+このコースだと2時間飲み放題なのですが、別途クーポンを使って
+3時間3750円のコースもあります。
+
+コースの変更は明日の午前11時半ごろまでならよいらしいので、
+3時間でいくね？ということであれば電話して変更しときます。
+
+また、人数の変更は16時までとのことで、30人から変わる
+ならそのときまでに連絡が必要です。
+
+部屋はぴったり30人のところしか空いてなかったので、大きく
+増えても残念ながら入れないのはご了承ください。
+
+2、3人程度ならなんとか入れるようです。
+
+30にしちゃうとドタ参はほぼ無理かなー。
+
+それ考えると32名とかにしちゃいたいけど、減っても32名分とられちゃうし。。。
+
+＃毎度のことながらそういうところがコースの悩ましいところ。
+
+よろしくお願いします。
+
+2011年7月22日18:00 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> かわぐちです。
+>
+>  ええ、たしか土風炉です。
+>  土曜日だし、早い時間なら予約なしで入れるような。
+>
+> On 2011/07/22, at 16:04, Makoto Takaesu <takaesu0@gmail.com> wrote:
+>
+>> 高江洲です。
+>>
+>> 土風炉ですかね。
+>> http://www.sicity.co.jp/h/index_h.html
+>>
+>> あと、OutbackならMSさんとこから近いかと。
+>> http://www.outbacksteakhouse.co.jp/location/obg_shinagawa.html
+>>
+>> 2011年7月22日15:56 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>>> かわぐちです。
+>>>
+>>> 向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+>>>
+>>> On 2011/07/22, at 15:53, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+>>>
+>>>> Ryuzeeです。
+>>>>
+>>>> Scrum Boot Campが来週に迫ってきましたが、
+>>>> 懇親会どうしましょうか？
+>>>> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+>>>> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+>>>> 思ってます。
+>>>>
+>>>> ということで幹事求む！！（すいません）
+>>>>
+>>>> --
+>>>> Ryutaro YOSHIBA / Ryuzee
+>>>> Agile Coach / Certified Scrum Professional
+>>>> http://www.ryuzee.com
+>>>> http://twitter.com/ryuzee
+>>>> --
+>>>> This message contains confidential information and is intended
+>>>> only for the individual named. If you are not the named addressee
+>>>> you should not disseminate, distribute or copy this e-mail.
+>>>> Please notify the sender immediately by e-mail if you have received
+>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>
+>>>> --
+>>>> archive-> http://qwik.jp/taoofscrum/3.html
+>>>> ML-> taoofscrum@qwik.jp
+>>>
+>>> --
+>>> archive-> http://qwik.jp/taoofscrum/3.html
+>>> ML-> taoofscrum@qwik.jp
+>>>
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/3.html
+>> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(harada.kiro@gmail.com,1311867316)
+原田です。
+
+手伝えてなくてごめなさいです。
+
+地方営業をちゃくちゃくと進めてますので、お楽しみに。
+詳細は、土曜日が終わってからで。
+
+無理しないでがんばってください。
+--
+原田騎郎
+株式会社 情報システム総研
+
+
+2011年7月28日23:57 Makoto Takaesu <takaesu0@gmail.com>:
+
+> 高江洲です。
+>
+> とりあえずここでとりました。
+>
+> 創作ダイニング 土間
+> 品川イーストワンタワー店
+> http://r.gnavi.co.jp/g220016/menu2.html
+>
+> 2980円のコースで30人、タカエスの名前でとってます。
+>
+> このコースだと2時間飲み放題なのですが、別途クーポンを使って
+> 3時間3750円のコースもあります。
+>
+> コースの変更は明日の午前11時半ごろまでならよいらしいので、
+> 3時間でいくね？ということであれば電話して変更しときます。
+>
+> また、人数の変更は16時までとのことで、30人から変わる
+> ならそのときまでに連絡が必要です。
+>
+> 部屋はぴったり30人のところしか空いてなかったので、大きく
+> 増えても残念ながら入れないのはご了承ください。
+>
+> 2、3人程度ならなんとか入れるようです。
+>
+> 30にしちゃうとドタ参はほぼ無理かなー。
+>
+> それ考えると32名とかにしちゃいたいけど、減っても32名分とられちゃうし。。。
+>
+> ＃毎度のことながらそういうところがコースの悩ましいところ。
+>
+> よろしくお願いします。
+>
+> 2011年7月22日18:00 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> > かわぐちです。
+> >
+> >  ええ、たしか土風炉です。
+> >  土曜日だし、早い時間なら予約なしで入れるような。
+> >
+> > On 2011/07/22, at 16:04, Makoto Takaesu <takaesu0@gmail.com> wrote:
+> >
+> >> 高江洲です。
+> >>
+> >> 土風炉ですかね。
+> >> http://www.sicity.co.jp/h/index_h.html
+> >>
+> >> あと、OutbackならMSさんとこから近いかと。
+> >> http://www.outbacksteakhouse.co.jp/location/obg_shinagawa.html
+> >>
+> >> 2011年7月22日15:56 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> >>> かわぐちです。
+> >>>
+> >>> 向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+> >>>
+> >>> On 2011/07/22, at 15:53, Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+> >>>
+> >>>> Ryuzeeです。
+> >>>>
+> >>>> Scrum Boot Campが来週に迫ってきましたが、
+> >>>> 懇親会どうしましょうか？
+> >>>> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+> >>>> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+> >>>> 思ってます。
+> >>>>
+> >>>> ということで幹事求む！！（すいません）
+> >>>>
+> >>>> --
+> >>>> Ryutaro YOSHIBA / Ryuzee
+> >>>> Agile Coach / Certified Scrum Professional
+> >>>> http://www.ryuzee.com
+> >>>> http://twitter.com/ryuzee
+> >>>> --
+> >>>> This message contains confidential information and is intended
+> >>>> only for the individual named. If you are not the named addressee
+> >>>> you should not disseminate, distribute or copy this e-mail.
+> >>>> Please notify the sender immediately by e-mail if you have received
+> >>>> this e-mail by mistake and delete this e-mail from your system.
+> >>>>
+> >>>> --
+> >>>> archive-> http://qwik.jp/taoofscrum/3.html
+> >>>> ML-> taoofscrum@qwik.jp
+> >>>
+> >>> --
+> >>> archive-> http://qwik.jp/taoofscrum/3.html
+> >>> ML-> taoofscrum@qwik.jp
+> >>>
+> >>
+> >> --
+> >> archive-> http://qwik.jp/taoofscrum/3.html
+> >> ML-> taoofscrum@qwik.jp
+> >
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/3.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1311870129)
+Ryuzeeです。
+
+予約ありがとうございました。
+個人的には２時間で良いかなぁと思うけど、他の人の意見を待ちます。
+
+人数については、
+参加者：２１人
+コーチ：８人
+MSさん：１人（もう１人追加かも）
+なので、現在見えている段階で31人ですね。
+
+当日受付する際に再確認する感じかと思います。
+
+＃飲み屋は人数が減るのは嫌がるけど、後から増える分にはそんなに
+　嫌がらないですよね。増えた人数分の料理って通常出さないし。
+
+(11/07/28 23:57), Makoto Takaesu wrote:
+> 高江洲です。
+> 
+> とりあえずここでとりました。
+> 
+> 創作ダイニング 土間
+> 品川イーストワンタワー店
+> http://r.gnavi.co.jp/g220016/menu2.html
+> 
+> 2980円のコースで30人、タカエスの名前でとってます。
+> 
+> このコースだと2時間飲み放題なのですが、別途クーポンを使って
+> 3時間3750円のコースもあります。
+> 
+> コースの変更は明日の午前11時半ごろまでならよいらしいので、
+> 3時間でいくね？ということであれば電話して変更しときます。
+> 
+> また、人数の変更は16時までとのことで、30人から変わる
+> ならそのときまでに連絡が必要です。
+> 
+> 部屋はぴったり30人のところしか空いてなかったので、大きく
+> 増えても残念ながら入れないのはご了承ください。
+> 
+> 2、3人程度ならなんとか入れるようです。
+> 
+> 30にしちゃうとドタ参はほぼ無理かなー。
+> 
+> それ考えると32名とかにしちゃいたいけど、減っても32名分とられちゃうし。。。
+> 
+> ＃毎度のことながらそういうところがコースの悩ましいところ。
+> 
+> よろしくお願いします。
+> 
+> 2011年7月22日18:00 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>> かわぐちです。
+>>
+>>   ええ、たしか土風炉です。
+>>   土曜日だし、早い時間なら予約なしで入れるような。
+>>
+>> On 2011/07/22, at 16:04, Makoto Takaesu<takaesu0@gmail.com>  wrote:
+>>
+>>> 高江洲です。
+>>>
+>>> 土風炉ですかね。
+>>> http://www.sicity.co.jp/h/index_h.html
+>>>
+>>> あと、OutbackならMSさんとこから近いかと。
+>>> http://www.outbacksteakhouse.co.jp/location/obg_shinagawa.html
+>>>
+>>> 2011年7月22日15:56 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>>> かわぐちです。
+>>>>
+>>>> 向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+>>>>
+>>>> On 2011/07/22, at 15:53, Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+>>>>
+>>>>> Ryuzeeです。
+>>>>>
+>>>>> Scrum Boot Campが来週に迫ってきましたが、
+>>>>> 懇親会どうしましょうか？
+>>>>> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+>>>>> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+>>>>> 思ってます。
+>>>>>
+>>>>> ということで幹事求む！！（すいません）
+>>>>>
+>>>>> --
+>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>> Agile Coach / Certified Scrum Professional
+>>>>> http://www.ryuzee.com
+>>>>> http://twitter.com/ryuzee
+>>>>> --
+>>>>> This message contains confidential information and is intended
+>>>>> only for the individual named. If you are not the named addressee
+>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>
+>>>>> --
+>>>>> archive->  http://qwik.jp/taoofscrum/3.html
+>>>>> ML->  taoofscrum@qwik.jp
+>>>>
+>>>> --
+>>>> archive->  http://qwik.jp/taoofscrum/3.html
+>>>> ML->  taoofscrum@qwik.jp
+>>>>
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/3.html
+>>> ML->  taoofscrum@qwik.jp
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1311873574)
+高江洲です。
+
+まぁ減っても人数分払えばいいだけなんですけどねw
+
+では今のところ31名で。
+
+16時までは変更受付可能です！
+
+2011年7月29日1:22 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> 予約ありがとうございました。
+> 個人的には２時間で良いかなぁと思うけど、他の人の意見を待ちます。
+>
+> 人数については、
+> 参加者：２１人
+> コーチ：８人
+> MSさん：１人（もう１人追加かも）
+> なので、現在見えている段階で31人ですね。
+>
+> 当日受付する際に再確認する感じかと思います。
+>
+> ＃飲み屋は人数が減るのは嫌がるけど、後から増える分にはそんなに
+> 　嫌がらないですよね。増えた人数分の料理って通常出さないし。
+>
+> (11/07/28 23:57), Makoto Takaesu wrote:
+>> 高江洲です。
+>>
+>> とりあえずここでとりました。
+>>
+>> 創作ダイニング 土間
+>> 品川イーストワンタワー店
+>> http://r.gnavi.co.jp/g220016/menu2.html
+>>
+>> 2980円のコースで30人、タカエスの名前でとってます。
+>>
+>> このコースだと2時間飲み放題なのですが、別途クーポンを使って
+>> 3時間3750円のコースもあります。
+>>
+>> コースの変更は明日の午前11時半ごろまでならよいらしいので、
+>> 3時間でいくね？ということであれば電話して変更しときます。
+>>
+>> また、人数の変更は16時までとのことで、30人から変わる
+>> ならそのときまでに連絡が必要です。
+>>
+>> 部屋はぴったり30人のところしか空いてなかったので、大きく
+>> 増えても残念ながら入れないのはご了承ください。
+>>
+>> 2、3人程度ならなんとか入れるようです。
+>>
+>> 30にしちゃうとドタ参はほぼ無理かなー。
+>>
+>> それ考えると32名とかにしちゃいたいけど、減っても32名分とられちゃうし。。。
+>>
+>> ＃毎度のことながらそういうところがコースの悩ましいところ。
+>>
+>> よろしくお願いします。
+>>
+>> 2011年7月22日18:00 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>> かわぐちです。
+>>>
+>>>   ええ、たしか土風炉です。
+>>>   土曜日だし、早い時間なら予約なしで入れるような。
+>>>
+>>> On 2011/07/22, at 16:04, Makoto Takaesu<takaesu0@gmail.com>  wrote:
+>>>
+>>>> 高江洲です。
+>>>>
+>>>> 土風炉ですかね。
+>>>> http://www.sicity.co.jp/h/index_h.html
+>>>>
+>>>> あと、OutbackならMSさんとこから近いかと。
+>>>> http://www.outbacksteakhouse.co.jp/location/obg_shinagawa.html
+>>>>
+>>>> 2011年7月22日15:56 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>>>> かわぐちです。
+>>>>>
+>>>>> 向かいのビルの一階にある飲み屋、なんて名前でしたっけね。
+>>>>>
+>>>>> On 2011/07/22, at 15:53, Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+>>>>>
+>>>>>> Ryuzeeです。
+>>>>>>
+>>>>>> Scrum Boot Campが来週に迫ってきましたが、
+>>>>>> 懇親会どうしましょうか？
+>>>>>> 前回は持ち込みでその場で開催できましたが、今回はMSさんで
+>>>>>> 食べ物関係は大変だと思うので、品川の飲み屋でやるべきかなーと
+>>>>>> 思ってます。
+>>>>>>
+>>>>>> ということで幹事求む！！（すいません）
+>>>>>>
+>>>>>> --
+>>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>>> Agile Coach / Certified Scrum Professional
+>>>>>> http://www.ryuzee.com
+>>>>>> http://twitter.com/ryuzee
+>>>>>> --
+>>>>>> This message contains confidential information and is intended
+>>>>>> only for the individual named. If you are not the named addressee
+>>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>>
+>>>>>> --
+>>>>>> archive->  http://qwik.jp/taoofscrum/3.html
+>>>>>> ML->  taoofscrum@qwik.jp
+>>>>>
+>>>>> --
+>>>>> archive->  http://qwik.jp/taoofscrum/3.html
+>>>>> ML->  taoofscrum@qwik.jp
+>>>>>
+>>>>
+>>>> --
+>>>> archive->  http://qwik.jp/taoofscrum/3.html
+>>>> ML->  taoofscrum@qwik.jp
+>>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/3.html
+> ML-> taoofscrum@qwik.jp
+>
+}}

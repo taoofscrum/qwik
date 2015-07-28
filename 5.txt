@@ -1,0 +1,907 @@
+* レビューのお願い：Scrum Boot Camp参加者あてメール
+{{mail(ryuzee@gmail.com,1311571605)
+Ryuzeeです。
+今週末実施予定のScrum Boot Campの参加者への事前メールについて
+レビューをお願いします。
+
+---ここから---
+
+*******************************************************************
+本メールはScrum Boot Camp東京へ参加申込みされた方にBCCで一斉送信
+させていただいております。
+本メールに心当たりのない方は大変お手数ですが、ryuzee+sbc@gmail.com
+までご一報くださいますようお願いいたします。
+*******************************************************************
+
+Scrum Boot Camp東京にお申し込みいただきありがとうございました。
+ご存知の通り、Scrum Boot Camp東京は今週末7月30日(土)に開催いたします。
+
+本メールでは開催に際して、いくつか皆様にご案内をさせて頂きます。
+以下長文になりますが、内容をご確認いただき、ご不明な点がありましたら
+ご連絡くださいますようお願いいたします。
+
+また既に当日ご都合が悪く欠席を予定されている方が居らっしゃいましたら
+お手数ですがその旨早めにご連絡ください。キャンセル待ちをされている方が
+いらっしゃいますのでご配慮いただければ幸いです。
+
+1. 開催日時
+　　
+　　7月30日(土) 10:00コース開始
+
+　　参加者の方の受付は9:30より開始いたします。10:00よりコースを
+　　開始いたしますので余裕をもってお越しください。
+
+　　万一当日遅刻される場合や急遽欠席される場合はお手数ですが、
+　　Twitterで#scrumbcタグを付けてツイートをお願い致します。
+
+2. 会場について
+
+　　日本マイクロソフト株式会社様 会議室
+　　〒108-0075 東京都港区港南 2-16-3 品川グランドセントラルタワー
+　　31F大会議室
+　　地図については下記をご参照ください。
+　　http://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx
+　　
+　　なお、ビルの入り口は2Fになります。
+　　入館証は、2階にてマイクロソフトの社員の方からお一人おひとりに
+　　お渡します。
+　　※一時退出（お昼ご飯など）時は入館証を返却しないようご注意ください
+　　（再入出できなくなります）
+　　※退出時は、投函ボックスに入館証をご返却ください。
+　　※入館証は、常に見える位置に身に着けてください。
+
+　　なお、入館に際してはマイクロソフトの社員の方ならびにスクラム道スタッフの
+　　誘導指示に従って頂ますようお願いいたします。
+　　また講習場所以外の会議室やフロアへの立ち入りはご遠慮ください。
+
+3. 懇親会について
+
+　　コース終了後に場所を移動して懇親会を実施いたします。
+　　多数のアジャイルコーチが参加いたしますのでお時間に余裕のある方は
+　　是非ご参加ください。費用は3000円～4000円程度の実費になります。
+　　参加有無については既にお伺いしておりますが、既に不参加を表明された方で
+　　やはり参加をご希望される方はお知らせください。
+
+4. 費用について
+
+　　コース内で利用する文具類についてはお申し込みの際にご案内している
+　　通り実費分のご負担をお願い致します。
+　　金額は300円の予定です。
+　　当日受付にて頂戴いたしますので、小銭のご用意をお願い致します。
+
+5. 事前準備について
+
+　　お時間に余裕のある方は事前準備として以下の無料リソースをご一読頂くことを
+　　オススメ致します。
+
+　　Scrum Guide
+　　　http://www.scrum.org/scrumguides/　　（中段に日本語版があります）　　
+　　塹壕よりScrumとXP
+　　　http://www.infoq.com/jp/minibooks/scrum-xp-from-the-trenches
+
+6. その他
+　
+　・筆記用具をお持ちください。
+　・演習中はパソコンの利用はご遠慮ください。
+　・座席については、こちらでシャッフルさせていただきます。
+　・当日は写真撮影をさせて頂く予定です。予めご了承ください。
+　・館内への食事の持ち込みはご遠慮ください。飲み物は問題ありません。
+
+以上、よろしくお願いいたします。
+
+
+----ここまで----
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(imagire@gmail.com,1311572047)
+「3. 懇親会について」で、「参加できなくなった人はどうすれば良いか」が書いていないのが気になりました。
+（わざとなのかも知れませんが…）
+}}
+{{mail(nishimura@nawo.to,1311573100)
+2011/7/25 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> 6. その他
+>                   <snip>
+> 　・当日は写真撮影をさせて頂く予定です。予めご了承ください。
+
+写真にうつりたくない場合は、当日、スタッフに言ってくださいとか一文があってもいいかも
+}}
+{{mail(ryuzee@gmail.com,1311573426)
+Ryuzeeです。
+
+あ、これですね。
+正直なところ撮影対象にする/しないとかアップした写真に
+写ってないかチェックするのが大変なので、無条件に「撮影します」
+にしたいんだよね。ダメかなぁ
+
+(11/07/25 14:51), Nishimura Naoto wrote:
+> 2011/7/25 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> 6. その他
+>>                    <snip>
+>> 　・当日は写真撮影をさせて頂く予定です。予めご了承ください。
+>
+> 写真にうつりたくない場合は、当日、スタッフに言ってくださいとか一文があってもいいかも
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1311573486)
+追記しておきます。
+
+爺
+
+(11/07/25 14:34), imagire takashi wrote:
+> 「3. 懇親会について」で、「参加できなくなった人はどうすれば良いか」が書いていないのが気になりました。
+> （わざとなのかも知れませんが…）
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1311574000)
+2011/7/25 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> 正直なところ撮影対象にする/しないとかアップした写真に
+> 写ってないかチェックするのが大変なので、無条件に「撮影します」
+> にしたいんだよね。ダメかなぁ
+
+お、なるほど。
+それなら、このままでいいと思いました。
+}}
+{{mail(miholovesq@gmail.com,1311575869)
+しいていえば、前回アンケートとっときゃ良かったって話があったと思うので、「アンケートにご協力ください」があってもいかも。
+当日でもいいけど。
+
+アンケートはどうすんだ誰が用意すんだってのは別問題で、バーストのアンケートの題だけ変えても良いと思うけど、内容一緒で良いのかな？＞ナヲトP
+
+2011年7月25日14:26 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> 　　なお、入館に際してはマイクロソフトの社員の方ならびにスクラム道スタッフの
+> 　　誘導指示に従って頂ますようお願いいたします。
+
+本当にどうでもいいけど「いただき」（表記ゆれもしくは送り仮名がヘン）
+# わたし、こういうのが浮かび上がって見える病気かもしれない
+}}
+{{mail(ryuzee@gmail.com,1311576124)
+アンケートは取ろうか。
+
+内容は一旦僕が考えますわ。
+
+表記ゆれは直します。指摘感謝。
+
+Ryuzeeeeeee
+
+# eをいっぱいかくとパックマンに見えてくる
+
+(11/07/25 15:37), Miho Nagase wrote:
+> しいていえば、前回アンケートとっときゃ良かったって話があったと思うので、「アンケートにご協力ください」があってもいかも。
+> 当日でもいいけど。
+> 
+> アンケートはどうすんだ誰が用意すんだってのは別問題で、バーストのアンケートの題だけ変えても良いと思うけど、内容一緒で良いのかな？＞ナヲトP
+> 
+> 2011年7月25日14:26 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> 　　なお、入館に際してはマイクロソフトの社員の方ならびにスクラム道スタッフの
+>> 　　誘導指示に従って頂ますようお願いいたします。
+> 
+> 本当にどうでもいいけど「いただき」（表記ゆれもしくは送り仮名がヘン）
+> # わたし、こういうのが浮かび上がって見える病気かもしれない
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1311577595)
+だいじょうぶだと思いますー。
+「致します」も「いたします」と両方ありますね。
+
+# ScrumPrimer じゃなくて ScrumGuide を選んだ理由が少し気になるw
+
+2011/7/25 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> アンケートは取ろうか。
+>
+> 内容は一旦僕が考えますわ。
+>
+> 表記ゆれは直します。指摘感謝。
+>
+> Ryuzeeeeeee
+>
+> # eをいっぱいかくとパックマンに見えてくる
+>
+> (11/07/25 15:37), Miho Nagase wrote:
+>> しいていえば、前回アンケートとっときゃ良かったって話があったと思うので、「アンケートにご協力ください」があってもいかも。
+>> 当日でもいいけど。
+>>
+>> アンケートはどうすんだ誰が用意すんだってのは別問題で、バーストのアンケートの題だけ変えても良いと思うけど、内容一緒で良いのかな？＞ナヲトP
+>>
+>> 2011年7月25日14:26 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>　　 なお、入館に際してはマイクロソフトの社員の方ならびにスクラム道スタッフの
+>>>　　 誘導指示に従って頂ますようお願いいたします。
+>>
+>> 本当にどうでもいいけど「いただき」（表記ゆれもしくは送り仮名がヘン）
+>> # わたし、こういうのが浮かび上がって見える病気かもしれない
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/5.html
+> ML-> taoofscrum@qwik.jp
+>
+
+
+
+-- 
+Kaz
+http://twitter.com/kappa4 (JP)
+http://twitter.com/kaztak_en (EN)
+}}
+{{mail(ryuzee@gmail.com,1311577722)
+下記の表記ゆれも修正済でーす。ご指摘感謝。
+
+爺
+
+(11/07/25 16:06), Kaz Takahashi wrote:
+> だいじょうぶだと思いますー。
+> 「致します」も「いたします」と両方ありますね。
+> 
+> # ScrumPrimer じゃなくて ScrumGuide を選んだ理由が少し気になるw
+> 
+> 2011/7/25 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> アンケートは取ろうか。
+>>
+>> 内容は一旦僕が考えますわ。
+>>
+>> 表記ゆれは直します。指摘感謝。
+>>
+>> Ryuzeeeeeee
+>>
+>> # eをいっぱいかくとパックマンに見えてくる
+>>
+>> (11/07/25 15:37), Miho Nagase wrote:
+>>> しいていえば、前回アンケートとっときゃ良かったって話があったと思うので、「アンケートにご協力ください」があってもいかも。
+>>> 当日でもいいけど。
+>>>
+>>> アンケートはどうすんだ誰が用意すんだってのは別問題で、バーストのアンケートの題だけ変えても良いと思うけど、内容一緒で良いのかな？＞ナヲトP
+>>>
+>>> 2011年7月25日14:26 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>> 　　 なお、入館に際してはマイクロソフトの社員の方ならびにスクラム道スタッフの
+>>>> 　　 誘導指示に従って頂ますようお願いいたします。
+>>>
+>>> 本当にどうでもいいけど「いただき」（表記ゆれもしくは送り仮名がヘン）
+>>> # わたし、こういうのが浮かび上がって見える病気かもしれない
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/5.html
+>> ML->  taoofscrum@qwik.jp
+>>
+> 
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1311579183)
+2011/7/25 Miho Nagase <miholovesq@gmail.com>:
+> アンケートはどうすんだ誰が用意すんだってのは別問題で、バーストのアンケートの題だけ変えても良いと思うけど、内容一緒で良いのかな？＞ナヲトP
+
+バーストのアンケートは、他と比較して詳細に情報を得るためのアンケートなんで、[[ScrumBootCamp]]だとどうだろうか??
+たぶん一緒じゃない方が色んな意見が拾えるかも。
+講義が分かりやすいとかワークの感想とかの方が欲しそうな情報な気がします。
+良いやり方は思いついてないんだけど、各項目についての自由記入でも良いかも。
+}}
+{{mail(miholovesq@gmail.com,1311580022)
+2011年7月25日16:32 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> たぶん一緒じゃない方が色んな意見が拾えるかも。
+> 講義が分かりやすいとかワークの感想とかの方が欲しそうな情報な気がします。
+> 良いやり方は思いついてないんだけど、各項目についての自由記入でも良いかも。
+
+わかった！
+こないだの素振りで「アジェンダがあればいいね」という話も出ていたと思うので、アジェンダ兼自由記述というのは？
+まあ回収しちゃうんだけどw
+}}
+{{mail(nishimura@nawo.to,1311582614)
+2011/7/25 Miho Nagase <miholovesq@gmail.com>:
+>> 良いやり方は思いついてないんだけど、各項目についての自由記入でも良いかも。
+>
+> わかった！
+> こないだの素振りで「アジェンダがあればいいね」という話も出ていたと思うので、アジェンダ兼自由記述というのは？
+
+それもいいかもね。
+あと、自分たちで聞きたい質問をただただ列挙するだけでもいいかも。
+# あまり効果的な聞き方では無いけどw
+
+例えば、講師の説明の仕方はどうですか? 資料は分かりやすかったですか? とか
+ふりかえりの結果をちゃんと後で見返すでもいい気がしてきた。
+
+ちなみに僕が聞きたいのは、以下かなw
+# これぐらいなら聞いても大丈夫だろww
+
+- これが有料ならいくら出せますか
+- その理由は?
+
+> まあ回収しちゃうんだけどw
+
+それはいいんじゃない。
+}}
+{{mail(ryuzee@gmail.com,1311583259)
+あとで案を作って送るのでまっててください。
+
+あとアジェンダも。
+
+＃印刷は誰かお願いできると助かります。
+
+(11/07/25 17:29), Nishimura Naoto wrote:
+> 2011/7/25 Miho Nagase<miholovesq@gmail.com>:
+>>> 良いやり方は思いついてないんだけど、各項目についての自由記入でも良いかも。
+>>
+>> わかった！
+>> こないだの素振りで「アジェンダがあればいいね」という話も出ていたと思うので、アジェンダ兼自由記述というのは？
+>
+> それもいいかもね。
+> あと、自分たちで聞きたい質問をただただ列挙するだけでもいいかも。
+> # あまり効果的な聞き方では無いけどw
+>
+> 例えば、講師の説明の仕方はどうですか? 資料は分かりやすかったですか? とか
+> ふりかえりの結果をちゃんと後で見返すでもいい気がしてきた。
+>
+> ちなみに僕が聞きたいのは、以下かなw
+> # これぐらいなら聞いても大丈夫だろww
+>
+> - これが有料ならいくら出せますか
+> - その理由は?
+>
+>> まあ回収しちゃうんだけどw
+>
+> それはいいんじゃない。
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1311587390)
+とりあえずアンケートのRC1版です。
+
+ご意見等あればどしどしと。
+
+それから参加者へのメールについては意見を反映したので
+後ほど21時くらいに発射予定です。
+
+Ryuzee
+
+(11/07/25 17:40), Ryutaro YOSHIBA wrote:
+> あとで案を作って送るのでまっててください。
+>
+> あとアジェンダも。
+>
+> ＃印刷は誰かお願いできると助かります。
+>
+> (11/07/25 17:29), Nishimura Naoto wrote:
+>> 2011/7/25 Miho Nagase<miholovesq@gmail.com>:
+>>>> 良いやり方は思いついてないんだけど、各項目についての自由記入でも良いかも。
+>>>
+>>> わかった！
+>>> こないだの素振りで「アジェンダがあればいいね」という話も出ていたと思うので、アジェンダ
+>>> 兼自由記述というのは？
+>>
+>> それもいいかもね。
+>> あと、自分たちで聞きたい質問をただただ列挙するだけでもいいかも。
+>> # あまり効果的な聞き方では無いけどw
+>>
+>> 例えば、講師の説明の仕方はどうですか? 資料は分かりやすかったですか? とか
+>> ふりかえりの結果をちゃんと後で見返すでもいい気がしてきた。
+>>
+>> ちなみに僕が聞きたいのは、以下かなw
+>> # これぐらいなら聞いても大丈夫だろww
+>>
+>> - これが有料ならいくら出せますか
+>> - その理由は?
+>>
+>>> まあ回収しちゃうんだけどw
+>>
+>> それはいいんじゃない。
+>
+>
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1311587798)
+高江洲です。
+
+内容はざっと見ただけですが特に気になったところはないです。
+
+朝からいける自信がないですが、それでもよければ印刷していきますよ。
+
+ところで、懇親会の時間は17時半ごろ開始？
+
+あとコースや飲み放題はいらない？
+
+2011年7月25日18:49 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> とりあえずアンケートのRC1版です。
+>
+> ご意見等あればどしどしと。
+>
+> それから参加者へのメールについては意見を反映したので
+> 後ほど21時くらいに発射予定です。
+>
+> Ryuzee
+>
+> (11/07/25 17:40), Ryutaro YOSHIBA wrote:
+>>
+>> あとで案を作って送るのでまっててください。
+>>
+>> あとアジェンダも。
+>>
+>> ＃印刷は誰かお願いできると助かります。
+>>
+>> (11/07/25 17:29), Nishimura Naoto wrote:
+>>>
+>>> 2011/7/25 Miho Nagase<miholovesq@gmail.com>:
+>>>>>
+>>>>> 良いやり方は思いついてないんだけど、各項目についての自由記入でも良いかも。
+>>>>
+>>>> わかった！
+>>>> こないだの素振りで「アジェンダがあればいいね」という話も出ていたと思うので、アジェンダ
+>>>> 兼自由記述というのは？
+>>>
+>>> それもいいかもね。
+>>> あと、自分たちで聞きたい質問をただただ列挙するだけでもいいかも。
+>>> # あまり効果的な聞き方では無いけどw
+>>>
+>>> 例えば、講師の説明の仕方はどうですか? 資料は分かりやすかったですか? とか
+>>> ふりかえりの結果をちゃんと後で見返すでもいい気がしてきた。
+>>>
+>>> ちなみに僕が聞きたいのは、以下かなw
+>>> # これぐらいなら聞いても大丈夫だろww
+>>>
+>>> - これが有料ならいくら出せますか
+>>> - その理由は?
+>>>
+>>>> まあ回収しちゃうんだけどw
+>>>
+>>> それはいいんじゃない。
+>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+}}
+{{mail(ryuzee@gmail.com,1311587996)
+Ryuzeeです。
+
+> 朝からいける自信がないですが、それでもよければ印刷していきますよ。
+
+→ありがとうございます！。アジェンダの話もあるので、別途相談させて
+　ください！
+
+> ところで、懇親会の時間は17時半ごろ開始？ 
+> あとコースや飲み放題はいらない？
+
+→金額固定にするなら、飲み放題のコースにしちゃったほうが楽かも。
+　17時にコースが終わって、バタバタしているとすぐ18時になって
+　しまうので、コースが遅れる場合も見込んで18時スタートでも
+　良いかと思うですがいかがでしょうか？
+
+　素振りした際は３０分ほどDelayしました。
+
+よろしくお願いします。
+
+> 2011年7月25日18:49 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> とりあえずアンケートのRC1版です。
+>>
+>> ご意見等あればどしどしと。
+>>
+>> それから参加者へのメールについては意見を反映したので
+>> 後ほど21時くらいに発射予定です。
+>>
+>> Ryuzee
+>>
+>> (11/07/25 17:40), Ryutaro YOSHIBA wrote:
+>>>
+>>> あとで案を作って送るのでまっててください。
+>>>
+>>> あとアジェンダも。
+>>>
+>>> ＃印刷は誰かお願いできると助かります。
+>>>
+>>> (11/07/25 17:29), Nishimura Naoto wrote:
+>>>>
+>>>> 2011/7/25 Miho Nagase<miholovesq@gmail.com>:
+>>>>>>
+>>>>>> 良いやり方は思いついてないんだけど、各項目についての自由記入でも良いかも。
+>>>>>
+>>>>> わかった！
+>>>>> こないだの素振りで「アジェンダがあればいいね」という話も出ていたと思うので、アジェンダ
+>>>>> 兼自由記述というのは？
+>>>>
+>>>> それもいいかもね。
+>>>> あと、自分たちで聞きたい質問をただただ列挙するだけでもいいかも。
+>>>> # あまり効果的な聞き方では無いけどw
+>>>>
+>>>> 例えば、講師の説明の仕方はどうですか? 資料は分かりやすかったですか? とか
+>>>> ふりかえりの結果をちゃんと後で見返すでもいい気がしてきた。
+>>>>
+>>>> ちなみに僕が聞きたいのは、以下かなw
+>>>> # これぐらいなら聞いても大丈夫だろww
+>>>>
+>>>> - これが有料ならいくら出せますか
+>>>> - その理由は?
+>>>>
+>>>>> まあ回収しちゃうんだけどw
+>>>>
+>>>> それはいいんじゃない。
+>>>
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1311588343)
+>> 朝からいける自信がないですが、それでもよければ印刷していきますよ。
+>
+> →ありがとうございます！。アジェンダの話もあるので、別途相談させて
+> 　ください！
+
+では、朝から行くよう頑張ります！
+
+> 　素振りした際は３０分ほどDelayしました。
+
+お店によってはコースも微妙なので、18時から30人ほどの場所を取れるところ
+で探すとしますね。
+
+2011年7月25日18:59 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+>> 朝からいける自信がないですが、それでもよければ印刷していきますよ。
+>
+> →ありがとうございます！。アジェンダの話もあるので、別途相談させて
+> 　ください！
+>
+>> ところで、懇親会の時間は17時半ごろ開始？
+>> あとコースや飲み放題はいらない？
+>
+> →金額固定にするなら、飲み放題のコースにしちゃったほうが楽かも。
+> 　17時にコースが終わって、バタバタしているとすぐ18時になって
+> 　しまうので、コースが遅れる場合も見込んで18時スタートでも
+> 　良いかと思うですがいかがでしょうか？
+>
+> 　素振りした際は３０分ほどDelayしました。
+>
+> よろしくお願いします。
+>
+>> 2011年7月25日18:49 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>> とりあえずアンケートのRC1版です。
+>>>
+>>> ご意見等あればどしどしと。
+>>>
+>>> それから参加者へのメールについては意見を反映したので
+>>> 後ほど21時くらいに発射予定です。
+>>>
+>>> Ryuzee
+>>>
+>>> (11/07/25 17:40), Ryutaro YOSHIBA wrote:
+>>>>
+>>>> あとで案を作って送るのでまっててください。
+>>>>
+>>>> あとアジェンダも。
+>>>>
+>>>> ＃印刷は誰かお願いできると助かります。
+>>>>
+>>>> (11/07/25 17:29), Nishimura Naoto wrote:
+>>>>>
+>>>>> 2011/7/25 Miho Nagase<miholovesq@gmail.com>:
+>>>>>>>
+>>>>>>> 良いやり方は思いついてないんだけど、各項目についての自由記入でも良いかも。
+>>>>>>
+>>>>>> わかった！
+>>>>>> こないだの素振りで「アジェンダがあればいいね」という話も出ていたと思うので、アジェンダ
+>>>>>> 兼自由記述というのは？
+>>>>>
+>>>>> それもいいかもね。
+>>>>> あと、自分たちで聞きたい質問をただただ列挙するだけでもいいかも。
+>>>>> # あまり効果的な聞き方では無いけどw
+>>>>>
+>>>>> 例えば、講師の説明の仕方はどうですか? 資料は分かりやすかったですか? とか
+>>>>> ふりかえりの結果をちゃんと後で見返すでもいい気がしてきた。
+>>>>>
+>>>>> ちなみに僕が聞きたいのは、以下かなw
+>>>>> # これぐらいなら聞いても大丈夫だろww
+>>>>>
+>>>>> - これが有料ならいくら出せますか
+>>>>> - その理由は?
+>>>>>
+>>>>>> まあ回収しちゃうんだけどw
+>>>>>
+>>>>> それはいいんじゃない。
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/5.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(couger@kt.rim.or.jp,1311600623)
+(2011/07/25 18:49), Ryutaro YOSHIBA wrote:
+> とりあえずアンケートのRC1版です。
+>
+> ご意見等あればどしどしと。
+
+*** 順番
+
+2,3 と研修から離れて 4で戻ってくるのであれ？と思いました。
+でも 4 がいきなりきても、辛いか。
+
+*** アンケート2番を聞く理由
+
+って何だろなとなんとなく。
+
+*** 受講した理由って興味ないですか？
+
+動機って意外と興味あります。
+
+*** アンケート4番は答えづらそう
+
+セミナーとか受けてる人じゃないと、金額をイメージしにくいかなぁと
+思いました。というか、私がそう。
+
+じゃ、選択肢ならどうなるのよ？と考えてみたんですが
+
+- 備品費
+- 会場費
+- 講師、スタッフの交通費
+- 講師、スタッフの人件費
+- チップ(感謝として)
+
+……。これに金額つけると誤解を生みそうで良くない。
+逆に、金額付けられる人だけが付けたほうが価値があるのか。失礼しました。
+
+}}
+{{mail(miholovesq@gmail.com,1311603112)
+有料ならいくら出せますかってのはぜひ聞きたいけど、安藤さんおっしゃるとおり、ストレートにぶつけるには結構難しいと思うのです。
+ちょっとここはおしゃれに相対見積もりを促してみたりして。
+
+- 今日のランチはいくらでしたか？
+- 今までに受けた一番高い研修はいくらでしたか？
+- 今日の研修に値段をつけるとしたらいくらですか？
+
+半分冗談だけど半分本気だったりしますw
+
+今見てる分にはこれでいいと思うけど、アジェンダごとに「良い／悪い／どちらでもない」をやるのであれば、ゲージを使う手もあるかなと思いました。
+良い ・ ・ ・ ・ ・ ふつう ・ ・ ・ ・ ・悪い
+みたいな。手間なだけかもだけど。
+（伝わる？）
+}}
+{{mail(nishimura@nawo.to,1311668448)
+In <CAPG=6Lb3eQoWSy9Wj7+2wKgC6T9+he943q7Yvd2KJYNpdehu0A@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> 有料ならいくら出せますかってのはぜひ聞きたいけど、安藤さんおっしゃるとおり、ストレートにぶつけるには結構難しいと思うのです。
+
+うーん、やっぱ難しいかぁww
+なんか、これぐらいならネタっぽく聞けないかな??
+
+> ちょっとここはおしゃれに相対見積もりを促してみたりして。
+>              <snip>
+> 半分冗談だけど半分本気だったりしますw
+
+なんか、ここまで来ると無理矢理でも聞きたい雰囲気が出ちゃってる気がww
+
+それ以外の項目に関しては、気になりませんでした。
+講師の方から聞きたい事とかは他にないですか～??
+# 手応えとか知りたいだろうと思った
+}}
+{{mail(kawaguti@gmail.com,1311669421)
+かわぐちです。
+
+  途中のやりとりをあまり読んでないので外してたらすみません。こんなタッチで書くと、聞かれた側は書きやすかったりしないですかね。
+
+  現在、コーチ育成の為の有償化を検討しておりますので、忌憚ないご意見をお聞かせください。
+
+    この研修はいくらくらいの価値があると感じましたか？
+    本日あなたが有償で受講していると想像したときに、不足していると感じるであろう点があればお教えください。
+
+
+
+On 2011/07/26, at 17:20, Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+> In <CAPG=6Lb3eQoWSy9Wj7+2wKgC6T9+he943q7Yvd2KJYNpdehu0A@mail.gmail.com>,
+> Miho Nagase <miholovesq@gmail.com> wrote:
+> 
+>> 有料ならいくら出せますかってのはぜひ聞きたいけど、安藤さんおっしゃるとおり、ストレートにぶつけるには結構難しいと思うのです。
+> 
+> うーん、やっぱ難しいかぁww
+> なんか、これぐらいならネタっぽく聞けないかな??
+> 
+>> ちょっとここはおしゃれに相対見積もりを促してみたりして。
+>>             <snip>
+>> 半分冗談だけど半分本気だったりしますw
+> 
+> なんか、ここまで来ると無理矢理でも聞きたい雰囲気が出ちゃってる気がww
+> 
+> それ以外の項目に関しては、気になりませんでした。
+> 講師の方から聞きたい事とかは他にないですか～??
+> # 手応えとか知りたいだろうと思った
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/5.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(nishimura@nawo.to,1311669774)
+In <141682D8-92DF-48DE-AFD0-7D9E89D05D0A@gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+>   途中のやりとりをあまり読んでないので外してたらすみません。こんなタッチで書くと、聞かれた側は書きやすかったりしないですかね。
+> 
+>   現在、コーチ育成の為の有償化を検討しておりますので、忌憚ないご意見をお聞かせください。
+> 
+>     この研修はいくらくらいの価値があると感じましたか？
+>     本日あなたが有償で受講していると想像したときに、不足していると感じるであろう点があればお教えください。
+
+たしかにこっちの方が誠実な感じがしますね。
+}}
+{{mail(miholovesq@gmail.com,1311670984)
+誠実さ大切！
+賛成します。
+}}
+{{mail(couger@kt.rim.or.jp,1311678773)
+とてもイイと思います！
+
+}}

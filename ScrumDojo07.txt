@@ -1,0 +1,557 @@
+* スクラム道場.07
+
+- テーマ: 「プロダクトバックログ」
+- 読み手: [[@imagire|http://twitter.com/imagire]]
+- 日時: 2011.8.26 19:00 - 21:00
+- 会場: 永和システムマネジメント東京支社
+- 申し込みサイト: http://bit.ly/scrumdojo07
+- 管理ページ : https://ss1.coressl.jp/kokucheese.com/login/index/15180/d39ffbbe51f6d94e53f4619f0f61da6a
+- 当日参加スタッフ
+-- nawoto, changeworld, takaesu0, miholovesq, tw_takubon
+
+{{mail(nishimura@nawo.to,1311306822)
+100 名ぐらいの会場を探して調整していたが、8/26, 30 は空いてなくて失敗。
+うーん、永和で選手のみ開催でいいかのー。
+}}
+{{mail(imagire@gmail.com,1311308958)
+Imagireです。
+
+永和さんでＯＫに一票です。
+}}
+{{mail(miholovesq@gmail.com,1311309653)
+ながせです。
+永和さんで観客無しで良いと思います。
+}}
+{{mail(ryuzee@gmail.com,1311309727)
+Ryuzeeeeeeです。
+
+永和さん開催で良いんじゃないですかね。
+
+
+(11/07/22 12:53), Nishimura Naoto wrote:
+> 100 名ぐらいの会場を探して調整していたが、8/26, 30 は空いてなくて失敗。
+> うーん、永和で選手のみ開催でいいかのー。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takaesu0@gmail.com,1311310032)
+高江洲です。
+
+前回ミーティングのとおり会場が探せなかったら永和さんということでー。
+
+> Ryuzeeeeeeです。
+
+eの数は決まってるんですかね？
+それとも気分しだい？
+
+＃前から気になってたのでｗ
+
+2011年7月22日13:42 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeeeeeです。
+>
+> 永和さん開催で良いんじゃないですかね。
+>
+>
+> (11/07/22 12:53), Nishimura Naoto wrote:
+>> 100 名ぐらいの会場を探して調整していたが、8/26, 30 は空いてなくて失敗。
+>> うーん、永和で選手のみ開催でいいかのー。
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumDojo07.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1311310558)
+In <CACMw1MBwwY-jMbU+Kvtix_UwqiHs2EUZicsHS3SO7VygBeSQSg@mail.gmail.com>,
+Makoto Takaesu <takaesu0@gmail.com> wrote:
+
+> 前回ミーティングのとおり会場が探せなかったら永和さんということでー。
+
+じゃ、次回の会場は永和で決定という事で。
+あと、観客制も見送ります。
+
+日時については、8/26 と 30 だとどっちが良いとか希望ありますか??
+まだ、永和の会議室の空きは見てないけど。
+}}
+{{mail(ryuzee@gmail.com,1311311217)
+Ryuzeeです。
+
+>> Ryuzeeeeeeです。
+> 
+> eの数は決まってるんですかね？
+> それとも気分しだい？
+
+気にしている人がいたのですねｗ
+
+Ryuz[e]{2,65535}で気分次第です。
+
+
+> 2011年7月22日13:42 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> Ryuzeeeeeeです。
+>>
+>> 永和さん開催で良いんじゃないですかね。
+>>
+>>
+>> (11/07/22 12:53), Nishimura Naoto wrote:
+>>> 100 名ぐらいの会場を探して調整していたが、8/26, 30 は空いてなくて失敗。
+>>> うーん、永和で選手のみ開催でいいかのー。
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/ScrumDojo07.html
+>> ML->  taoofscrum@qwik.jp
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(qooh0.info@gmail.com,1311311890)
+海江田です。
+
+8.30 が良いです。
+
+--
+kaieda
+
+2011年7月22日14:06 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+>>> Ryuzeeeeeeです。
+>>
+>> eの数は決まってるんですかね？
+>> それとも気分しだい？
+>
+> 気にしている人がいたのですねｗ
+>
+> Ryuz[e]{2,65535}で気分次第です。
+>
+>
+>> 2011年7月22日13:42 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>> Ryuzeeeeeeです。
+>>>
+>>> 永和さん開催で良いんじゃないですかね。
+>>>
+>>>
+>>> (11/07/22 12:53), Nishimura Naoto wrote:
+>>>> 100 名ぐらいの会場を探して調整していたが、8/26, 30 は空いてなくて失敗。
+>>>> うーん、永和で選手のみ開催でいいかのー。
+>>>>
+>>>
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/ScrumDojo07.html
+>>> ML->  taoofscrum@qwik.jp
+>>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumDojo07.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(takubon@kanataku.com,1311376535)
+takubonです。
+
+開催日はいつでもOKです。
+}}
+{{mail(imagire@gmail.com,1311377124)
+Imagireです。
+
+開催日は、どっちでも良いです。
+}}
+{{mail(nishimura@nawo.to,1311523310)
+In <CACCYYWSzuHNgVvm4yHxxhDVLWz1+VwywwOkth18axN5q+s+OEw@mail.gmail.com>,
+imagire takashi <imagire@gmail.com> wrote:
+
+> 開催日は、どっちでも良いです。
+
+すいません、8/30 が Asakusa.rb だったので会議室が取れませんでした。
+ひとまず 8/26 で場所をおさえました。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1311577873)
+ありがとうございますー。
+
+
+2011/7/25 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CACCYYWSzuHNgVvm4yHxxhDVLWz1+VwywwOkth18axN5q+s+OEw@mail.gmail.com>,
+> imagire takashi <imagire@gmail.com> wrote:
+>
+>> 開催日は、どっちでも良いです。
+>
+> すいません、8/30 が Asakusa.rb だったので会議室が取れませんでした。
+> ひとまず 8/26 で場所をおさえました。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/ScrumDojo07.html
+> ML-> taoofscrum@qwik.jp
+>
+
+
+
+-- 
+Kaz
+http://twitter.com/kappa4 (JP)
+http://twitter.com/kaztak_en (EN)
+}}
+
+** Fwd: [スクラム道場.07]イベントを登録しました
+{{mail(tao.of.scrum@gmail.com,1312255848)
+申し込みページの作成に着手した
+
+
+---------- 転送メッセージ ----------
+From: こくちーず（告知's） <info@kokucheese.com>
+日付: 2011年8月2日12:28
+件名: [スクラム道場.07]イベントを登録しました
+To: tao.of.scrum@gmail.com
+
+
+tao.of.scrum@gmail.com 様
+
+「スクラム道場.07」のイベントを登録いたしました。
+
+引き続き、管理画面で告知するイベントの内容を設定してください。
+
+管理画面にアクセスするには、下記のログインページより
+登録時のパスワードを入力してログインしてください。
+https://ss1.coressl.jp/kokucheese.com/login/index/15180/d39ffbbe51f6d94e53f4619f0f61da6a
+※このログインページのURLは管理者以外には教えないようにしてください。
+※メールソフトによってはURLが改行されている場合があります。
+
+「スクラム道場.07」のイベントページのURLは下記になります。
+http://kokucheese.com/event/index/15180/
+※告知する際にはこのURLを使って募集を行ってください。
+※登録時には非公開になっております。管理画面から公開を行ってください。
+
+このメールにお心当たりがない場合は、そのまま削除してください。
+今後とも、こくちーず（告知's）をよろしくお願いいたします。
+--------------------
+こくちーず（告知's）
+http://kokucheese.com
+}}
+{{mail(imagire@gmail.com,1312258206)
+Imagireです。
+
+タイトルと概要を修正しました。
+}}
+{{mail(takaesu0@gmail.com,1312258525)
+科学博士ｗｗｗ
+
+2011年8月2日13:10 imagire takashi <imagire@gmail.com>:
+> Imagireです。
+>
+> タイトルと概要を修正しました。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/13.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1312260087)
+# サブジェクト変えました
+
+In <CACCYYWSMEAfMyb3uxZL_uj2gHgOq0tY09cL=4A5XhEK7RG31cw@mail.gmail.com>,
+imagire takashi <imagire@gmail.com> wrote:
+
+> タイトルと概要を修正しました。
+
+ありがとうありがとう!!
+だんだん怪獣映画みたいになってきたぞ。
+
+他の人も内容についてレビューしてもらえると助かります。
+
+http://bit.ly/scrumdojo07
+
+あと、序文(??)がだいぶ長いのが気になってきたので、なんか良いアイデアがあれば募集中。
+今回で変えれたらラッキーぐらいの優先順位です。
+}}
+{{mail(miholovesq@gmail.com,1312264928)
+科学博士来襲いいねー
+
+2011年8月2日13:41 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> 他の人も内容についてレビューしてもらえると助かります。
+
+言われてみれば序文が長いくらいしか気になるところはありませんでした。
+
+2011年8月2日13:41 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> あと、序文(??)がだいぶ長いのが気になってきたので、なんか良いアイデアがあれば募集中。
+> 今回で変えれたらラッキーぐらいの優先順位です。
+
+たしかに序文は長い。
++ 「発表者（以下、読み手）」とは言ったものの以下に出てこないので、「読み手（発表者）は今給黎隆さん」にしたらどうか
++ 全体を「スクラム道とは」とか書いてFacebookページにリンクをするのはどうかしら
++ Facebookページにこの序文にあたる巻頭言みたいのがあっても良いのにないんだね
+
+ちょっと書き殴りですがそんな感じで
+}}
+{{mail(nishimura@nawo.to,1312274558)
+In <CAPG=6LbfrHNoOXAf_zGz1-orX5zoq52Gx0RUzMZmnzpWWD5tsA@mail.gmail.com>,
+Miho Nagase <miholovesq@gmail.com> wrote:
+
+> + 「発表者（以下、読み手）」とは言ったものの以下に出てこないので、「読み手（発表者）は今給黎隆さん」
+> にしたらどうか
+
+これはすぐに対応しまーす
+
+> + 全体を「スクラム道とは」とか書いてFacebookページにリンクをするのはどうかしら
+
+申し込みサイトには簡単に書いて、詳細はって感じで誘導したいね。
+qwik 上とかで文面を考えるとこからかなー。
+次回のスクラム道場とかぐらいに間に合うといいな。
+
+> + Facebookページにこの序文にあたる巻頭言みたいのがあっても良いのにないんだね
+
+そもそもやれんの??
+Facebook の使いかたが分かんないんだよねww
+}}
+{{mail(miholovesq@gmail.com,1312276965)
+2011年8月2日17:42 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> In <CAPG=6LbfrHNoOXAf_zGz1-orX5zoq52Gx0RUzMZmnzpWWD5tsA@mail.gmail.com>,
+> Miho Nagase <miholovesq@gmail.com> wrote:
+>> + Facebookページにこの序文にあたる巻頭言みたいのがあっても良いのにないんだね
+>
+> そもそもやれんの??
+> Facebook の使いかたが分かんないんだよねww
+
+し、知らない（小声で）
+}}
+{{mail(nishimura@nawo.to,1312423757)
+In <20110802.174234.790111286793757273.n-nishimura@esm.co.jp>,
+Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+>> + 「発表者（以下、読み手）」とは言ったものの以下に出てこないので、「読み手（発表者）は今給黎隆さん」
+>> にしたらどうか
+> 
+> これはすぐに対応しまーす
+
+対応したので募集開始しまーす。
+@tao_of_scrum からつぶやくので宣伝よろ > all
+
+あと、当日参加スタッフのだいたいの数を把握したいので、このページの上記に名前を書くところがあるので参
+加する人は記入お願いします。
+# このページの URL は本文の最後に書かれているはず
+
+また、Facebook と序文が長い件は一旦後回しにします。
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1312437986)
+たかはしです
+
+フィードバックをもらったのですが、バーストの形式を知ってる人でないと諸注意事項の下記が理解し辛いようです。
+
+「今回は議論に参加される方のみの参加となっております。観客制については次回以降での導入を予定しております」
+→ 「今回は議論に参加される方のみの募集となっております。議論を観戦していただく方も募集する選手・観客制については次回以降での導入を予定しております」
+
+ではいかがでしょう?
+}}
+{{mail(nishimura@nawo.to,1312454006)
+In <CACskh0cuO7f5BWwe5J2ten12wr=6o+4fz_QSYXTZ=ihs-khEBg@mail.gmail.com>,
+Kaz Takahashi <takahashi.kazuyoshi@gmail.com> wrote:
+
+> フィードバックをもらったのですが、バーストの形式を知ってる人でないと諸注意事項の下記が理解し辛いようです。
+> 
+> 「今回は議論に参加される方のみの参加となっております。観客制については次回以降での導入を予定しております」
+> → 「今回は議論に参加される方のみの募集となっております。議論を観戦していただく方も募集する選手・観客制については次回以降での導入を予定しております」
+> 
+> ではいかがでしょう?
+
+ありがとう!! 修正しました
+}}
+{{mail(nishimura@nawo.to,1314243305)
+さて、みんな某イベントの準備とか色々と忙しい感じだけど、明日はたんたんとスクラム道場だぜ!!
+imagire メンバーよろしく!!
+あと、お手伝いできるスタッフの参加も頼むぜいww 無理の無い程度でね(ハート)
+}}
+{{mail(imagire@gmail.com,1314244508)
+imagireです。
+最近、暇で忘れるところでした！
+}}
+{{mail(nishimura@nawo.to,1314250118)
+In <CACCYYWQfL7zaGOaEKOpR=pVvHxvoHfd7ZCPJeSvPpBjcZBrwsQ@mail.gmail.com>,
+imagire takashi <imagire@gmail.com> wrote:
+
+> imagireです。
+> 最近、暇で忘れるところでした！
+
+ちょ、先生頼んますよww
+明日もパーっと行きますぜ!!
+}}
+{{mail(miholovesq@gmail.com,1314252830)
+えーと、スタッフが足りなくて参加者にバリューを届けられないぐらいであれば
+そっちに行ってもいいんじゃないかと思い始めてますけどどうすかすか。
+
+# まあ、ないと思うけどww
+
+--
+Miho Nagase
+http://twitter.com/miholovesq
+}}
+{{mail(takubon@kanataku.com,1314258817)
+参加しますよ。
+
+失敗事例なら話せます(-。-;
+なんて…
+
+iPhoneから送信
+
+On 平成23/08/25, at 15:13, Miho Nagase <miholovesq@gmail.com> wrote:
+
+> えーと、スタッフが足りなくて参加者にバリューを届けられないぐらいであれば
+> そっちに行ってもいいんじゃないかと思い始めてますけどどうすかすか。
+> 
+> # まあ、ないと思うけどww
+> 
+> --
+> Miho Nagase
+> http://twitter.com/miholovesq
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/ScrumDojo07.html 
+> ML-> taoofscrum@qwik.jp
+}}
+{{mail(takaesu0@gmail.com,1314261960)
+できるだけ早く行きます。
+
+2011年8月25日16:53 takubon <takubon@kanataku.com>:
+> 参加しますよ。
+>
+> 失敗事例なら話せます(-。-;
+> なんて…
+>
+> iPhoneから送信
+>
+> On 平成23/08/25, at 15:13, Miho Nagase <miholovesq@gmail.com> wrote:
+>
+>> えーと、スタッフが足りなくて参加者にバリューを届けられないぐらいであれば
+>> そっちに行ってもいいんじゃないかと思い始めてますけどどうすかすか。
+>>
+>> # まあ、ないと思うけどww
+>>
+>> --
+>> Miho Nagase
+>> http://twitter.com/miholovesq
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/ScrumDojo07.html
+>> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(changesworlds@gmail.com,1314288192)
+がんばります＞＜。
+}}
+{{mail(sarastier@gmail.com,1314339184)
+んーと準備とか全然手伝えてなくて申し訳ないんだけども
+今日ぴょこっと行ってしまってよいかしら？
+なんというか見届けないといけない気がする
+}}
+{{mail(ryuzee@gmail.com,1314339546)
+スクラム道のスクラムマスターのRyuzeeですｗ
+
+どうぞお越しください。
+スタッフ扱いで立ち見になるかもしれませんが。
+
+
+(11/08/26 15:13), Ken Matsumoto wrote:
+> んーと準備とか全然手伝えてなくて申し訳ないんだけども
+> 今日ぴょこっと行ってしまってよいかしら？
+> なんというか見届けないといけない気がする
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(chuchung@mac.com,1314345851)
+大和です。
+
+今日は欠席します。
+某読書会でカンバンの話題から逃れられなかっただけに悔やまれる。
+}}
+{{mail(nishimura@nawo.to,1314349745)
+ほーい、出欠が結局よく分からんようになったww
+スタッフは多い方が盛り上るので来れそうな人は来てくださいな。
+ただし、大雨なので無理はしないでね。
+}}

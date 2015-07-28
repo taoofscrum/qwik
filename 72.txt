@@ -1,0 +1,56 @@
+* Scrum Boot Camp in NIIの講義資料案内について
+{{mail(takaesu0@gmail.com,1371622612)
+Doorkeeperから参加者宛にメールを送ろうと思ってます。
+
+こんなかんじでいいすか？
+
+＃なんか寂しい気もするけどｗ
+
+----
+Scrum Boot Camp in NIIにご参加いただきありがとうございました。
+
+講義資料のご案内です。
+
+https://speakerdeck.com/takaesu0/scrum-boot-camp-in-nii
+
+よろしくお願いします。
+----
+
+あと、ワークショップは特に触れてないけど非公開？
+}}
+{{mail(imagire@gmail.com,1371623007)
+えっ、facebookのスクラム道 <http://www.facebook.com/TaoOfScrum?ref=stream>
+でワークの資料公開の宣伝してるよ。
+
+http://www.slideshare.net/imagire/11-scrum-boot-camp-in-nii
+}}
+{{mail(takaesu0@gmail.com,1371623417)
+> えっ、facebookのスクラム道でワークの資料公開の宣伝してるよ。
+
+それは知らなかったｗ
+
+講義の分はメールで案内しますと言っちゃってるので、
+合わせようかなー。
+
+----
+Scrum Boot Camp in NIIにご参加いただきありがとうございました。
+
+講義資料およびワークショップ資料のご案内です。
+
+https://speakerdeck.com/takaesu0/scrum-boot-camp-in-nii
+http://www.slideshare.net/imagire/11-scrum-boot-camp-in-nii
+
+よろしくお願いします。
+----
+
+こんなかんじで。
+}}
+{{mail(imagire@gmail.com,1371624832)
+良いかと思います。
+}}
+{{mail(takaesu0@gmail.com,1371625111)
+送りやしたー。
+}}
+{{mail(imagire@gmail.com,1371625306)
+ありがとうございました。
+}}

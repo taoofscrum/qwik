@@ -1,0 +1,1075 @@
+* XPX
+{{mail(nishimura@nawo.to,1311788178)
+XP祭りXで nawoto と ryuzee でセッションをやるんだけど、どうみてもスクラム道プレゼンツなんでスレを立
+ててみた。
+セッションのネタ出しとか当日手伝ってくれる人の募集のやり取りをしていく予定。
+# 別のコマの話もOKの方向で
+
+** 決まっている事
+
+- 日程:9/3
+- 枠: 1.5h
+- 仮タイトル:スクラム概要
+
+** 第一回目ネタ出し
+
+昼飯くいながら nawoto, ryuzee kawaguti とネタ出しした内容
+
+- プチバースト
+- スクラム概要+トランプ (俺の鉄板コンテンツww)
+
+以下、色んな人のアイデアが続く予定
+↓↓↓↓↓↓↓↓↓↓
+}}
+{{mail(imagire@gmail.com,1311803736)
+Imagire です。
+
+XP祭りは宴会係で必ず行くので、お手伝いします。
+
+ネタ
+- 道場を開く（人数が多ければ、いくつかの小道場を開いて、終盤に各道場での話し合いを共有する）
+}}
+{{mail(qooh0.info@gmail.com,1311819334)
+海江田です。
+
+ちょっと長いけどひとつの案。
+Scrum Gathering でいう オープンスペースはどうだろうか？
+--
+質問したい人を募る。(スタッフの数と同じか少なめ)
+その人に質問事項を書いてもらって、会場のみんなに見せる。
+たとえば、
+・TDD どうやるの？
+・Trac / Redmine の使い方
+・朝会の仕方
+・見積の仕方
+などなど
+(あれ、例えが全然良くないなぁww)
+会場の人は話し合いたい質問事項を書いた人のところに集まる。
+そして、いまぎれさんのアイデアのように、個別に話し合う。
+最後に発表。
+できれば、模造紙に話しあう過程、話しあった内容を書いてもらい
+XP 祭りの間、廊下にはらせてもらう。
+そうすることで、出席出れなかった人も見ることができるんじゃないかな。
+
+--
+kaieda
+}}
+{{mail(takaesu0@gmail.com,1311823434)
+高江洲です。
+
+申し込みました。
+
+できることがあればやりますよ、
+
+2011年7月28日2:36 Nishimura Naoto <n-nishimura@esm.co.jp>:
+> XP祭りXで nawoto と ryuzee でセッションをやるんだけど、どうみてもスクラム道プレゼンツなんでスレを立
+> ててみた。
+> セッションのネタ出しとか当日手伝ってくれる人の募集のやり取りをしていく予定。
+> # 別のコマの話もOKの方向で
+>
+> ** 決まっている事
+>
+> - 日程:9/3
+> - 枠: 1.5h
+> - 仮タイトル:スクラム概要
+>
+> ** 第一回目ネタ出し
+>
+> 昼飯くいながら nawoto, ryuzee kawaguti とネタ出しした内容
+>
+> - プチバースト
+> - スクラム概要+トランプ (俺の鉄板コンテンツww)
+>
+> 以下、色んな人のアイデアが続く予定
+> ↓↓↓↓↓↓↓↓↓↓
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/XPX.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1312514999)
+Ryuzeeです。
+
+そろそろケツに火がついてきたｗ
+
+ちょっと考えたんですが、Scrum概要と銘打ってるので、ワークショップを
+含めた基礎コースやったらどうかなぁと思います。
+
+ということで案
+
+・紙飛行機ワークショップをいきなりやる。
+　4セットくらいで、45分。
+
+・ワークが終わったあと、ワークの内容や制約がそれぞれScrumの何を
+　指していたかを解説していく。
+　・タイムボックス
+　・スプリント計画
+　・ふりかえり
+　・検査と適応
+　・完了の定義
+　・ベロシティ
+　・自己組織化
+
+コンセプトとしては、全てを紙飛行機ベースで説明する、みたいな。
+
+
+(11/07/28 2:36), Nishimura Naoto wrote:
+> XP祭りXで nawoto と ryuzee でセッションをやるんだけど、どうみてもスクラム道プレゼンツなんでスレを立
+> ててみた。
+> セッションのネタ出しとか当日手伝ってくれる人の募集のやり取りをしていく予定。
+> # 別のコマの話もOKの方向で
+> 
+> ** 決まっている事
+> 
+> - 日程:9/3
+> - 枠: 1.5h
+> - 仮タイトル:スクラム概要
+> 
+> ** 第一回目ネタ出し
+> 
+> 昼飯くいながら nawoto, ryuzee kawaguti とネタ出しした内容
+> 
+> - プチバースト
+> - スクラム概要+トランプ (俺の鉄板コンテンツww)
+> 
+> 以下、色んな人のアイデアが続く予定
+> ↓↓↓↓↓↓↓↓↓↓
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1312515187)
+かわぐちです。
+
+　うん、確かに、一回丁寧に紙飛行機をやってみるのもいいかもしれないですね。
+　１～２回、素振り調整しましょうか～。
+
+
+2011年8月5日12:29 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> そろそろケツに火がついてきたｗ
+>
+> ちょっと考えたんですが、Scrum概要と銘打ってるので、ワークショップを
+> 含めた基礎コースやったらどうかなぁと思います。
+>
+> ということで案
+>
+> ・紙飛行機ワークショップをいきなりやる。
+> 　4セットくらいで、45分。
+>
+> ・ワークが終わったあと、ワークの内容や制約がそれぞれScrumの何を
+> 　指していたかを解説していく。
+> 　・タイムボックス
+> 　・スプリント計画
+> 　・ふりかえり
+> 　・検査と適応
+> 　・完了の定義
+> 　・ベロシティ
+> 　・自己組織化
+>
+> コンセプトとしては、全てを紙飛行機ベースで説明する、みたいな。
+>
+>
+> (11/07/28 2:36), Nishimura Naoto wrote:
+>> XP祭りXで nawoto と ryuzee でセッションをやるんだけど、どうみてもスクラム道プレゼンツなんでスレを立
+>> ててみた。
+>> セッションのネタ出しとか当日手伝ってくれる人の募集のやり取りをしていく予定。
+>> # 別のコマの話もOKの方向で
+>>
+>> ** 決まっている事
+>>
+>> - 日程:9/3
+>> - 枠: 1.5h
+>> - 仮タイトル:スクラム概要
+>>
+>> ** 第一回目ネタ出し
+>>
+>> 昼飯くいながら nawoto, ryuzee kawaguti とネタ出しした内容
+>>
+>> - プチバースト
+>> - スクラム概要+トランプ (俺の鉄板コンテンツww)
+>>
+>> 以下、色んな人のアイデアが続く予定
+>> ↓↓↓↓↓↓↓↓↓↓
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/XPX.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1312515398)
+Ryuzeeです。
+
+　すくすくで海江田さんが紙飛行機やった、という風に聞いているので
+　その際の内容も参考に出来るといいなあと思います。
+
+　もちろん他のコンテンツ案も絶賛募集中ｗ
+
+(11/08/05 12:33), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　うん、確かに、一回丁寧に紙飛行機をやってみるのもいいかもしれないですね。
+> 　１～２回、素振り調整しましょうか～。
+> 
+> 
+> 2011年8月5日12:29 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> Ryuzeeです。
+>>
+>> そろそろケツに火がついてきたｗ
+>>
+>> ちょっと考えたんですが、Scrum概要と銘打ってるので、ワークショップを
+>> 含めた基礎コースやったらどうかなぁと思います。
+>>
+>> ということで案
+>>
+>> ・紙飛行機ワークショップをいきなりやる。
+>> 　4セットくらいで、45分。
+>>
+>> ・ワークが終わったあと、ワークの内容や制約がそれぞれScrumの何を
+>> 　指していたかを解説していく。
+>> 　・タイムボックス
+>> 　・スプリント計画
+>> 　・ふりかえり
+>> 　・検査と適応
+>> 　・完了の定義
+>> 　・ベロシティ
+>> 　・自己組織化
+>>
+>> コンセプトとしては、全てを紙飛行機ベースで説明する、みたいな。
+>>
+>>
+>> (11/07/28 2:36), Nishimura Naoto wrote:
+>>> XP祭りXで nawoto と ryuzee でセッションをやるんだけど、どうみてもスクラム道プレゼンツなんでスレを立
+>>> ててみた。
+>>> セッションのネタ出しとか当日手伝ってくれる人の募集のやり取りをしていく予定。
+>>> # 別のコマの話もOKの方向で
+>>>
+>>> ** 決まっている事
+>>>
+>>> - 日程:9/3
+>>> - 枠: 1.5h
+>>> - 仮タイトル:スクラム概要
+>>>
+>>> ** 第一回目ネタ出し
+>>>
+>>> 昼飯くいながら nawoto, ryuzee kawaguti とネタ出しした内容
+>>>
+>>> - プチバースト
+>>> - スクラム概要+トランプ (俺の鉄板コンテンツww)
+>>>
+>>> 以下、色んな人のアイデアが続く予定
+>>> ↓↓↓↓↓↓↓↓↓↓
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/XPX.html
+>> ML->  taoofscrum@qwik.jp
+>>
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(takubon@kanataku.com,1312624518)
+木村@takubonです。
+
+前回のBootCampに参加してくれたメンバーが、自社に戻って、ワークショップを
+開いてくれた
+ところに参加してきましたが、なかなかの盛況ぶりでしたし、狙い通りの気づき
+を得てもらっていたので
+紙飛行機のワークショップをいきなりやるのはありだと思いますよ。
+
+その際も45分で４セット（チーム分け含み）でしたが、かなり時間は厳しかった
+です。
+60分くらいが妥当かと思います。
+
+
+(2011年08月05日 12:36), Ryutaro YOSHIBA wrote:
+> Ryuzeeです。
+>
+> 　すくすくで海江田さんが紙飛行機やった、という風に聞いているので
+> 　その際の内容も参考に出来るといいなあと思います。
+>
+> 　もちろん他のコンテンツ案も絶賛募集中ｗ
+>
+> (11/08/05 12:33), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>> 　うん、確かに、一回丁寧に紙飛行機をやってみるのもいいかもしれないですね。
+>> 　１～２回、素振り調整しましょうか～。
+>>
+>>
+>> 2011年8月5日12:29 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>> Ryuzeeです。
+>>>
+>>> そろそろケツに火がついてきたｗ
+>>>
+>>> ちょっと考えたんですが、Scrum概要と銘打ってるので、ワークショップを
+>>> 含めた基礎コースやったらどうかなぁと思います。
+>>>
+>>> ということで案
+>>>
+>>> ・紙飛行機ワークショップをいきなりやる。
+>>> 　4セットくらいで、45分。
+>>>
+>>> ・ワークが終わったあと、ワークの内容や制約がそれぞれScrumの何を
+>>> 　指していたかを解説していく。
+>>> 　・タイムボックス
+>>> 　・スプリント計画
+>>> 　・ふりかえり
+>>> 　・検査と適応
+>>> 　・完了の定義
+>>> 　・ベロシティ
+>>> 　・自己組織化
+>>>
+>>> コンセプトとしては、全てを紙飛行機ベースで説明する、みたいな。
+>>>
+>>>
+>>> (11/07/28 2:36), Nishimura Naoto wrote:
+>>>> XP祭りXで nawoto と ryuzee でセッションをやるんだけど、どうみてもスクラム道プレゼンツなんでスレを立
+>>>> ててみた。
+>>>> セッションのネタ出しとか当日手伝ってくれる人の募集のやり取りをしていく予定。
+>>>> # 別のコマの話もOKの方向で
+>>>>
+>>>> ** 決まっている事
+>>>>
+>>>> - 日程:9/3
+>>>> - 枠: 1.5h
+>>>> - 仮タイトル:スクラム概要
+>>>>
+>>>> ** 第一回目ネタ出し
+>>>>
+>>>> 昼飯くいながら nawoto, ryuzee kawaguti とネタ出しした内容
+>>>>
+>>>> - プチバースト
+>>>> - スクラム概要+トランプ (俺の鉄板コンテンツww)
+>>>>
+>>>> 以下、色んな人のアイデアが続く予定
+>>>> ↓↓↓↓↓↓↓↓↓↓
+>>>>
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/XPX.html
+>>> ML->  taoofscrum@qwik.jp
+>>>
+>
+}}
+{{mail(kawaguti@gmail.com,1312649166)
+かわぐちです。
+
+　裏番組の安井さんから、
+　安井さんもワークショップの予定なんだけど 100人部屋を割り当てられてるので、
+　よかったら部屋を交換してもらえませんか、という相談をいただきました。
+
+　サポートスタッフが十分にいれば、80人で紙飛行機はありかも。
+
+　80人で回す場合の配慮(案)
+　・テスト飛行場のカオスが加速する。(リソース制約が明らかになる。飛行場はあらかじめ２つでもいいかも。)
+　・予/実は自分で書きにきてもらう。
+　・振り返りを効率的にシェアする方法を使う。気づきを模造紙にまとめて発表とか。
+　・LTタイマーのようなタイマーでプレゼンしていく(画面に経過時間/残り時間を表示し続ける)。
+　・中盤の説明もタイムボックス内で。
+　とかとか、無理っぽい気はしないし、一回やってみたらいいんじゃないかという気がします。
+
+
+2011年8月6日18:55 takubon@kanataku.com <takubon@kanataku.com>:
+> 木村@takubonです。
+>
+> 前回のBootCampに参加してくれたメンバーが、自社に戻って、ワークショップを
+> 開いてくれた
+> ところに参加してきましたが、なかなかの盛況ぶりでしたし、狙い通りの気づき
+> を得てもらっていたので
+> 紙飛行機のワークショップをいきなりやるのはありだと思いますよ。
+>
+> その際も45分で４セット（チーム分け含み）でしたが、かなり時間は厳しかった
+> です。
+> 60分くらいが妥当かと思います。
+>
+>
+> (2011年08月05日 12:36), Ryutaro YOSHIBA wrote:
+>> Ryuzeeです。
+>>
+>>　 すくすくで海江田さんが紙飛行機やった、という風に聞いているので
+>>　 その際の内容も参考に出来るといいなあと思います。
+>>
+>>　 もちろん他のコンテンツ案も絶賛募集中ｗ
+>>
+>> (11/08/05 12:33), Yasunobu Kawaguchi wrote:
+>>> かわぐちです。
+>>>
+>>>　 うん、確かに、一回丁寧に紙飛行機をやってみるのもいいかもしれないですね。
+>>>　 １～２回、素振り調整しましょうか～。
+>>>
+>>>
+>>> 2011年8月5日12:29 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>> Ryuzeeです。
+>>>>
+>>>> そろそろケツに火がついてきたｗ
+>>>>
+>>>> ちょっと考えたんですが、Scrum概要と銘打ってるので、ワークショップを
+>>>> 含めた基礎コースやったらどうかなぁと思います。
+>>>>
+>>>> ということで案
+>>>>
+>>>> ・紙飛行機ワークショップをいきなりやる。
+>>>>　 4セットくらいで、45分。
+>>>>
+>>>> ・ワークが終わったあと、ワークの内容や制約がそれぞれScrumの何を
+>>>>　 指していたかを解説していく。
+>>>>　 ・タイムボックス
+>>>>　 ・スプリント計画
+>>>>　 ・ふりかえり
+>>>>　 ・検査と適応
+>>>>　 ・完了の定義
+>>>>　 ・ベロシティ
+>>>>　 ・自己組織化
+>>>>
+>>>> コンセプトとしては、全てを紙飛行機ベースで説明する、みたいな。
+>>>>
+>>>>
+>>>> (11/07/28 2:36), Nishimura Naoto wrote:
+>>>>> XP祭りXで nawoto と ryuzee でセッションをやるんだけど、どうみてもスクラム道プレゼンツなんでスレを立
+>>>>> ててみた。
+>>>>> セッションのネタ出しとか当日手伝ってくれる人の募集のやり取りをしていく予定。
+>>>>> # 別のコマの話もOKの方向で
+>>>>>
+>>>>> ** 決まっている事
+>>>>>
+>>>>> - 日程:9/3
+>>>>> - 枠: 1.5h
+>>>>> - 仮タイトル:スクラム概要
+>>>>>
+>>>>> ** 第一回目ネタ出し
+>>>>>
+>>>>> 昼飯くいながら nawoto, ryuzee kawaguti とネタ出しした内容
+>>>>>
+>>>>> - プチバースト
+>>>>> - スクラム概要+トランプ (俺の鉄板コンテンツww)
+>>>>>
+>>>>> 以下、色んな人のアイデアが続く予定
+>>>>> ↓↓↓↓↓↓↓↓↓↓
+>>>>>
+>>>>
+>>>> --
+>>>> Ryutaro YOSHIBA / Ryuzee
+>>>> Agile Coach / Certified Scrum Professional
+>>>> http://www.ryuzee.com
+>>>> http://twitter.com/ryuzee
+>>>> --
+>>>> This message contains confidential information and is intended
+>>>> only for the individual named. If you are not the named addressee
+>>>> you should not disseminate, distribute or copy this e-mail.
+>>>> Please notify the sender immediately by e-mail if you have received
+>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>
+>>>> --
+>>>> archive->  http://qwik.jp/taoofscrum/XPX.html
+>>>> ML->  taoofscrum@qwik.jp
+>>>>
+>>
+>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/XPX.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1313314046)
+紙飛行機ワークを丁寧にやるのは賛成です。
+
+ただし、構成としていきなりワークをやるのはちょっと反対です。
+僕は、ワークショップは口頭で説明した事を補うものだと思っているので、いつもトランプゲームで概要を説明
+する時は、こんな構成でやっています。
+
++ 基本的な説明 (20分)
++ ワークショップ (30分～45分)
++ ふりかえり (5分)
++ 講師からの補足説明とまとめ (10分)
+
+> ・ワークが終わったあと、ワークの内容や制約がそれぞれScrumの何を
+>　 指していたかを解説していく。
+>　 ・タイムボックス
+>　 ・スプリント計画
+>　 ・ふりかえり
+>　 ・検査と適応
+>　 ・完了の定義
+>　 ・ベロシティ
+>　 ・自己組織化
+
+なので、この部分は前半に説明して、最後にもう一度どこに該当するかを説明するのが良いと思います。
+また、これ全部をきちんと説明して理解してもらうのは厳しいので、どこを重要視するかは決めた方が良いですね。
+あと、紙飛行機のワークはロールの説明を盛り込みにくいのも気になるところ。特にスクラムマスター。
+
+In <CAHY8s=DZzOcxA424PJoJBEc5NOMxkeBsONfBd+iN1i6LsQ+0RQ@mail.gmail.com>,
+Yasunobu Kawaguchi <kawaguti@gmail.com> wrote:
+
+> 　裏番組の安井さんから、
+> 　安井さんもワークショップの予定なんだけど 100人部屋を割り当てられてるので、
+> 　よかったら部屋を交換してもらえませんか、という相談をいただきました。
+
+できれば、今回は紙飛行機のワークを'''丁寧にやる'''という事と、ワークショップ自体は参加者を上手くリードする
+のが難しいのを考えると、交換したくない感じです。
+
+とりあえずアクションとしてはこんな感じか??
+
+- 紙飛行機のワークで行くかを最終判断する -> nawoto, ryuzee
+- 部屋の調整についての最終判断する -> ???
+- メインに説明するキーワードを決める -> ???
+- 資料作成 -> ???
+- セッション概要を書く -> ???
+}}
+{{mail(ryuzee@gmail.com,1313374647)
+Ryuzeeです。
+
+- 紙飛行機のワークで行くかを最終判断する ->  nawoto, ryuzee
+
+　→紙飛行機ワークで行きましょう。何度かやっているので話しやすいのと
+　　過去の参加者の意見からこのワークが楽しかったという意見が多いので。
+
+- 部屋の調整についての最終判断する ->  ???
+
+　→@nawotoさんと同意見。100人はコントロール不可で、
+　　30～40人くらいが現実的な限界だと思ってます。
+
+- メインに説明するキーワードを決める ->  ???
+
+　→タイムボックス、スプリント計画、ふりかえり、ベロシティがメイン
+　　ですかね？ロール系の話は言うとおりだと思いますので、全体説明で
+　　さらっと流す感じ
+
+- 資料作成 ->  ???
+- セッション概要を書く ->  ???
+
+　→とりあえず拾えばよいかな？
+
+
+(11/08/14 18:27), nishimura@nawo.to wrote:
+> 紙飛行機ワークを丁寧にやるのは賛成です。
+> 
+> ただし、構成としていきなりワークをやるのはちょっと反対です。
+> 僕は、ワークショップは口頭で説明した事を補うものだと思っているので、いつもトランプゲームで概要を説明
+> する時は、こんな構成でやっています。
+> 
+> + 基本的な説明 (20分)
+> + ワークショップ (30分～45分)
+> + ふりかえり (5分)
+> + 講師からの補足説明とまとめ (10分)
+> 
+>> ・ワークが終わったあと、ワークの内容や制約がそれぞれScrumの何を
+>> 　 指していたかを解説していく。
+>> 　 ・タイムボックス
+>> 　 ・スプリント計画
+>> 　 ・ふりかえり
+>> 　 ・検査と適応
+>> 　 ・完了の定義
+>> 　 ・ベロシティ
+>> 　 ・自己組織化
+> 
+> なので、この部分は前半に説明して、最後にもう一度どこに該当するかを説明するのが良いと思います。
+> また、これ全部をきちんと説明して理解してもらうのは厳しいので、どこを重要視するかは決めた方が良いですね。
+> あと、紙飛行機のワークはロールの説明を盛り込みにくいのも気になるところ。特にスクラムマスター。
+> 
+> In<CAHY8s=DZzOcxA424PJoJBEc5NOMxkeBsONfBd+iN1i6LsQ+0RQ@mail.gmail.com>,
+> Yasunobu Kawaguchi<kawaguti@gmail.com>  wrote:
+> 
+>> 　裏番組の安井さんから、
+>> 　安井さんもワークショップの予定なんだけど 100人部屋を割り当てられてるので、
+>> 　よかったら部屋を交換してもらえませんか、という相談をいただきました。
+> 
+> できれば、今回は紙飛行機のワークを'''丁寧にやる'''という事と、ワークショップ自体は参加者を上手くリードする
+> のが難しいのを考えると、交換したくない感じです。
+> 
+> とりあえずアクションとしてはこんな感じか??
+> 
+> - 紙飛行機のワークで行くかを最終判断する ->  nawoto, ryuzee
+> - 部屋の調整についての最終判断する ->  ???
+> - メインに説明するキーワードを決める ->  ???
+> - 資料作成 ->  ???
+> - セッション概要を書く ->  ???
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1313377866)
+Ryuzeeです。
+
+XP祭りのセッション概要を書いてみました。
+適宜添削をお願いします。
+
+--------------
+■概要
+
+Scrumの基本についてざっくりと学ぶことを目的としたセッションです。
+開発方法論の学習については、本やWebサイトを読むだけでは実際に行う
+場合のイメージがつかないことが多いので、実際にワークショップを通
+じて参加者の皆様にScrumのプロセスを体験して頂きます。
+このセッションを受講することで、今後Scrumの学習のキッカケになる
+ことを目指しています。
+
+対象参加者は、XPを実践しているがScrumについては未経験な方、そもそも
+アジャイルな開発への参加経験が少ない、もしくは経験がない方です。
+エンジニア以外の方でも理解できる内容になっております。
+定員は40名を予定しています。
+
+なお、必須ではありませんが、お時間に余裕のある方は事前準備として
+以下の無料リソースをご一読頂くことをオススメします。
+
+Scrum Guide
+　http://www.scrum.org/scrumguides/　　（中段に日本語版があります）　　
+塹壕よりScrumとXP
+　http://www.infoq.com/jp/minibooks/scrum-xp-from-the-trenches
+
+--------------
+
+
+
+(11/08/15 11:17), Ryutaro YOSHIBA wrote:
+> Ryuzeeです。
+> 
+> - 紙飛行機のワークで行くかを最終判断する ->   nawoto, ryuzee
+> 
+> 　→紙飛行機ワークで行きましょう。何度かやっているので話しやすいのと
+> 　　過去の参加者の意見からこのワークが楽しかったという意見が多いので。
+> 
+> - 部屋の調整についての最終判断する ->   ???
+> 
+> 　→@nawotoさんと同意見。100人はコントロール不可で、
+> 　　30～40人くらいが現実的な限界だと思ってます。
+> 
+> - メインに説明するキーワードを決める ->   ???
+> 
+> 　→タイムボックス、スプリント計画、ふりかえり、ベロシティがメイン
+> 　　ですかね？ロール系の話は言うとおりだと思いますので、全体説明で
+> 　　さらっと流す感じ
+> 
+> - 資料作成 ->   ???
+> - セッション概要を書く ->   ???
+> 
+> 　→とりあえず拾えばよいかな？
+> 
+> 
+> (11/08/14 18:27), nishimura@nawo.to wrote:
+>> 紙飛行機ワークを丁寧にやるのは賛成です。
+>>
+>> ただし、構成としていきなりワークをやるのはちょっと反対です。
+>> 僕は、ワークショップは口頭で説明した事を補うものだと思っているので、いつもトランプゲームで概要を説明
+>> する時は、こんな構成でやっています。
+>>
+>> + 基本的な説明 (20分)
+>> + ワークショップ (30分～45分)
+>> + ふりかえり (5分)
+>> + 講師からの補足説明とまとめ (10分)
+>>
+>>> ・ワークが終わったあと、ワークの内容や制約がそれぞれScrumの何を
+>>> 　 指していたかを解説していく。
+>>> 　 ・タイムボックス
+>>> 　 ・スプリント計画
+>>> 　 ・ふりかえり
+>>> 　 ・検査と適応
+>>> 　 ・完了の定義
+>>> 　 ・ベロシティ
+>>> 　 ・自己組織化
+>>
+>> なので、この部分は前半に説明して、最後にもう一度どこに該当するかを説明するのが良いと思います。
+>> また、これ全部をきちんと説明して理解してもらうのは厳しいので、どこを重要視するかは決めた方が良いですね。
+>> あと、紙飛行機のワークはロールの説明を盛り込みにくいのも気になるところ。特にスクラムマスター。
+>>
+>> In<CAHY8s=DZzOcxA424PJoJBEc5NOMxkeBsONfBd+iN1i6LsQ+0RQ@mail.gmail.com>,
+>> Yasunobu Kawaguchi<kawaguti@gmail.com>   wrote:
+>>
+>>> 　裏番組の安井さんから、
+>>> 　安井さんもワークショップの予定なんだけど 100人部屋を割り当てられてるので、
+>>> 　よかったら部屋を交換してもらえませんか、という相談をいただきました。
+>>
+>> できれば、今回は紙飛行機のワークを'''丁寧にやる'''という事と、ワークショップ自体は参加者を上手くリードする
+>> のが難しいのを考えると、交換したくない感じです。
+>>
+>> とりあえずアクションとしてはこんな感じか??
+>>
+>> - 紙飛行機のワークで行くかを最終判断する ->   nawoto, ryuzee
+>> - 部屋の調整についての最終判断する ->   ???
+>> - メインに説明するキーワードを決める ->   ???
+>> - 資料作成 ->   ???
+>> - セッション概要を書く ->   ???
+>>
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1313379774)
+In <4E4881BC.9020607@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> - 紙飛行機のワークで行くかを最終判断する ->  nawoto, ryuzee
+> 
+> 　→紙飛行機ワークで行きましょう。何度かやっているので話しやすいのと
+> 　　過去の参加者の意見からこのワークが楽しかったという意見が多いので。
+
+よし、じゃ紙飛行機で行こう!!
+
+> - 部屋の調整についての最終判断する ->  ???
+> 
+> 　→@nawotoさんと同意見。100人はコントロール不可で、
+> 　　30～40人くらいが現実的な限界だと思ってます。
+
+これで FA でいいんじゃね。
+これで正式回答でいいですか? > kagaguti
+
+> - メインに説明するキーワードを決める ->  ???
+> 
+> 　→タイムボックス、スプリント計画、ふりかえり、ベロシティがメイン
+> 　　ですかね？ロール系の話は言うとおりだと思いますので、全体説明で
+> 　　さらっと流す感じ
+
+うん、この 4 つを体験してもらいます。って言い切ろう。
+
+> - 資料作成 ->  ???
+> - セッション概要を書く ->  ???
+> 
+> 　→とりあえず拾えばよいかな？
+
+せっかく二人でやるんで上手く分担したいね。
+資料作成の部分を分担するとしたら、ここでスライスする?
+
+- 全体説明
+- ワークショップ
+- 参加者のふりかえり
+- まとめ <ここは二人それぞれってのも面白いかも>
+}}
+{{mail(nishimura@nawo.to,1313379973)
+In <4E488E4C.7010003@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> XP祭りのセッション概要を書いてみました。
+> 適宜添削をお願いします。
+
+パーフェクトすぐるww
+先のメールであったメインに説明する事(タイムボックス、スプリント計画、ふりかえり、ベロシティ)を重点的
+なキーワード(良い日本語が思いつかんw)とかにして、概要の後ろの方に追記しても親切かも
+}}
+{{mail(ryuzee@gmail.com,1313383182)
+Ryuzeeです
+
+キーワードを足してみた。確認よろしくです。
+
+その他
+・備品系の手配をお願いできるかどうかは事務局に確認すれば
+　いいよね？もし難しいなら、今回はA4の紙大量＋はさみ＋模造紙１枚
+　があればOKかな
+・事務局からプロフィールとプロフィール画像を求められているので
+　準備よろしくです。(僕からまとめて送っても良いです)
+
+-------------------
+■概要
+
+Scrumの基本についてざっくりと学ぶことを目的としたセッションです。
+開発方法論の学習については、本やWebサイトを読むだけでは実際に行う
+場合のイメージがつかないことが多いので、実際にワークショップを通
+じて参加者の皆様にScrumのプロセスを体験して頂きます。
+
+今回は90分という短い時間ですので、Scrumの基本のうち、タイムボックス、
+計画づくり、ふりかえり、生産性の測定の項目を中心に進める予定です。
+このセッションを受講することで、今後Scrumの学習のキッカケになることを
+目指しています。
+
+対象参加者は、XPを実践しているがScrumについては未経験な方、そもそも
+アジャイルな開発への参加経験が少ない、もしくは経験がない方です。
+エンジニア以外の方でも理解できる内容になっております。
+定員は40名を予定しています。
+
+なお、必須ではありませんが、お時間に余裕のある方は事前準備として
+以下の無料リソースをご一読頂くことをオススメします。
+Scrum Guide
+　http://www.scrum.org/scrumguides/　　（中段に日本語版があります）　　
+塹壕よりScrumとXP
+　http://www.infoq.com/jp/minibooks/scrum-xp-from-the-trenches
+
+
+(11/08/15 12:46), Nishimura Naoto wrote:
+> In<4E488E4C.7010003@gmail.com>,
+> Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+> 
+>> XP祭りのセッション概要を書いてみました。
+>> 適宜添削をお願いします。
+> 
+> パーフェクトすぐるww
+> 先のメールであったメインに説明する事(タイムボックス、スプリント計画、ふりかえり、ベロシティ)を重点的
+> なキーワード(良い日本語が思いつかんw)とかにして、概要の後ろの方に追記しても親切かも
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1313385012)
+In <4E48A313.8040100@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+> キーワードを足してみた。確認よろしくです。
+
+エクセレント!!
+
+> 計画づくり、ふりかえり、生産性の測定の項目を中心に進める予定です。
+
+s/進める/説明する/ ぐらいかな。
+僕はこれぐらいなので、他の人なにかあれば。
+
+> ・事務局からプロフィールとプロフィール画像を求められているので
+> 　準備よろしくです。(僕からまとめて送っても良いです)
+
+雑用はやるよ。
+俺の方に必要なものを送ってもらうで大丈夫かな? > ryuzee
+# そっちの方が手間ならお願い!!
+
+> ・備品系の手配をお願いできるかどうかは事務局に確認すれば
+> 　いいよね？もし難しいなら、今回はA4の紙大量＋はさみ＋模造紙１枚
+> 　があればOKかな
+
+あと、ふりかえり用に付箋とペンがあるといいかな。
+プロフィールと概要送るついでに聞いてみようぜ。
+}}
+{{mail(ryuzee@gmail.com,1313387705)
+Ryuzeeです。
+
+>> 計画づくり、ふりかえり、生産性の測定の項目を中心に進める予定です。
+> 
+> s/進める/説明する/ ぐらいかな。
+> 僕はこれぐらいなので、他の人なにかあれば。
+
+→fixed.
+
+>> ・事務局からプロフィールとプロフィール画像を求められているので
+>> 　準備よろしくです。(僕からまとめて送っても良いです)
+> 
+> 雑用はやるよ。
+> 俺の方に必要なものを送ってもらうで大丈夫かな?>  ryuzee
+> # そっちの方が手間ならお願い!!
+
+→付箋とペンの話も含めて、こっちでやっちゃうから、
+　プロフィールと画像くださいませ。
+　送るときはCCいれるので適宜指摘があれば、って感じで。
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(nishimura@nawo.to,1313388459)
+In <4E48B4BC.3010005@gmail.com>,
+Ryutaro YOSHIBA <ryuzee@gmail.com> wrote:
+
+>>> ・事務局からプロフィールとプロフィール画像を求められているので
+>>> 　準備よろしくです。(僕からまとめて送っても良いです)
+> 
+> →付箋とペンの話も含めて、こっちでやっちゃうから、
+> 　プロフィールと画像くださいませ。
+> 　送るときはCCいれるので適宜指摘があれば、って感じで。
+
+
+らじゃー。
+今日の夜まで時間ください
+}}
+{{mail(ryuzee@gmail.com,1313388495)
+了解でーす
+
+Ryuzee
+
+(11/08/15 15:07), Nishimura Naoto wrote:
+> In<4E48B4BC.3010005@gmail.com>,
+> Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+> 
+>>>> ・事務局からプロフィールとプロフィール画像を求められているので
+>>>> 　準備よろしくです。(僕からまとめて送っても良いです)
+>>
+>> →付箋とペンの話も含めて、こっちでやっちゃうから、
+>> 　プロフィールと画像くださいませ。
+>> 　送るときはCCいれるので適宜指摘があれば、って感じで。
+> 
+> 
+> らじゃー。
+> 今日の夜まで時間ください
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1313390512)
+かわぐちです。
+
+　文面パーフェクトだと思います。
+　ありがとうございます。
+
+2011年8月15日15:08 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> 了解でーす
+>
+> Ryuzee
+>
+> (11/08/15 15:07), Nishimura Naoto wrote:
+>> In<4E48B4BC.3010005@gmail.com>,
+>> Ryutaro YOSHIBA<ryuzee@gmail.com>  wrote:
+>>
+>>>>> ・事務局からプロフィールとプロフィール画像を求められているので
+>>>>>　 準備よろしくです。(僕からまとめて送っても良いです)
+>>>
+>>> →付箋とペンの話も含めて、こっちでやっちゃうから、
+>>>　 プロフィールと画像くださいませ。
+>>>　 送るときはCCいれるので適宜指摘があれば、って感じで。
+>>
+>>
+>> らじゃー。
+>> 今日の夜まで時間ください
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/XPX.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(nishimura@nawo.to,1313393983)
+In <20110815.124246.60985249438802144.n-nishimura@esm.co.jp>,
+Nishimura Naoto <n-nishimura@esm.co.jp> wrote:
+
+>> - 部屋の調整についての最終判断する ->  ???
+>> 
+>> 　→@nawotoさんと同意見。100人はコントロール不可で、
+>> 　　30～40人くらいが現実的な限界だと思ってます。
+> 
+> これで FA でいいんじゃね。
+> これで正式回答でいいですか? > kagaguti
+
+かわぐちさん、これも大丈夫ですか?
+}}
+{{mail(kawaguti@gmail.com,1313394594)
+かわぐちです。
+
+>>　 →@nawotoさんと同意見。100人はコントロール不可で、
+>>　　 30～40人くらいが現実的な限界だと思ってます。
+> かわぐちさん、これも大丈夫ですか?
+
+　実績的には40人くらいまでしかみたことないので、
+　言い切ってしまっていいとおもいます。
+}}

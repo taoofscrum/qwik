@@ -1,0 +1,25 @@
+* これまでのスクラム道の資料置き場ってありますか？
+{{mail(yohhatu@gmail.com,1338949852)
+中村洋(＠yohhatu)です。
+
+【質問】
+これまで作った(使った)スクラム道の資料置き場ってどこかDropbox上にあったりしますか？
+
+【お願い】
+もし(見て良いなら)権限付与して欲しいなぁと思いまして。
+
+【理由】
+自分が話す際の参考にしたいなぁと思いまして。
+※Dropboxではなく、各自のSlideShareなりに散らばっているような気もしますが。
+}}
+{{mail(nishimura@nawo.to,1338962504)
+In <CALkfDYEthfOmvgsZBVY2PKX7gh02L5atmLbSPF37ucLiTOYX5A@mail.gmail.com>,
+中村洋 <yohhatu@gmail.com> wrote:
+
+> 【質問】
+> これまで作った(使った)スクラム道の資料置き場ってどこかDropbox上にあったりしますか？
+
+道場の資料は、公式サイトで全部公開されてまーす。
+
+http://www.taoofscrum.org
+}}

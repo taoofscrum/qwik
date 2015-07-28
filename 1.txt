@@ -1,0 +1,2687 @@
+* 第2回 Scrum Boot Camp
+{{mail(ryuzee@gmail.com,1310413148)
+Ryuzeeです。
+
+資料見えました。
+
+気になった点書いちゃいますね。
+
+・ページのタイトルがほとんど英語ですが、参加者は初心者層で、
+　英語の解釈までさせたらかわいそう。素直に日本語がいいなぁ。
+
+・文字が小さいページが多いかも。後ろに座った参加者はちょっと
+　大変かなぁ。
+
+・スプリントあらかじめ予定された会議体　のページが２枚ある？
+
+(11/07/12 1:37), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　資料の最初の版を公開します。見れますか？
+> 　　https://www.evernote.com/shard/s34/share/10c8-s34-41d8a11fa41191f63d19567c999c9eb5-1/
+> 
+> 　例えば明日やるならこれでやるんですけど、
+> 　もうちょっと時間はあるので、練習しながらいじると思います。
+> 
+> 
+> 2011年7月11日14:35 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> Ryuzeeでござる。
+>>
+>> 素振り先は決まりました。日にちは19日で、上野近辺でやります。
+>>
+>> ということでマテリアルの準備をどんどん進めたい。
+>>
+>> で今回からスクラム道主催なので、マテリアルのレビューどうやってやるか
+>> とか最低限話さなきゃいけないこと（＝Scrum Boot Campを満たすための
+>> 必要条件）とか決めなきゃいかんですね。
+>>
+>> 資料はDropbox共有で良いかな？それであれば前回のBoot Campで使ったやつが
+>> そのまま使えると思います。
+>>
+>> (11/07/08 1:16), nishimura@nawo.to wrote:
+>>> In<CAPG=6LZqf=x3riFL=8KPG2_=+FMqX3JmkfpT3p6OTB-yJdd3cA@mail.gmail.com>,
+>>> Miho Nagase<miholovesq@gmail.com>   wrote:
+>>>
+>>>> 2011年7月7日21:33 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>>> 19もしくは21で素振り先を調整中です。
+>>>>> 動きあり次第ご連絡します。
+>>>>
+>>>> ありがとうございます！
+>>>
+>>> あー、素振り先を探すのとかは協力できたね>   俺
+>>> すいません、次回からは気をつけますです。
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1310568875)
+Ryuzeeです。
+
+来週19日にScrum Boot Camp素振りということで改めて講師の担当範囲と時間割を
+明確にしたうえで、資料の確定を急ぎたいのですが、
+川口さん時間割と担当を記述いただけませんか？
+
+僕はartifactsの箇所ということですが、PBL作成のワークを
+やるかどうかは誰が決めますか？
+
+また永瀬さんは準備はいかがでしょうか。
+
+(11/07/13 23:34), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　Ryuzeeさん、西村さん、コメントありがとうございます。
+> 　研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+> 
+> 　前半の文化や歴史のところは、Boot Camp としてはどうでもいいような気が
+> 　してきています。かといって、あんまし形だけ学んでもしょうがないと思うので、
+> 　どうしようかなと。どうなんだろ。
+> 
+> 　あと、元の案では午後にプロダクトバックログを動かすワークを入れようと
+> 　思っていたのですが、たぶん午前中の枠内でロールプレイ(タスクボード+
+> 　スプリント+デイリー+デモ+ふりかえり)をする方が分かりやすいと思うので、
+> 　ちょっとその方向で考えてみます。
+> 
+> 
+> 2011年7月13日16:26<nishimura@nawo.to>:
+>> In<CAHY8s=AebqjFkGVXURn7AEHHaSZViWaK4+MKG5+s=i4toc5gHg@mail.gmail.com>,
+>> Yasunobu Kawaguchi<kawaguti@gmail.com>  wrote:
+>>
+>>> 　 資料の最初の版を公開します。見れますか？
+>>> 　　 https://www.evernote.com/shard/s34/share/10c8-s34-41d8a11fa41191f63d19567c999c9eb5-1/
+>>>
+>>> 　 例えば明日やるならこれでやるんですけど、
+>>> 　 もうちょっと時間はあるので、練習しながらいじると思います。
+>>
+>> すいません、やっと見ました。
+>>
+>> 気になった事を書いてみましたが、それぞれのスタイルはあると思うので、参考意見程度だと思ってもらえると
+>> 幸いです。
+>>
+>> - 今から何を学べるのかを最初に教えてあげた方が良い。例)今から数週間どう進めていくかが分かります、よ
+>>   く聞くスプリントとかのやり方が分かりますとかとか
+>>
+>> - 一つのキーワードで色んな話が出てくるので、話を聞いてみないと良く分からない。
+>>   特にタイムボックスのところ。スライドとスライドがどういう事で繋がっているのかが資料からでは上手く読みとれない
+>>   あと、ピンと来ないキーワード(自己組織化、形式知とかとか)が多い気がするので、だいぶ口頭で補足しないといけない気がする。
+>>   研修は、参加者が後で資料を受けとれるのであれば、資料を読んだだけである程度分かる方が望ましいと思っています。
+>>
+>> - 川口さんのパートがどこまで担当するのか良く分かっていないんだけど、それぞれの会議体のやり方とかは別で説明するんだっけ?
+>>   learned about Daily meeting って本当??。資料だけだとググって分かる事と一緒な気がしました。
+>>   # 明日から実践できるかなーww
+>>
+>> - 他の人と色見とか少し合せておくと、パートごとのギャップが少なくなる気がしました
+>>   めっちゃ細かいことでゴメン。
+>>   ボランティアだから、そこまでしなくても良いと思いますが、もし余力があれば
+>>
+>> 色々と書きましたが、良い資料だと思います。
+>> ただ、ちょっと発表資料っぽくて研修資料ぽくないのが気になりました。
+>> # 生意気言ってゴメンなさいゴメンなさい
+>>
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1310606107)
+かわぐちです。
+
+　いちおう、スクラムガイドに即して分割するということで。
+　　1.概要と理論
+　　2.ロール
+　　3.タイムボックス
+　　4.アーティファクト
+
+　で、時間設計上は以下のように分割するといいんではないかと。
+　(6月の案からは午後の順番を変えました)
+
+　　午前
+　　　1.概要と理論 (30分)  かわぐち
+　　　3.タイムボックス (60分)  かわぐち
+　　午後1
+　　　2.ロール (30分)  永瀬さん
+　　　4.アーティファクト (60分)  Ryuzeeさん
+　　午後2
+　　　5. PBL作成ワークショップ (60分)  永瀬さん?
+　　　6. ふりかえり (30分)
+
+　90分設計で、30分、60分と書いてますが、これは割合の問題なので、
+　120分でやる場合は、40分、80分と考えてください。
+
+　午後1にワークをやった方が眠くならないかも！
+
+
+
+2011年7月13日23:54 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> 来週19日にScrum Boot Camp素振りということで改めて講師の担当範囲と時間割を
+> 明確にしたうえで、資料の確定を急ぎたいのですが、
+> 川口さん時間割と担当を記述いただけませんか？
+>
+> 僕はartifactsの箇所ということですが、PBL作成のワークを
+> やるかどうかは誰が決めますか？
+>
+> また永瀬さんは準備はいかがでしょうか。
+>
+> (11/07/13 23:34), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>>　 Ryuzeeさん、西村さん、コメントありがとうございます。
+>>　 研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+>>
+>>　 前半の文化や歴史のところは、Boot Camp としてはどうでもいいような気が
+>>　 してきています。かといって、あんまし形だけ学んでもしょうがないと思うので、
+>>　 どうしようかなと。どうなんだろ。
+>>
+>>　 あと、元の案では午後にプロダクトバックログを動かすワークを入れようと
+>>　 思っていたのですが、たぶん午前中の枠内でロールプレイ(タスクボード+
+>>　 スプリント+デイリー+デモ+ふりかえり)をする方が分かりやすいと思うので、
+>>　 ちょっとその方向で考えてみます。
+>>
+>>
+>> 2011年7月13日16:26<nishimura@nawo.to>:
+>>> In<CAHY8s=AebqjFkGVXURn7AEHHaSZViWaK4+MKG5+s=i4toc5gHg@mail.gmail.com>,
+>>> Yasunobu Kawaguchi<kawaguti@gmail.com>  wrote:
+>>>
+>>>>　  資料の最初の版を公開します。見れますか？
+>>>>　　  https://www.evernote.com/shard/s34/share/10c8-s34-41d8a11fa41191f63d19567c999c9eb5-1/
+>>>>
+>>>>　  例えば明日やるならこれでやるんですけど、
+>>>>　  もうちょっと時間はあるので、練習しながらいじると思います。
+>>>
+>>> すいません、やっと見ました。
+>>>
+>>> 気になった事を書いてみましたが、それぞれのスタイルはあると思うので、参考意見程度だと思ってもらえると
+>>> 幸いです。
+>>>
+>>> - 今から何を学べるのかを最初に教えてあげた方が良い。例)今から数週間どう進めていくかが分かります、よ
+>>>   く聞くスプリントとかのやり方が分かりますとかとか
+>>>
+>>> - 一つのキーワードで色んな話が出てくるので、話を聞いてみないと良く分からない。
+>>>   特にタイムボックスのところ。スライドとスライドがどういう事で繋がっているのかが資料からでは上手く読みとれない
+>>>   あと、ピンと来ないキーワード(自己組織化、形式知とかとか)が多い気がするので、だいぶ口頭で補足しないといけない気がする。
+>>>   研修は、参加者が後で資料を受けとれるのであれば、資料を読んだだけである程度分かる方が望ましいと思っています。
+>>>
+>>> - 川口さんのパートがどこまで担当するのか良く分かっていないんだけど、それぞれの会議体のやり方とかは別で説明するんだっけ?
+>>>   learned about Daily meeting って本当??。資料だけだとググって分かる事と一緒な気がしました。
+>>>   # 明日から実践できるかなーww
+>>>
+>>> - 他の人と色見とか少し合せておくと、パートごとのギャップが少なくなる気がしました
+>>>   めっちゃ細かいことでゴメン。
+>>>   ボランティアだから、そこまでしなくても良いと思いますが、もし余力があれば
+>>>
+>>> 色々と書きましたが、良い資料だと思います。
+>>> ただ、ちょっと発表資料っぽくて研修資料ぽくないのが気になりました。
+>>> # 生意気言ってゴメンなさいゴメンなさい
+>>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1310694123)
+Ryuzeeです。
+
+以下了解です。
+
+(1) ワークはPBL作成だけですか？午後一にワークをやる場合は
+    誰が何のワークをやりますか？
+
+(2) 実施前にレビューしたいですが、この週末の間にマテリアルを
+　　共有しながら随時修正で良いですか？
+
+(3) かわぐちさんのほうで以下に書いていただいた当日の目次みたいな
+　　スライドを含めていただけますか。
+
+(4) 当日ワークで使うものは何が必要でしょうか？模造紙やホワイトボードは
+　　あります。付箋も多少はあります。それ以外の用意が必要な場合は
+　　言ってください。
+
+(5) 火曜日の集合時間や場所は別メールで個別に連絡しますね。
+
+
+(11/07/14 10:15), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　いちおう、スクラムガイドに即して分割するということで。
+> 　　1.概要と理論
+> 　　2.ロール
+> 　　3.タイムボックス
+> 　　4.アーティファクト
+> 
+> 　で、時間設計上は以下のように分割するといいんではないかと。
+> 　(6月の案からは午後の順番を変えました)
+> 
+> 　　午前
+> 　　　1.概要と理論 (30分)  かわぐち
+> 　　　3.タイムボックス (60分)  かわぐち
+> 　　午後1
+> 　　　2.ロール (30分)  永瀬さん
+> 　　　4.アーティファクト (60分)  Ryuzeeさん
+> 　　午後2
+> 　　　5. PBL作成ワークショップ (60分)  永瀬さん?
+> 　　　6. ふりかえり (30分)
+> 
+> 　90分設計で、30分、60分と書いてますが、これは割合の問題なので、
+> 　120分でやる場合は、40分、80分と考えてください。
+> 
+> 　午後1にワークをやった方が眠くならないかも！
+> 
+> 
+> 
+> 2011年7月13日23:54 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> Ryuzeeです。
+>>
+>> 来週19日にScrum Boot Camp素振りということで改めて講師の担当範囲と時間割を
+>> 明確にしたうえで、資料の確定を急ぎたいのですが、
+>> 川口さん時間割と担当を記述いただけませんか？
+>>
+>> 僕はartifactsの箇所ということですが、PBL作成のワークを
+>> やるかどうかは誰が決めますか？
+>>
+>> また永瀬さんは準備はいかがでしょうか。
+>>
+>> (11/07/13 23:34), Yasunobu Kawaguchi wrote:
+>>> かわぐちです。
+>>>
+>>> 　 Ryuzeeさん、西村さん、コメントありがとうございます。
+>>> 　 研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+>>>
+>>> 　 前半の文化や歴史のところは、Boot Camp としてはどうでもいいような気が
+>>> 　 してきています。かといって、あんまし形だけ学んでもしょうがないと思うので、
+>>> 　 どうしようかなと。どうなんだろ。
+>>>
+>>> 　 あと、元の案では午後にプロダクトバックログを動かすワークを入れようと
+>>> 　 思っていたのですが、たぶん午前中の枠内でロールプレイ(タスクボード+
+>>> 　 スプリント+デイリー+デモ+ふりかえり)をする方が分かりやすいと思うので、
+>>> 　 ちょっとその方向で考えてみます。
+>>>
+>>>
+>>> 2011年7月13日16:26<nishimura@nawo.to>:
+>>>> In<CAHY8s=AebqjFkGVXURn7AEHHaSZViWaK4+MKG5+s=i4toc5gHg@mail.gmail.com>,
+>>>> Yasunobu Kawaguchi<kawaguti@gmail.com>   wrote:
+>>>>
+>>>>> 　  資料の最初の版を公開します。見れますか？
+>>>>> 　　  https://www.evernote.com/shard/s34/share/10c8-s34-41d8a11fa41191f63d19567c999c9eb5-1/
+>>>>>
+>>>>> 　  例えば明日やるならこれでやるんですけど、
+>>>>> 　  もうちょっと時間はあるので、練習しながらいじると思います。
+>>>>
+>>>> すいません、やっと見ました。
+>>>>
+>>>> 気になった事を書いてみましたが、それぞれのスタイルはあると思うので、参考意見程度だと思ってもらえると
+>>>> 幸いです。
+>>>>
+>>>> - 今から何を学べるのかを最初に教えてあげた方が良い。例)今から数週間どう進めていくかが分かります、よ
+>>>>    く聞くスプリントとかのやり方が分かりますとかとか
+>>>>
+>>>> - 一つのキーワードで色んな話が出てくるので、話を聞いてみないと良く分からない。
+>>>>    特にタイムボックスのところ。スライドとスライドがどういう事で繋がっているのかが資料からでは上手く読みとれない
+>>>>    あと、ピンと来ないキーワード(自己組織化、形式知とかとか)が多い気がするので、だいぶ口頭で補足しないといけない気がする。
+>>>>    研修は、参加者が後で資料を受けとれるのであれば、資料を読んだだけである程度分かる方が望ましいと思っています。
+>>>>
+>>>> - 川口さんのパートがどこまで担当するのか良く分かっていないんだけど、それぞれの会議体のやり方とかは別で説明するんだっけ?
+>>>>    learned about Daily meeting って本当??。資料だけだとググって分かる事と一緒な気がしました。
+>>>>    # 明日から実践できるかなーww
+>>>>
+>>>> - 他の人と色見とか少し合せておくと、パートごとのギャップが少なくなる気がしました
+>>>>    めっちゃ細かいことでゴメン。
+>>>>    ボランティアだから、そこまでしなくても良いと思いますが、もし余力があれば
+>>>>
+>>>> 色々と書きましたが、良い資料だと思います。
+>>>> ただ、ちょっと発表資料っぽくて研修資料ぽくないのが気になりました。
+>>>> # 生意気言ってゴメンなさいゴメンなさい
+>>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/1.html
+>> ML->  taoofscrum@qwik.jp
+>>
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1310695265)
+ながせです。
+
+2011年7月15日10:41 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> (1) ワークはPBL作成だけですか？午後一にワークをやる場合は
+>    誰が何のワークをやりますか？
+
+タスクスイッチングのワーク（JeffがCSPOでやったやつ）をやりたいんです、私。
+集中するんで目覚ましにもいいかなと思います。15分ぐらいかな。
+会場の雰囲気を見つつ、眠そうだったら、ロールの話の途中ではさんでも良いかなと思っています。
+
+> (2) 実施前にレビューしたいですが、この週末の間にマテリアルを
+> 　　共有しながら随時修正で良いですか？
+
+レビュワーさんにムリしていただく必要はないので、レビューの時間がないことの
+リスクは私がとって、とってどうするかっていうとがんばります！なんだけどw
+素振り後のレビューもみなさんお願いします。
+
+> (4) 当日ワークで使うものは何が必要でしょうか？模造紙やホワイトボードは
+> 　　あります。付箋も多少はあります。それ以外の用意が必要な場合は
+> 　　言ってください。
+
+タスクスイッチングのワークをやるならA4の紙が1人あたり1枚必要です。
+
+> (5) 火曜日の集合時間や場所は別メールで個別に連絡しますね。
+
+よろしくお願いします。
+
+マテリアルはがっちゃんこしない方向で？（ファイル的に）
+
+> (11/07/14 10:15), Yasunobu Kawaguchi wrote:
+>>　　 午前
+>>　　　 1.概要と理論 (30分)  かわぐち
+>>　　　 3.タイムボックス (60分)  かわぐち
+>>　　 午後1
+>>　　　 2.ロール (30分)  永瀬さん
+>>　　　 4.アーティファクト (60分)  Ryuzeeさん
+>>　　 午後2
+>>　　　 5. PBL作成ワークショップ (60分)  永瀬さん?
+>>　　　 6. ふりかえり (30分)
+
+案ありがとうございます。
+これでやってみましょうか。
+私が軽くて申し訳ない気がするけど。
+
+--
+Miho Nagase
+http://twitter.com/miholovesq
+}}
+{{mail(ryuzee@gmail.com,1310697745)
+全体を俯瞰するなら、Jeffがやった紙飛行機ですかね。
+
+＃ちなみにMLは移行したので、ポスト先変えました
+
+(11/07/15 11:38), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　ワークについては、全体の動きを俯瞰できるようなやつをやりたいです。
+> 　机にポストイットを貼ってもらって、見積もりとタスクボードを体験します。
+> 
+> 　全然資料作ってないけど。
+> 　ストーリーは、明日の AgileUCDja in RubyKaigi で作成するやつをつかおうかな。
+> 
+> 　お昼あたりで、改訂版の資料を公開したいと思います。
+> 
+> 
+> 2011年7月15日11:14 Miho Nagase<miholovesq@gmail.com>:
+>> ながせです。入れ違った。
+>>
+>> 2011年7月15日10:56 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>> In<CAHY8s=Bm4Vx2d1MO22RX44SuQ7W3Njtaxc23PfRrxAHXJ9-UFA@mail.gmail.com>,
+>>> Yasunobu Kawaguchi<kawaguti@gmail.com>  wrote:
+>>>
+>>>> 　 研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+>>>
+>>> おー、僕も以前にこの部分はだいぶ悩みましたww
+>>> ここは、ちょっとつっこんで考えてみると面白いですよ。
+>>
+>> 今のところちょっと資料性を優先してます。
+>> さらに、余白があると書き込みできて嬉しいかな。
+>> # こないだ書き込みが大変そうな受講者がいたので←FBしろって
+>>
+>> ちなみに、私の分は道ロゴ入れてマテリアル放出するので、次回以降の#scrumbcとかで
+>> 叩いて育ててくれても良いと思っています。
+>> もちろん、別に毎回ゼロベースで作るのも意味があるだろうし強制しませんけど。
+>>
+>> --
+>> Miho Nagase
+>> http://twitter.com/miholovesq
+>>
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1310698571)
+かわぐちです。
+
+　紙飛行機のやつは楽しいし、重要な気づきを与えてくれると思いますが、
+　今回はもうちょっと「各ツールを使ってみる」という感じのワーク、
+　またはロールプレイにしたいなぁ、と思っております。
+
+　　・タスクボード
+　　・ベロシティに基づく計画
+　　・ストーリーポイント、プランニングポーカー
+　　・デイリースクラム
+　　・バーンダウンチャート
+　　・ベロシティ
+
+　Copeのベロシティゲームができるならそれでもいいかも。
+　マテリアルの日本語化はこないだ海江田さんがすくすくでやってるから、終わってる感じ？
+
+
+2011年7月15日11:42 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> 全体を俯瞰するなら、Jeffがやった紙飛行機ですかね。
+>
+> ＃ちなみにMLは移行したので、ポスト先変えました
+>
+> (11/07/15 11:38), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>>　 ワークについては、全体の動きを俯瞰できるようなやつをやりたいです。
+>>　 机にポストイットを貼ってもらって、見積もりとタスクボードを体験します。
+>>
+>>　 全然資料作ってないけど。
+>>　 ストーリーは、明日の AgileUCDja in RubyKaigi で作成するやつをつかおうかな。
+>>
+>>　 お昼あたりで、改訂版の資料を公開したいと思います。
+>>
+>>
+>> 2011年7月15日11:14 Miho Nagase<miholovesq@gmail.com>:
+>>> ながせです。入れ違った。
+>>>
+>>> 2011年7月15日10:56 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>> In<CAHY8s=Bm4Vx2d1MO22RX44SuQ7W3Njtaxc23PfRrxAHXJ9-UFA@mail.gmail.com>,
+>>>> Yasunobu Kawaguchi<kawaguti@gmail.com>  wrote:
+>>>>
+>>>>>　  研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+>>>>
+>>>> おー、僕も以前にこの部分はだいぶ悩みましたww
+>>>> ここは、ちょっとつっこんで考えてみると面白いですよ。
+>>>
+>>> 今のところちょっと資料性を優先してます。
+>>> さらに、余白があると書き込みできて嬉しいかな。
+>>> # こないだ書き込みが大変そうな受講者がいたので←FBしろって
+>>>
+>>> ちなみに、私の分は道ロゴ入れてマテリアル放出するので、次回以降の#scrumbcとかで
+>>> 叩いて育ててくれても良いと思っています。
+>>> もちろん、別に毎回ゼロベースで作るのも意味があるだろうし強制しませんけど。
+>>>
+>>> --
+>>> Miho Nagase
+>>> http://twitter.com/miholovesq
+>>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(kawaguti@gmail.com,1310701978)
+かわぐちです。
+
+　資料の改訂版をおきました～。
+　　https://www.evernote.com/shard/s34/share/10c8-s34-41d8a11fa41191f63d19567c999c9eb5-1/
+
+　一日のアジェンダ的なものは、入れられると思います。(まだ入れてないけど)
+
+
+2011年7月15日11:56 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> かわぐちです。
+>
+> 　紙飛行機のやつは楽しいし、重要な気づきを与えてくれると思いますが、
+> 　今回はもうちょっと「各ツールを使ってみる」という感じのワーク、
+> 　またはロールプレイにしたいなぁ、と思っております。
+>
+> 　　・タスクボード
+> 　　・ベロシティに基づく計画
+> 　　・ストーリーポイント、プランニングポーカー
+> 　　・デイリースクラム
+> 　　・バーンダウンチャート
+> 　　・ベロシティ
+>
+> 　Copeのベロシティゲームができるならそれでもいいかも。
+> 　マテリアルの日本語化はこないだ海江田さんがすくすくでやってるから、終わってる感じ？
+>
+>
+> 2011年7月15日11:42 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>> 全体を俯瞰するなら、Jeffがやった紙飛行機ですかね。
+>>
+>> ＃ちなみにMLは移行したので、ポスト先変えました
+>>
+>> (11/07/15 11:38), Yasunobu Kawaguchi wrote:
+>>> かわぐちです。
+>>>
+>>>　 ワークについては、全体の動きを俯瞰できるようなやつをやりたいです。
+>>>　 机にポストイットを貼ってもらって、見積もりとタスクボードを体験します。
+>>>
+>>>　 全然資料作ってないけど。
+>>>　 ストーリーは、明日の AgileUCDja in RubyKaigi で作成するやつをつかおうかな。
+>>>
+>>>　 お昼あたりで、改訂版の資料を公開したいと思います。
+>>>
+>>>
+>>> 2011年7月15日11:14 Miho Nagase<miholovesq@gmail.com>:
+>>>> ながせです。入れ違った。
+>>>>
+>>>> 2011年7月15日10:56 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>> In<CAHY8s=Bm4Vx2d1MO22RX44SuQ7W3Njtaxc23PfRrxAHXJ9-UFA@mail.gmail.com>,
+>>>>> Yasunobu Kawaguchi<kawaguti@gmail.com>  wrote:
+>>>>>
+>>>>>>　  研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+>>>>>
+>>>>> おー、僕も以前にこの部分はだいぶ悩みましたww
+>>>>> ここは、ちょっとつっこんで考えてみると面白いですよ。
+>>>>
+>>>> 今のところちょっと資料性を優先してます。
+>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>> # こないだ書き込みが大変そうな受講者がいたので←FBしろって
+>>>>
+>>>> ちなみに、私の分は道ロゴ入れてマテリアル放出するので、次回以降の#scrumbcとかで
+>>>> 叩いて育ててくれても良いと思っています。
+>>>> もちろん、別に毎回ゼロベースで作るのも意味があるだろうし強制しませんけど。
+>>>>
+>>>> --
+>>>> Miho Nagase
+>>>> http://twitter.com/miholovesq
+>>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/1.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>
+}}
+{{mail(ryuzee@gmail.com,1310702148)
+EvernoreのWebアクセス面倒なので、
+前回使ったDropboxで共有しませんか？
+
+爺
+
+(11/07/15 12:52), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　資料の改訂版をおきました～。
+> 　　https://www.evernote.com/shard/s34/share/10c8-s34-41d8a11fa41191f63d19567c999c9eb5-1/
+> 
+> 　一日のアジェンダ的なものは、入れられると思います。(まだ入れてないけど)
+> 
+> 
+> 2011年7月15日11:56 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>> かわぐちです。
+>>
+>> 　紙飛行機のやつは楽しいし、重要な気づきを与えてくれると思いますが、
+>> 　今回はもうちょっと「各ツールを使ってみる」という感じのワーク、
+>> 　またはロールプレイにしたいなぁ、と思っております。
+>>
+>> 　　・タスクボード
+>> 　　・ベロシティに基づく計画
+>> 　　・ストーリーポイント、プランニングポーカー
+>> 　　・デイリースクラム
+>> 　　・バーンダウンチャート
+>> 　　・ベロシティ
+>>
+>> 　Copeのベロシティゲームができるならそれでもいいかも。
+>> 　マテリアルの日本語化はこないだ海江田さんがすくすくでやってるから、終わってる感じ？
+>>
+>>
+>> 2011年7月15日11:42 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>> 全体を俯瞰するなら、Jeffがやった紙飛行機ですかね。
+>>>
+>>> ＃ちなみにMLは移行したので、ポスト先変えました
+>>>
+>>> (11/07/15 11:38), Yasunobu Kawaguchi wrote:
+>>>> かわぐちです。
+>>>>
+>>>> 　 ワークについては、全体の動きを俯瞰できるようなやつをやりたいです。
+>>>> 　 机にポストイットを貼ってもらって、見積もりとタスクボードを体験します。
+>>>>
+>>>> 　 全然資料作ってないけど。
+>>>> 　 ストーリーは、明日の AgileUCDja in RubyKaigi で作成するやつをつかおうかな。
+>>>>
+>>>> 　 お昼あたりで、改訂版の資料を公開したいと思います。
+>>>>
+>>>>
+>>>> 2011年7月15日11:14 Miho Nagase<miholovesq@gmail.com>:
+>>>>> ながせです。入れ違った。
+>>>>>
+>>>>> 2011年7月15日10:56 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>>> In<CAHY8s=Bm4Vx2d1MO22RX44SuQ7W3Njtaxc23PfRrxAHXJ9-UFA@mail.gmail.com>,
+>>>>>> Yasunobu Kawaguchi<kawaguti@gmail.com>   wrote:
+>>>>>>
+>>>>>>> 　  研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+>>>>>>
+>>>>>> おー、僕も以前にこの部分はだいぶ悩みましたww
+>>>>>> ここは、ちょっとつっこんで考えてみると面白いですよ。
+>>>>>
+>>>>> 今のところちょっと資料性を優先してます。
+>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>> # こないだ書き込みが大変そうな受講者がいたので←FBしろって
+>>>>>
+>>>>> ちなみに、私の分は道ロゴ入れてマテリアル放出するので、次回以降の#scrumbcとかで
+>>>>> 叩いて育ててくれても良いと思っています。
+>>>>> もちろん、別に毎回ゼロベースで作るのも意味があるだろうし強制しませんけど。
+>>>>>
+>>>>> --
+>>>>> Miho Nagase
+>>>>> http://twitter.com/miholovesq
+>>>>>
+>>>
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/1.html
+>>> ML->  taoofscrum@qwik.jp
+>>>
+>>
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1310702353)
+かわぐちです。
+
+　おきました。
+　　/Dropbox/ScrumBootCamp/第２回
+
+　Evernoteの方はそのうち閉じときます。
+
+
+2011年7月15日12:55 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> EvernoreのWebアクセス面倒なので、
+> 前回使ったDropboxで共有しませんか？
+>
+> 爺
+>
+> (11/07/15 12:52), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>>　 資料の改訂版をおきました～。
+>>　　 https://www.evernote.com/shard/s34/share/10c8-s34-41d8a11fa41191f63d19567c999c9eb5-1/
+>>
+>>　 一日のアジェンダ的なものは、入れられると思います。(まだ入れてないけど)
+>>
+>>
+>> 2011年7月15日11:56 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>> かわぐちです。
+>>>
+>>>　 紙飛行機のやつは楽しいし、重要な気づきを与えてくれると思いますが、
+>>>　 今回はもうちょっと「各ツールを使ってみる」という感じのワーク、
+>>>　 またはロールプレイにしたいなぁ、と思っております。
+>>>
+>>>　　 ・タスクボード
+>>>　　 ・ベロシティに基づく計画
+>>>　　 ・ストーリーポイント、プランニングポーカー
+>>>　　 ・デイリースクラム
+>>>　　 ・バーンダウンチャート
+>>>　　 ・ベロシティ
+>>>
+>>>　 Copeのベロシティゲームができるならそれでもいいかも。
+>>>　 マテリアルの日本語化はこないだ海江田さんがすくすくでやってるから、終わってる感じ？
+>>>
+>>>
+>>> 2011年7月15日11:42 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>> 全体を俯瞰するなら、Jeffがやった紙飛行機ですかね。
+>>>>
+>>>> ＃ちなみにMLは移行したので、ポスト先変えました
+>>>>
+>>>> (11/07/15 11:38), Yasunobu Kawaguchi wrote:
+>>>>> かわぐちです。
+>>>>>
+>>>>>　  ワークについては、全体の動きを俯瞰できるようなやつをやりたいです。
+>>>>>　  机にポストイットを貼ってもらって、見積もりとタスクボードを体験します。
+>>>>>
+>>>>>　  全然資料作ってないけど。
+>>>>>　  ストーリーは、明日の AgileUCDja in RubyKaigi で作成するやつをつかおうかな。
+>>>>>
+>>>>>　  お昼あたりで、改訂版の資料を公開したいと思います。
+>>>>>
+>>>>>
+>>>>> 2011年7月15日11:14 Miho Nagase<miholovesq@gmail.com>:
+>>>>>> ながせです。入れ違った。
+>>>>>>
+>>>>>> 2011年7月15日10:56 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>>>> In<CAHY8s=Bm4Vx2d1MO22RX44SuQ7W3Njtaxc23PfRrxAHXJ9-UFA@mail.gmail.com>,
+>>>>>>> Yasunobu Kawaguchi<kawaguti@gmail.com>   wrote:
+>>>>>>>
+>>>>>>>>　   研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+>>>>>>>
+>>>>>>> おー、僕も以前にこの部分はだいぶ悩みましたww
+>>>>>>> ここは、ちょっとつっこんで考えてみると面白いですよ。
+>>>>>>
+>>>>>> 今のところちょっと資料性を優先してます。
+>>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>>> # こないだ書き込みが大変そうな受講者がいたので←FBしろって
+>>>>>>
+>>>>>> ちなみに、私の分は道ロゴ入れてマテリアル放出するので、次回以降の#scrumbcとかで
+>>>>>> 叩いて育ててくれても良いと思っています。
+>>>>>> もちろん、別に毎回ゼロベースで作るのも意味があるだろうし強制しませんけど。
+>>>>>>
+>>>>>> --
+>>>>>> Miho Nagase
+>>>>>> http://twitter.com/miholovesq
+>>>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Ryutaro YOSHIBA / Ryuzee
+>>>> Agile Coach / Certified Scrum Professional
+>>>> http://www.ryuzee.com
+>>>> http://twitter.com/ryuzee
+>>>> --
+>>>> This message contains confidential information and is intended
+>>>> only for the individual named. If you are not the named addressee
+>>>> you should not disseminate, distribute or copy this e-mail.
+>>>> Please notify the sender immediately by e-mail if you have received
+>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>
+>>>> --
+>>>> archive->  http://qwik.jp/taoofscrum/1.html
+>>>> ML->  taoofscrum@qwik.jp
+>>>>
+>>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(qooh0.info@gmail.com,1310708538)
+海江田です。
+
+すくすくでやったのは、Jeff の紙ヒコーキですね。
+Cope のベロシティゲームは、金をかけられなかったのでやめました。
+換えが難しいんですよね、あれ。
+風船には風船の意味があるし…
+
+紙ヒコーキは、前回、200 枚用意したのですが足りなかったですね。
+400 枚くらい必要だと思います。
+
+--
+kaieda
+
+
+2011年7月15日12:59 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> かわぐちです。
+>
+> 　おきました。
+> 　　/Dropbox/ScrumBootCamp/第２回
+>
+> 　Evernoteの方はそのうち閉じときます。
+>
+>
+> 2011年7月15日12:55 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>> EvernoreのWebアクセス面倒なので、
+>> 前回使ったDropboxで共有しませんか？
+>>
+>> 爺
+>>
+>> (11/07/15 12:52), Yasunobu Kawaguchi wrote:
+>>> かわぐちです。
+>>>
+>>>　 資料の改訂版をおきました～。
+>>>　　 https://www.evernote.com/shard/s34/share/10c8-s34-41d8a11fa41191f63d19567c999c9eb5-1/
+>>>
+>>>　 一日のアジェンダ的なものは、入れられると思います。(まだ入れてないけど)
+>>>
+>>>
+>>> 2011年7月15日11:56 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>>> かわぐちです。
+>>>>
+>>>>　 紙飛行機のやつは楽しいし、重要な気づきを与えてくれると思いますが、
+>>>>　 今回はもうちょっと「各ツールを使ってみる」という感じのワーク、
+>>>>　 またはロールプレイにしたいなぁ、と思っております。
+>>>>
+>>>>　　 ・タスクボード
+>>>>　　 ・ベロシティに基づく計画
+>>>>　　 ・ストーリーポイント、プランニングポーカー
+>>>>　　 ・デイリースクラム
+>>>>　　 ・バーンダウンチャート
+>>>>　　 ・ベロシティ
+>>>>
+>>>>　 Copeのベロシティゲームができるならそれでもいいかも。
+>>>>　 マテリアルの日本語化はこないだ海江田さんがすくすくでやってるから、終わってる感じ？
+>>>>
+>>>>
+>>>> 2011年7月15日11:42 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>>> 全体を俯瞰するなら、Jeffがやった紙飛行機ですかね。
+>>>>>
+>>>>> ＃ちなみにMLは移行したので、ポスト先変えました
+>>>>>
+>>>>> (11/07/15 11:38), Yasunobu Kawaguchi wrote:
+>>>>>> かわぐちです。
+>>>>>>
+>>>>>>　  ワークについては、全体の動きを俯瞰できるようなやつをやりたいです。
+>>>>>>　  机にポストイットを貼ってもらって、見積もりとタスクボードを体験します。
+>>>>>>
+>>>>>>　  全然資料作ってないけど。
+>>>>>>　  ストーリーは、明日の AgileUCDja in RubyKaigi で作成するやつをつかおうかな。
+>>>>>>
+>>>>>>　  お昼あたりで、改訂版の資料を公開したいと思います。
+>>>>>>
+>>>>>>
+>>>>>> 2011年7月15日11:14 Miho Nagase<miholovesq@gmail.com>:
+>>>>>>> ながせです。入れ違った。
+>>>>>>>
+>>>>>>> 2011年7月15日10:56 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>>>>> In<CAHY8s=Bm4Vx2d1MO22RX44SuQ7W3Njtaxc23PfRrxAHXJ9-UFA@mail.gmail.com>,
+>>>>>>>> Yasunobu Kawaguchi<kawaguti@gmail.com>   wrote:
+>>>>>>>>
+>>>>>>>>>　   研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+>>>>>>>>
+>>>>>>>> おー、僕も以前にこの部分はだいぶ悩みましたww
+>>>>>>>> ここは、ちょっとつっこんで考えてみると面白いですよ。
+>>>>>>>
+>>>>>>> 今のところちょっと資料性を優先してます。
+>>>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>>>> # こないだ書き込みが大変そうな受講者がいたので←FBしろって
+>>>>>>>
+>>>>>>> ちなみに、私の分は道ロゴ入れてマテリアル放出するので、次回以降の#scrumbcとかで
+>>>>>>> 叩いて育ててくれても良いと思っています。
+>>>>>>> もちろん、別に毎回ゼロベースで作るのも意味があるだろうし強制しませんけど。
+>>>>>>>
+>>>>>>> --
+>>>>>>> Miho Nagase
+>>>>>>> http://twitter.com/miholovesq
+>>>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>> Agile Coach / Certified Scrum Professional
+>>>>> http://www.ryuzee.com
+>>>>> http://twitter.com/ryuzee
+>>>>> --
+>>>>> This message contains confidential information and is intended
+>>>>> only for the individual named. If you are not the named addressee
+>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>
+>>>>> --
+>>>>> archive->  http://qwik.jp/taoofscrum/1.html
+>>>>> ML->  taoofscrum@qwik.jp
+>>>>>
+>>>>
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/1.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(kawaguti@gmail.com,1310708645)
+かわぐちです。
+
+　そうでしたか。
+　ちなみに、ベロシティゲームの日本語訳っておわっているんでしたっけ？
+
+
+2011年7月15日14:41 Kensuke Kaieda <qooh0.info@gmail.com>:
+> 海江田です。
+>
+> すくすくでやったのは、Jeff の紙ヒコーキですね。
+> Cope のベロシティゲームは、金をかけられなかったのでやめました。
+> 換えが難しいんですよね、あれ。
+> 風船には風船の意味があるし…
+>
+> 紙ヒコーキは、前回、200 枚用意したのですが足りなかったですね。
+> 400 枚くらい必要だと思います。
+>
+> --
+> kaieda
+>
+>
+> 2011年7月15日12:59 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>> かわぐちです。
+>>
+>>　 おきました。
+>>　　 /Dropbox/ScrumBootCamp/第２回
+>>
+>>　 Evernoteの方はそのうち閉じときます。
+>>
+>>
+>> 2011年7月15日12:55 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>>> EvernoreのWebアクセス面倒なので、
+>>> 前回使ったDropboxで共有しませんか？
+>>>
+>>> 爺
+>>>
+>>> (11/07/15 12:52), Yasunobu Kawaguchi wrote:
+>>>> かわぐちです。
+>>>>
+>>>>　 資料の改訂版をおきました～。
+>>>>　　 https://www.evernote.com/shard/s34/share/10c8-s34-41d8a11fa41191f63d19567c999c9eb5-1/
+>>>>
+>>>>　 一日のアジェンダ的なものは、入れられると思います。(まだ入れてないけど)
+>>>>
+>>>>
+>>>> 2011年7月15日11:56 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>>>> かわぐちです。
+>>>>>
+>>>>>　 紙飛行機のやつは楽しいし、重要な気づきを与えてくれると思いますが、
+>>>>>　 今回はもうちょっと「各ツールを使ってみる」という感じのワーク、
+>>>>>　 またはロールプレイにしたいなぁ、と思っております。
+>>>>>
+>>>>>　　 ・タスクボード
+>>>>>　　 ・ベロシティに基づく計画
+>>>>>　　 ・ストーリーポイント、プランニングポーカー
+>>>>>　　 ・デイリースクラム
+>>>>>　　 ・バーンダウンチャート
+>>>>>　　 ・ベロシティ
+>>>>>
+>>>>>　 Copeのベロシティゲームができるならそれでもいいかも。
+>>>>>　 マテリアルの日本語化はこないだ海江田さんがすくすくでやってるから、終わってる感じ？
+>>>>>
+>>>>>
+>>>>> 2011年7月15日11:42 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>>>> 全体を俯瞰するなら、Jeffがやった紙飛行機ですかね。
+>>>>>>
+>>>>>> ＃ちなみにMLは移行したので、ポスト先変えました
+>>>>>>
+>>>>>> (11/07/15 11:38), Yasunobu Kawaguchi wrote:
+>>>>>>> かわぐちです。
+>>>>>>>
+>>>>>>>　  ワークについては、全体の動きを俯瞰できるようなやつをやりたいです。
+>>>>>>>　  机にポストイットを貼ってもらって、見積もりとタスクボードを体験します。
+>>>>>>>
+>>>>>>>　  全然資料作ってないけど。
+>>>>>>>　  ストーリーは、明日の AgileUCDja in RubyKaigi で作成するやつをつかおうかな。
+>>>>>>>
+>>>>>>>　  お昼あたりで、改訂版の資料を公開したいと思います。
+>>>>>>>
+>>>>>>>
+>>>>>>> 2011年7月15日11:14 Miho Nagase<miholovesq@gmail.com>:
+>>>>>>>> ながせです。入れ違った。
+>>>>>>>>
+>>>>>>>> 2011年7月15日10:56 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>>>>>> In<CAHY8s=Bm4Vx2d1MO22RX44SuQ7W3Njtaxc23PfRrxAHXJ9-UFA@mail.gmail.com>,
+>>>>>>>>> Yasunobu Kawaguchi<kawaguti@gmail.com>   wrote:
+>>>>>>>>>
+>>>>>>>>>>　   研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+>>>>>>>>>
+>>>>>>>>> おー、僕も以前にこの部分はだいぶ悩みましたww
+>>>>>>>>> ここは、ちょっとつっこんで考えてみると面白いですよ。
+>>>>>>>>
+>>>>>>>> 今のところちょっと資料性を優先してます。
+>>>>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>>>>> # こないだ書き込みが大変そうな受講者がいたので←FBしろって
+>>>>>>>>
+>>>>>>>> ちなみに、私の分は道ロゴ入れてマテリアル放出するので、次回以降の#scrumbcとかで
+>>>>>>>> 叩いて育ててくれても良いと思っています。
+>>>>>>>> もちろん、別に毎回ゼロベースで作るのも意味があるだろうし強制しませんけど。
+>>>>>>>>
+>>>>>>>> --
+>>>>>>>> Miho Nagase
+>>>>>>>> http://twitter.com/miholovesq
+>>>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>>> Agile Coach / Certified Scrum Professional
+>>>>>> http://www.ryuzee.com
+>>>>>> http://twitter.com/ryuzee
+>>>>>> --
+>>>>>> This message contains confidential information and is intended
+>>>>>> only for the individual named. If you are not the named addressee
+>>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>>
+>>>>>> --
+>>>>>> archive->  http://qwik.jp/taoofscrum/1.html
+>>>>>> ML->  taoofscrum@qwik.jp
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive-> http://qwik.jp/taoofscrum/1.html
+>>> ML-> taoofscrum@qwik.jp
+>>>
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/1.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(qooh0.info@gmail.com,1310712894)
+海江田です。
+
+日本語訳は、原田さんに確認されると良いと思います。
+僕はノータッチです。
+
+--
+kaieda
+
+
+2011年7月15日14:44 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> かわぐちです。
+>
+> 　そうでしたか。
+> 　ちなみに、ベロシティゲームの日本語訳っておわっているんでしたっけ？
+>
+>
+> 2011年7月15日14:41 Kensuke Kaieda <qooh0.info@gmail.com>:
+>> 海江田です。
+>>
+>> すくすくでやったのは、Jeff の紙ヒコーキですね。
+>> Cope のベロシティゲームは、金をかけられなかったのでやめました。
+>> 換えが難しいんですよね、あれ。
+>> 風船には風船の意味があるし…
+>>
+>> 紙ヒコーキは、前回、200 枚用意したのですが足りなかったですね。
+>> 400 枚くらい必要だと思います。
+>>
+>> --
+>> kaieda
+>>
+>>
+>> 2011年7月15日12:59 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>>> かわぐちです。
+>>>
+>>>　 おきました。
+>>>　　 /Dropbox/ScrumBootCamp/第２回
+>>>
+>>>　 Evernoteの方はそのうち閉じときます。
+>>>
+>>>
+>>> 2011年7月15日12:55 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>>>> EvernoreのWebアクセス面倒なので、
+>>>> 前回使ったDropboxで共有しませんか？
+>>>>
+>>>> 爺
+>>>>
+>>>> (11/07/15 12:52), Yasunobu Kawaguchi wrote:
+>>>>> かわぐちです。
+>>>>>
+>>>>>　 資料の改訂版をおきました～。
+>>>>>　　 https://www.evernote.com/shard/s34/share/10c8-s34-41d8a11fa41191f63d19567c999c9eb5-1/
+>>>>>
+>>>>>　 一日のアジェンダ的なものは、入れられると思います。(まだ入れてないけど)
+>>>>>
+>>>>>
+>>>>> 2011年7月15日11:56 Yasunobu Kawaguchi<kawaguti@gmail.com>:
+>>>>>> かわぐちです。
+>>>>>>
+>>>>>>　 紙飛行機のやつは楽しいし、重要な気づきを与えてくれると思いますが、
+>>>>>>　 今回はもうちょっと「各ツールを使ってみる」という感じのワーク、
+>>>>>>　 またはロールプレイにしたいなぁ、と思っております。
+>>>>>>
+>>>>>>　　 ・タスクボード
+>>>>>>　　 ・ベロシティに基づく計画
+>>>>>>　　 ・ストーリーポイント、プランニングポーカー
+>>>>>>　　 ・デイリースクラム
+>>>>>>　　 ・バーンダウンチャート
+>>>>>>　　 ・ベロシティ
+>>>>>>
+>>>>>>　 Copeのベロシティゲームができるならそれでもいいかも。
+>>>>>>　 マテリアルの日本語化はこないだ海江田さんがすくすくでやってるから、終わってる感じ？
+>>>>>>
+>>>>>>
+>>>>>> 2011年7月15日11:42 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>>>>> 全体を俯瞰するなら、Jeffがやった紙飛行機ですかね。
+>>>>>>>
+>>>>>>> ＃ちなみにMLは移行したので、ポスト先変えました
+>>>>>>>
+>>>>>>> (11/07/15 11:38), Yasunobu Kawaguchi wrote:
+>>>>>>>> かわぐちです。
+>>>>>>>>
+>>>>>>>>　  ワークについては、全体の動きを俯瞰できるようなやつをやりたいです。
+>>>>>>>>　  机にポストイットを貼ってもらって、見積もりとタスクボードを体験します。
+>>>>>>>>
+>>>>>>>>　  全然資料作ってないけど。
+>>>>>>>>　  ストーリーは、明日の AgileUCDja in RubyKaigi で作成するやつをつかおうかな。
+>>>>>>>>
+>>>>>>>>　  お昼あたりで、改訂版の資料を公開したいと思います。
+>>>>>>>>
+>>>>>>>>
+>>>>>>>> 2011年7月15日11:14 Miho Nagase<miholovesq@gmail.com>:
+>>>>>>>>> ながせです。入れ違った。
+>>>>>>>>>
+>>>>>>>>> 2011年7月15日10:56 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>>>>>>> In<CAHY8s=Bm4Vx2d1MO22RX44SuQ7W3Njtaxc23PfRrxAHXJ9-UFA@mail.gmail.com>,
+>>>>>>>>>> Yasunobu Kawaguchi<kawaguti@gmail.com>   wrote:
+>>>>>>>>>>
+>>>>>>>>>>>　   研修資料なので資料性の部分と、Presentation Zen の間で迷ってました。
+>>>>>>>>>>
+>>>>>>>>>> おー、僕も以前にこの部分はだいぶ悩みましたww
+>>>>>>>>>> ここは、ちょっとつっこんで考えてみると面白いですよ。
+>>>>>>>>>
+>>>>>>>>> 今のところちょっと資料性を優先してます。
+>>>>>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>>>>>> # こないだ書き込みが大変そうな受講者がいたので←FBしろって
+>>>>>>>>>
+>>>>>>>>> ちなみに、私の分は道ロゴ入れてマテリアル放出するので、次回以降の#scrumbcとかで
+>>>>>>>>> 叩いて育ててくれても良いと思っています。
+>>>>>>>>> もちろん、別に毎回ゼロベースで作るのも意味があるだろうし強制しませんけど。
+>>>>>>>>>
+>>>>>>>>> --
+>>>>>>>>> Miho Nagase
+>>>>>>>>> http://twitter.com/miholovesq
+>>>>>>>>>
+>>>>>>>
+>>>>>>>
+>>>>>>> --
+>>>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>>>> Agile Coach / Certified Scrum Professional
+>>>>>>> http://www.ryuzee.com
+>>>>>>> http://twitter.com/ryuzee
+>>>>>>> --
+>>>>>>> This message contains confidential information and is intended
+>>>>>>> only for the individual named. If you are not the named addressee
+>>>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>>>
+>>>>>>> --
+>>>>>>> archive->  http://qwik.jp/taoofscrum/1.html
+>>>>>>> ML->  taoofscrum@qwik.jp
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Ryutaro YOSHIBA / Ryuzee
+>>>> Agile Coach / Certified Scrum Professional
+>>>> http://www.ryuzee.com
+>>>> http://twitter.com/ryuzee
+>>>> --
+>>>> This message contains confidential information and is intended
+>>>> only for the individual named. If you are not the named addressee
+>>>> you should not disseminate, distribute or copy this e-mail.
+>>>> Please notify the sender immediately by e-mail if you have received
+>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>
+>>>> --
+>>>> archive-> http://qwik.jp/taoofscrum/1.html
+>>>> ML-> taoofscrum@qwik.jp
+>>>>
+>>>
+>>> --
+>>> archive-> http://qwik.jp/taoofscrum/1.html
+>>> ML-> taoofscrum@qwik.jp
+>>>
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/1.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1310852684)
+Ryuzeeです。
+
+※MLの宛先変えてます。
+
+前回やったのは、メンバーが社内の飲み会管理システム構築のPOチームに
+なってプロダクトバックログを書く演習です。
+そこで書いたバックログを今度はチームとして、スプリントバックログを
+作成する流れでした。
+
+素振りとはいえ、企業の方に協力していただいているので、
+準備不足のままワークをするのは避けたいです。
+その点はどんなもんなんでしょうか？
+
+(11/07/17 6:39), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　Copeのベロシティゲームのワークについて、原田さんにおしえてもらいました。
+> 　　・課題カードは翻訳済み
+> 　　・講師向けのガイドは未翻訳
+> 　　・３時間くらい必要なので、一日のコースだと厳しいんじゃないか
+> 
+> 　前回の写真でやっているワークってどんな感じでしたか。
+> 　　http://www.ryuzee.com/contents/blog/4115
+> 　もし2時間枠くらいでできそうなら、これをやってもらってもいいんじゃないかと思います。内容把握できてなくてすみません。
+> 
+> 
+> 2011年7月15日19:32 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>> In<CAPG=6LYZ8NuxcV+VTcxm9vTVp3Mxuqp7jhXCpfFvC97bK=NU3w@mail.gmail.com>,
+>> Miho Nagase<miholovesq@gmail.com>  wrote:
+>>
+>>> さらに、余白があると書き込みできて嬉しいかな。
+>>
+>> いいね!!
+>>
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1310852829)
+かわぐちです。
+
+　全然準備してないです。
+　なので、じっせきのあるやつにのっかりたい。
+
+2011年7月17日6:44 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> ※MLの宛先変えてます。
+>
+> 前回やったのは、メンバーが社内の飲み会管理システム構築のPOチームに
+> なってプロダクトバックログを書く演習です。
+> そこで書いたバックログを今度はチームとして、スプリントバックログを
+> 作成する流れでした。
+>
+> 素振りとはいえ、企業の方に協力していただいているので、
+> 準備不足のままワークをするのは避けたいです。
+> その点はどんなもんなんでしょうか？
+>
+> (11/07/17 6:39), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>>　 Copeのベロシティゲームのワークについて、原田さんにおしえてもらいました。
+>>　　 ・課題カードは翻訳済み
+>>　　 ・講師向けのガイドは未翻訳
+>>　　 ・３時間くらい必要なので、一日のコースだと厳しいんじゃないか
+>>
+>>　 前回の写真でやっているワークってどんな感じでしたか。
+>>　　 http://www.ryuzee.com/contents/blog/4115
+>>　 もし2時間枠くらいでできそうなら、これをやってもらってもいいんじゃないかと思います。内容把握できてなくてすみません。
+>>
+>>
+>> 2011年7月15日19:32 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>> In<CAPG=6LYZ8NuxcV+VTcxm9vTVp3Mxuqp7jhXCpfFvC97bK=NU3w@mail.gmail.com>,
+>>> Miho Nagase<miholovesq@gmail.com>  wrote:
+>>>
+>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>
+>>> いいね!!
+>>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1310853323)
+Ryuzeeです。
+
+乗っかるのは問題ないです。
+※ただし参加者のうちごく一部が第1回Scrum Boot Campに出ているので
+ワークの内容を知ってます。そういう意味ではちょっと面白くない
+
+紙飛行機だったらできますか？
+
+(11/07/17 6:47), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　全然準備してないです。
+> 　なので、じっせきのあるやつにのっかりたい。
+> 
+> 2011年7月17日6:44 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> Ryuzeeです。
+>>
+>> ※MLの宛先変えてます。
+>>
+>> 前回やったのは、メンバーが社内の飲み会管理システム構築のPOチームに
+>> なってプロダクトバックログを書く演習です。
+>> そこで書いたバックログを今度はチームとして、スプリントバックログを
+>> 作成する流れでした。
+>>
+>> 素振りとはいえ、企業の方に協力していただいているので、
+>> 準備不足のままワークをするのは避けたいです。
+>> その点はどんなもんなんでしょうか？
+>>
+>> (11/07/17 6:39), Yasunobu Kawaguchi wrote:
+>>> かわぐちです。
+>>>
+>>> 　 Copeのベロシティゲームのワークについて、原田さんにおしえてもらいました。
+>>> 　　 ・課題カードは翻訳済み
+>>> 　　 ・講師向けのガイドは未翻訳
+>>> 　　 ・３時間くらい必要なので、一日のコースだと厳しいんじゃないか
+>>>
+>>> 　 前回の写真でやっているワークってどんな感じでしたか。
+>>> 　　 http://www.ryuzee.com/contents/blog/4115
+>>> 　 もし2時間枠くらいでできそうなら、これをやってもらってもいいんじゃないかと思います。内容把握できてなくてすみません。
+>>>
+>>>
+>>> 2011年7月15日19:32 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>> In<CAPG=6LYZ8NuxcV+VTcxm9vTVp3Mxuqp7jhXCpfFvC97bK=NU3w@mail.gmail.com>,
+>>>> Miho Nagase<miholovesq@gmail.com>   wrote:
+>>>>
+>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>
+>>>> いいね!!
+>>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/1.html
+>> ML->  taoofscrum@qwik.jp
+>>
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1310854691)
+かわぐちです。
+
+　紙ヒコーキは、ファシリテーションを細部まで思い出せてないので、
+　皆さんのお力をお借りしたいですが、
+　資料はありますし、必要な具材も単純なので準備可能と思います。
+
+　Cope の ベロシティゲームだと、バックログの並び替えも入るので、
+　より網羅的だと思うのですが、まぁ時間がない中で欲張っても
+　得られるものは少ないので、「繰り返しと改善によってベロシティが
+　向上すること」「スプリントの最初で予測/計画すること」を集中して
+　伝える感じで、いいのかなとおもいます。
+
+
+2011年7月17日6:55 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> 乗っかるのは問題ないです。
+> ※ただし参加者のうちごく一部が第1回Scrum Boot Campに出ているので
+> ワークの内容を知ってます。そういう意味ではちょっと面白くない
+>
+> 紙飛行機だったらできますか？
+>
+> (11/07/17 6:47), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>>　 全然準備してないです。
+>>　 なので、じっせきのあるやつにのっかりたい。
+>>
+>> 2011年7月17日6:44 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>> Ryuzeeです。
+>>>
+>>> ※MLの宛先変えてます。
+>>>
+>>> 前回やったのは、メンバーが社内の飲み会管理システム構築のPOチームに
+>>> なってプロダクトバックログを書く演習です。
+>>> そこで書いたバックログを今度はチームとして、スプリントバックログを
+>>> 作成する流れでした。
+>>>
+>>> 素振りとはいえ、企業の方に協力していただいているので、
+>>> 準備不足のままワークをするのは避けたいです。
+>>> その点はどんなもんなんでしょうか？
+>>>
+>>> (11/07/17 6:39), Yasunobu Kawaguchi wrote:
+>>>> かわぐちです。
+>>>>
+>>>>　  Copeのベロシティゲームのワークについて、原田さんにおしえてもらいました。
+>>>>　　  ・課題カードは翻訳済み
+>>>>　　  ・講師向けのガイドは未翻訳
+>>>>　　  ・３時間くらい必要なので、一日のコースだと厳しいんじゃないか
+>>>>
+>>>>　  前回の写真でやっているワークってどんな感じでしたか。
+>>>>　　  http://www.ryuzee.com/contents/blog/4115
+>>>>　  もし2時間枠くらいでできそうなら、これをやってもらってもいいんじゃないかと思います。内容把握できてなくてすみません。
+>>>>
+>>>>
+>>>> 2011年7月15日19:32 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>> In<CAPG=6LYZ8NuxcV+VTcxm9vTVp3Mxuqp7jhXCpfFvC97bK=NU3w@mail.gmail.com>,
+>>>>> Miho Nagase<miholovesq@gmail.com>   wrote:
+>>>>>
+>>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>>
+>>>>> いいね!!
+>>>>>
+>>>
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive->  http://qwik.jp/taoofscrum/1.html
+>>> ML->  taoofscrum@qwik.jp
+>>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1310855649)
+Ryuzeeです。
+
+　了解です。永瀬さんの意見はどうでしょうか？
+
+　あとマテリアルですが、僕はArtifactsということで
+　プロダクトバックログ (+ユーザーストーリー)
+　スプリントバックログ
+　バーンダウンチャート (スプリント＋プロジェクト)
+　タスクボード
+　くらいで良いですか？妨害事項リストはかわぐちさんの
+　資料に入ってました。
+
+　Dropboxにたたき台の資料おいておいたので確認ください。
+
+(11/07/17 7:18), Yasunobu Kawaguchi wrote:
+> かわぐちです。
+> 
+> 　紙ヒコーキは、ファシリテーションを細部まで思い出せてないので、
+> 　皆さんのお力をお借りしたいですが、
+> 　資料はありますし、必要な具材も単純なので準備可能と思います。
+> 
+> 　Cope の ベロシティゲームだと、バックログの並び替えも入るので、
+> 　より網羅的だと思うのですが、まぁ時間がない中で欲張っても
+> 　得られるものは少ないので、「繰り返しと改善によってベロシティが
+> 　向上すること」「スプリントの最初で予測/計画すること」を集中して
+> 　伝える感じで、いいのかなとおもいます。
+> 
+> 
+> 2011年7月17日6:55 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> Ryuzeeです。
+>>
+>> 乗っかるのは問題ないです。
+>> ※ただし参加者のうちごく一部が第1回Scrum Boot Campに出ているので
+>> ワークの内容を知ってます。そういう意味ではちょっと面白くない
+>>
+>> 紙飛行機だったらできますか？
+>>
+>> (11/07/17 6:47), Yasunobu Kawaguchi wrote:
+>>> かわぐちです。
+>>>
+>>> 　 全然準備してないです。
+>>> 　 なので、じっせきのあるやつにのっかりたい。
+>>>
+>>> 2011年7月17日6:44 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>> Ryuzeeです。
+>>>>
+>>>> ※MLの宛先変えてます。
+>>>>
+>>>> 前回やったのは、メンバーが社内の飲み会管理システム構築のPOチームに
+>>>> なってプロダクトバックログを書く演習です。
+>>>> そこで書いたバックログを今度はチームとして、スプリントバックログを
+>>>> 作成する流れでした。
+>>>>
+>>>> 素振りとはいえ、企業の方に協力していただいているので、
+>>>> 準備不足のままワークをするのは避けたいです。
+>>>> その点はどんなもんなんでしょうか？
+>>>>
+>>>> (11/07/17 6:39), Yasunobu Kawaguchi wrote:
+>>>>> かわぐちです。
+>>>>>
+>>>>> 　  Copeのベロシティゲームのワークについて、原田さんにおしえてもらいました。
+>>>>> 　　  ・課題カードは翻訳済み
+>>>>> 　　  ・講師向けのガイドは未翻訳
+>>>>> 　　  ・３時間くらい必要なので、一日のコースだと厳しいんじゃないか
+>>>>>
+>>>>> 　  前回の写真でやっているワークってどんな感じでしたか。
+>>>>> 　　  http://www.ryuzee.com/contents/blog/4115
+>>>>> 　  もし2時間枠くらいでできそうなら、これをやってもらってもいいんじゃないかと思います。内容把握できてなくてすみません。
+>>>>>
+>>>>>
+>>>>> 2011年7月15日19:32 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>>> In<CAPG=6LYZ8NuxcV+VTcxm9vTVp3Mxuqp7jhXCpfFvC97bK=NU3w@mail.gmail.com>,
+>>>>>> Miho Nagase<miholovesq@gmail.com>    wrote:
+>>>>>>
+>>>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>>>
+>>>>>> いいね!!
+>>>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Ryutaro YOSHIBA / Ryuzee
+>>>> Agile Coach / Certified Scrum Professional
+>>>> http://www.ryuzee.com
+>>>> http://twitter.com/ryuzee
+>>>> --
+>>>> This message contains confidential information and is intended
+>>>> only for the individual named. If you are not the named addressee
+>>>> you should not disseminate, distribute or copy this e-mail.
+>>>> Please notify the sender immediately by e-mail if you have received
+>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>
+>>>> --
+>>>> archive->   http://qwik.jp/taoofscrum/1.html
+>>>> ML->   taoofscrum@qwik.jp
+>>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/1.html
+>> ML->  taoofscrum@qwik.jp
+>>
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1310869391)
+活動時間もあってなくてごめんなさい。
+夕方戻ったらあらためて検討しますがとりあえず。
+
+2011/07/17 7:34 "Ryutaro YOSHIBA" <ryuzee@gmail.com>:
+> 了解です。永瀬さんの意見はどうでしょうか？
+> (11/07/17 7:18), Yasunobu Kawaguchi wrote:
+> >  紙ヒコーキは、ファシリテーションを細部まで思い出せてないので、
+> >  皆さんのお力をお借りしたいですが、
+> >  資料はありますし、必要な具材も単純なので準備可能と思います
+
+紙ヒコーキはすくすくのスクラム入門で海江田さんが取り上げたので、記憶に新しいです。
+その時は人数も多かったしあの時のCSPOの参加者より入門者が多かったためか、ファシリが難しいなあと思った記憶があります。
+表層的にヒコーキ飛ばして寓意が伝わらないことを避けるために段取りを考えてみますね。
+ネタバレしたらあれなんでDropboxに入れるけどw
+
+ちょっと出かけてきまふm(_ _)m
+}}
+{{mail(ryuzee@gmail.com,1310941593)
+Ryuzeeです。
+
+とりあえず３人分のマテリアルが揃いましたね。
+
+課題は
+・体裁が３人バラバラ。明日はこのまま行くが今後どうするかは検討
+
+・ながせさんは資料を公開すると言ってましたが、
+　僕は仕事の関係もあるので公開はしません。かわぐちさんは
+　どうするのかな？このあたり章によって扱いが違うと
+　参加者から見て分かりにくい。
+
+・まだ網羅性チェックできていない。少なくとも講師３人は
+　他人の分含めて抜け漏れがないか、誤りがないかチェックする
+　必要あり。
+
+・ワークの段取り。
+　紙飛行機やるとして、手順(講師用のアンチョコ)は必要だよね？
+
+・正式な時間割
+　午後一にワークやりたい、というかわぐちさんからの話があったけど
+　だとするとどういう時間割になるのか改めて確定させたい。
+
+(11/07/17 7:34), Ryutaro YOSHIBA wrote:
+> Ryuzeeです。
+> 
+> 　了解です。永瀬さんの意見はどうでしょうか？
+> 
+> 　あとマテリアルですが、僕はArtifactsということで
+> 　プロダクトバックログ (+ユーザーストーリー)
+> 　スプリントバックログ
+> 　バーンダウンチャート (スプリント＋プロジェクト)
+> 　タスクボード
+> 　くらいで良いですか？妨害事項リストはかわぐちさんの
+> 　資料に入ってました。
+> 
+> 　Dropboxにたたき台の資料おいておいたので確認ください。
+> 
+> (11/07/17 7:18), Yasunobu Kawaguchi wrote:
+>> かわぐちです。
+>>
+>> 　紙ヒコーキは、ファシリテーションを細部まで思い出せてないので、
+>> 　皆さんのお力をお借りしたいですが、
+>> 　資料はありますし、必要な具材も単純なので準備可能と思います。
+>>
+>> 　Cope の ベロシティゲームだと、バックログの並び替えも入るので、
+>> 　より網羅的だと思うのですが、まぁ時間がない中で欲張っても
+>> 　得られるものは少ないので、「繰り返しと改善によってベロシティが
+>> 　向上すること」「スプリントの最初で予測/計画すること」を集中して
+>> 　伝える感じで、いいのかなとおもいます。
+>>
+>>
+>> 2011年7月17日6:55 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>> Ryuzeeです。
+>>>
+>>> 乗っかるのは問題ないです。
+>>> ※ただし参加者のうちごく一部が第1回Scrum Boot Campに出ているので
+>>> ワークの内容を知ってます。そういう意味ではちょっと面白くない
+>>>
+>>> 紙飛行機だったらできますか？
+>>>
+>>> (11/07/17 6:47), Yasunobu Kawaguchi wrote:
+>>>> かわぐちです。
+>>>>
+>>>> 　 全然準備してないです。
+>>>> 　 なので、じっせきのあるやつにのっかりたい。
+>>>>
+>>>> 2011年7月17日6:44 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>>> Ryuzeeです。
+>>>>>
+>>>>> ※MLの宛先変えてます。
+>>>>>
+>>>>> 前回やったのは、メンバーが社内の飲み会管理システム構築のPOチームに
+>>>>> なってプロダクトバックログを書く演習です。
+>>>>> そこで書いたバックログを今度はチームとして、スプリントバックログを
+>>>>> 作成する流れでした。
+>>>>>
+>>>>> 素振りとはいえ、企業の方に協力していただいているので、
+>>>>> 準備不足のままワークをするのは避けたいです。
+>>>>> その点はどんなもんなんでしょうか？
+>>>>>
+>>>>> (11/07/17 6:39), Yasunobu Kawaguchi wrote:
+>>>>>> かわぐちです。
+>>>>>>
+>>>>>> 　  Copeのベロシティゲームのワークについて、原田さんにおしえてもらいました。
+>>>>>> 　　  ・課題カードは翻訳済み
+>>>>>> 　　  ・講師向けのガイドは未翻訳
+>>>>>> 　　  ・３時間くらい必要なので、一日のコースだと厳しいんじゃないか
+>>>>>>
+>>>>>> 　  前回の写真でやっているワークってどんな感じでしたか。
+>>>>>> 　　  http://www.ryuzee.com/contents/blog/4115
+>>>>>> 　  もし2時間枠くらいでできそうなら、これをやってもらってもいいんじゃないかと思います。内容把握できてなくてすみません。
+>>>>>>
+>>>>>>
+>>>>>> 2011年7月15日19:32 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>>>> In<CAPG=6LYZ8NuxcV+VTcxm9vTVp3Mxuqp7jhXCpfFvC97bK=NU3w@mail.gmail.com>,
+>>>>>>> Miho Nagase<miholovesq@gmail.com>     wrote:
+>>>>>>>
+>>>>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>>>>
+>>>>>>> いいね!!
+>>>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>> Agile Coach / Certified Scrum Professional
+>>>>> http://www.ryuzee.com
+>>>>> http://twitter.com/ryuzee
+>>>>> --
+>>>>> This message contains confidential information and is intended
+>>>>> only for the individual named. If you are not the named addressee
+>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>
+>>>>> --
+>>>>> archive->    http://qwik.jp/taoofscrum/1.html
+>>>>> ML->    taoofscrum@qwik.jp
+>>>>>
+>>>
+>>>
+>>> --
+>>> Ryutaro YOSHIBA / Ryuzee
+>>> Agile Coach / Certified Scrum Professional
+>>> http://www.ryuzee.com
+>>> http://twitter.com/ryuzee
+>>> --
+>>> This message contains confidential information and is intended
+>>> only for the individual named. If you are not the named addressee
+>>> you should not disseminate, distribute or copy this e-mail.
+>>> Please notify the sender immediately by e-mail if you have received
+>>> this e-mail by mistake and delete this e-mail from your system.
+>>>
+>>> --
+>>> archive->   http://qwik.jp/taoofscrum/1.html
+>>> ML->   taoofscrum@qwik.jp
+>>>
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(kawaguti@gmail.com,1310944133)
+かわぐちです。
+
+　体裁はあわせない方向で行きませんか。
+　内容は、ryuzeeさんと永瀬さんとかぶっているところを減らす方向で調整します。
+　資料の公開は自由で。ただし参加者にはPDFを配る形にできないでしょうか。
+
+
+[ワークのスライド]
+紙ヒコーキつ?くり と?れた?け上手に成果を得られる ? A4用紙の 1?4 た?けをつかいます。
+紙ヒコーキは、先端か?丸まっている必要か?あります。鋭い先端を切 り取るのに、はさみを使ってくた?さい。
+紙ヒコーキは、テストエリアて?3メートル飛は?なけれは?なりませ ん。-- 飛は?すチャンスは1回た?けて?す。
+飛は?すのに成功した紙ヒコーキた?けをカウントします。
+紙ヒコーキは、テストエリアて? のみ 飛は?してよいものとします。
+各チームメンハ?ーは、一つの紙を連続して “折る” ことはて?きませ ん。一度折ったら他のメンハ?ーに紙ヒコーキを渡してくた?さい。
+各スフ?リント終了時の仕掛品は破棄しなけれは?なりません。
+
+[進め方]
+計画1分、実施3分、検査と適応2分
+（時間がわかるように画面を表示させたい。ルールは印刷しておく？）
+イテレーション３回
+計画で、予測数を控えてもらう。実施後に差異をみて、予測性を検証。
+一番のボトルネック(Impediments)はなにか、教室内で共有してもらう
+２イテレーション目はプレッシャーをかけてみる。
+３イテレーション目はどのような進展があったか？
+(予測性の向上とか、ベロシティの向上とか)
+
+
+2011年7月18日7:26 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> Ryuzeeです。
+>
+> とりあえず３人分のマテリアルが揃いましたね。
+>
+> 課題は
+> ・体裁が３人バラバラ。明日はこのまま行くが今後どうするかは検討
+>
+> ・ながせさんは資料を公開すると言ってましたが、
+> 　僕は仕事の関係もあるので公開はしません。かわぐちさんは
+> 　どうするのかな？このあたり章によって扱いが違うと
+> 　参加者から見て分かりにくい。
+>
+> ・まだ網羅性チェックできていない。少なくとも講師３人は
+> 　他人の分含めて抜け漏れがないか、誤りがないかチェックする
+> 　必要あり。
+>
+> ・ワークの段取り。
+> 　紙飛行機やるとして、手順(講師用のアンチョコ)は必要だよね？
+>
+> ・正式な時間割
+> 　午後一にワークやりたい、というかわぐちさんからの話があったけど
+> 　だとするとどういう時間割になるのか改めて確定させたい。
+>
+> (11/07/17 7:34), Ryutaro YOSHIBA wrote:
+>> Ryuzeeです。
+>>
+>>　?了解です。永瀬さんの意見はどうでしょうか？
+>>
+>>　?あとマテリアルですが、僕はArtifactsということで
+>>　?プロダクトバックログ (+ユーザーストーリー)
+>>　?スプリントバックログ
+>>　?バーンダウンチャート (スプリント＋プロジェクト)
+>>　?タスクボード
+>>　?くらいで良いですか？妨害事項リストはかわぐちさんの
+>>　?資料に入ってました。
+>>
+>>　?Dropboxにたたき台の資料おいておいたので確認ください。
+>>
+>> (11/07/17 7:18), Yasunobu Kawaguchi wrote:
+>>> かわぐちです。
+>>>
+>>>　?紙ヒコーキは、ファシリテーションを細部まで思い出せてないので、
+>>>　?皆さんのお力をお借りしたいですが、
+>>>　?資料はありますし、必要な具材も単純なので準備可能と思います。
+>>>
+>>>　?Cope の ベロシティゲームだと、バックログの並び替えも入るので、
+>>>　?より網羅的だと思うのですが、まぁ時間がない中で欲張っても
+>>>　?得られるものは少ないので、「繰り返しと改善によってベロシティが
+>>>　?向上すること」「スプリントの最初で予測/計画すること」を集中して
+>>>　?伝える感じで、いいのかなとおもいます。
+>>>
+>>>
+>>> 2011年7月17日6:55 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>> Ryuzeeです。
+>>>>
+>>>> 乗っかるのは問題ないです。
+>>>> ※ただし参加者のうちごく一部が第1回Scrum Boot Campに出ているので
+>>>> ワークの内容を知ってます。そういう意味ではちょっと面白くない
+>>>>
+>>>> 紙飛行機だったらできますか？
+>>>>
+>>>> (11/07/17 6:47), Yasunobu Kawaguchi wrote:
+>>>>> かわぐちです。
+>>>>>
+>>>>>　? 全然準備してないです。
+>>>>>　? なので、じっせきのあるやつにのっかりたい。
+>>>>>
+>>>>> 2011年7月17日6:44 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>>>> Ryuzeeです。
+>>>>>>
+>>>>>> ※MLの宛先変えてます。
+>>>>>>
+>>>>>> 前回やったのは、メンバーが社内の飲み会管理システム構築のPOチームに
+>>>>>> なってプロダクトバックログを書く演習です。
+>>>>>> そこで書いたバックログを今度はチームとして、スプリントバックログを
+>>>>>> 作成する流れでした。
+>>>>>>
+>>>>>> 素振りとはいえ、企業の方に協力していただいているので、
+>>>>>> 準備不足のままワークをするのは避けたいです。
+>>>>>> その点はどんなもんなんでしょうか？
+>>>>>>
+>>>>>> (11/07/17 6:39), Yasunobu Kawaguchi wrote:
+>>>>>>> かわぐちです。
+>>>>>>>
+>>>>>>>　? ?Copeのベロシティゲームのワークについて、原田さんにおしえてもらいました。
+>>>>>>>　　 ? ・課題カードは翻訳済み
+>>>>>>>　　 ? ・講師向けのガイドは未翻訳
+>>>>>>>　　 ? ・３時間くらい必要なので、一日のコースだと厳しいんじゃないか
+>>>>>>>
+>>>>>>>　? ?前回の写真でやっているワークってどんな感じでしたか。
+>>>>>>>　　 ? http://www.ryuzee.com/contents/blog/4115
+>>>>>>>　? ?もし2時間枠くらいでできそうなら、これをやってもらってもいいんじゃないかと思います。内容把握できてなくてすみません。
+>>>>>>>
+>>>>>>>
+>>>>>>> 2011年7月15日19:32 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>>>>> In<CAPG=6LYZ8NuxcV+VTcxm9vTVp3Mxuqp7jhXCpfFvC97bK=NU3w@mail.gmail.com>,
+>>>>>>>> Miho Nagase<miholovesq@gmail.com> ? ? wrote:
+>>>>>>>>
+>>>>>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>>>>>
+>>>>>>>> いいね!!
+>>>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>>> Agile Coach / Certified Scrum Professional
+>>>>>> http://www.ryuzee.com
+>>>>>> http://twitter.com/ryuzee
+>>>>>> --
+>>>>>> This message contains confidential information and is intended
+>>>>>> only for the individual named. If you are not the named addressee
+>>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>>
+>>>>>> --
+>>>>>> archive-> ? ?http://qwik.jp/taoofscrum/1.html
+>>>>>> ML-> ? ?taoofscrum@qwik.jp
+>>>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Ryutaro YOSHIBA / Ryuzee
+>>>> Agile Coach / Certified Scrum Professional
+>>>> http://www.ryuzee.com
+>>>> http://twitter.com/ryuzee
+>>>> --
+>>>> This message contains confidential information and is intended
+>>>> only for the individual named. If you are not the named addressee
+>>>> you should not disseminate, distribute or copy this e-mail.
+>>>> Please notify the sender immediately by e-mail if you have received
+>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>
+>>>> --
+>>>> archive-> ? http://qwik.jp/taoofscrum/1.html
+>>>> ML-> ? taoofscrum@qwik.jp
+>>>>
+>>
+>>
+>
+>
+> --
+> Ryutaro YOSHIBA / Ryuzee
+> Agile Coach / Certified Scrum Professional
+> http://www.ryuzee.com
+> http://twitter.com/ryuzee
+> --
+> This message contains confidential information and is intended
+> only for the individual named. If you are not the named addressee
+> you should not disseminate, distribute or copy this e-mail.
+> Please notify the sender immediately by e-mail if you have received
+> this e-mail by mistake and delete this e-mail from your system.
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(ryuzee@gmail.com,1310944597)
+Ryuzeeです。
+
+> 　体裁はあわせない方向で行きませんか。
+> 　内容は、ryuzeeさんと永瀬さんとかぶっているところを減らす方向で調整します。
+> 　資料の公開は自由で。ただし参加者にはPDFを配る形にできないでしょうか。
+
+→了解です。すくなくとも明日はPrivate版なので、資料は僕の方で
+　とりまとめて先方にお渡しするようにします。
+
+以下の紙飛行機の件はありがとうございます。
+
+> [ワークのスライド]
+> 紙ヒコーキつ?くり と?れた?け上手に成果を得られる ? A4用紙の 1?4 た?けをつかいます。
+> 紙ヒコーキは、先端か?丸まっている必要か?あります。鋭い先端を切 り取るのに、はさみを使ってくた?さい。
+> 紙ヒコーキは、テストエリアて?3メートル飛は?なけれは?なりませ ん。-- 飛は?すチャンスは1回た?けて?す。
+> 飛は?すのに成功した紙ヒコーキた?けをカウントします。
+> 紙ヒコーキは、テストエリアて? のみ 飛は?してよいものとします。
+> 各チームメンハ?ーは、一つの紙を連続して “折る” ことはて?きませ ん。一度折ったら他のメンハ?ーに紙ヒコーキを渡してくた?さい。
+> 各スフ?リント終了時の仕掛品は破棄しなけれは?なりません。
+>
+> [進め方]
+> 計画1分、実施3分、検査と適応2分
+> （時間がわかるように画面を表示させたい。ルールは印刷しておく？）
+> イテレーション３回
+> 計画で、予測数を控えてもらう。実施後に差異をみて、予測性を検証。
+> 一番のボトルネック(Impediments)はなにか、教室内で共有してもらう
+> ２イテレーション目はプレッシャーをかけてみる。
+> ３イテレーション目はどのような進展があったか？
+> (予測性の向上とか、ベロシティの向上とか)
+>
+>
+> 2011年7月18日7:26 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> Ryuzeeです。
+>>
+>> とりあえず３人分のマテリアルが揃いましたね。
+>>
+>> 課題は
+>> ・体裁が３人バラバラ。明日はこのまま行くが今後どうするかは検討
+>>
+>> ・ながせさんは資料を公開すると言ってましたが、
+>> 　僕は仕事の関係もあるので公開はしません。かわぐちさんは
+>> 　どうするのかな？このあたり章によって扱いが違うと
+>> 　参加者から見て分かりにくい。
+>>
+>> ・まだ網羅性チェックできていない。少なくとも講師３人は
+>> 　他人の分含めて抜け漏れがないか、誤りがないかチェックする
+>> 　必要あり。
+>>
+>> ・ワークの段取り。
+>> 　紙飛行機やるとして、手順(講師用のアンチョコ)は必要だよね？
+>>
+>> ・正式な時間割
+>> 　午後一にワークやりたい、というかわぐちさんからの話があったけど
+>> 　だとするとどういう時間割になるのか改めて確定させたい。
+>>
+>> (11/07/17 7:34), Ryutaro YOSHIBA wrote:
+>>> Ryuzeeです。
+>>>
+>>> 　 了解です。永瀬さんの意見はどうでしょうか？
+>>>
+>>> 　 あとマテリアルですが、僕はArtifactsということで
+>>> 　 プロダクトバックログ (+ユーザーストーリー)
+>>> 　 スプリントバックログ
+>>> 　 バーンダウンチャート (スプリント＋プロジェクト)
+>>> 　 タスクボード
+>>> 　 くらいで良いですか？妨害事項リストはかわぐちさんの
+>>> 　 資料に入ってました。
+>>>
+>>> 　 Dropboxにたたき台の資料おいておいたので確認ください。
+>>>
+>>> (11/07/17 7:18), Yasunobu Kawaguchi wrote:
+>>>> かわぐちです。
+>>>>
+>>>> 　 紙ヒコーキは、ファシリテーションを細部まで思い出せてないので、
+>>>> 　 皆さんのお力をお借りしたいですが、
+>>>> 　 資料はありますし、必要な具材も単純なので準備可能と思います。
+>>>>
+>>>> 　 Cope の ベロシティゲームだと、バックログの並び替えも入るので、
+>>>> 　 より網羅的だと思うのですが、まぁ時間がない中で欲張っても
+>>>> 　 得られるものは少ないので、「繰り返しと改善によってベロシティが
+>>>> 　 向上すること」「スプリントの最初で予測/計画すること」を集中して
+>>>> 　 伝える感じで、いいのかなとおもいます。
+>>>>
+>>>>
+>>>> 2011年7月17日6:55 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>>> Ryuzeeです。
+>>>>>
+>>>>> 乗っかるのは問題ないです。
+>>>>> ※ただし参加者のうちごく一部が第1回Scrum Boot Campに出ているので
+>>>>> ワークの内容を知ってます。そういう意味ではちょっと面白くない
+>>>>>
+>>>>> 紙飛行機だったらできますか？
+>>>>>
+>>>>> (11/07/17 6:47), Yasunobu Kawaguchi wrote:
+>>>>>> かわぐちです。
+>>>>>>
+>>>>>> 　  全然準備してないです。
+>>>>>> 　  なので、じっせきのあるやつにのっかりたい。
+>>>>>>
+>>>>>> 2011年7月17日6:44 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>>>>>>> Ryuzeeです。
+>>>>>>>
+>>>>>>> ※MLの宛先変えてます。
+>>>>>>>
+>>>>>>> 前回やったのは、メンバーが社内の飲み会管理システム構築のPOチームに
+>>>>>>> なってプロダクトバックログを書く演習です。
+>>>>>>> そこで書いたバックログを今度はチームとして、スプリントバックログを
+>>>>>>> 作成する流れでした。
+>>>>>>>
+>>>>>>> 素振りとはいえ、企業の方に協力していただいているので、
+>>>>>>> 準備不足のままワークをするのは避けたいです。
+>>>>>>> その点はどんなもんなんでしょうか？
+>>>>>>>
+>>>>>>> (11/07/17 6:39), Yasunobu Kawaguchi wrote:
+>>>>>>>> かわぐちです。
+>>>>>>>>
+>>>>>>>> 　   Copeのベロシティゲームのワークについて、原田さんにおしえてもらいました。
+>>>>>>>> 　　   ・課題カードは翻訳済み
+>>>>>>>> 　　   ・講師向けのガイドは未翻訳
+>>>>>>>> 　　   ・３時間くらい必要なので、一日のコースだと厳しいんじゃないか
+>>>>>>>>
+>>>>>>>> 　   前回の写真でやっているワークってどんな感じでしたか。
+>>>>>>>> 　　   http://www.ryuzee.com/contents/blog/4115
+>>>>>>>> 　   もし2時間枠くらいでできそうなら、これをやってもらってもいいんじゃないかと思います。内容把握できてなくてすみません。
+>>>>>>>>
+>>>>>>>>
+>>>>>>>> 2011年7月15日19:32 Nishimura Naoto<n-nishimura@esm.co.jp>:
+>>>>>>>>> In<CAPG=6LYZ8NuxcV+VTcxm9vTVp3Mxuqp7jhXCpfFvC97bK=NU3w@mail.gmail.com>,
+>>>>>>>>> Miho Nagase<miholovesq@gmail.com>       wrote:
+>>>>>>>>>
+>>>>>>>>>> さらに、余白があると書き込みできて嬉しいかな。
+>>>>>>>>>
+>>>>>>>>> いいね!!
+>>>>>>>>>
+>>>>>>>
+>>>>>>>
+>>>>>>> --
+>>>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>>>> Agile Coach / Certified Scrum Professional
+>>>>>>> http://www.ryuzee.com
+>>>>>>> http://twitter.com/ryuzee
+>>>>>>> --
+>>>>>>> This message contains confidential information and is intended
+>>>>>>> only for the individual named. If you are not the named addressee
+>>>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>>>
+>>>>>>> --
+>>>>>>> archive->      http://qwik.jp/taoofscrum/1.html
+>>>>>>> ML->      taoofscrum@qwik.jp
+>>>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>> Ryutaro YOSHIBA / Ryuzee
+>>>>> Agile Coach / Certified Scrum Professional
+>>>>> http://www.ryuzee.com
+>>>>> http://twitter.com/ryuzee
+>>>>> --
+>>>>> This message contains confidential information and is intended
+>>>>> only for the individual named. If you are not the named addressee
+>>>>> you should not disseminate, distribute or copy this e-mail.
+>>>>> Please notify the sender immediately by e-mail if you have received
+>>>>> this e-mail by mistake and delete this e-mail from your system.
+>>>>>
+>>>>> --
+>>>>> archive->     http://qwik.jp/taoofscrum/1.html
+>>>>> ML->     taoofscrum@qwik.jp
+>>>>>
+>>>
+>>>
+>>
+>>
+>> --
+>> Ryutaro YOSHIBA / Ryuzee
+>> Agile Coach / Certified Scrum Professional
+>> http://www.ryuzee.com
+>> http://twitter.com/ryuzee
+>> --
+>> This message contains confidential information and is intended
+>> only for the individual named. If you are not the named addressee
+>> you should not disseminate, distribute or copy this e-mail.
+>> Please notify the sender immediately by e-mail if you have received
+>> this e-mail by mistake and delete this e-mail from your system.
+>>
+>> --
+>> archive->  http://qwik.jp/taoofscrum/1.html
+>> ML->  taoofscrum@qwik.jp
+>>
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1310946801)
+ながせです。
+出揃うのが遅くてすみません。
+
+2011年7月18日8:16 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> →了解です。すくなくとも明日はPrivate版なので、資料は僕の方で
+> 　とりまとめて先方にお渡しするようにします。
+>
+> 以下の紙飛行機の件はありがとうございます。
+
+かわぐちさんのメールを見る前に紙ヒコーキのスライド作ってました＞＜
+4回やった気がしたんだけど、全部で3回でしたっけ？
+あのワークって、タイムボックスとスプリントや改善を体感することに加えて
+「制約を外したら品質が悪くなった」とかそういう寓意もありましたよね？
+ワークショップのファシリテーションをする気ではいるんだけど、そのへんの
+みなさんのご意見お聞かせくださいませ。
+
+--
+Miho Nagase
+http://twitter.com/miholovesq
+}}
+{{mail(kawaguti@gmail.com,1310951623)
+かわぐちです。
+
+　すみません、記憶は永瀬さんの方が正しい気がします。
+
+2011年7月18日8:53 Miho Nagase <miholovesq@gmail.com>:
+> ながせです。
+> 出揃うのが遅くてすみません。
+>
+> 2011年7月18日8:16 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>> →了解です。すくなくとも明日はPrivate版なので、資料は僕の方で
+>>　 とりまとめて先方にお渡しするようにします。
+>>
+>> 以下の紙飛行機の件はありがとうございます。
+>
+> かわぐちさんのメールを見る前に紙ヒコーキのスライド作ってました＞＜
+> 4回やった気がしたんだけど、全部で3回でしたっけ？
+> あのワークって、タイムボックスとスプリントや改善を体感することに加えて
+> 「制約を外したら品質が悪くなった」とかそういう寓意もありましたよね？
+> ワークショップのファシリテーションをする気ではいるんだけど、そのへんの
+> みなさんのご意見お聞かせくださいませ。
+>
+> --
+> Miho Nagase
+> http://twitter.com/miholovesq
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(kawaguti@gmail.com,1311027482)
+かわぐちです。
+
+　今日はよろしくおねがいします～。
+　タイムテーブルと、紙ヒコーキの仕様のスライドをマージしました～。
+
+　西村さんは午後から参加できるっていってたな。
+
+2011年7月18日10:13 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> かわぐちです。
+>
+> 　すみません、記憶は永瀬さんの方が正しい気がします。
+>
+> 2011年7月18日8:53 Miho Nagase <miholovesq@gmail.com>:
+>> ながせです。
+>> 出揃うのが遅くてすみません。
+>>
+>> 2011年7月18日8:16 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+>>> →了解です。すくなくとも明日はPrivate版なので、資料は僕の方で
+>>>　 とりまとめて先方にお渡しするようにします。
+>>>
+>>> 以下の紙飛行機の件はありがとうございます。
+>>
+>> かわぐちさんのメールを見る前に紙ヒコーキのスライド作ってました＞＜
+>> 4回やった気がしたんだけど、全部で3回でしたっけ？
+>> あのワークって、タイムボックスとスプリントや改善を体感することに加えて
+>> 「制約を外したら品質が悪くなった」とかそういう寓意もありましたよね？
+>> ワークショップのファシリテーションをする気ではいるんだけど、そのへんの
+>> みなさんのご意見お聞かせくださいませ。
+>>
+>> --
+>> Miho Nagase
+>> http://twitter.com/miholovesq
+>>
+>> --
+>> archive-> http://qwik.jp/taoofscrum/1.html
+>> ML-> taoofscrum@qwik.jp
+>>
+>
+}}
+{{mail(miholovesq@gmail.com,1311029254)
+2011年7月19日7:18 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> 　今日はよろしくおねがいします～。
+> 　タイムテーブルと、紙ヒコーキの仕様のスライドをマージしました～。
+
+はいー
+よろしくおねがいします。
+
+全体的な進行は川口さんにおまかせしたほうがスムーズに行きそうなので、よろしくお願いします。
+いろいろふってください。
+}}
+{{mail(kawaguti@gmail.com,1311753804)
+かわぐちです。
+
+　7/19 の素振りを受けて、ちょっと説明しづらかったところに補足スライドを入れました～。
+　あと紙ヒコーキは重複したので削除しました。
+　　Dropbox/ScrumBootCamp/第２回/20110730_ScrumBootCamp
+
+
+2011年7月19日7:47 Miho Nagase <miholovesq@gmail.com>:
+> 2011年7月19日7:18 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+>>　 今日はよろしくおねがいします～。
+>>　 タイムテーブルと、紙ヒコーキの仕様のスライドをマージしました～。
+>
+> はいー
+> よろしくおねがいします。
+>
+> 全体的な進行は川口さんにおまかせしたほうがスムーズに行きそうなので、よろしくお願いします。
+> いろいろふってください。
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/1.html
+> ML-> taoofscrum@qwik.jp
+>
+}}
+{{mail(miholovesq@gmail.com,1311754479)
+それで思い出したんですが、ryuzee先生、素振りのフィードバックって集まったんでしょうか。
+}}
+{{mail(ryuzee@gmail.com,1311754544)
+う、いますぐt_wadaさんに確認します。
+
+(11/07/27 17:14), Miho Nagase wrote:
+> それで思い出したんですが、ryuzee先生、素振りのフィードバックって集まったんでしょうか。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(ryuzee@gmail.com,1311760327)
+チームがわたわたしてしてしまっているので明日になります。
+ごめんなさいごめんなさい。
+
+(11/07/27 17:15), Ryutaro YOSHIBA wrote:
+> う、いますぐt_wadaさんに確認します。
+> 
+> (11/07/27 17:14), Miho Nagase wrote:
+>> それで思い出したんですが、ryuzee先生、素振りのフィードバックって集まったんでしょうか。
+>>
+> 
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1311762151)
+全然だいじょぶっていうか、むしろ本業優先で！
+}}
+{{mail(miholovesq@gmail.com,1311853120)
+スクラムガイドの特にロールのところがガラリと変わったので、Bootcampの資料も更新しました。
+高江洲さんも言ってたけど、チームに最適な人数が3～9人になったんですねー。
+
+ついでに、紙ヒコーキのワークもオリジナル版にない「制約を増やす」バージョンにしてみました。
+
+Dropboxにいれておいたので誰か見てくれる人がいたら嬉しいです。
+
+# 喉が痛すぎて明日の集いがつらいけど這ってでも行きたい…
+# いずれにしろ大丈夫、土曜日にピントあってますから！
+}}
+{{mail(ryuzee@gmail.com,1311854588)
+川口さん、永瀬さん
+
+すいません。１つ大事なことが・・・。
+
+当日使用する備品の準備ですが、明日買出し可能でしょうか？
+
+使うものは
+・カラーペン（筆記用具持参指示したのでカラーペンいらないかも）
+・ハサミ（６チーム分で６本）
+・付箋紙（６チーム×３束＋講師用＝２０束くらい？）
+・模造紙（１チーム３枚×６チーム＋講師用＝２０枚）
+
+・A4の紙200枚～300枚くらい（紙飛行機＋足し算用）
+・トランプ（僕が持って行きます。プランニングポーカーも）
+
+下の２つは僕が対応したいと思うのですが、上４つ対応いただけますか？
+
+確認よろしくお願いします！
+
+(11/07/28 20:38), Miho Nagase wrote:
+> スクラムガイドの特にロールのところがガラリと変わったので、Bootcampの資料も更新しました。
+> 高江洲さんも言ってたけど、チームに最適な人数が3～9人になったんですねー。
+> 
+> ついでに、紙ヒコーキのワークもオリジナル版にない「制約を増やす」バージョンにしてみました。
+> 
+> Dropboxにいれておいたので誰か見てくれる人がいたら嬉しいです。
+> 
+> # 喉が痛すぎて明日の集いがつらいけど這ってでも行きたい…
+> # いずれにしろ大丈夫、土曜日にピントあってますから！
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1311855165)
+メールするの忘れてました！
+
+2011年7月28日21:02 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> ・カラーペン（筆記用具持参指示したのでカラーペンいらないかも）
+> ・ハサミ（６チーム分で６本）
+> ・付箋紙（６チーム×３束＋講師用＝２０束くらい？）
+> ・模造紙（１チーム３枚×６チーム＋講師用＝２０枚）
+
+これ、以前私が手を上げていたと思うし、明日の夕方は時間があるので、
+カラーペン以外買っていきます。
+# カラーペンいらないっしょ
+スクラム道の備品がどれだけ余ってるかわかんないけど、とりあえず買っとく。
+}}
+{{mail(ryuzee@gmail.com,1311855286)
+ありがとうございます。
+
+参加者の方から実費(たぶん300円)徴収するので
+念のためレシート(領収書じゃなくてOK)貰っておいてくださいまし。
+
+(11/07/28 21:12), Miho Nagase wrote:
+> メールするの忘れてました！
+> 
+> 2011年7月28日21:02 Ryutaro YOSHIBA<ryuzee@gmail.com>:
+>> ・カラーペン（筆記用具持参指示したのでカラーペンいらないかも）
+>> ・ハサミ（６チーム分で６本）
+>> ・付箋紙（６チーム×３束＋講師用＝２０束くらい？）
+>> ・模造紙（１チーム３枚×６チーム＋講師用＝２０枚）
+> 
+> これ、以前私が手を上げていたと思うし、明日の夕方は時間があるので、
+> カラーペン以外買っていきます。
+> # カラーペンいらないっしょ
+> スクラム道の備品がどれだけ余ってるかわかんないけど、とりあえず買っとく。
+> 
+
+
+-- 
+Ryutaro YOSHIBA / Ryuzee
+Agile Coach / Certified Scrum Professional
+http://www.ryuzee.com
+http://twitter.com/ryuzee
+--
+This message contains confidential information and is intended
+only for the individual named. If you are not the named addressee
+you should not disseminate, distribute or copy this e-mail.
+Please notify the sender immediately by e-mail if you have received
+this e-mail by mistake and delete this e-mail from your system.
+}}
+{{mail(miholovesq@gmail.com,1311855835)
+2011年7月28日21:14 Ryutaro YOSHIBA <ryuzee@gmail.com>:
+> 参加者の方から実費(たぶん300円)徴収するので
+> 念のためレシート(領収書じゃなくてOK)貰っておいてくださいまし。
+
+がってん
+}}
+{{mail(qooh0.info@gmail.com,1311905214)
+海江田です。
+
+ScrumBC に参戦するのは午前中だけになります。
+懇親会は、出席します。
+
+他の勉強会(同じく品川 MS) の予定が入っていました(ぉぃ
+午後はそちらに参戦します。
+
+まぁ、それ以前に仕事ががが…。
+
+いろいろと申し訳ないです。
+
+--
+kaieda
+}}
+{{mail(qooh0.info@gmail.com,1311905507)
+海江田です。
+
+ScrumBC に参戦するのは午前中だけになります。
+懇親会は、出席します。
+
+他の勉強会(同じく品川 MS) の予定が入っていました(ぉぃ
+午後はそちらに参戦します。
+
+まぁ、それ以前に仕事ががが…。
+
+いろいろと申し訳ないです。
+
+--
+kaieda
+}}

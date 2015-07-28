@@ -1,0 +1,56 @@
+* StaffMeetup20130925
+{{mail(nishimura@nawo.to,1380302796)
+ログ的ななにかww
+
+- Scrum Boot Camp in グリーはスレで書いた方向で進めまーす
+- Regional Scrum Gathering Tokyo から協賛コミュニティとあとワークショップ??の依頼が来ました。そのうち連絡が来るはず!!
+- ことしはExpoどうすんの? -> 道場やってないし。POの気力と体力がががwww -> 温泉にしようぜ(or ワークショッパソン)
+- Agile Samurai Base Camp
+って大規模セミナーがあるよ。そのサポーターを募集してるぜよ。サポーターが何をすると良いかのアイデアも絶賛募集中ww くわしくは
+http://www.agilesamuraibasecamp.org/2133221147123751239012367123841237312356.html
+- 道場でやったネタを再度、今の状況と経験でやり直してみたら? -> 名付けて Re:スクラム道場 -> PO、その名前はもうちょっと考えようぜ...
+
+ここまでが前説。本編のダイジェストは以下。
+
+- スクラム道で部活動やろ。候補はダーツ部、ゲーム部、インディーゲーム作ろう部
+- 温泉はたくぼん家で決定やろww
+- あとなんだっけww?
+}}
+{{mail(irohiroki@gmail.com,1380419602)
+Agile Samurai Base Camp サポーターズに登録した!!!!!
+
+}}
+{{mail(nishimura@nawo.to,1380478681)
+> Agile Samurai Base Camp サポーターズに登録した!!!!!
+
+ありがとー!!
+}}
+{{mail(takaesu0@gmail.com,1380506601)
+じゃあ一般参加で行ってみようかな
+}}
+{{mail(changesworlds@gmail.com,1380688468)
+Agile Samurai Base Camp サポーターズに登録しました。
+
+2013年9月30日 3:17 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>> Agile Samurai Base Camp サポーターズに登録した!!!!!
+>
+> ありがとー!!
+}}
+{{mail(masashi.arino@gmail.com,1380689430)
+ありがとうございます??
+
+iPhoneから送信
+
+2013/10/02 13:34、Takashi Takebayashi <changesworlds@gmail.com> のメッセージ:
+
+> Agile Samurai Base Camp サポーターズに登録しました。
+> 
+> 2013年9月30日 3:17 Nishimura Naoto <n-nishimura@esm.co.jp>:
+>>> Agile Samurai Base Camp サポーターズに登録した!!!!!
+>> 
+>> ありがとー!!
+> 
+> -- 
+> archive-> http://qwik.jp/taoofscrum/StaffMeetup20130925.html 
+> ML-> taoofscrum@qwik.jp
+}}

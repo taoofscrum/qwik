@@ -1,0 +1,544 @@
+* Submission for Agile 2013 with Origami workshop
+{{mail(takahashi.kazuyoshi@gmail.com,1358756002)
+前にちょっと話題になってたのですが、サブミッションの期限が2/1になってます。
+制限時間75分と折り紙としては厳しめですけど。
+
+どなたの著作物か僕はわからないので、スクラム道のスタッフから申し込むのが妥当かどうかもわからないのですが、みんなの温度感はどうですか？
+}}
+{{mail(kimura.kanataku@gmail.com,1358756445)
+木村です。
+
+申し込もうと思ってましたが、時間的に厳しいなぁと…
+
+
+On Monday, January 21, 2013, Kaz Takahashi wrote:
+
+> 前にちょっと話題になってたのですが、サブミッションの期限が2/1になってます。
+> 制限時間75分と折り紙としては厳しめですけど。
+>
+> どなたの著作物か僕はわからないので、スクラム道のスタッフから申し込むのが妥当かどうかもわからないのですが、みんなの温度感はどうですか？
+>
+> --
+> archive-> http://qwik.jp/taoofscrum/54.html
+> ML-> taoofscrum@qwik.jp <javascript:;>
+>
+}}
+{{mail(imagire@gmail.com,1358756610)
+折り紙を使ってワークは第二次ワークショップ大戦の岩井さんからリスペクトですが、動物園を課題とするのはオリジナルなので、道から出しても問題ないかと思います。
+
+というのは死亡フラグですかねぇ
+}}
+{{mail(harada.kiro@gmail.com,1358756766)
+とりあえずつっこんどいて、通ったら考えようぜ。
+＃アジャイルな態度ではありません :(
+
+
+
+--
+原田騎郎
+
+
+
+2013年1月21日 17:23 imagire takashi <imagire@gmail.com>:
+
+>
+> 折り紙を使ってワークは第二次ワークショップ大戦の岩井さんからリスペクトですが、動物園を課題とするのはオリジナルなので、道から出しても問題ないかと思います。
+>
+> というのは死亡フラグですかねぇ
+>
+}}
+{{mail(imagire@gmail.com,1358789296)
+ひとまず日本語で作成中。
+
+コメントありましたら、よろしくお願いします。
+
+特に、下の情報募集中です
+・他に登壇希望者（行く人）いますか？
+・他に投稿している人いますか？
+・AbstractとInformation for Review Teamの違いを誰か教えて
+
+----
+Title: Origami Zoo
+
+Co-Presenter: どなたかいますか？
+
+Featured Participants: 他に投稿している人いますか？
+
+Track: People-Learning
+
+Keywords: Scrum, Tutorial
+
+Abstract:
+本セッションはスクラムのスプリントをひと通り実践し、実際のプロジェクトで起きる問題・現象を体感してもらうためのセッションである。
+本セッションの特徴は以下にある。
+・コンピュータ・ソフトウェア等の業務分野によらない誰でも体験可能なscrumプロジェクトの模擬実践
+・team member と produce owner の両方の実践を行うことができる
+・楽しい！可愛い折り紙で作られた動物たちが成果であり、幅広い人達にscrumの基本を学んでもらうことができる
+
+ワークショップでは、次の課題に対して折り紙で動物を折った成果物を作成することで、スクラムを体感する。
+「このたび、Mammoth Cave National Parkに動物園が作られることになりました。
+あなた達は、動物園を計画するプロジェクトに参画する１つのチームです。
+偉い人からは、次回のミーティングで折り紙で作った動物園のプロトタイプを披露するように求められました。
+あなたのスクラムチームはプロジェクトにふさわしいプロトタイプを制作することができるでしょうか？」
+
+本ワークショップは次のステップで構成される.
+短い２スプリントを行うことで、スクラムの一通りの実践を行い、改善を体感することが可能となる。
+*sprint1
+-プロダクトバックログの作成
+-ストーリーポイントの見積もり
+-タスク分解
+-implimentation
+-sprint review
+-retrospective
+*sprint2
+-backlog glooming
+-sprint pranning part 1
+-sprint pranning part 2
+-implimentation
+-sprint review
+-retrospective
+
+Prerequisite Knowledge:
+本セッションでは、scrumの概要は知っているものとしてワークショップを実施する。
+
+Information for Review Team(Details about how you will run your session
+which will be considered by the review committee - such as explanation of
+timings and exercises used.):
+模造紙の上に、クレヨンで池や柵を書きながら、折り紙で折った動物を配置していく。
+何を配置するのかということは、POの判断に任されることになるので、全てのチームが異なる動物を配した動物園を作成していく。
+最初のプロダクトバックログ作成では、全員がPOチームとしてアイデアを出すが、sprint planning の段階で、
+POとチームに分かれ、他のチームの動物園を作成することで、POとチームメンバーの両方の体験を行うこととなる。
+
+Presentation History:
+本セッションは、CEDEC 2012(Computer Entertainment Developers Confernce)において1day
+tutorialとして実施した。
+また、XP祭り2012において、90分のワークショップとして開催している。（共にJapanease）
+http://cedec.cesa.or.jp/2012/program/BM/C12_P0034.html
+http://xpjug.com/xp2012-contents-d3/
+}}
+{{mail(takaesu0@gmail.com,1358830479)
+高江洲です。
+
+そういや全然進めてないねーという話がありましたね。
+
+> ・他に登壇希望者（行く人）いますか？
+
+はーい！
+
+
+2013年1月22日 2:28 imagire takashi <imagire@gmail.com>:
+> ひとまず日本語で作成中。
+>
+> コメントありましたら、よろしくお願いします。
+>
+> 特に、下の情報募集中です
+> ・他に登壇希望者（行く人）いますか？
+> ・他に投稿している人いますか？
+> ・AbstractとInformation for Review Teamの違いを誰か教えて
+>
+> ----
+> Title: Origami Zoo
+>
+> Co-Presenter: どなたかいますか？
+>
+> Featured Participants: 他に投稿している人いますか？
+>
+> Track: People-Learning
+>
+> Keywords: Scrum, Tutorial
+>
+> Abstract:
+> 本セッションはスクラムのスプリントをひと通り実践し、実際のプロジェクトで起きる問題・現象を体感してもらうためのセッションである。
+> 本セッションの特徴は以下にある。
+> ・コンピュータ・ソフトウェア等の業務分野によらない誰でも体験可能なscrumプロジェクトの模擬実践
+> ・team member と produce owner の両方の実践を行うことができる
+> ・楽しい！可愛い折り紙で作られた動物たちが成果であり、幅広い人達にscrumの基本を学んでもらうことができる
+>
+> ワークショップでは、次の課題に対して折り紙で動物を折った成果物を作成することで、スクラムを体感する。
+> 「このたび、Mammoth Cave National Parkに動物園が作られることになりました。
+> あなた達は、動物園を計画するプロジェクトに参画する１つのチームです。
+> 偉い人からは、次回のミーティングで折り紙で作った動物園のプロトタイプを披露するように求められました。
+> あなたのスクラムチームはプロジェクトにふさわしいプロトタイプを制作することができるでしょうか？」
+>
+> 本ワークショップは次のステップで構成される.
+> 短い２スプリントを行うことで、スクラムの一通りの実践を行い、改善を体感することが可能となる。
+> *sprint1
+> -プロダクトバックログの作成
+> -ストーリーポイントの見積もり
+> -タスク分解
+> -implimentation
+> -sprint review
+> -retrospective
+> *sprint2
+> -backlog glooming
+> -sprint pranning part 1
+> -sprint pranning part 2
+> -implimentation
+> -sprint review
+> -retrospective
+>
+> Prerequisite Knowledge:
+> 本セッションでは、scrumの概要は知っているものとしてワークショップを実施する。
+>
+> Information for Review Team(Details about how you will run your session
+> which will be considered by the review committee - such as explanation of
+> timings and exercises used.):
+> 模造紙の上に、クレヨンで池や柵を書きながら、折り紙で折った動物を配置していく。
+> 何を配置するのかということは、POの判断に任されることになるので、全てのチームが異なる動物を配した動物園を作成していく。
+> 最初のプロダクトバックログ作成では、全員がPOチームとしてアイデアを出すが、sprint planning の段階で、
+> POとチームに分かれ、他のチームの動物園を作成することで、POとチームメンバーの両方の体験を行うこととなる。
+>
+> Presentation History:
+> 本セッションは、CEDEC 2012(Computer Entertainment Developers Confernce)において1day
+> tutorialとして実施した。
+> また、XP祭り2012において、90分のワークショップとして開催している。（共にJapanease）
+> http://cedec.cesa.or.jp/2012/program/BM/C12_P0034.html
+> http://xpjug.com/xp2012-contents-d3/
+}}
+{{mail(imagire@gmail.com,1358832302)
+imagireです。
+
+参加できそうだったり、登壇してくれそうな方は、アカウント登録だけお願いします。
+}}
+{{mail(imagire@gmail.com,1358873490)
+つたない英語で申し込んでみたぜ！
+修正よろ！
+
+アカウント登録されないと登壇者登録できないので、希望者の方はよろしくお願いします。
+
+----------------
+Presenter: takashi imagire
+Track: Collaboration Culture & Teams
+Session Type: Workshop
+Duration: 75 minutes
+Keywords: Scrum, Tutorial
+##### Abstract:
+This workshop can experience the problems and the phenomena in actual
+projects, by performing a series of Scrum practices.
+
+What kind of workshop do you hold when you introduce the Scrum first? Do
+you hold a ideason of web services? Do you hold a workshop to create an
+application for smartphones? However, such a workshop would limit the
+participants by the domain knowledge.
+
+If there is a workshop as which anyone can participate and a participant
+can feel the essence of scrum, you will also tend to show the workshop to
+other persons. Yes, also your family.
+
+We solve this problem to experience participants a project to create a zoo
+with origami animals. The participants will lead to a successful project by
+writing ponds and fences with crayons on a large paper, place the animal
+made of origami. A tutorial that is executable in a short time and matches
+the Scrum framework can be achieved by making origami animals to correspond
+to story items.
+
+More than anything, funny and results are cute!
+
+##### Information for Review Team:
+Get the challenge to participants following:
+
+Construction of the zoo is currently scheduled in Mammoth Cave National
+Park. You guys are the one team to participate to plan the zoo. The
+organizers are asked to demonstrate a prototype of the zoo with origami
+animals at the next meeting. Will your Scrum team be able to produce a
+prototype suitable for the project?
+
+This workshop consists of the following steps.
+
+Sprint 1:
+* Product Backlog Creation
+* Estimate the Story Points of Backlog Items
+* Brakedown Backlog Items to Tasks
+* Development
+* Sprint Review
+* Retrospective
+
+Sprint 2:
+* Backlog Grooming
+* Sprint Planning Part 1
+* Sprint Planning Part 2
+* Development
+* Sprint Review
+* Retrospective
+
+By performing two short sprints, all practices of scrum are performed and
+it becomes possible to kaizen.
+
+Since Product Owner struggle to differentiate their zoo, the zoos with
+different animals with other teams will be created.
+
+In this workshop, although all the members propose ideas at the product
+backlog creation as a Product Owner team, it is divided into Product Owner
+and team menbers in the estimation of the story points, and members develop
+a zoo of other teams. This experiences both Product Owner and Team Member.
+
+You can check a result and a review process by
+http://www.manaslink.com/wp-content/uploads/IMAG0069.jpg
+
+##### Prerequisite Knowledge:
+Basics understanding of typical Scrum practices and roles.
+
+##### Learning Outcomes:
+Participants will be able to:
+- Experience Scrum without the knowledge of the business areas, such as
+computer software development
+- Experience of both the Product Owner and the Scrum Team Member
+- Experience the problems that occur in real scrum project
+- Enjoy! Get cute origami animals as the work product
+
+##### Presentation History:
+I have presented this workshop in a couple of conferences as mentioned
+below (both sessions were held in Japanease):
+* CEDEC 2012(Computer Entertainment Developers Confernce) as a course of
+one day workshop in 20/8/2012.
+* XP festival 2012 as a 90 minutes workshop in 15/9/2012.
+}}
+{{mail(kimura.kanataku@gmail.com,1358873945)
+素晴らしい！！
+
+アカウント登録って、アジャイルアライアンスにって事ですか？
+
+
+2013/1/23 imagire takashi <imagire@gmail.com>:
+> つたない英語で申し込んでみたぜ！
+> 修正よろ！
+>
+> アカウント登録されないと登壇者登録できないので、希望者の方はよろしくお願いします。
+>
+> ----------------
+> Presenter: takashi imagire
+> Track: Collaboration Culture & Teams
+> Session Type: Workshop
+> Duration: 75 minutes
+> Keywords: Scrum, Tutorial
+> ##### Abstract:
+> This workshop can experience the problems and the phenomena in actual
+> projects, by performing a series of Scrum practices.
+>
+> What kind of workshop do you hold when you introduce the Scrum first? Do you
+> hold a ideason of web services? Do you hold a workshop to create an
+> application for smartphones? However, such a workshop would limit the
+> participants by the domain knowledge.
+>
+> If there is a workshop as which anyone can participate and a participant can
+> feel the essence of scrum, you will also tend to show the workshop to other
+> persons. Yes, also your family.
+>
+> We solve this problem to experience participants a project to create a zoo
+> with origami animals. The participants will lead to a successful project by
+> writing ponds and fences with crayons on a large paper, place the animal
+> made of origami. A tutorial that is executable in a short time and matches
+> the Scrum framework can be achieved by making origami animals to correspond
+> to story items.
+>
+> More than anything, funny and results are cute!
+>
+> ##### Information for Review Team:
+> Get the challenge to participants following:
+>
+> Construction of the zoo is currently scheduled in Mammoth Cave National
+> Park. You guys are the one team to participate to plan the zoo. The
+> organizers are asked to demonstrate a prototype of the zoo with origami
+> animals at the next meeting. Will your Scrum team be able to produce a
+> prototype suitable for the project?
+>
+> This workshop consists of the following steps.
+>
+> Sprint 1:
+> * Product Backlog Creation
+> * Estimate the Story Points of Backlog Items
+> * Brakedown Backlog Items to Tasks
+> * Development
+> * Sprint Review
+> * Retrospective
+>
+> Sprint 2:
+> * Backlog Grooming
+> * Sprint Planning Part 1
+> * Sprint Planning Part 2
+> * Development
+> * Sprint Review
+> * Retrospective
+>
+> By performing two short sprints, all practices of scrum are performed and it
+> becomes possible to kaizen.
+>
+> Since Product Owner struggle to differentiate their zoo, the zoos with
+> different animals with other teams will be created.
+>
+> In this workshop, although all the members propose ideas at the product
+> backlog creation as a Product Owner team, it is divided into Product Owner
+> and team menbers in the estimation of the story points, and members develop
+> a zoo of other teams. This experiences both Product Owner and Team Member.
+>
+> You can check a result and a review process by
+> http://www.manaslink.com/wp-content/uploads/IMAG0069.jpg
+>
+> ##### Prerequisite Knowledge:
+> Basics understanding of typical Scrum practices and roles.
+>
+> ##### Learning Outcomes:
+> Participants will be able to:
+> - Experience Scrum without the knowledge of the business areas, such as
+> computer software development
+> - Experience of both the Product Owner and the Scrum Team Member
+> - Experience the problems that occur in real scrum project
+> - Enjoy! Get cute origami animals as the work product
+>
+> ##### Presentation History:
+> I have presented this workshop in a couple of conferences as mentioned below
+> (both sessions were held in Japanease):
+> * CEDEC 2012(Computer Entertainment Developers Confernce) as a course of one
+> day workshop in 20/8/2012.
+> * XP festival 2012 as a 90 minutes workshop in 15/9/2012.
+}}
+{{mail(imagire@gmail.com,1358874431)
+アジャイルアライアンスのsubmissionページの登録になります。
+http://submissions.agilealliance.org/
+}}
+{{mail(kawaguti@gmail.com,1358890891)
+かわぐちです。
+
+　すばらしいー。
+　気づいたことをコメントしておきますー。
+
+　折り紙の説明がない。折り紙で動物園を作るという説明が足りてなさそう。
+　ORIGAMI : Paper craft / folding papers
+   という説明があるといいかなと。きっと探すと折り紙の説明があるとおもいます。
+　オリジナルさを出すために日本を強調するとか。
+
+　でも難しくないから誰でもその場で簡単に覚えられるよ！って表現もあるといいかも。
+　海外の人が真似してできるようになるのが目的だから、必要な道具は日本でなくとも簡単に手に入るかどうかも表現すべきポイントかもですね。
+}}
+{{mail(uedayo@gmail.com,1358897663)
+うえだです。
+
+> ・他に登壇希望者（行く人）いますか？
+はい！
+サブミッション登録進めます。
+}}
+{{mail(uedayo@gmail.com,1358897726)
+うえだです。
+度々すみません。
+
+＞サブミッション登録
+アカウント登録の誤りです。
+失礼しました。
+}}
+{{mail(modalsoul0215@gmail.com,1358899423)
+いまえです
+
+> ・他に登壇希望者（行く人）いますか？
+わたしも行く予定です
+}}
+{{mail(kimura.kanataku@gmail.com,1358899820)
+木村です。
+アカウント登録理解しました。
+
+稟議が通ったら行きます。
+こちらも参加したいです。
+
+自分が良くやる折り紙での相対見積もりワークのサブミッションを出そうと思ってます。
+
+または箱庭
+}}
+{{mail(imagire@gmail.com,1358907777)
+Imagireです。
+
+川口さん、フィードバックありがとうございました！
+盛り込ませていただきます。
+
+そして、さっそくレビュアーからコメントが来てたので、追記しましたよ
+（対象者がわからないので、はっきりさせろとのことでした）。
+
+Co-Presenter は一人らしいので、最終的には誰かに決めさせてください
+（少なくともワークショップに来ている人で）
+
+それにしても、木村さんにも折り紙のワーク出されるとかぶっちゃうじゃないですか。。。
+}}
+{{mail(kimura.kanataku@gmail.com,1358908277)
+imagireさん
+
+木村です。
+
+アカウント登録完了しました。
+
+> それにしても、木村さんにも折り紙のワーク出されるとかぶっちゃうじゃないですか。。。
+
+数撃ちゃ当たる方式で^^
+
+
+似た感じのサブミッションも出ていますね。
+https://submissions.agilealliance.org/sessions/284
+}}
+{{mail(imagire@gmail.com,1358908450)
+あら、今年は折り紙ブーム到来？
+}}
+{{mail(takaesu0@gmail.com,1358916606)
+高江洲です。
+
+とりあえずアカウント作ったんだけど何すれば？
+}}
+{{mail(imagire@gmail.com,1358916903)
+Imagireです。
+
+アカウント作った後は、submissionの編集で追記することになります。
+高江洲さんに設定してみました。
+}}
+{{mail(takaesu0@gmail.com,1358917149)
+> アカウント作った後は、submissionの編集で追記することになります。
+> 高江洲さんに設定してみました。
+
+どもです。
+
+確認しましたー。
+}}
+{{mail(fullvirtue@gmail.com,1358932446)
+To: 今給黎さん、高江洲さん
+
+アカウントを作りましたので、追記頂いてもよろしいでしょうか。
+よろしくお願い致します。
+}}
+{{mail(imagire@gmail.com,1358933594)
+Co-Presenter は、一人しかダメなようなので、考えさせてください。
+}}
+{{mail(kimura.kanataku@gmail.com,1358934649)
+なんか、みんな参加する流れ？ (^^)
+すごいな
+}}
+{{mail(nishimura@nawo.to,1358951136)
+おぉ、みんなすごいww
+俺も行けるようにすっかのー。
+}}
+{{mail(sarastier@gmail.com,1359685937)
+Submission登録は済んでるんだけど、
+8月頭は家庭の事情でアウトだのー・・・
+}}
+{{mail(harada.kiro@gmail.com,1359686351)
+Submit したった。
+Featured に入れといてもらえれば手伝い(邪魔しに)行きますよ :)
+
+はらだきろう
+
+--
+原田騎郎
+
+
+
+2013年2月1日 11:32 Ken Matsumoto <sarastier@gmail.com>:
+
+> Submission登録は済んでるんだけど、
+> 8月頭は家庭の事情でアウトだのー・・・
+>
+>
+}}
+{{mail(takahashi.kazuyoshi@gmail.com,1359699051)
+投げっぱなしでごめんなさい。
+拾ってくださってうれしいです。
+
+というわけで僕も別のテーマでSubmissionしてみました。
+
+https://submissions.agilealliance.org/sessions/861
+
+予算も通るとうれしいなー
+}}
